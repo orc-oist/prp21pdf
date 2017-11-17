@@ -37,3 +37,9 @@ DAYOFWEEK=$(date +"%u")
 if [ "${DAYOFWEEK}" -eq 3 ];  
 	then   cp -r www.oist.jp $(date +%F-%T)_www.oist.jp;
 fi
+
+
+#commint to github. ssh keys were generated before for unnatended commit.
+git add .
+git commit -m "scheduled (cron) commit at 3am"
+git push origin master
