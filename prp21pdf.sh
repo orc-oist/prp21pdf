@@ -13,7 +13,7 @@ cd www.oist.jp/policy-library/
 grep -Phor '(?<=href=")[^"]*' *.html | grep pdf | grep -i 'public/ch'| sort > pdfslist_new.txt
 
 # collect the pdf files
-wget -i pdfslist_new.txt
+wget -N -i pdfslist_new.txt
 
 
 # preprocessing preparacion del listado de ficheros pdfs para pdfunite
