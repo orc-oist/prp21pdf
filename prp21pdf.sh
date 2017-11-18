@@ -40,6 +40,10 @@ fi
 
 
 #commint to github. ssh keys were generated before for unnatended commit.
+#however, a cron job need these commands before pushing
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/orc-oist-github
+#git stuff
 git add .
 git commit -m "scheduled (cron) commit at 3am"
 git push origin master
