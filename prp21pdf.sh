@@ -12,12 +12,13 @@ cd www.oist.jp/policy-library/
 #regexp collecting all links pointing to the pdfs and storing them as list in pdflist_new.txt
 grep -Phor '(?<=href=")[^"]*' *.html | grep pdf | grep -i 'public/ch'| sort > pdfslist_new.txt
 
+# remove old pdfs from the list
+rm $(<pdfsnamefilelist.txt)
+
 # collect the pdf files
 wget -N -i pdfslist_new.txt
 
-
 # preprocessing list of pdf files before pdfunite
-
 # replace blank spaces in the filenames by big dash 
 for f in *\ *; do mv "$f" "${f// /_}"; done
 
@@ -34,6 +35,8 @@ echo -en "cover.pdf\n$(cat pdfsnamefilelist.txt)"  > pdfsnamefilelist.txt
 # merging sorted pdfs
 pdfunite $(cat pdfsnamefilelist.txt) fullprp.pdf
 
+# convirtiendo todo el fullprp.pdf en fullprp.txt
+pdftotext fullprp.pdf
 
 # take snapshot apart if wednesday
 cd ~/Desktop/prp21pdf
