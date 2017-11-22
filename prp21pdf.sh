@@ -54,6 +54,6 @@ fi
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/orc-oist-github
 #git stuff
-git add .
+git add --all
 git commit -m "scheduled (cron) commit at 3am"
 git push origin master
