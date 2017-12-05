@@ -16,7 +16,7 @@ ch15_name-use-endorsements-logo-and-trademarks_20170413_en_cl.pdf
 ch16_external-and-internal-communications-&-public-relations_20170901_en_cl.pdf
 ch17_information-technology-&-security_20170816_en_cl.pdf
 ch18_Telecommunications-Services-and-Devices_20170816_en_cl.pdf
-ch19_university-events_en_20160901_cl.pdf
+ch19_university-events_en_20171110_cl.pdf
 ch20_health_and_welness_program_20170901_en_cl.pdf
 ch21_use-of-university-resources_20170901_en_cl.pdf
 ch22_avoiding_conflicts_of_interest_&_commitment_20170901_en_cl.pdf

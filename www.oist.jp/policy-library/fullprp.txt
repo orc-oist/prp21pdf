@@ -12557,9 +12557,9 @@ organize international conferences, workshops, seminars and courses (collectivel
 University mission [link: 1.2]. The University also wishes to be a friendly,
 welcoming location that supports local communities, staff, students, family
 members, and visitors through a variety of functions and activities, including, but
-not limited to, meetings, artistic activities, public lectures, conferences, workshops,
-concerts, and cultural clubs. Collectively, Academic Events and the other activities
-dealt with in this chapter will be referred to as “Events.”
+not limited to, meetings, artistic activities, public lectures, conferences,
+workshops, concerts, and cultural clubs. Collectively, Academic Events and the
+other activities dealt with in this chapter will be referred to as “Events.”
 NOTE: This Chapter does not deal with permanent or semi-permanent allocation
 of teaching space (rooms, lecture halls, and the like) for courses, classes, and
 teaching as part of the Graduate School curriculum, nor does it address
@@ -12580,7 +12580,7 @@ members of the public, please see Public Use of Common Space [link
 19.3.2.4] in this chapter.
 19.3.2 Conferences, Workshops, Seminars, Exhibits, Events
 
-ch19_university-events_20160901_en_cl
+ch19_university-events_en_20171110_cl
 
 19.3.2.1 Academic Events:
 In January of each year, applications must be submitted to the
@@ -12600,7 +12600,7 @@ variations.
 19.3.2.1.1 The Workshop Committee reviews the applications and
 makes recommendations to the President. Incomplete applications
 will be returned without review.
- Applications will be evaluated according to the scientific
+• Applications will be evaluated according to the scientific
 merits of the proposed Academic Event and the costs and
 benefits to the University of hosting it.
 o A budget must be provided in accordance with the
@@ -12611,22 +12611,22 @@ this fact must be stated in the original application.
 o Funding awarded by the Workshop Committee may
 not be supplemented from the budgets of Research
 Units.
- Criteria for student participation, selection and financial
+• Criteria for student participation, selection and financial
 support should be detailed.
- Applicants must provide an indicative list of names and
+• Applicants must provide an indicative list of names and
 affiliations of the proposed speakers.
- The Workshop Committee will review applications submitted
+• The Workshop Committee will review applications submitted
 outside the closing dates at its next meeting.
 19.3.2.1.2 Academic events must be coordinated between the Unit
 that proposes the event (and its program, content, speakers) and
 with the University’s Conference and Workshop Section in the
 
-ch19_university-events_20160901_en_cl
+ch19_university-events_en_20171110_cl
 
 Communication and Public Relations Division, which is responsible
 for the logistics. Questions about the details of the application
-process may be referred to theVice President for Communication and
-Public Relations .
+process may be referred to the Vice President for Communication
+and Public Relations .
 19.3.2.1.3 Logistical support for travel, accommodation and facilities,
 websites, etc. will be provided by the University’s Conference and
 Workshop Section. Preparation and distribution of meeting
@@ -12637,9 +12637,10 @@ running of Academic Events (including travel for guests and other
 hospitality) must be approved by the office of the Vice President for
 Financial Management.
 19.3.2.2 University Non-Academic Events
-Events such as Open Campus, Inaugurations, Public Lectures, Concerts,
-and Exhibitions are organized with guidance from the office of the Vice
-President for Communication and Public Relations [link: 16].
+Events such as Open Campus, Inaugurations, Public Lectures,
+Concerts, and Exhibitions are organized with guidance from the office
+of the Vice President for Communication and Public Relations [link:
+16].
 19.3.2.2.1 The Colloquium Committee is responsible for establishing
 an annual program of colloquia that would normally be scientific in
 nature but not necessarily directly relevant to the research activities
@@ -12657,11 +12658,11 @@ commercial enterprises. Although External Events need not be directly
 relevant to the scientific or educational programs of the University,
 they should be consistent with the University’s goals of fostering
 outstanding international research in science and technology,
-encouraging multidisciplinary research, training students and young
 
-ch19_university-events_20160901_en_cl
+ch19_university-events_en_20171110_cl
 
-scientists, or fostering self-sustaining development in Okinawa.
+encouraging multidisciplinary research, training students and young
+scientists, or fostering self-sustaining development in Okinawa.
 Additional details may be obtained through the office of the Vice
 President for Communication and Public Relations [link: 2.4.5].
 19.3.2.3.1 Applications for use of University facilities must be
@@ -12687,17 +12688,18 @@ reservation.
 19.3.3 Catering and Other Special Services
 Any disbursements associated with catering and running of Conferences,
 Workshops and Courses (including travel for guests and other hospitality)
-must contact the Procurement Section [link: 28] of the office of the Vice
-President for Financial Management [link: 2.4.5].
+must contact either the Procurement Section [link: 28] or Travel Expense
+Team of Accounting Section [link: 29] in the office of the Vice President for
+Financial Management, depending on the contents [link: 2.4.5].
 19.3.3.1 Catering
 The University will enter into an annual contract based on cost per
 meal with an outside caterer to supply food and beverage during
-Events. This contract however is not exclusive and conference
+
+ch19_university-events_en_20171110_cl
+
+Events. This contract however is not exclusive and conference
 organizers are free to choose different caterers.
-
-ch19_university-events_20160901_en_cl
-
-19.3.3.2 Accommodations
+19.3.3.2 Accommodations
 An annual contract based on cost per room will be entered into with a
 local hotel to provide accommodation during Events. This contract
 however is not exclusive and conference organizers are free to choose
@@ -12727,23 +12729,24 @@ of venues – conflict with construction or similar activity – security issues
 with the office of the Vice President for Communications and Public Relations.
 The Vice President for Communications and Public Relations is authorized to
 determine, on a case-by-case basis, whether requested use of areas other than
-Common Spaces for a non-University purpose may be permitted.
+
+ch19_university-events_en_20171110_cl
+
+Common Spaces for a non-University purpose may be permitted.
 19.5 Procedures
-
-ch19_university-events_20160901_en_cl
-
-19.5.1 Proposals for academic conferences, workshops and courses are
+19.5.1 Proposals for academic conferences, workshops and courses are
 called for in January each year for events starting after April of the following
 year. Contact the Workshop Committee; details of how to submit an
 application to the Workshop Committee may be obtained from the office of
-theVice President for Communication and Public Relations .
+the Vice President for Communication and Public Relations.
 19.5.2 For logistical support for travel, accommodation, facilities, and
 websites associated with conferences, contact the University Conference
 and Workshop Section [link: 2.5].
 19.5.3 Expenditures and disbursements related to the Event, including
-those for travel and hospitality, must be processed through the
-Procurement Section [link: 28] in the office of the Vice President for
-Financial Management
+those for travel and hospitality, must be processed through either the
+Procurement Section [link: 28] or Travel Expense Team of Accounting
+Section [link: 29] in the office of the Vice President for Financial
+Management, depending on the contents.
 19.5.4 Events such as Open Campus, Inaugurations, Groundbreaking
 Ceremonies, Public Lectures, Concerts, and Exhibitions are organized with
 guidance from the office of the Vice President for Communication and
@@ -12758,7 +12761,7 @@ Community Relations Section Leader,
 community-relations@oist.jp
 19.8 Definitions
 
-ch19_university-events_20160901_en_cl
+ch19_university-events_en_20171110_cl
 
 OIST Graduate University
 Policies, Rules and Procedures
