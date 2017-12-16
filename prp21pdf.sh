@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# prp21pdf is a bash script to collect all prp pdfs in only one pdf
+# by E-J.J.P.
 #run the script inside the local github repository folder*
 cd ~/Desktop/prp21pdf
 
