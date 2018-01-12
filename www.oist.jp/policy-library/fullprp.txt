@@ -7511,7 +7511,7 @@ acquisition and procurement of construction are set out in Chapter 26, Finance
 & Accounting [link: 26] and in Chapter 28, Procurement [link: 28], while
 procedures relating to the allocation of space and use of laboratory equipment are
 1
-ch10_land-buildings-and-facilities_en_20171006_cl
+ch10_land-buildings-and-facilities_en_20180115 cl
 
 set out in Chapters 19, University Events [link: 19] and 21, Use of University
 Resources [link: 21].
@@ -7584,7 +7584,7 @@ c.
 If there is trouble or accident, ask OIST staff to call
 Security Center immediately.
 2
-ch10_land-buildings-and-facilities_en_20171006_cl
+ch10_land-buildings-and-facilities_en_20180115 cl
 
 10.2
 
@@ -7640,7 +7640,7 @@ the Japanese government; therefore the University complies with
 Japanese public works procurement policies for all nationally funded
 construction and related works above defined values (Chapter 28)[link:
 3
-ch10_land-buildings-and-facilities_en_20171006_cl
+ch10_land-buildings-and-facilities_en_20180115 cl
 
 28]. At the same time, the University aims to achieve the most rational
 and cost-effective construction procurement possible, so every effort
@@ -7677,7 +7677,7 @@ SPC and University with respect to the management, operation and
 maintenance of the Campus Village are complex, and the Project
 Contract should be referred to when any activity by the University that
 4
-ch10_land-buildings-and-facilities_en_20171006_cl
+ch10_land-buildings-and-facilities_en_20180115 cl
 
 impinges on the Campus Village is contemplated. The rules and
 procedures related to utilization of the Village by University personnel
@@ -7724,7 +7724,7 @@ Executives, and staff; second – authorized vendors & contractors; third
 – OIST family members and the general public.
 
 5
-ch10_land-buildings-and-facilities_en_20171006_cl
+ch10_land-buildings-and-facilities_en_20180115 cl
 
 10.3.3.1 Although the campus grounds are in principle open to
 the general public, access to the Onna Campus buildings is
@@ -7760,7 +7760,7 @@ by the Lab 1 loading dock, and will then be given an
 armband and Security card with limited access.
 
 6
-ch10_land-buildings-and-facilities_en_20171006_cl
+ch10_land-buildings-and-facilities_en_20180115 cl
 
 2.
 
@@ -7810,7 +7810,7 @@ Areas”
 [link:
 
 7
-ch10_land-buildings-and-facilities_en_20171006_cl
+ch10_land-buildings-and-facilities_en_20180115 cl
 
 http://rs.oist.jp/docs/safety_precautions_for_lab
 _tour_111101.pdf]
@@ -7857,7 +7857,7 @@ campus in a planned and consistent way (Chapter 10.4)[link:
 1) maintain the quality of the built environment at the
 University, and
 8
-ch10_land-buildings-and-facilities_en_20171006_cl
+ch10_land-buildings-and-facilities_en_20180115 cl
 
 2) not compromise the potential for further
 construction in future.
@@ -7891,7 +7891,7 @@ OIST. VPBFM shall serve the position.
 separately for appropriate and effective implementation of the
 rational use of energy at OIST.
 9
-ch10_land-buildings-and-facilities_en_20171006_cl
+ch10_land-buildings-and-facilities_en_20180115 cl
 
 10.3.5.3 The energy management supervisor establishes the
 “Energy Management Committee”, which investigates and
@@ -7925,7 +7925,7 @@ natural disasters such as typhoon, flood or earthquake, or incidents such
 as fire, power failure or other potentially disruptive emergency on or off
 campus. This role shall include ensuring that the operation and
 10
-ch10_land-buildings-and-facilities_en_20171006_cl
+ch10_land-buildings-and-facilities_en_20180115 cl
 
 activities of the university can be preserved and continued with minimal
 interruption after any such event. See also Chapter 13, Safety, Health,
@@ -7965,7 +7965,7 @@ and maintained regularly, in accordance with the procedures
 set by the Facilities Management Section.
 
 11
-ch10_land-buildings-and-facilities_en_20171006_cl
+ch10_land-buildings-and-facilities_en_20180115 cl
 
 10.3.7.4 The Disaster Recovery System shall be inspected and
 maintained regularly, in accordance with the procedures set by
@@ -8016,7 +8016,7 @@ individual or organization; or
 
 If the Facilities Management Section determines that
 12
-ch10_land-buildings-and-facilities_en_20171006_cl
+ch10_land-buildings-and-facilities_en_20180115 cl
 
 the activity would impair, impede, or conflict with the
 management of University facilities.
@@ -8036,98 +8036,29 @@ resources, including Common Space, can be found in Chapter 21, Use
 of University Resources [link: 21].
 
 10.3.10 Use of Car Park Space
-10.3.10.1 Management of Parking lots: All parking spaces on the
-Main Campus are controlled and maintained by the Building
-and Facility Management Division of OIST. Any inquiry,
-complaint, or request regarding parking spaces should be
-addressed to this Division.
+10.3.10.1 Management of Parking lots: All parking spaces on
+OIST are controlled and maintained by the Facility
+Management Section of Buildings and Facilities Management
+Division. Any inquiry, complaint, or request regarding parking
+spaces should be addressed to the Facility Management Section.
 
-10.3.10.2 Types of Parking Spaces: There are four categories of
-parking spaces, as follows:
-(See the link: the campus map)
+10.3.10.2 Parking Enforcement: All parking regulations are
+enforced 24 hours a day, unless otherwise stated.
 
 13
-ch10_land-buildings-and-facilities_en_20171006_cl
+ch10_land-buildings-and-facilities_en_20180115 cl
 
-(1) Common Parking Lots: Open parking lots at various
-locations on the Main Campus, including the Multi-Story Car
-Parking Lot. This category of parking spaces does not include
-Designated Parking Spaces, Permit Parking, or Residential
-Parking Spaces.
-(2) Designated Parking Spaces: Parking spaces marked and/or
-with signs of “Visitors,” “Handicapped” or other designations.
-(3) Permit Parking: Parking lots
-adjacent to Lab 1, Lab 2, and Lab 3
-buildings.
-(4) Residential Parking Spaces: Parking spaces adjacent to
-Campus Housing. Most of the spaces are marked as “Resident
-Parking” with residence numbers, but unmarked parking spaces
-adjacent to the President’s House and the Hillside Houses are
-also included in this category.
-
-10.3.10.3 Parking Rules and Regulations: The following rules
-and regulations apply to all of the parking spaces stipulated in
-10.3.10.2. Owners of cars without parking permits may be
-warned in writing by the Building and Facility Management
-Division. If the owners believe that they are eligible for a
-parking permit, they may ask the Building and Facility
-Management Division to confirm her/his eligibility. Repeat
-violators will be subject to the disciplines stipulated in Chapter
-38 of the PRP.
-(1)
-
-Common Parking Lots: All OIST officers and
-
-employees, students, and visitors are allowed to park in these
-lots without a permit.
-14
-ch10_land-buildings-and-facilities_en_20171006_cl
-
-(2)
-
-Designated Parking Spaces: Only the vehicles to
-
-meet the designated use are permitted to park in Designated
-Parking Spaces.
-(3)
-
-Permit Parking: Parking permits, visibly displayed,
-
-are required for parking in Permit Parking, except on weekends
-and holidays.
-i) Staff Eligible for Parking Permits: Permit Parking spaces are
-primarily designated for Faculty and Senior Level Executives
-with a Parking Permit. The following categories of OIST staff
-may also be eligible for a parking permit.
-a) Pregnant staff member or those with a disability or an injury
-(by obtaining a Parking Permit).
-b)
-
-Occasional use, e.g., for a day with doctor’s
-
-appointment, frequent commuters to government offices, or
-other OIST facilities (by obtaining a Parking Permit).
-c) Temporary short-term use such as pick-up or drop-off of
-heavy items. In this case, a parking permit is not required.
-ii) Parking Permit: All OIST staff who want to use Permit
-Parking shall apply for a parking permit using the Permit
-Application Form, except for the case stipulated in i)-c) above.
-Parking permits are subject to careful evaluation and approval
-by the Building and Facility Management Division.
-(4)
-
-Residential Parking Spaces: Only residents are
-
-allowed to park in such spaces.
+10.3.10.3 Liability: Vehicle owners and operators park on
+campus at their own risk. OIST assumes no risk or liability for
+damage or loss (including the vehicle’s contents) while any
+vehicle is parked on OIST property. This includes damage
+incurred if the vehicle is wheel locked.
 
 10.4
 
 Responsibilities
 
-15
-ch10_land-buildings-and-facilities_en_20171006_cl
-
-10.4.1
+10.4.1
 
 The Vice President for Buildings and Facilities Management is
 
@@ -8156,7 +8087,10 @@ The Facilities Operation & Use Section is primarily responsible
 
 for the fit-out and modification of the buildings and facilities to
 accommodate research equipment and to meet the operational
-requirements of researchers. This Section is also responsible for
+14
+ch10_land-buildings-and-facilities_en_20180115 cl
+
+requirements of researchers. This Section is also responsible for
 managing and tracking the allocation of space to researchers and
 preparing laboratories.
 
@@ -8167,10 +8101,7 @@ The Facility Management Section is primarily responsible for
 the overall operation and maintenance of all land and facilities utilized
 by the University at the Onna Campus and elsewhere. This includes
 responsibility for optimizing the use of energy, water and other utilities.
-16
-ch10_land-buildings-and-facilities_en_20171006_cl
-
-This Section is also responsible for vehicles, safety (except the safety of
+This Section is also responsible for vehicles, safety (except the safety of
 research activities, which is the responsibility of the Dean of Research
 link: 13]), access management and the physical security of the campus
 and facilities.
@@ -8207,7 +8138,10 @@ Allocation of Space.
 Complete and send the designated form [link: ] to the Facilities
 Operation & Use Section. Only request space required within the next 3
 months (although longer term plans can be noted on the form as well).
-Space requests will then be processed by the Section taking into account
+15
+ch10_land-buildings-and-facilities_en_20180115 cl
+
+Space requests will then be processed by the Section taking into account
 space available and other requests
 
 NOTE: Allocation of class rooms
@@ -8220,11 +8154,7 @@ the Dean of the Graduate School.
 How to Request Modification of Facilities and
 
 Buildings.
-
-17
-ch10_land-buildings-and-facilities_en_20171006_cl
-
-Initially, contact the Vice President or one of the Section Leaders of the
+Initially, contact the Vice President or one of the Section Leaders of the
 Buildings & Facility Management Division. They will make a
 preliminary evaluation of the request, and if it is considered feasible, will
 then request detailed information on specification, proposed timing, etc.
@@ -8253,18 +8183,16 @@ advance.
 10.5.4
 
 To Obtain a Security Pass
+16
+ch10_land-buildings-and-facilities_en_20180115 cl
 
-A security card for a newly arriving employee, researcher or student will
+A security card for a newly arriving employee, researcher or student will
 be requested to the Facilities Management Section by the HR
 Management Section. A request for a new security card for any other
 party (vendor, guest, contractor, visitor, etc.) should be made to the
 Facilities Management Section after obtaining the approval of the
 responsible person in the Unit or Section making the request, using the
-
-18
-ch10_land-buildings-and-facilities_en_20171006_cl
-
-designated form [link:]. Applications should be made at least 3 days in
+designated form [link:]. Applications should be made at least 3 days in
 advance.
 
 10.5.5
@@ -8295,7 +8223,10 @@ necessary. A request to use a key should be made using the designated
 form [link:] after receiving approval from the person in charge of the
 related Section or Unit. When a copy of a key is needed, a request should
 be issued to the Facilities Management Section using the designated
-form [link:]. Users must not make copies of keys themselves.
+17
+ch10_land-buildings-and-facilities_en_20180115 cl
+
+form [link:]. Users must not make copies of keys themselves.
 Applications should be made 1 week in advance.
 
 10.5.8
@@ -8306,10 +8237,8 @@ When you lose a security pass or key, advise the Facilities Management
 Section immediately.
 
 Explain the circumstances to your supervisor,
-19
-ch10_land-buildings-and-facilities_en_20171006_cl
 
-and after obtaining their approval, submit a notification using the
+and after obtaining their approval, submit a notification using the
 designated form [link:].
 
 Every effort must be made to locate the lost
@@ -8337,7 +8266,10 @@ experiment or other emergency, you can contact the Facilities
 Management Section or Central Control Room directly. In this case, the
 form should be submitted after the clean-up has taken place.
 
-10.5.11
+18
+ch10_land-buildings-and-facilities_en_20180115 cl
+
+10.5.11
 
 To Apply for Short-term Use of Carpark
 
@@ -8346,10 +8278,7 @@ a tour of the campus, event, committee meeting or workshop, submit a
 request using the designated form [link:]. Applications should be made
 1 week in advance.
 
-20
-ch10_land-buildings-and-facilities_en_20171006_cl
-
-10.5.12 To Obtain Approval to Carry out Work within the
+10.5.12 To Obtain Approval to Carry out Work within the
 University (Construction, Installation of Equipment, etc.)
 When a vendor or contractor is to perform work within the facilities, a
 request should be submitted using the designated form [link:].
@@ -8373,16 +8302,16 @@ Forms
 10.6.3 Request to Change Access Rights on Security Pass[link:]
 10.6.4 Request to Allow Use of Security Pass by Outside Party[link:]
 10.6.5 Request for Use or Copying of a Key[link:]
-10.6.6 Notification of Loss of Security Pass or Key[link:]
+19
+ch10_land-buildings-and-facilities_en_20180115 cl
+
+10.6.6 Notification of Loss of Security Pass or Key[link:]
 10.6.7 Request to Change Security Setting of a Facility or Room[link:]
 10.6.8 Request for Non-routine Cleaning Service[link:]
 10.6.9 Request for Short-term Use of Carpark[link:]
 10.6.10 Request for Approval to Carry out Work with the
 University[link:]
-21
-ch10_land-buildings-and-facilities_en_20171006_cl
-
-10.6.11 Form to Lodge a Claim related to Facility Condition[link:]
+10.6.11 Form to Lodge a Claim related to Facility Condition[link:]
 
 10.7
 
@@ -8429,8 +8358,10 @@ vegetation and landscaping; all exterior lighting and signage; all utilities,
 above and below ground, including electricity, water and drainage, and
 communications; and all buildings and structures erected on the site
 and all building services within those buildings.
+20
+ch10_land-buildings-and-facilities_en_20180115 cl
 
-10.8.2
+10.8.2
 
 Facilities. Infrastructure as defined above. All systems and
 
@@ -8438,10 +8369,7 @@ equipment installed in the buildings, except items of research
 equipment installed by or for the specific use of researchers; vehicles
 and related items. [NOTE: Management and maintenance of leased
 equipment is dealt with in Chapter 28, Procurement [link: 28];
-22
-ch10_land-buildings-and-facilities_en_20171006_cl
-
-management and maintenance of IT and AV equipment is dealt with in
+management and maintenance of IT and AV equipment is dealt with in
 Chapter 17, Information Technology & Security [link: 17].]
 
 10.8.3
@@ -8460,8 +8388,8 @@ Central Control Room. Room located in Laboratory 1 where
 control and monitoring of the Fire Defense Equipment, etc. is carried
 out.
 
-23
-ch10_land-buildings-and-facilities_en_20171006_cl
+21
+ch10_land-buildings-and-facilities_en_20180115 cl
 
 OIST Graduate University
 Policies, Rules & Procedures
