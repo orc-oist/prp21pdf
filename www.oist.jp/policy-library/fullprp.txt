@@ -1291,7 +1291,7 @@ will have laboratory resources at the University and will spend
 significant amounts of time (up to 50% full-time equivalent) at the
 University. Adjunct Professors will contribute by directing or
 1
-ch03_faculty-handbook_20170720_en_cl
+ch03_faculty-handbook_en_20171221_cl
 
 assisting in teaching University courses, contributing to University
 international workshops, and participating in research. Adjunct
@@ -1341,7 +1341,7 @@ Access to opportunities to develop and coordinate a course is
 important for the professional development of faculty members
 because scholarship and teaching are the primary factors in
 2
-ch03_faculty-handbook_20170720_en_cl
+ch03_faculty-handbook_en_20171221_cl
 
 evaluation for promotion and tenure. While the quality of teaching is
 paramount an evenly distributed teaching load is also important to
@@ -1387,7 +1387,7 @@ Applications must be submitted at least one month prior to the
 scheduled teaching on form [link: TBD].
 
 3
-ch03_faculty-handbook_20170720_en_cl
+ch03_faculty-handbook_en_20171221_cl
 
 6. With the agreement of the Deans of the Graduate School and
 Faculty Affairs, non-faculty researchers (Postdoctoral Scholars,
@@ -1438,7 +1438,7 @@ Faculty members of the University are selected based on the highest
 international standards of evaluation of candidates to ensure the
 recruitment of the best available faculty. The procedures are
 4
-ch03_faculty-handbook_20170720_en_cl
+ch03_faculty-handbook_en_20171221_cl
 
 described in the Search Committee Handbook, the Tenure Review
 Evaluation Committee Handbook, the Promotion Review Evaluation
@@ -1488,7 +1488,7 @@ Evaluation Start Date is the deadline for receiving the materials
 from the candidate. The TESD cannot normally be delayed
 except for the specific reasons detailed in the TREC
 5
-ch03_faculty-handbook_20170720_en_cl
+ch03_faculty-handbook_en_20171221_cl
 
 Handbook. If the outcome of the tenure review is positive, an
 Assistant Professor is promoted to Associate Professor and
@@ -1534,7 +1534,7 @@ Proceedings
 The entire appointment and promotion proceedings
 require discussion of specific individuals, and the opinions
 6
-ch03_faculty-handbook_20170720_en_cl
+ch03_faculty-handbook_en_20171221_cl
 
 of others regarding those individuals. This and other
 relevant information must be held in strict confidence by
@@ -1584,7 +1584,7 @@ individual's scholarship and research ranks among the top
 5-10 percent in their world-wide cohort at his or her level of
 professional development for the proposed appointment
 7
-ch03_faculty-handbook_20170720_en_cl
+ch03_faculty-handbook_en_20171221_cl
 
 level. Letters from reviewers should support this
 assessment in an unequivocal fashion.
@@ -1631,7 +1631,7 @@ member or a reviewer should be clearly disclosed in the
 cover letter from the Chair.
 
 8
-ch03_faculty-handbook_20170720_en_cl
+ch03_faculty-handbook_en_20171221_cl
 
 Letters from external reviewers are essential for an
 objective evaluation process and, in general, carry more
@@ -1680,7 +1680,7 @@ objective evaluation. At least 8 letters from external
 reviewers are required. The external reviewers should
 neither be close collaborators of the candidate nor have
 9
-ch03_faculty-handbook_20170720_en_cl
+ch03_faculty-handbook_en_20171221_cl
 
 served as mentors of the candidate. When soliciting the
 opinion of external reviewers, the TREC should draft the
@@ -1726,7 +1726,7 @@ informing the candidate.
 For an Assistant Professor, the award of tenure
 automatically involves promotion to Associate Professor.
 10
-ch03_faculty-handbook_20170720_en_cl
+ch03_faculty-handbook_en_20171221_cl
 
 For an Associate Professor, TREC may solicit from the
 reviewers an opinion on whether to promote to Professor
@@ -1771,7 +1771,7 @@ teaching, supervision).
 A candidate who wishes to extend the tenure evaluation
 period to accommodate the addition of a child to the family
 11
-ch03_faculty-handbook_20170720_en_cl
+ch03_faculty-handbook_en_20171221_cl
 
 shall complete the form and submit it to the Office of the
 Dean for Faculty Affairs. The application to “Stop-theClock” must be submitted before the tenure review
@@ -1817,38 +1817,83 @@ PRP Chapter 22. Members of the faculty must declare conflicts
 of interest or the appearance of a conflict of interest when these
 exist. The existence of a conflict of interest is not necessarily a
 12
-ch03_faculty-handbook_20170720_en_cl
+ch03_faculty-handbook_en_20171221_cl
 
 barrier to employment or procurement relationships. However,
 special procedures must be followed to ensure the integrity of
 interactions with and the fair treatment of students, researchers,
 employees, contractors, vendors, and others associated with
 faculty in the execution of their duties.
-3.2.4.7 Retirement
-The normal retirement date of faculty members will be at the end of
-the academic year in which they reach 70 years of age, or on the date
-they reach 70. Two years prior to retirement, faculty members should
-work with the Dean of Research and the Dean of Faculty Affairs to
-ensure an orderly transition- i.e., making proper provisions for
-staff/postdocs. Professors shall not be the primary supervisor of new
-PhD students after reaching the age of 65 years. No external Unit
-review will be conducted after age 65 years.
-Faculty members may choose to retire early, after the age of 60, if
-they have served the university in a significant capacity for at least 10
-years. Early retirement will be granted at the discretion of the
-President.
-OIST will institute the title Emeritus Professor indefinitely to all fulltime faculty upon retirement, including those who have retired early.
-This comes with no salary, but with access and limited privileges for
-a period of five years, which may be renewed by negotiating with the
-President.
-3.2.5 Non-Faculty Research Appointments
+3.3 Retirement
+The normal retirement date for faculty members will be at the end of the
+academic year in which they reach 70 years of age, or on the date they reach
+70, whichever is specified in the contract. Two years prior to retirement,
+faculty members should work with the Dean of Research and the Dean of
+Faculty Affairs to ensure an orderly transition- i.e., making proper provisions
+for staff/postdocs, and other matters. Professors are not permitted to accept
+new PhD students and to serve as their primary supervisors after reaching 65.
+No external Unit review will be conducted after 65 years.
+Faculty members may choose to retire early, after the age of 60, if they have
+served the university in a significant capacity for at least 10 years. Early
+retirement will be granted at the discretion of the President.
+3.3.1
+
+Emeritus Professor
+OIST will apply the title Emeritus Professor indefinitely to all fulltime faculty upon retirement, including those who have retired early.
+This comes with no salary, but with access to OIST resources and
+limited privileges for a period of five years, which may be renewed in
+negotiation with the President. Entitlement to emeritus status and
+access to OIST resources is conditional upon adherence to Japanese
+law and University policies, rules, and procedures. The President
+may rescind both emeritus status and access without notice in the
+event of a violation.
+
+3.3.2
+
+Continuing employment beyond retirement age
+Upon invitation by the President, faculty members may extend their
+contracts beyond retirement age, subject to successful external
+review. Such cases will be highly unusual.
+
+For continuing employment, faculty members will submit a research
+plan with a term of no more than 5 years to the President for
+agreement, including a strategy for closing the unit within the term,
+and for being substantially financed using external funds. The
+President and faculty members will discuss access to space and
+equipment with the Dean of Research. If faculty members invited by
+the President wish to continue doing research after retirement, they
+must undergo an external review with their research plan in the
+academic year in which they turn 68 in principle. Faculty members
+thus approved after the external review will continue doing research
+and carrying teaching and service responsibilities and the title
+“Professor” during the agreed term beyond retirement age.
+
+13
+ch03_faculty-handbook_en_20171221_cl
+
+This is considered a fixed-term, untenured position and will involve a
+significant reduction in unit space and funds. Salary will be
+negotiable, but will normally be reduced.
+3.3.3 Faculty members serving in executive capacities
+Faculty members who have served in executive capacities (i.e. Dean
+or Vice President) for a certain period will be allowed additional time
+for research after the retirement date, that was negotiated with the
+President. This policy will function as an incentive for faculty
+members to assume executive functions. Research funds, salaries
+and unit space will not be affected during this period, and will
+continue as stipulated in their then current contract for the duration
+of their additional service.
+3.3.4
+
+Non-Faculty Research Appointments
 There are five classes of non-Faculty Research Appointments;
 Postdoctoral Scholars [link: ], Staff Scientists [link: ], Research
 Specialists [link: ], Technicians [link: ] and Science and Technology
 Associates [link: ]. Non-faculty research staff may undertake limited
 teaching duties as described in 3.2.2 item 6. The definition of each
 non-Faculty Research Appointment is stipulated in 4.2 [link: ].
-3.3 Management Structure for Academic Issues
+
+3.4 Management Structure for Academic Issues
 The management structure of the University is described in the Chapter 2
 [link: ]. The administrative organization responsible for faculty governance
 and academic issues will be the Faculty Assembly (the “Assembly”). The
@@ -1861,11 +1906,7 @@ common resources, shared equipment, grants and research computing;
 promote good conduct in research and ensure that the research program
 conforms to the highest ethical standards; lead appropriate subcommittees of
 the Research Support Sections as well as represent OIST as needed in the
-
-13
-ch03_faculty-handbook_20170720_en_cl
-
-areas of safety and other research-related domains; liaise with the Deans for
+areas of safety and other research-related domains; liaise with the Deans for
 Faculty Affairs and of the Graduate School.
 
 The Dean of the Graduate School [link: ] will administer the OIST Graduate
@@ -1876,14 +1917,22 @@ The Dean of the Graduate School will manage the academic program,
 including the following matters:
 • Student recruitment and admissions
 • Curriculum and organization of courses
-• Student guidance and supervision
-• Student career development
-• Award of degrees and graduation
-• Enrollment, re-enrollment, withdrawals, transfers, overseas study, leave of
+14
+ch03_faculty-handbook_en_20171221_cl
+
+Student guidance and supervision
+Student career development
+Award of degrees and graduation
+Enrollment, re-enrollment, withdrawals, transfers, overseas study, leave of
 absence
 • Appraisals and sanctions of students
 • Evaluation of teaching
 • Other matters relating to education
+•
+•
+•
+•
+
 As necessary, the Dean of the Graduate School will appoint committees that
 the Dean of the Graduate School chairs, the Dean of the Graduate School’s
 committees, which include faculty members to advise on those matters
@@ -1897,8 +1946,8 @@ student organization, student activities, student welfare, mentoring and career
 development, and student records. The position of Senior Assistant is an
 administrative, non-rotating position that will provide continuity in
 administration of the Graduate School.
-3.3.1 Faculty Assembly
-3.3.1.1 Role of the Assembly
+3.4.1 Faculty Assembly
+3.4.1.1 Role of the Assembly
 The Assembly is a self-governing body of the whole professoriate
 that provides the faculty with information about university
 matters and serves as a forum for open discussion of University
@@ -1907,10 +1956,7 @@ President. The Assembly can bring issues that warrant the
 attention of the University management directly to the
 President. For operational efficiency the Assembly elects a subgroup, called the Council. The Council, under the leadership of
 the Chairperson of the Assembly, acts as the executive
-14
-ch03_faculty-handbook_20170720_en_cl
-
-committee of the Assembly. The members of the faculty in
+committee of the Assembly. The members of the faculty in
 addition have administrative duties on various committees
 [link : 4.2.1], such as the Common Resources Advisory
 Committee, Animal Care and Use Committee, Human Subjects
@@ -1919,11 +1965,14 @@ functions are services to the University; the President, Executive
 Vice President for Technology Development and Innovation,
 Dean of the Graduate School Dean for Faculty Affairs and Dean
 of Research make appointments to these committees.
-3.3.1.2 Membership of the Assembly
+3.4.1.2 Membership of the Assembly
 The membership of the Assembly includes all full-time
 Professors, Associate Professors, and Assistant Professors. The
 Secretary to the Assembly (see 3.3.3[link: ]) will act as the
-Executive Secretary of the Assembly. Adjunct, Emeritus,
+15
+ch03_faculty-handbook_en_20171221_cl
+
+Executive Secretary of the Assembly. Adjunct, Emeritus,
 Distinguished and Visiting faculty members may participate in
 Assembly meetings as non-voting members. Two student
 representatives (elected by the students), two researcher
@@ -1940,7 +1989,7 @@ officio members. The ex-officio members and student and
 research representatives attend the Assembly meetings at the
 invitation of the Chairperson and may be excused when the
 Chairperson deems necessary.
-3.3.1.3 Chairperson of the Assembly
+3.4.1.3 Chairperson of the Assembly
 The Assembly has a Chairperson. The Chairperson of the
 Assembly will be elected by secret ballot of the Assembly.
 Elections to the position of Chairperson will take place every two
@@ -1957,10 +2006,7 @@ The role of the Chairperson is to preside at meetings of the
 Assembly. The Chairperson will set the dates of meetings. The
 agenda is set by the Chair of the Assembly, but the President,
 Executive Vice President for Technology Development and
-15
-ch03_faculty-handbook_20170720_en_cl
-
-Innovation, Dean of the Graduate School Dean for Faculty
+Innovation, Dean of the Graduate School Dean for Faculty
 Affairs and Dean of Research should always be consulted and be
 invited to the meeting. The Chairperson will represent the
 faculty as ex-officio member of OIST administrative committees
@@ -1971,10 +2017,14 @@ of Governors, Board of Councilors, President, The Executive Vice
 President, Executive Vice President for Technology Development
 and Innovation, Dean of the Graduate School Dean for Faculty
 Affairs and Dean of Research).
-3.3.1.4 Frequency of Convocation
-The Chairperson will call meetings of the Assembly at least three
+3.4.1.4 Frequency of Convocation
+
+16
+ch03_faculty-handbook_en_20171221_cl
+
+The Chairperson will call meetings of the Assembly at least three
 times per year.
-3.3.1.5 Items to be Discussed at Meetings of the Assembly
+3.4.1.5 Items to be Discussed at Meetings of the Assembly
 The Assembly will deliberate on policy matters, strategic
 direction and educational philosophy. The Assembly may
 consider specific matters as follows:
@@ -2000,12 +2050,8 @@ in the PhD program, The Admissions Committee and the Curriculum
 and Examinations Committee are advisory to the Dean of the Graduate
 School, and report to the Assembly through the Dean of the Graduate
 School.
-3.3.1.6 Procedures and Rules of the Assembly
-
-16
-ch03_faculty-handbook_20170720_en_cl
-
-a) If there is not a majority of the members with voting rights
+3.4.1.6 Procedures and Rules of the Assembly
+a) If there is not a majority of the members with voting rights
 in attendance, the Faculty Assembly shall not transact its
 business.
 b) Resolution of the Faculty Assembly shall be passed by a
@@ -2018,10 +2064,14 @@ may not exercise voting rights.
 d) As deemed necessary by the Chairperson people other than
 members of the Faculty Assembly may be invited to attend
 the meeting.
-e) The agenda and minutes of the meetings of the Faculty
+
+17
+ch03_faculty-handbook_en_20171221_cl
+
+e) The agenda and minutes of the meetings of the Faculty
 Assembly shall be made available to all Faculty Assembly
 members.
-3.3.2 Faculty Council
+3.4.2 Faculty Council
 The Council is the elected executive body of the Assembly and its
 role is to provide advice to the President on academic and
 administrative matters. The agenda is set by the Chair of the
@@ -2054,10 +2104,7 @@ President
 Executive Vice President for Technology Development and
 Innovation
 Dean of the Graduate School
-17
-ch03_faculty-handbook_20170720_en_cl
-
-Dean for Faculty Affairs
+Dean for Faculty Affairs
 Dean of Research
 Secretary to the Assembly
 Advisor
@@ -2067,9 +2114,13 @@ all faculty members.
 For the election of the members of the Faculty Council, a call for
 nominations will be made on April 15. Candidates will make their
 presentations at the Faculty Assembly meeting in June. The election
-will be held immediately following the Faculty Assembly
+
+18
+ch03_faculty-handbook_en_20171221_cl
+
+will be held immediately following the Faculty Assembly
 presentations.
-3.3.2.1 Procedures and Rules of the Faculty Council
+3.4.2.1 Procedures and Rules of the Faculty Council
 a) A majority of votes is required to pass a resolution in the Faculty
 Council. The elected members of the Faculty Council have voting
 rights. The Ex Officio Members and Advisors do not have voting
@@ -2077,7 +2128,7 @@ rights. If there is not a majority of the members with voting rights
 in attendance, the Faculty Council shall not transact its business.
 b) The Faculty Council agendas and minutes will be available to all
 faculty members.
-3.3.3 The Secretariat of the Faculty Assembly and Faculty Council
+3.4.3 The Secretariat of the Faculty Assembly and Faculty Council
 The Faculty Affairs Office plays the role of the Secretariat of the
 Faculty Assembly. A Secretary to the Assembly will work with the
 Chair of the Faculty Assembly and act as the Executive Secretary to
@@ -2086,26 +2137,23 @@ preparing their Agendas, preparing or commissioning the papers for
 meetings, serving any sub-Committees created by the Assembly or
 Council, and coordinating with the Senior Level Executive [link:
 30.2.2.1.1].
-3.4 Academic Program Evaluations
-3.4.1 Basic Policy
+3.5 Academic Program Evaluations
+3.5.1 Basic Policy
 The University will conduct regular assessments of education,
 research and results leading to technological developments. This will
 entail the review of organizational operation, facilities and
 equipment, and the release and dissemination of the research results
 and technologies and patents to the public.
-3.4.2 Method
+3.5.2 Method
 Assessment will be conducted regularly, based on the criteria set in
 advance, in regards to the goals of the University.
-3.4.3 Structure for Assessment and Evaluation
+3.5.3 Structure for Assessment and Evaluation
 The University will have an ongoing internal procedure of periodic
 review and assessment by committees of experts from the best
 universities in the world. In addition to this internal assessment, an
-18
-ch03_faculty-handbook_20170720_en_cl
-
-external evaluation will be conducted by a third-party evaluation
+external evaluation will be conducted by a third-party evaluation
 organization accredited by the government.
-3.4.4 Publication and Utilization of the Results
+3.5.4 Publication and Utilization of the Results
 The University will summarize the results of the external evaluation
 as a report to the Board of Governors, which has the responsibility
 for disseminating the report appropriately. The Board will deliberate
@@ -2113,7 +2161,11 @@ on the results and use them to improve the education, research,
 technology impact and management of the University. Such results
 will be made publicly available by means of the University’s web site
 and other publications.
-3.4.5 Major Evaluation Items
+
+19
+ch03_faculty-handbook_en_20171221_cl
+
+3.5.5 Major Evaluation Items
 Major evaluation items include:
 •
 •
@@ -2143,9 +2195,9 @@ System(s) to improve the quality of education
 Finance
 Management
 
-3.5 Strategies to Maintain and Improve the Quality of Teaching
+3.6 Strategies to Maintain and Improve the Quality of Teaching
 Staff
-3.5.1 Basic Policy of Educational Development
+3.6.1 Basic Policy of Educational Development
 The University must maintain and improve the quality of its faculty
 in order to provide an outstanding education at the University and to
 meet the different educational needs of each student. The office of
@@ -2153,17 +2205,14 @@ the Dean of the Graduate School will play an active role in the
 development of faculty members by implementing programs for
 faculty development in teaching and supervision of graduate
 students.
-3.5.2 Methods
+3.6.2 Methods
 Specifically, the University will conduct the following:
-3.5.2.1 Teaching Guidelines
+3.6.2.1 Teaching Guidelines
 The Dean of the Graduate School’s office will create, maintain
 and distribute guidelines for quality teaching to ensure that
 uniform best-practice teaching standards are observed at the
 University.
-19
-ch03_faculty-handbook_20170720_en_cl
-
-3.5.2.2 Student Teaching Evaluations
+3.6.2.2 Student Teaching Evaluations
 Students will evaluate each course with a standardized
 questionnaire at the end of the course. The student responses
 will be reported to the Dean of the Graduate School’s office and
@@ -2171,20 +2220,24 @@ will be distributed to the instructors and students. The Dean of
 the Graduate School’s office will assist the instructors to respond
 appropriately to this feedback. This feedback should be treated
 as confidentially as possible.
-3.5.2.3 Peer Review of Teaching
-Faculty members will support the development of their
+3.6.2.3 Peer Review of Teaching
+
+20
+ch03_faculty-handbook_en_20171221_cl
+
+Faculty members will support the development of their
 colleagues by participating from time to time as classroom
 observers, with the agreement of the instructor. The date of such
 observation will be reported to the Dean of the Graduate
 School’s office, and the observer will discuss their observations
 with the instructor in a collegial, respectful and supportive
 manner.
-3.5.2.4 Instructor Training
+3.6.2.4 Instructor Training
 The Dean of the Graduate School’s office will arrange training
 sessions, and workshops for faculty development from suitably
 qualified facilitators, in order to enhance the teaching ability of
 faculty members.
-3.5.2.5 Mentoring
+3.6.2.5 Mentoring
 A mentoring system will be established so that faculty with less
 experience in teaching and thesis supervision can meet with
 more experienced faculty to receive advice and support. As a part
@@ -2194,10 +2247,10 @@ transfer of skills relating to supervision of research.
 The Dean of the Graduate School’s office will implement these
 methods to ensure the improvement of the education and research of
 the Graduate University.
-3.6 Faculty Leave
-3.6.1 Holiday Entitlements
+3.7 Faculty Leave
+3.7.1 Holiday Entitlements
 Holiday entitlements are defined in PRP Chapter 33 Leave.
-3.6.2 Sabbatical Leave
+3.7.2 Sabbatical Leave
 After each three years of service, tenured faculty will be entitled to
 spend a 6-month sabbatical leave engaged in research activities freed
 from teaching and administrative obligations [link to Procedure for
@@ -2206,10 +2259,7 @@ the responsibility of each faculty member to ensure that all other
 duties, notably research and supervision of graduate students, are
 adequately covered during their absence. The Dean of the Graduate
 School must approve the arrangements for teaching coverage and
-20
-ch03_faculty-handbook_20170720_en_cl
-
-student supervision, and the Dean for Faculty Affairs must approve
+student supervision, and the Dean for Faculty Affairs must approve
 the arrangements for research and administrative coverage. Leave
 may be accumulated so that a maximum of one year is available after
 6 years. During sabbatical leave full salary is continued, and travel for
@@ -2218,67 +2268,70 @@ leave should be taken off campus, but for family or other reasons it
 may be taken on campus with permission of the Dean for Faculty
 Affairs.
 
-3.6.3 Leave without Salary
+21
+ch03_faculty-handbook_en_20171221_cl
+
+3.7.3 Leave without Salary
 A leave without salary is a period of leave that is without salary from
 the University or its disability, retirement, or other benefits
 programs.
-3.6.3.1 Requesting a Leave without Salary
+3.7.3.1 Requesting a Leave without Salary
 Leave without salary should be requested on a standard leave
 request form for review and approval by the Dean of the
 Graduate School and the Dean for Faculty Affairs.
-3.6.3.2 Review Criteria for Leave without Salary
+3.7.3.2 Review Criteria for Leave without Salary
 In deciding a request for leave without salary, consideration will
 be given to the faculty member’s teaching and other academic
 responsibilities, scholarly productivity, number of doctoral
 theses supervised, previous leaves without salary, and any other
 relevant circumstances.
-3.6.3.3 Effect of Leave on Term of Appointment
+3.7.3.3 Effect of Leave on Term of Appointment
 A leave without salary for faculty on fixed-term appointments
 extends the term of appointment by a period equal to the
 duration of the leave, unless there is advanced written
 agreement. This extension is not automatic and must be
 requested from and approved by the Dean of the Graduate
 School and Dean for Faculty Affairs.
-3.6.3.4 Effect of Leave on Term of Research Support
+3.7.3.4 Effect of Leave on Term of Research Support
 With a leave without salary the period of research support may
 be extended by a period up to the duration of the leave. The
 total funds committed are not increased. Extension of the
 period of research must be approved by the Dean for Faculty
 Affairs.
-3.6.3.5 Period of Partial Leave without Salary
+3.7.3.5 Period of Partial Leave without Salary
 Periods of partial leave without salary have the same effect on
 Term of Appointment and Term of Research Support as
 described in 3.6.3.3, and 3.6.3.4, but on a proportional basis.
-3.6.4 Period of Pure Research Leave
+3.7.4 Period of Pure Research Leave
 Full-time faculty members may apply for a period of pure research
 leave, which is defined as leave from teaching and other institutional
-21
-ch03_faculty-handbook_20170720_en_cl
-
-responsibilities during which the faculty member receives full or
+responsibilities during which the faculty member receives full or
 partial salary supported by the University.
-3.6.4.1 Requesting a Period of Pure Research Leave
+3.7.4.1 Requesting a Period of Pure Research Leave
 Applications for periods of pure research should be requested on
 the regular leave form for review and approval by the Dean of
 the Graduate School and the Dean for Faculty Affairs.
-3.6.4.2 Reviewing a Request for Period of Pure Research Leave
+3.7.4.2 Reviewing a Request for Period of Pure Research Leave
 In deciding a period of pure research leave request,
 consideration will be given to the faculty member’s teaching and
-other contributions to the educational program of the University,
+22
+ch03_faculty-handbook_en_20171221_cl
+
+other contributions to the educational program of the University,
 scholarly productivity, number of doctoral theses completed
 under his or her supervision, previous leave without salary, and
 any other relevant circumstances.
-3.6.4.3 Effect of Leave without Salary or Pure Research Leave on
+3.7.4.3 Effect of Leave without Salary or Pure Research Leave on
 Sabbatical Leave Service Accrual
 Sabbatical eligibility does not accrue during periods of leave
 without salary or pure research leave.
-3.6.5 Family and Medical Leave Policies
+3.7.5 Family and Medical Leave Policies
 The family, medical, childcare and other leave policies for OIST
 employees are described in PRP Chapter 33 Leave. [link: 33] In
 addition to the standard leave options, faculty can request
 adjustments in time or amount of teaching through the Dean of the
 Graduate School.
-3.7 External Appointment or Employment
+3.8 External Appointment or Employment
 Full-time faculty members may accept external visiting or adjunct
 appointments or employment in another university, research
 organization, or company provided that their educational, research and
@@ -2289,7 +2342,7 @@ external appointment or employment must be obtained from the Dean for
 Faculty Affairs in accordance with OIST Rules for External Professional
 Activities [link: ]. Such appointments or employment may not exceed 20%
 time. There must be disclosure of any financial interests.
-3.8 Resolving Complaints and Disputes
+3.9 Resolving Complaints and Disputes
 Procedures for resolving complaints and disputes are described in PRP
 Chapter 39 Resolving Complaints & Disputes. For complaints and
 disputes reported by faculty, the supervisor is the Dean for Faculty Affairs.
@@ -2300,26 +2353,27 @@ complaints and disputes reported by employees supervised by faculty, the
 standard procedures described in Chapter 39 apply. For complaints and
 disputes reported by students, the procedures in Chapter 5 Graduate
 School Handbook apply.
-22
-ch03_faculty-handbook_20170720_en_cl
-
-3.9 Term and Conditions of Appointment
-3.9.1 Employment Agreement
+3.10 Term and Conditions of Appointment
+3.10.1 Employment Agreement
 The term and conditions of academic appointments are stated in the
 Employment Agreement, a copy of which should be in the possession
 of both the University and the faculty member. The term of academic
 appointments may be either (a) for a fixed number of years for nontenured appointments or (b) without limit of time for tenured
 appointments. A tenured academic appointment without limit of
-time extends from the effective date of the appointment to the date
+
+23
+ch03_faculty-handbook_en_20171221_cl
+
+time extends from the effective date of the appointment to the date
 of academic retirement of the appointee.
-3.9.2 Prior Notice of Non-renewal of Appointment
+3.10.2 Prior Notice of Non-renewal of Appointment
 A faculty member holding a renewable, non-tenured appointment
 shall be notified by one year before the end of the term of the
 appointment if the appointment is not to be renewed. Failure to give
 timely notice of non-renewal shall entitle the individual to an
 extension of appointment for a period of one year from the time of
 notification.
-3.9.3 Prior Notice of Non-renewal of Internal Funding
+3.10.3 Prior Notice of Non-renewal of Internal Funding
 A tenured or non-tenured faculty member who after review has been
 notified that his or her internal funding will not be renewed will be
 provided with a negotiated level of funding to allow a scale-down
@@ -2327,15 +2381,15 @@ during the last year of funding. Failure to give timely notice of nonrenewal of 
 extension of the current level of internal funding to the date of
 notification and to an extension of the scale-down period to a period
 of one year from the time of notification.
-3.10 Discipline
+3.11 Discipline
 Procedures for taking disciplinary action in response to conduct that
 violates the OIST PRPs are described in PRP Chapter 38 Discipline, which
 covers all OIST employees. For discipline of faculty members the
 supervisor is the Dean for Faculty Affairs, and if this cannot be resolved
 satisfactorily, the President.
 
-23
-ch03_faculty-handbook_20170720_en_cl
+24
+ch03_faculty-handbook_en_20171221_cl
 
 OIST Graduate University Policies, Rules & Procedures
 Authority: Approved by the Dean of Research and the President
@@ -2379,7 +2433,7 @@ constitute “secret” research. The research conducted at the University must 
 public dissemination.
 
 1
-Ch04_research-conduct_en_20170901_cl
+Ch04_research-conduct_en_20171225_cl
 
 Research at the University may not be conducted for the economic benefit of any particular
 company or other commercial entity. Commercially sponsored research has the potential to
@@ -2425,7 +2479,7 @@ unless appointed as “Continuing” described below, are limited to 3 years. Ex
 appointment beyond 3 years is only possible under extraordinary circumstances and
 requires approval by the Dean of Faculty Affairs. In rare cases, Research Specialists with
 2
-Ch04_research-conduct_en_20170901_cl
+Ch04_research-conduct_en_20171225_cl
 
 evidence of wide external and internal recognition of achievements in research may be
 appointed as “Continuing”. Continuing appointments must be approved by the
@@ -2469,7 +2523,7 @@ appointments.
 Continuing appointment or promotion to a higher level is based on documented scientific
 
 3
-Ch04_research-conduct_en_20170901_cl
+Ch04_research-conduct_en_20171225_cl
 
 achievements during their term at the University or on research and professional work
 performed at other institutions before coming to the University. Performance is measured
@@ -2514,7 +2568,7 @@ Research Unit Technicians belong to a Research Unit. They report to the Unit hea
 (Faculty) and provide technical assistance for the research programs of the Research Unit,
 while having instructions directly from the Unit head or from the Researchers of the Unit.
 4
-Ch04_research-conduct_en_20170901_cl
+Ch04_research-conduct_en_20171225_cl
 
 These positions are for individuals with the technical or engineering expertise required to
 conduct research programs in the Research Unit. Initial appointments are generally Fixedterm, but may be continued by re-appointment as a “Fixed-term” or converted to a
@@ -2557,7 +2611,7 @@ b) required to manage, provide guidance and training to Research Support Special
 Research Support Technicians and Administrative staff of the section.
 c) able to understand the technical challenges of users and provide a solution that meets
 5
-Ch04_research-conduct_en_20170901_cl
+Ch04_research-conduct_en_20171225_cl
 
 the needs of users by introducing most advanced research techniques, including
 organizing the prioritization of new equipment within the section.
@@ -2598,7 +2652,7 @@ b) required to provide technical support including training and data acquisition
 instructions from the other senior member of the section if necessary.
 4.4 Research Fellows
 6
-Ch04_research-conduct_en_20170901_cl
+Ch04_research-conduct_en_20171225_cl
 
 4.4.1
 Research Fellows
@@ -2646,7 +2700,7 @@ by the Dean of Research and relevant Division head(s).):
 a) An air ticket from the airport closest of their latest domicile to that closest to
 
 7
-Ch04_research-conduct_en_20170901_cl
+Ch04_research-conduct_en_20171225_cl
 
 the University on their first arrival as a Research Fellow (one way, once, only
 available for the person himself/herself)
@@ -2684,7 +2738,7 @@ procedures stipulated in Chapter 28 and 29 of OIST Policies, Rules and Procedure
 Regulations of Chapter 14 of the PRP [link:14.1] shall be applied for the handling of
 intellectual property created by the researches in which Research Fellows engage.
 8
-Ch04_research-conduct_en_20170901_cl
+Ch04_research-conduct_en_20171225_cl
 
 4.4.8 Insurance coverage of Research Fellows
 The University takes out an insurance to provide certain support in the case of the
@@ -2730,7 +2784,7 @@ The Chairperson leads the ORC and moderates the discussion in the ORC meetings. 
 Chairperson and a Secretary schedule the meetings for the ORC. The Secretary prepares
 the agenda and records notes of the proceedings. In the absence of the Chairperson or
 9
-Ch04_research-conduct_en_20170901_cl
+Ch04_research-conduct_en_20171225_cl
 
 Secretary, the Researcher Representatives assume these roles.
 4.5.5
@@ -2748,92 +2802,216 @@ Chairperson may appoint Assistants as necessary to manage the administration of 
 ORC.
 4.6
 The Science and Technology Group (STG)
-To achieve its goals, the University needs to be able to respond flexibly to opportunities to extend
-and complement its research portfolio and to pursue activities in support of the wider
+To achieve its goals, the University needs to be able to respond flexibly to opportunities to
+extend and complement its research portfolio and to pursue activities in support of the wider
 development of Okinawa. The STG provides a focus for these activities and contributes to the
-research capabilities of the University in many ways. In particular, the STG provides skilled
-leadership for technical support services, develops scientific, technical, industrial, educational or
-cultural collaborations with local institutions and enables new scientific or technical directions to
-be supported where activities by a typical research unit are not warranted.
-Members of the STG, called the Science and Technology Associates, are scientists, engineers, and
-other staff who have advanced education and/or training and highly developed technical skills.
-The STG provides a career path for its members. There are three appointment levels: Science
-and Technology Associate (STA) I, II and III. A Science and Technology Associate is normally
-expected to conduct their own research and is allocated resources. They may also be able to
-apply for external grants as a Principal Investigator, or they may be affiliated with a research
-unit. Appointments and the assignment of resources are made by the President and are initially
-for up to 5 years. Appointment Renewal is based on expert peer review. The appointment and
-renewal criteria are as follows:
+research capabilities of the University in many ways. It enables new scientific or technical
+directions to be supported where a full research unit is not warranted, as well as providing
+skilled leadership for technical support services, or develops scientific, technical, industrial,
+educational or cultural collaborations with local and international institutions.
+Members of the STG, called the Science and Technology Associates, are scientists, engineers,
+and other staff who have advanced education and/or training and highly developed technical
+skills. The STG provides a career path for its members. There are three appointment levels:
+Science and Technology Associate (STA) I, II and III. A Science and Technology Associate is
+normally expected to conduct their own research and is allocated resources. They may also be
+able to apply for external grants as a Principal Investigator, or they may be affiliated with a
+research unit. Appointments and the assignment of resources are made by the President and
+are initially for up to 5 years. Appointment Renewal is based on expert peer review. The
+appointment and renewal criteria are as follows:
 a) Demonstrated excellence in a relevant area of research in a scientific,
 technical, educational, or cultural field.
 b) Demonstration of effective utilization of research resources.
 c) Contribution to the development of external partnerships with academic
 institutions, industry, or other local institutions.
 4.6.1
-4.6.1 Science and Technology Associates
-Science and Technology Associates work in the Science and Technology Group on
-projects that extend and c omplement the University’s research portfolio and that support
-the wider development of Okinawa. These positions cover a wide range of skills and are
-used flexibly to enhance the capabilities of the University. A Science and Technology
-10
-Ch04_research-conduct_en_20170901_cl
+Science and Technology Associates
+STA work in the STG on projects that extend and complement the University’s research
+portfolio and that support the wider development of Okinawa. These positions cover a
+wide range of skills and are used flexibly to enhance the capabilities of the University.
 
-Associate requires special research skills and subject knowledge in a relevant scientific,
-technical, industrial, educational, or cultural discipline. There are three Science and
-Technology Associate levels, dependent upon qualifications and experience, with each
-level requiring increasing professional achievement. A Science and Technology Associate
-I is a post for junior researchers. A level II appointee normally will have more than 10
-years of experience, is expected to assume complete responsibility for projects, and is
-expected to have an established record of independent achievement. A level III appointee
-is expected to have more than 15 years of experience and to have achieved international
-leadership recognition for their original research and service in the field.
-A Science and Technology Associate is normally expected to conduct their own research
-or may be affiliated with a research unit and allocated resources. With the agreement of
-the Dean of Faculty Affairs, they may apply for external grants as a Principal Investigator.
-Appointments, which can be either “Fixed-term” or “Continuing”, as well as resource
-assignments, are made by the President, and are initially for up to 5 years. Continuing
-Science and Technology Associate appointments are based on an employment contract,
-which can be renewed under the same terms and conditions for the same term period
-until the age of 65, unless either party raises the issue of termination of the employment
-contract at least one month before the end of contract term period. Those with
-Continuing appointments are reviewed by the Continuing Staff Appointment Committee
-no less than every five years for promotion and salary adjustments. Appointment renewal
-is based on expert peer review. The appointment and renewal criteria are as follows:
-a) Demonstrated excellence in a relevant area of research in a scientific,
-technical, educational, or cultural field.
-b) Demonstration of effective utilization of research resources.
-c) Contribution to the development of external partnerships with academic
-institutions, industries, or other local institutions.
+10
+Ch04_research-conduct_en_20171225_cl
+
+STAs require special research skills and subject knowledge in a relevant scientific,
+technical, industrial, educational, or cultural discipline. There are three STA levels,
+dependent upon qualifications and experience, with each level requiring increasing
+professional achievement. STA I is a post for junior researchers. STA II appointee
+normally will have more than 10 years of experience, is expected to assume complete
+responsibility for projects, and is expected to have an established record of independent
+achievement. STA III appointee is expected to have more than 15 years of experience and
+to have achieved international leadership recognition for their original research and
+service in the field.
+STAs may conduct their own research or may be affiliated with a research unit and
+allocated resources. With the agreement of the Dean of Faculty Affairs, STAs may apply
+for external grants as a Principal Investigators.
+Where there is an affiliation with a research unit, the STA’s research evaluation will
+normally be included in the unit review or tenure review of the Principal Investigator who
+leads the unit based on on-site review by external reviewers. For such STAs, the external
+expert peer reviews are not conducted independently and the 1st and the 2nd external
+expert peer reviews stipulated in 4.6.1.1 are replaced with such unit review or tenure
+review, followed by the recommendations stipulated in 4.6.1.3 and 4.6.1.4; provided,
+however, such recommendations will include the STA’s contract and/or promotion (if
+applicable), but not research funding as the STA’s budget is included in the unit budget.
+4.6.1.1 Criteria for External Expert Peer Review
+Appointment and research evaluation of STAs is based on external expert peer
+reviews. Ideally the first review will be conducted before the end of Year 4, and
+the second review before the end of Year 8 if another non-continuing
+appointment is offered by the first review. Details of peer review procedures are
+defined by the Dean of Faculty Affairs [Link: Review Handbook for
+Science and Technology Associates]. Review criteria include following:
+1. Quality and significance of the research or research-equivalent activity.
+2. Scientific, technical, industrial, educational or cultural importance and interest
+of the work.
+3. Demonstrated effective utilization of research resources.
+4. Contribution to development of external partnerships with academic
+institutions, industries, or other international and local institutions.
+5. Proposed future work.
+4.6.1.2 “Stop-the-clock” policy for STAs
+STAs may request contract extensions and postponement of reviews to
+accommodate parental responsibilities relating to childbirth, adoption of a child,
+or rearing of a baby. A second extension may be requested. Stop-the-Clock
+cannot be multiplied for multiple births (e.g., twins).
+
+11
+Ch04_research-conduct_en_20171225_cl
+
+This policy is independent of maternity, parental, or childcare leave. Taking such
+leave does not automatically lead to application of Stop-the Clock Policy. An
+extension of the review start date does not alter the STA’s normal duties.
+The Stop-the Clock application form [Link] must be submitted to the Dean of
+Faculty Affairs before the review process begins (i.e., by the due date for
+submission of materials for review evaluation). Upon approval of the application
+form by the Dean of Faculty Affairs and the President, the following actions will
+be taken.
+1.
+
+The review date will be postponed by up to one year.
+
+2. Employment of the candidate will be continued for one more year,
+subject to 4.6.1 5).
+3.
+
+Research funding will be extended by up to one year.
+
+In case of extenuating circumstances (e.g., multiple births, difficult pregnancy,
+premature birth, or medical conditions associated with childbirth), the Dean of
+Faculty Affairs may grant an additional 3-6- month discretionary extension. A
+request for an additional extension must be submitted to the Dean of Faculty
+Affairs together with supporting documentation (e.g., a medical certificate).
+4.6.1.3 Process after the 1st review
+a) Initial appointment of an STA is usually a non-continuing appointment up to
+five years. Based on the result of the 1st external expert peer review described in
+4.6.1.1 and anticipated future contributions to the University, the Dean of Faculty
+Affairs, the Dean of Research, and the Chair of the Faculty Assembly or his/her
+nominee will make recommendations to the President about the STA’s contract
+and research funding. The recommendations include:
+1. Offer of another contract as a non-continuing appointment, research
+funding up to five years, and/or promotion (if applicable); or
+2. Termination of appointment of a non-continuing STA at the end of
+their current contract period, or one year from notification of the
+decision, whichever is later, subject to the limitation in 4.6.1.5.
+b) In special circumstances, prior to that the above recommendations in 4.6.1.3
+(a) are made, the Dean of Faculty Affairs can decide to propose a continuing
+appointment to the Continuing Staff Appointment Committee (CSAC) by
+considering the outcome of the 1st external expert peer review described in 4.6.1.1
+and anticipated future contributions to the University. Procedures with the CSAC
+are described in 4.6.1.4 (b).
+The President will render a decision based on the recommendations above and
+
+12
+Ch04_research-conduct_en_20171225_cl
+
+will inform the STA of the result.
+4.6.1.4 Process after the 2nd review (Change to continuing
+appointment)
+The Dean of Faculty Affairs will decide whether to propose a change from noncontinuing to continuing appointment to the CSAC by considering the outcome
+of the 2nd external expert peer review described in 4.6.1.1 and anticipated future
+contributions to the University.
+a) If the Dean of Faculty Affairs decides not to propose a continuing
+appointment, the Dean of Faculty Affairs recommends that the President
+terminate non-continuing appointment of the STA at the end of their current
+contract period, or one year from notification of the decision, whichever is later,
+subject to the limitation in 4.6.1.5. If the President disagrees with termination of
+the appointment, he may discuss other outcomes with the STA.
+b) If the Dean of Faculty Affairs proposes a continuing-appointment,
+documentation will be submitted to the CSAC. This includes the complete dossier
+for the external expert peer review, plus a letter from the Dean of Faculty Affairs
+making the case that the conditions are satisfied. The CSAC will use the following
+criteria to recommend a continuing-appointment, research funding, and/or
+promotion (if applicable) to the President:
+1. That the record of achievements during the period under review was
+“Outstanding” or “Excellent”;
+2. That proposed future work is judged to be of high quality, with a good
+chance of having a significant impact in that discipline over the next
+10-15 years;
+3. That there is an identifiable benefit to OIST’s academic reputation.
+4.6.1.5
+The CSAC is comprised of the Executive Vice President for
+Technology Development and Innovation, the Dean of Research, the Dean of
+Faculty Affairs, and the Chair of the Faculty Assembly or his/her nominee. Since
+the Dean of Faculty Affairs is a member of the CSAC and is the proponent for the
+continuing appointment of the STA, the Dean of Faculty Affairs will present the
+recommendation, but will not participate in discussions regarding the STA’s
+continuing appointment during the CSAC meeting.
+When the CSAC recommends the continuing appointment and the President
+approves the recommendation, the STA can convert from a non-continuing to a
+continuing appointment. Continuing STA appointments are based on the
+University’s employment contract, which can be renewed under the same terms
+and conditions for the same term period until age 65, unless either party raises
+
+13
+Ch04_research-conduct_en_20171225_cl
+
+the issue of termination of the employment contract in accordance with the
+applicable Rules of Employment.
+If the CSAC does not recommend a continuing appointment, the STA’s
+appointment will terminate at the end of their current contract period, or one
+year from notification of the decision, whichever is later, subject to the limitation
+in 4.6.1.5.
+4.6.1.5 Total period of non-continuing appointment
+Under no circumstances, should the total period of non-continuing appointment
+exceed 10 years counting from the fixed term (non-continuing) contract start date
+or a contract extension executed on or after April 1, 2013.
+4.6.1.6 STAs with continuing appointments
+STAs with continuing appointments will be evaluated by external peer review and
+will be reviewed for research funding, promotion, and salary adjustments (if
+applicable) by the CSAC at least every five years. If the CSAC recommends
+promotion, the Dean of Faculty Affairs will forward the CSAC’s recommendation
+to the President for a final decision.
+Continuing STAs will still be able to raise external funding in addition to research
+funding provided by the University or to replace OIST funding if the University’s
+research funding is discontinued after a negative external review. Should the
+STA’s achievements warrant, with approval of the Dean of Faculty Affairs, the
+STA may apply for timely external peer review in order to restart OIST subsidy
+funding after it has been discontinued. Based on the outcome of the external peer
+review, the President will
+1. Approve restarting research funding for up to five years, or
+2. Disapprove restarting research funding.
 4.6.2
 
 The Science and Technology Group (STG) Forum
-4.6.2.1
-The Role of the STG Forum
-The Science and Technology Group Forum provides an
-opportunity for the members of the Science and Technology
-Group to discuss the development of the STG, and provides them
-with information about university matters, collects their opinions
-and suggestions to provide feedback to the University, identifies
-and discusses common issues, and allows them to share research
-results.
-4.6.2.2
-Membership and Officers
-All Science and Technology Associates are members of the STG
-Forum. One member will be elected as the Chair of the Forum.
-The STG Forum will also elect the STG Representative to the
-Faculty Assembly.
-11
-Ch04_research-conduct_en_20170901_cl
+4.6.2.1 The Role of the STG Forum
+The STG Forum provides an opportunity for the members of the STG to discuss
+the development of the STG, and it provides them with information about
+university matters, collects their opinions and suggestions to provide feedback to
+the University, identifies and discusses common issues, and allows them to share
+research results.
+4.6.2.2 Membership and Officers
+All STAssociates are members of the STG Forum. One member will be elected as
+the Chair of the Forum. The STG Forum will also elect the STG Representative to
+the Faculty Assembly.
 
-4.6.2.3
-Meetings
-The Forum will meet at least twice in each academic year. The meeting will be
-attended by the Dean for Faculty Affairs, the Dean of Research, the STG Research
-Administrator (who will act as minutes secretary), the Executive Assistant to the
-Dean, and the HR Assistant to the Dean; there is a standing invitation to the
-President to attend.
-The Dean for Faculty Affairs will report on the STG Forum to the Faculty Council,
-and present the STG Annual Report to the Faculty Assembly.
+14
+Ch04_research-conduct_en_20171225_cl
+
+4.6.2.3 Meetings
+The Forum will meet at least twice in each academic year. Forum meetings are
+attended by the Dean for Faculty Affairs, the Dean of Research, the STG
+Research Unit Administrator (who acts as the forum secretary), the Executive
+Assistant to the Dean of Faculty Affairs, and the HR Assistant to the Dean of
+Faculty Affairs as necessary. The President has a standing invitations to attend.
+The Dean for Faculty Affairs reports on the STG Forum to the Faculty Council,
+and presents the STG Annual Report to the Faculty Assembly.
 4.7
 
 External Researchers
@@ -2848,28 +3026,29 @@ Mentor
 The University provides mentors who give appropriate assistance and advice to junior
 researchers so that they can perform research activities responsibly and autonomously.
 Researchers (including Research Fellows) who belong to a research unit and members of the
-STG are basically mentored by faculty members who are responsible for the research unit and
-the Dean of the Faculty Affairs, respectively. Junior faculty members are mentored by senior
-faculty members, and the assignments appointments are made by the Dean for the Faculty
-Affairs. Students are mentored by academic mentors [link: 5.3.10].
+STG are basically mentored by faculty members who are responsible for the research unit
+and the Dean of the Faculty Affairs, respectively. Junior faculty members are mentored by
+senior faculty members, and the assignments appointments are made by the Dean for the
+Faculty Affairs. Students are mentored by academic mentors [link: 5.3.10].
 4.9
 Responsibilities for Research Staff and Student
 Faculty members are not only scientific mentors for research staff and students but are also
-leaders in the workplace. They should make sure that the Policy on a Respectful Workplace [link:
-1.3.2] is observed within their units. Each faculty member should provide an opportunity for
-their unit members to clearly understand this Research Policy. Assessing the knowledge of these
-policies and inviting constructive input regarding these policies should be part of each unit
-members’ annual performance appraisal.
+leaders in the workplace. They should make sure that the Policy on a Respectful Workplace
+[link: 1.3.2] is observed within their units. Each faculty member should provide an
+opportunity for their unit members to clearly understand this Research Policy. Assessing the
+knowledge of these policies and inviting constructive input regarding these policies should
+be part of each unit members’ annual performance appraisal.
 4.10
 
 Organizations for Supporting Research
+
 4.10.1 Advisory Committees
 The office of the Dean of Research supports the organization of the following
 committees, which send recommendations to the Dean of Research concerning
 research related matters.
 4.10.1.1 Safety and Health Committee
-12
-Ch04_research-conduct_en_20170901_cl
+15
+Ch04_research-conduct_en_20171225_cl
 
 See Rules for Safety and Health Committee [link: 13.2.1]
 4.10.1.2 Radiation Safety Committee
@@ -2922,8 +3101,8 @@ Scientific Computing & Data Analysis
 In order to develop and promote a misconduct prevention plan to deal with the factors
 that may cause misconduct is a University-wide effort, for which it has established a
 
-13
-Ch04_research-conduct_en_20170901_cl
+16
+Ch04_research-conduct_en_20171225_cl
 
 Committee for the Promotion of Proper Research Conduct. The composition of the
 Committee and other necessary matters are set forth in separate documents [link: TBP].
@@ -2932,20 +3111,20 @@ conduct of research at OIST. Furthermore, in cooperation with VPAC and Complianc
 Section, the committee seeks to prevent misconduct.
 4.11 Research Ethics, Compliance, and Prevention of Conflicts of Interest
 Recognizing that scientific research is developed on a foundation of a public trust mandate,
-researchers must make honest and sincere decisions, and act accordingly to ensure responsible
-conduct of research. The University promotes responsible conduct of research and has
-established mechanisms to respond appropriately to research misconduct in line with the Code of
-Conduct for Scientists (2013, Science Council of Japan) and the Guidelines for Providing an
-Appropriate Response to Misconduct in Research Activities (2014, Decision by the Minister of
-Education, Culture, Sports, Science, and Technology).
+researchers must make honest and sincere decisions, and act accordingly to ensure
+responsible conduct of research. The University promotes responsible conduct of research
+and has established mechanisms to respond appropriately to research misconduct in line
+with the Code of Conduct for Scientists (2013, Science Council of Japan) and the Guidelines
+for Providing an Appropriate Response to Misconduct in Research Activities (2014, Decision
+by the Minister of Education, Culture, Sports, Science, and Technology).
 Experiments in certain categories are required to be reviewed by the relevant Advisory
 Committee [link: 4.5.1] and then approved by the Dean of Research before commencement.
 Further, some materials and equipment are subject to regulatory controls (including
 administrative guidelines) for acquisition, handling, storage, record-keeping, disposal, and
-installation. Activities involving controlled items must comply with relevant statutes, regulations
-and guidelines. Researchers have the right to engage in consulting and other activities with
-external partners, subject to the University’s policy on Conflicts of Interest and Commitment as
-defined in Chapter 22 [link: 22].
+installation. Activities involving controlled items must comply with relevant statutes,
+regulations and guidelines. Researchers have the right to engage in consulting and other
+activities with external partners, subject to the University’s policy on Conflicts of Interest and
+Commitment as defined in Chapter 22 [link: 22].
 4.11.1 Mechanisms for the Responsible Conduct of Research
 4.11.1.1 Research Ethics Chief Administrative Officer
 The President has the ultimate responsibility for ensuring responsible research
@@ -2965,8 +3144,8 @@ scholars, staff scientists, research specialists, technicians, Research Fellows 
 and technology associates must receive research ethics education [link: TBP] at least
 once every 5 years. When non-OIST researchers or students temporarily engage in
 
-14
-Ch04_research-conduct_en_20170901_cl
+17
+Ch04_research-conduct_en_20171225_cl
 
 research activities at the University for collaborative research, internship programs, or
 other reasons, the research units or sections that accept these non-OIST personnel are
@@ -3010,8 +3189,8 @@ commencement of the research and that approved protocols are followed by all
 research unit members. For specific research protocols that require approval, see
 Chapter 13 “Safety, Health & Environmental Protection” [link: 13].
 
-15
-Ch04_research-conduct_en_20170901_cl
+18
+Ch04_research-conduct_en_20171225_cl
 
 4.11.6 Publication of Research Results
 The results of research conducted at the University are required to made public as
@@ -3047,37 +3226,39 @@ Faculty members must disclose any situation that could lead to any real or appar
 conflicts of interest as detailed in Chapter 22 “Conflicts of Interest and Commitment”
 [link:22].
 4.12 Health, Safety, and Environmental Protection
-All researchers conducting research activities must do so under the relevant health, safety, and
-environmental protection regulations. For health, safety and environmental protection
+All researchers conducting research activities must do so under the relevant health, safety,
+and environmental protection regulations. For health, safety and environmental protection
 information, researchers are required to fully understand and observe Chapter 13 “Safety,
 Health & Environmental Protection” [link: 13].
-Each faculty member is responsible for training the members of their team in the appropriate
-health and safety procedures for that particular research area and for the management of those
-procedures in their laboratory or other workplace. Faculty members are also responsible for the
-16
-Ch04_research-conduct_en_20170901_cl
+Each faculty member is responsible for training the members of their team in the
+appropriate health and safety procedures for that particular research area and for the
+management of those procedures in their laboratory or other workplace. Faculty members
+19
+Ch04_research-conduct_en_20171225_cl
 
-safety of the laboratory facilities and equipment and are required to cooperate with
-investigations and inspections by University personnel or external agencies.
+are also responsible for the safety of the laboratory facilities and equipment and are
+required to cooperate with investigations and inspections by University personnel or
+external agencies.
 4.13 Intellectual Property
-Intellectual property may be a source of revenue to support the education and research mission
-of the University [link: 14]. In recognition of this, the University requires disclosure to the
-University when information and developments derived from research may be of broader
-benefit or/and have commercial value. The Technology Licensing Section [link: 14.4.2] provides
-support in identifying and evaluating potential intellectual property, manages the preparation of
-patent applications, and monitors the effective use of such properties. Nondisclosure and
-Confidentiality Agreements raise significant concerns as the terms of such agreements may
-conflict with the University’s Openness in Research Policy [link:1.3.1]. A contractual
-commitment to keep information secret can severely restrict the ability of University faculty to
-pursue research in the manner they choose and can make it difficult for the University to protect
-the ideas and inventions derived from the work of the faculty and researchers.
-It is forbidden to sign or otherwise bind the University to a confidentiality obligation without
-first having obtained written approval from the General Counsel. Those seeking an in-depth
-review of this subject relating to the University’s activities, please see Chapter 14, “Intellectual
-Property & Technology Transfer”[link:14].
+Intellectual property may be a source of revenue to support the education and research
+mission of the University [link: 14]. In recognition of this, the University requires disclosure
+to the University when information and developments derived from research may be of
+broader benefit or/and have commercial value. The Technology Licensing Section [link:
+14.4.2] provides support in identifying and evaluating potential intellectual property,
+manages the preparation of patent applications, and monitors the effective use of such
+properties. Nondisclosure and Confidentiality Agreements raise significant concerns as the
+terms of such agreements may conflict with the University’s Openness in Research Policy
+[link:1.3.1]. A contractual commitment to keep information secret can severely restrict the
+ability of University faculty to pursue research in the manner they choose and can make it
+difficult for the University to protect the ideas and inventions derived from the work of the
+faculty and researchers.
+It is forbidden to sign or otherwise bind the University to a confidentiality obligation
+without first having obtained written approval from the General Counsel. Those seeking an
+in-depth review of this subject relating to the University’s activities, please see Chapter 14,
+“Intellectual Property & Technology Transfer”[link:14].
 4.14 Fiscal Obligations
-Faculty members and recipients of external grants are responsible for managing their funding
-properly and efficiently. (See Chapter 26 “Finance & Accounting” [link: 26])
+Faculty members and recipients of external grants are responsible for managing their
+funding properly and efficiently. (See Chapter 26 “Finance & Accounting” [link: 26])
 4.15 Operation and Management of Public Research Grants
 4.15.1 Mechanisms for the Operation and Management of Public Research
 Grants
@@ -3093,12 +3274,12 @@ Administrative Officer is required to provide all necessary measures impartially
 and appropriately.
 4.15.1.2 Public Research Grants General Administrative Officer
 The Dean of Research assists the Public Research Grants Chief Administrative
-Officer, and has the authority and responsibility for the operation and
-management of public research grants as a Public Research Grants General
-17
-Ch04_research-conduct_en_20170901_cl
+20
+Ch04_research-conduct_en_20171225_cl
 
-Administrative Officer at the University. The Public Research Grants General
+Officer, and has the authority and responsibility for the operation and
+management of public research grants as a Public Research Grants General
+Administrative Officer at the University. The Public Research Grants General
 Administrative Officer develops Misconduct Prevention Plan and provides
 education and training workshops based on the Misconduct Prevention Plan to
 staff members in a planned and consistent manner.
@@ -3136,13 +3317,13 @@ operations and forwards such recommendations to the Dean of Research.
 The Research Support Sections may charge research units for the use of common
 research equipment and services to promote fair and efficient use.
 4.15.3 External Research Funding
-While internal research funding is a highly attractive feature for faculty, the University as
+
+21
+Ch04_research-conduct_en_20171225_cl
+
+While internal research funding is a highly attractive feature for faculty, the University as
 a whole is expected to gradually depend less on government subsidies and more on
-
-18
-Ch04_research-conduct_en_20170901_cl
-
-competitive government grants and private funding. It is also important for the financial
+competitive government grants and private funding. It is also important for the financial
 freedom of the University to provide flexible support for its research, education, and
 community building. The Grants and Research Collaborations Section overseen by the
 Dean of Research provides support for researchers to submit competitive research grant
@@ -3178,17 +3359,17 @@ reputation of the University and can result in extensive sanctions for the
 offending faculty member.
 4.16 External Use of Research Facilities and Services
 The University is privileged to have cutting-edge research facilities and equipment along with
-expert technical support staff. While the University’s research facilities and services are primarily
-for its own research and education, the utilization of excess capacity by external academic or
-industrial users can contribute to the advancement of science and technology in Okinawa and can
-foster active research communities around the University. The Office of the Dean of Research,
-overseen by the Dean of Research, promotes the external use of the University’s research facilities
-19
-Ch04_research-conduct_en_20170901_cl
+expert technical support staff. While the University’s research facilities and services are
+primarily for its own research and education, the utilization of excess capacity by external
+academic or industrial users can contribute to the advancement of science and technology in
+22
+Ch04_research-conduct_en_20171225_cl
 
-and services while assuring availability for internal users, the proper charging of both direct and
-indirect costs, safety, security, and compliance with the University’s policies and applicable
-regulations.
+Okinawa and can foster active research communities around the University. The Office of the
+Dean of Research, overseen by the Dean of Research, promotes the external use of the
+University’s research facilities and services while assuring availability for internal users, the
+proper charging of both direct and indirect costs, safety, security, and compliance with the
+University’s policies and applicable regulations.
 4.16.1 Condition of Use
 An external user of the University’s facilities and services must sign an agreement that
 outlines the safety and security, the ethical standards of the University, and the
@@ -3210,13 +3391,13 @@ users for the incremental cost per use and to charge external academic users for
 of the annual maintenance costs and to charge industrial users for the installation and
 depreciation of the facility.
 4.17 Reporting and Investigation procedures
-For reporting and investigation procedures in the case of any misconduct or suspicion thereof
-in research activities and use of research grants, see Chapter 23 [link: 23].
+For reporting and investigation procedures in the case of any misconduct or suspicion
+thereof in research activities and use of research grants, see Chapter 23 [link: 23].
 4.18 Contacts
 Policy Owner: Dean of Research
 
-20
-Ch04_research-conduct_en_20170901_cl
+23
+Ch04_research-conduct_en_20171225_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
@@ -3226,11 +3407,88 @@ Authority:
 
 Chapter 5. Graduate School Handbook
 5.1.The Graduate School
-The mission of the Graduate School is to provide first-class postgraduate education to the
-highest international standard. The Graduate School is a division of the OIST Graduate
-University. The Dean is the head of the Graduate School. The Graduate School’s major role is
-to provide academic services, student support and administrative support. These functions
-are organized into the corresponding sections as follows:
+The mission of the Graduate School of the OIST Graduate University is to provide first-class
+postgraduate education to the highest international standard. The Graduate School
+implements the following three core policies:
+i.
+
+Admission Policy:
+
+The Graduate University aims to train researchers who will play important roles in the
+international scientific community at leading scientific institutions in the public and
+private sectors. Accordingly, the Admissions Policy will make it a principle to recruit
+candidates with the potential and motivation to become leaders in scientific research on
+the international stage.
+Recruitment will focus on attracting outstanding students from within Japan and
+internationally. Here “outstanding students” means students who are highly motivated by
+the excitement and potential of the cutting-edge research that is possible at OIST, who
+have the curiosity and academic ability needed to excel in their chosen areas of study, and
+who have the capacity for independent research and original thinking. Our students will
+also require proficiency in oral and written communication skills in English for advanced
+study in science, and the ability to interact effectively with people from a wide range of
+backgrounds.
+Students will be eligible to apply if they are expected to complete a BSc or equivalent
+degree prior to admission, or have previously completed a BSc, MSc or equivalent degree
+representing the completion of an undergraduate course in science and engineering, or
+exceptionally in other fields. The student should meet requirements for admission to a
+graduate school under the School Education Act. Those who hold a Masters degree may be
+exempted from some coursework with the approval of the Dean. Successful candidates will
+only be enrolled into a doctoral program.
+
+ii. Curriculum Policy:
+In keeping with the concept of “best in the world” we will recruit outstanding students and
+conduct top class academic instruction. The academic program will aim to develop the full
+potential of each student toward scientific excellence and independence. In accordance
+with this aim, every student will be treated as a unique individual and have their program
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+of studies tailored to their scientific aspirations, prior education, and current interests. The
+basic principles of the curriculum design are to facilitate independent scientific thinking,
+and to learn by doing research. There will be a single program without barriers between
+disciplines.
+The students will be accepted directly into an integrated doctoral program leading to a
+postdoctoral career path in leading research institutes and universities. The doctoral
+program will have a standard enrollment period of five years, and will follow a coursebased study system. A three-term per year system will be used. The first two years will
+comprise a combination of laboratory rotations and courses, designed to prepare the
+students for their doctoral thesis work in a flexible way. In the second year the students
+will choose a laboratory in which to undertake thesis research and will submit a Thesis
+Proposal. An examination for progression to thesis research is held at the end of the
+second year, based on the written Thesis Proposal and an Oral Examination that includes a
+defense of the proposal and examination of fundamental knowledge in the field of the
+research. In order to ensure the highest international standards an external examiner who
+is expert in the field of the thesis study is a member of the examining panel. After
+determination of readiness for thesis work the students will enter into a three-year period
+of thesis research, which will conclude with examination of the thesis.
+Students entering the program directly from undergraduate studies will normally take
+about five years to complete their course of study. Those with a relevant Honors degree or
+a Master’s degree in another area can finish in four years. Students entering with a
+Master’s degree in the area they intend to specialize can finish in three years.
+
+iii. Diploma Policy:
+The Ph.D. degree is conferred by the University in recognition of completion by the
+candidate of original research that makes a significant contribution to scientific
+knowledge. The degree is not awarded for completion of certain courses or a fixed period
+of enrolment, or for directed work as a technician. The work for the degree consists of
+original research and systematic studies that advance knowledge, conducted by the
+candidate with an appropriate degree of independence. In addition, the candidate must
+demonstrate the ability to communicate the results of their research and scholarship
+effectively in both oral and written English. The candidate must present their work in a
+thesis and defend it in an oral examination. A published paper or manuscript ready for
+submission must be included as an appendix to the thesis. A candidate may not submit for
+examination work that has been included in a thesis or dissertation that has been
+previously submitted towards a degree qualification.
+In order to ensure the highest international standards a Final Examination is held after
+submission of the thesis. The Final Examination includes examination of the written thesis
+by two external examiners of international standing in the field of the thesis research, who
+also conduct an on-site oral examination.
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+The Graduate School is a division of the OIST Graduate University. The Dean is the head of
+the Graduate School. The Graduate School’s major role is to provide academic services,
+student support and administrative support. These functions are organized into the
+corresponding sections as follows:
 5.1.1.
 Academic Services Section
 The academic services section supports the academic program of the graduate
@@ -3278,9 +3536,7 @@ and seminars; and
 xvii
 Prepare and maintain database systems concerning:
 
-ch05_graduate-school-handbook_20170926_en_cl
-
-a. Intending students and applicants for admission
+a. Intending students and applicants for admission
 b. Individual records of faculty members
 
 c.
@@ -3293,7 +3549,10 @@ PhD thesis supervision
 Student academic records
 Course schedules
 g. Alumni
-xviii
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+xviii
 
 Provide secretariat for academic committees including:
 a. Admissions committee;
@@ -3344,10 +3603,7 @@ Undertake student recruitment activity
 iv.
 Organize seminars and lectures of general interest, among other
 things
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-5.2. Admissions and Registration
+5.2. Admissions and Registration
 The OIST Graduate University aims to train researchers who will play important roles in the
 international scientific community at leading scientific institutions in the public and private
 sectors. Accordingly, recruitment focuses on attracting outstanding students. Here
@@ -3355,7 +3611,10 @@ sectors. Accordingly, recruitment focuses on attracting outstanding students. He
 cutting edge research that is possible at OIST, who have the curiosity and academic ability
 needed to excel in their chosen areas of study, and who have the capacity for independent
 research and original thinking.
-The OIST Graduate Program is conducted in English, therefore our students also require
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+The OIST Graduate Program is conducted in English, therefore our students also require
 proficiency in oral and written communication skills in English for advanced study in science.
 <equal opportunity statement: Candidates are considered for admission without regard to race,
 color, religion, national origin, disability, or gender.>>
@@ -3383,6 +3642,10 @@ i.
 
 ii.
 
+iii.
+
+iv.
+
 Academic transcript and authenticated copies of diploma (BSc, MSc,
 etc.) An English explanation is required for transcripts that are not
 written in English.
@@ -3391,12 +3654,6 @@ should address the following points:
 a. The applicant’s scientific interests and aspirations, and;
 b. What the applicant hopes to gain from undertaking graduate
 studies at OIST.
-ch05_graduate-school-handbook_20170926_en_cl
-
-iii.
-
-iv.
-
 An applicant who is seeking admission on the basis of a qualification
 from a university for which the language of teaching and/or
 examination is not English is required to provide standard language
@@ -3405,8 +3662,9 @@ no minimum score required but the information is necessary in
 determining preparatory course requirements.
 A minimum of two letters of recommendation from appropriate
 academic sponsors.
+ch05_graduate-school-handbook_en_20171227_cl
 
-The following documents may be submitted optionally, and will be taken into
+The following documents may be submitted optionally, and will be taken into
 consideration by the selection committee if available:
 i
 Additional evidence of academic ability such as GRE general test
@@ -3438,10 +3696,7 @@ ii Provide tours of OIST research and teaching facilities, student support
 and accommodation, and the surrounding environments.
 iii Provide a social program giving an opportunity for students to meet
 existing students and faculty members.
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-5.2.3.2. Travel Rules for Candidates Attending Admissions Workshop
+5.2.3.2. Travel Rules for Candidates Attending Admissions Workshop
 For those invited to attend the workshop the travel costs and a per diem
 will be paid by OIST. The workshop will comprise a minimum of two full
 days in Okinawa, with flexibility regarding additional time.
@@ -3450,7 +3705,10 @@ OIST will cover the cost of accommodation and meals for candidates
 attending the Admissions Workshop at the OIST Graduate University.
 Breakfast, lunch & dinner will be provided from the evening before
 through the morning after the workshop.
-Travel support
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+Travel support
 1: OIST will support a round trip in economy class between Okinawa
 and the airport for the candidate’s starting and returning destination,
 excluding expenses for any layover (at any Japanese or foreign cities).
@@ -3480,10 +3738,7 @@ Admissions Office. The successful applicants will be sent an official letter
 offering admission to the graduate program. Successful applicants will be
 required to accept or decline the offer within 30 days. The deadline for
 accepting or declining the offer may be extended by the Admissions
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-Committee. A ranked list of reserves will be kept for a second round of
+Committee. A ranked list of reserves will be kept for a second round of
 offers if places become available.
 5.2.4. Number of Students Admitted
 In accordance with best-practice graduate teaching methods where low numbers of
@@ -3491,7 +3746,10 @@ students for each faculty member are essential, and in line with overseas presti
 universities, the admission capacity of PhD full-time graduate students accepted by
 the Graduate School shall be as stipulated in Article 15 of the OIST University Rules
 [link:].
-5.2.5. Transfer students
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+5.2.5. Transfer students
 Students who have commenced studies at another university and wish to continue
 their students at OIST and obtain the OIST PhD degree may, under special
 circumstances, be admitted subject to meeting admission standards. Such cases may
@@ -3522,19 +3780,18 @@ following conditions apply:
 i Registration is restricted to full-time candidates.
 ii A full-time candidate may hold an external scholarship or receive
 financial support from OIST, or a combination of both, to enable
-ch05_graduate-school-handbook_20170926_en_cl
-
-iii
-
 him or her to study on a full-time basis, but may not otherwise hold
 employment.
-The full-time status of the student must be confirmed in a written
+iii The full-time status of the student must be confirmed in a written
 declaration signed by the student and the Dean of the Graduate
 School.
 
 In order to register, the student, must submit all forms in complete form to the
 Student Support section.
-On registration a “registered student record” will be created for the student in the
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+On registration a “registered student record” will be created for the student in the
 student record system. This record will be the official record of the student and will
 link to all other records including student academic record, progress reports,
 financial support, and housing, etc.
@@ -3565,10 +3822,7 @@ restricted areas will only be made available after the appropriate safety
 and equipment training has been provided. Such access will only be
 provided while the student has a need to enter those particular restricted
 areas.
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-5.2.7.3.
+5.2.7.3.
 Loss and Replacement of Cards
 In the event that a Student ID Card is lost or misplaced, the student must
 immediately inform the Graduate School Office. A replacement Student
@@ -3579,7 +3833,10 @@ Student ID Cards may not under any circumstances be loaned out or used
 by other persons, whether or not those persons are themselves authorized
 to have access to OIST facilities. Cards may not be copied, reverseengineered, distributed without permission, or cryptanalyzed. Cards
 remain the property of OIST even when invalidated. The Dean of the
-Graduate School may take disciplinary action in the event that these
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+Graduate School may take disciplinary action in the event that these
 provisions are not followed.
 5.2.8. Induction program
 Students registered as full time OIST PhD students complete an induction program
@@ -3608,16 +3865,11 @@ the monthly Research Assistant payments, over 12 months.
 The OIST graduate school offers an integrated doctoral program leading to the degree of Doctor
 of Philosophy (PhD). The degree of PhD is a research postgraduate degree. Such a degree shall
 be awarded to a candidate who
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-i
+i
 
 ii
 
 iii
-
-iv
 
 meets admission requirements and receives and accepts an offer of
 admission, and is registered as a full-time PhD student for a
@@ -3630,6 +3882,10 @@ presents a successful thesis representing the result of the
 candidate’s research which should constitute an original
 contribution to knowledge and contain material worthy of
 publication; and
+ch05_graduate-school-handbook_en_20171227_cl
+
+iv
+
 satisfies the examiners in an oral examination in matters relevant
 to the subject of the thesis.
 
@@ -3663,10 +3919,7 @@ support section [link: 5.4.1])
 Maximum period of study
 The maximum permitted period of study is 10 years, including Study
 Leave and Annual Leave [link: 5.3.17].
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-5.3.2. Academic year and dates of terms
+5.3.2. Academic year and dates of terms
 The academic year begins in September each year. The school year is composed of
 three terms, with nominally 15 weeks of scheduled teaching in each term. This
 schedule was chosen in order to give enough time for completion of a meaningful
@@ -3677,7 +3930,10 @@ combination of Research Rotations and courses, designed to prepare the student f
 his or her doctoral thesis work in a flexible way. In the first two years of the program
 students will undertake an individualized study program constructed from a
 combination of courses.
-5.3.4. Course credits
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+5.3.4. Course credits
 The number of credits assigned to each course is stipulated in the Schedule of
 Courses [link: http://groups.oist.jp/ja/grad/course-info]. Students will be required
 to accrue at least 30 points before graduation. Courses include Professional
@@ -3708,9 +3964,7 @@ Rotations form a major part of the student’s work in the first year of the
 graduate program. In each rotation, the student will spend one term
 undertaking a specific project and will then move on to a different
 research unit. The Rotations provide a variety of experience in different
-ch05_graduate-school-handbook_20170926_en_cl
-
-laboratories that will broaden the student’s understanding of different
+laboratories that will broaden the student’s understanding of different
 disciplines, techniques, and ways of thinking. Rotations may include
 theoretical work or modeling as well as laboratory benchwork. They are
 intended to help the student select the most appropriate research unit
@@ -3722,7 +3976,9 @@ equivalent prior research experience, in which case credit may be
 awarded in increments of 3 points as a cross-credit [link: 5.6.2.]. In
 general, not more than 6 points can be cross-credited for rotations, so
 that all students must complete at least one rotation.
-The choice of Rotations is part of the approved course taken by the
+ch05_graduate-school-handbook_en_20171227_cl
+
+The choice of Rotations is part of the approved course taken by the
 student, and requires discussion with the Academic Mentor [link: 5.3.10].
 The number of students who may take a rotation in a given research unit
 is limited to 2 and not all choices will necessarily be available at a given
@@ -3752,10 +4008,7 @@ PhD Thesis Proposal
 Students are required to complete a PhD Thesis Proposal with a point value of 1
 point. Students will normally begin work on their PhD Thesis Proposal at the start
 of the second year, in the Research Unit where they intend to conduct their thesis
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-research. The Thesis Supervisor will provide research guidance and the students will
+research. The Thesis Supervisor will provide research guidance and the students will
 undertake preliminary thesis work. The PhD Thesis Proposal will comprise:
 i
 ii
@@ -3773,10 +4026,11 @@ develop theoretical work, and write up in the prescribed format
 A proposed topic for thesis research. This should constitute a
 research question and outline of the aims, methods and significance
 of the proposed research. It would normally use the independent
-research project as preliminary evidence in support of the proposed
+ch05_graduate-school-handbook_en_20171227_cl
+
+research project as preliminary evidence in support of the proposed
 research, but the student may also choose a different topic for the
 thesis.
-
 These three parts will normally be completed in sequence and submitted one at the
 end of each term to the provisional Thesis Committee. The committee will give
 feedback and the student will make necessary revisions. The completed PhD Thesis
@@ -3808,16 +4062,13 @@ Three Rotations.
 (See separate note regarding additional professional development courses.)
 Year 2
 i
-
-Prepare PhD Thesis Proposal.
-ch05_graduate-school-handbook_20170926_en_cl
-
-ii
+ii
 iii
 iv
 v
 vi
 
+Prepare PhD Thesis Proposal.
 Complete approved Advanced Courses and additional Basic
 courses as needed.
 Professional Development Ⅱ commences.
@@ -3835,7 +4086,9 @@ Thesis research.
 Professional Development II.
 Workshop Courses.
 
-Examination of thesis
+ch05_graduate-school-handbook_en_20171227_cl
+
+Examination of thesis
 i Notification of intention to submit Thesis
 ii Thesis Examination Committee nominated.
 iii Thesis submitted
@@ -3864,10 +4117,7 @@ supervision of graduate thesis research. New Faculty may
 gain experience in course advising and supervision by
 serving on thesis committees as a committee member.
 ii High level of competence in the field, able to give advice to
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-the student on the choice of courses that will prepare them
+the student on the choice of courses that will prepare them
 for their PhD thesis research.
 iii Be a disinterested party charged with working for the best
 interests of the student
@@ -3876,7 +4126,10 @@ the duration of the student’s studies at OIST. The Academic Mentor
 cannot also be the same student’s Thesis Supervisor. If a student elects to
 undertake their thesis research in the research unit of the Academic
 Mentor, a new Academic Mentor shall be appointed.
-5.3.10.2.
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+5.3.10.2.
 Duties of Academic Mentor in development of Course Plan
 The Academic Mentor and student together will formulate a plan of
 courses and Rotations for the first two years. The course plan will take
@@ -3910,9 +4163,7 @@ complaints about examination results will be considered by the Dean of
 the Graduate School and scripts will be checked for errors in marking. If
 errors are detected marks may be corrected up or down with the
 agreement of the examiner.
-ch05_graduate-school-handbook_20170926_en_cl
-
-Formal assessment of courses will be coordinated by the Academic
+Formal assessment of courses will be coordinated by the Academic
 Services section. The dates of examinations and due dates of major items
 of assessment will be coordinated to avoid timetable clashes. Such dates
 will be fixed at the start of each academic year and students will be
@@ -3920,7 +4171,10 @@ advised of the examination and assessment timetable at the start of the
 year.
 Examination questions must be provided to Academic Services at least
 one month prior to the examination for preparation of examination
-papers. Examinations will be invigilated. Entry to the examination rooms
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+papers. Examinations will be invigilated. Entry to the examination rooms
 will only be permitted for candidates enrolled in the course.
 5.3.10.6.
 Monitoring of student progress and student mentoring
@@ -3955,15 +4209,16 @@ Supervisor. The student is responsible for nominating the Thesis
 Supervisor and may suggest names for the third Thesis Committee
 Member. The Academic Services section will provide guidance and
 assistance to students in relation to this process.
-ch05_graduate-school-handbook_20170926_en_cl
-
-PhD Thesis Supervisors must be full-time faculty members. Adjunct and
+PhD Thesis Supervisors must be full-time faculty members. Adjunct and
 visiting faculty members may be cosupervisors or Thesis Committee
 members. Faculty external to the university may be cosupervisors or
 Thesis Committee members provided an institutional agreement exists
 with the university of the external faculty member. Information about
 such agreements is available from Academic Services.
-5.3.11.2.
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+5.3.11.2.
 Process for approval of Thesis Supervisor/s and Thesis
 Committee members
 In consultation with the intended PhD Thesis Supervisor, Academic
@@ -4000,16 +4255,18 @@ are separately described (5.3.7).
 5. An Endorsement of the thesis proposal from the proposed thesis
 supervisor, the student’s academic mentor, and other members of the
 intended thesis committee, on the prescribed Thesis Proposal
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-Submission Cover Sheet ［link］
+Submission Cover Sheet ［link］
 6. Further material deemed relevant to the evaluation.
 The Curriculum and Examinations committee will reach one of the
 three decisions listed below and record the decision in the student’s
 academic record:
-i. Passed. The candidate is advanced to candidacy. The committee
-may require additional course work or stipulate minor revisions to the
+i.
+
+Passed. The candidate is advanced to candidacy. The committee
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+may require additional course work or stipulate minor revisions to the
 thesis proposal.
 ii. Deferred. This outcome is possible only if the student’s academic
 preparation is sufficient, and the thesis proposal is not acceptable in its
@@ -4044,10 +4301,7 @@ Examinations committee. A member of the Curriculum and
 Examinations committee nominated by the Dean of the Graduate School
 will chair the examining panel. The examining panel will not include the
 proposed thesis supervisor or student’s mentor.
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-Half of the examination will be an oral defense of the thesis proposal. The
+Half of the examination will be an oral defense of the thesis proposal. The
 student will be required to demonstrate the necessary advanced
 knowledge and understanding to undertake the proposed thesis research,
 and show their original and independent contribution to the proposal.
@@ -4055,7 +4309,9 @@ The other half of the examination will cover fundamental knowledge in
 the field or fields of the proposed thesis research. The candidate should
 demonstrate fundamental knowledge of sufficient scope and depth to
 provide a secure foundation. The examining panel will take into account
-the recommendations of the proposed thesis supervisor concerning the
+ch05_graduate-school-handbook_en_20171227_cl
+
+the recommendations of the proposed thesis supervisor concerning the
 scope and depth of the knowledge required, which will be communicated
 to the examiner and student through the Curriculum and Examinations
 Committee. On the advice of the Committee the oral examination may be
@@ -4090,10 +4346,7 @@ satisfied. In the case of a “pass” outcome the procedures for conferment
 of the degree (5.3.15) shall be followed. In the case of a “fail” outcome the
 Individual Student Record shall be updated with an entry on the next day,
 stating that the outcome is “fail ” . At the time when the individual
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-Student Record is updated, the candidate is sent a letter advising of the
+Student Record is updated, the candidate is sent a letter advising of the
 outcome.
 5.3.11.6. Exit with MSc prior to progression to PhD thesis research
 Under exceptional circumstances, when deemed necessary by the Dean
@@ -4101,7 +4354,10 @@ of the Graduate School, a student who, prior to evaluation for progression
 to PhD thesis research, requests early exit from the program may be
 allowed to submit a thesis for award of the MSc degree in accordance with
 Article 37, paragraph 3 of the University Rules. Early exit must be
-requested within two years of enrolment and approved by the Dean of the
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+requested within two years of enrolment and approved by the Dean of the
 Graduate School. An MSc may be awarded if the candidate successfully
 completes the following minimum requirements:
 i. At least 30 points (20 from courses, 10 from research work).
@@ -4134,10 +4390,7 @@ outcome of the qualifying examination. The appeal will be referred to the
 Dean of Faculty Affairs, who will determine the course of action to be
 undertaken, taking into consideration the grounds for the appeal stated
 by the candidate. This may include a review of the examination process.
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-The Dean of Faculty Affairs will determine the outcome of the appeal as
+The Dean of Faculty Affairs will determine the outcome of the appeal as
 either:
 i.The procedures for the qualifying examination were applied correctly,
 and the appeal is unsuccessful.
@@ -4147,7 +4400,9 @@ outcome of the examination, and the appeal is unsuccessful.
 iii.The procedures for the qualifying examination were not applied
 correctly, and the variation in procedures did influence the outcome of
 the examination, and the appeal is successful. In this case, the Dean of
-Faculty Affairs will determine further action to be taken, which may
+ch05_graduate-school-handbook_en_20171227_cl
+
+Faculty Affairs will determine further action to be taken, which may
 include re-examination.
 The outcome of the appeal will be determined within 28 days of the date
 the written appeal was received by the Office of Academic Services.
@@ -4179,9 +4434,7 @@ elsewhere [link: 5.4. ].
 The Ph.D. degree is conferred by the University in recognition of completion by the
 candidate of original research that makes a significant contribution to scientific
 knowledge. The degree is not awarded for completion of certain courses or a fixed
-ch05_graduate-school-handbook_20170926_en_cl
-
-period of enrolment, or for directed work as a technician. The work for the degree
+period of enrolment, or for directed work as a technician. The work for the degree
 consists of original research and systematic studies that advance knowledge,
 conducted by the candidate with an appropriate degree of independence. In
 addition, the candidate must demonstrate the ability to communicate the results of
@@ -4190,7 +4443,10 @@ candidate must present their work in a thesis and defend it in an oral examinati
 A candidate may not submit for examination work that has been included in a thesis
 or dissertation that has been previously submitted towards a degree qualification.
 Course credit requirements are listed in PRP 5.3.13.7.
-5.3.13.1.
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+5.3.13.1.
 Thesis Requirements
 The thesis must present original research that makes a significant
 contribution to scientific knowledge. The thesis must form a coherent
@@ -4224,10 +4480,7 @@ The examination process is strictly confidential.
 The candidate must submit to the Graduate School written Notice of
 Intent to Submit a Thesis with enough time for the examination to be
 arranged before the proposed submission date.
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-The Graduate School will provide guidance on the time required in each
+The Graduate School will provide guidance on the time required in each
 case. Before submission of the thesis, the Graduate School must confirm
 that the course credits necessary for graduation have been completed.
 If there are insufficient course credits, the required additional credits
@@ -4238,7 +4491,10 @@ After receiving the Notice of Intent to Submit a Thesis, the Curriculum
 and Examinations Committee (CEC) will appoint thesis examiners from
 within and outside the University, to form a Thesis Examination Panel,
 as follows:
-i.
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+i.
 Two Examiners selected from two different working-countries, who
 are expert in the field of the proposed thesis and external to OIST. The
 CEC appoints the examiners taking into account nominations provided
@@ -4277,9 +4533,7 @@ may appear to compromise objectivity, such as having been in the
 same department as the supervisor, having been a thesis or
 postdoctoral supervisor (or vice versa), or having joint
 publications or grants with the supervisor in the past 5 years
-ch05_graduate-school-handbook_20170926_en_cl
-
-iv.
+iv.
 Have had prior contact with the candidate that may appear
 to compromise objectivity, such as having been in the same
 department as the candidate, having supervised the candidate in
@@ -4289,7 +4543,9 @@ with the candidate at any time.
 
 Examination of the Written Thesis
 
-The two external examiners read the thesis, separately prepare a report
+ch05_graduate-school-handbook_en_20171227_cl
+
+The two external examiners read the thesis, separately prepare a report
 and choose a recommendation regarding the acceptability of the thesis
 for a PhD from the following:
 i.
@@ -4327,9 +4583,7 @@ Oral Examination
 
 The Thesis Examination Panel conducts the oral examination for up to
 three hours in private at OIST.
-ch05_graduate-school-handbook_20170926_en_cl
-
-It is a requirement that all examiners participate in the oral examination.
+It is a requirement that all examiners participate in the oral examination.
 Exceptionally, if an examiner is not available in Okinawa at a time
 convenient for a meeting of the Thesis Examination Panel, the Dean of
 the Graduate School can approve remote participation of an examiner by
@@ -4337,7 +4591,10 @@ teleconferencing.
 The Thesis Supervisor and members of the Thesis Committee may attend
 the oral examination as observers but may not participate in the
 examination.
-After the oral examination the Thesis Examination Panel confers
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+After the oral examination the Thesis Examination Panel confers
 privately to determine a recommendation from one of the following:
 i. PASS
 ii. PASS with minor revisions
@@ -4376,10 +4633,7 @@ Public presentation
 There is no requirement for a public defense of the degree thesis as part
 of Doctor the examination process. As part of Philosophy. their
 professional development candidates are expected to give a final
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-presentation of their research for the OIST community, but this does not
+presentation of their research for the OIST community, but this does not
 form part of the examination.
 5.3.13.7 Summary of Completion Requirements
 In order to graduate with the PhD degree, a candidate must have been
@@ -4388,7 +4642,9 @@ stipulated in Article 35 of the university rules[link] and successfully met
 the following minimum requirements:
 i.
 completed and passed at least 30 course credits (20
-credits in case of MSc graduates)
+ch05_graduate-school-handbook_en_20171227_cl
+
+credits in case of MSc graduates)
 ii.
 
 submitted a PhD thesis for examination,
@@ -4413,17 +4669,18 @@ Appeals will be managed by the process stipulated in 5.3.11.7.
 5.3.14. Prizes
 The graduate university may establish prizes.
 5.3.15. Graduation
-5.3.15.1 Conferment of Degree
+
+5.3.15.1.
+
+Conferment of Degree
+
 After the Curriculum and Examinations Committee has determined that
-all academic requirements for the award of the degree have been
-satisfied, the student shall submit a bound copy of his or her thesis, with
-all required corrections completed, to the University library, together
-with an electronic copy for the University record.
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-On confirmation of receipt of the bound thesis, the secretary of the
-Curriculum and Examinations Committee passes to the faculty
+all academic requirements for the award of the degree have been satisfied,
+the student shall submit a bound copy of his or her thesis, with all
+required corrections completed, to the University library, together with
+an electronic copy for the University record.
+On confirmation of receipt of the electronic file of thesis, the secretary of
+the Curriculum and Examinations Committee passes to the faculty
 assembly
 
 the
@@ -4443,7 +4700,10 @@ The
 recommendation shall be sent electronically. If there are no objections
 within three working days, the recommendation shall be considered as
 having been confirmed by the Faculty Assembly. In the case that there
-are valid objections the matter shall be put on the agenda for the next
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+are valid objections the matter shall be put on the agenda for the next
 Faculty Assembly meeting, and the student and members of the thesis
 committee shall be informed. The Dean of the Graduate School shall
 prepare a recommendation for the Faculty Assembly after hearing the
@@ -4451,43 +4711,72 @@ nature of the objection.
 Once the Faculty Assembly has approved the recommendation, the
 minutes of the Faculty Assembly hold a record of the names of the
 candidates, the date, and title of the thesis. The Individual Student
-Record shall be updated with an entry on the next working day, stating
-that all requirements for the degree have been satisfied and the degree
-has been conferred. The record includes the date, the title of the thesis,
-the name of the Thesis Supervisor, and the names of the members of the
-Thesis Committee.
-At the time when the individual Student Record is updated, the
-candidate is sent a letter confirming that the degree has been conferred
-and that the candidate may graduate at the next graduation ceremony
-or “in absentia”. The degree certificate is presented by the President at
-the graduation ceremony. A student who chooses to graduate in
-absentia is provided with the degree certificate after the graduation
-ceremony. The format of the certificate is as per Form 1 (for PhD
-Degree) and Form 2 (for MSc Degree) ［link］.
+Record shall be updated with an entry by the end of the month in which
+the Faculty Assembly approved, stating that all requirements for the
+degree have been satisfied and the degree has been conferred. The record
+includes the date, the title of the thesis, the name of the Thesis Supervisor,
+and the names of the members of the Thesis Committee.
+At the time when the individual Student Record is updated, the candidate
+is sent a letter confirming that the degree has been conferred and that the
+candidate may graduate at the next graduation ceremony or “in absentia”.
+The degree certificate is presented by the President at the graduation
+ceremony. A student who chooses to graduate in absentia is provided
+with the degree certificate after the graduation ceremony. The format of
+the certificate is as per Form 1 (for PhD Degree) and Form 2 (for MSc
+Degree) ［link］.
 When the President of the Graduate University has conferred a Doctoral
 degree, it shall be reported to the Minister of Education, Culture, Sports,
 Science and Technology, and the summary of the contents of the thesis
 and the summary of the results of the thesis examination shall be
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-publicized on the internet within 3 months following the day of the
+publicized on the internet within 3 months following the day of the
 conferment of the Doctoral degree.
 When a Doctoral degree is conferred, the entire text of the thesis related
 to the conferment of the Doctoral degree shall be published within one
-year following the day of the conferment of the Doctoral degree;
-provided however, that this shall not apply to the thesis published prior
-to the conferment of the Doctoral degree. The student may request that
-the full text not be published, and instead only publish a summary of
-the contents of the thesis in lieu of the entire text of thesis when there is
+year following the day of the conferment of the Doctoral degree; provided
+however, that this shall not apply to the thesis published prior to the
+conferment of the Doctoral degree. The student may request that the full
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+text not be published, and instead only publish a summary of the
+contents of the thesis in lieu of the entire text of thesis when there is
 significant reason and with approval of the Dean of the Graduate School.
 In this case, the University will make available for inspection the entire
 text of the thesis in response to a request, in hard copy and on University
 library premises. When deemed necessary for intellectual property
-protection or other reasons, this inspection will be subject to a nondisclosure agreement. When the Dean of the Graduate School judges
-that the significant reason no longer exists, the entire text of thesis
-related to the conferment of the Doctoral degree shall be published
-through the medium specified by the university.
+protection or other reasons, this inspection will be subject to a nondisclosure agreement. When the Dean of the Graduate School judges that
+the significant reason no longer exists, the entire text of thesis related to
+the conferment of the Doctoral degree shall be published through the
+medium specified by the university.
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+5.3.15.2.
+
+Graduation Ceremony
+
+The University holds an annual Graduation Ceremony, to which all
+eligible PhD graduates from the preceding year are invited. The President
+will present those graduates in attendance at the ceremony with their
+degree certificates in the presence of the assembled faculty of the
+University. Graduates who choose to graduate in absentia will be
+mentioned at the ceremony and their certificate will be sent to them by
+mail.
+OIST official academic dress comprises a black gown with red border and
+white piping, together with a black velvet tam and tassel. PhD graduates
+of the OIST Graduate University augment the university gown and tam
+with a hood, presented at the graduation ceremony. Academic dress is
+made available by the Graduate School for rent or purchase by faculty
+members, students, and graduates. The rental fee covers cleaning and
+other costs, while the purchase cost reflects the actual cost of academic
+dress manufacture. Graduating students may elect to rent for the
+graduation ceremony and purchase at a later date. Academic dress
+rentals are not permitted for off-site use.
+Under the OIST travel rules, the Graduate School will pay for airfare for
+the OIST graduates attending the ceremony to receive their degree
+certificate. In addition, the Graduate School will cover the cost of guest
+rooms in Seaside House for the graduates and family members for their
+accommodation if available.
 5.3.16. Student professional development
 5.3.16.1.
 Careers Advice
@@ -4502,17 +4791,16 @@ The OIST Graduate School offers OIST PhD students and Special
 Research Students opportunities to gain experience and develop skills as
 Teaching Assistants. Teaching Assistants may contribute to various
 educational activities such as:
-1.
+ch05_graduate-school-handbook_en_20171227_cl
+
+1.
 Assisting an OIST faculty member in the delivery of an official OIST
 Graduate School course. Teaching Assistants may contribute in activities
 such as laboratory classes and tutorials and preparation of materials
 under the supervision of the faculty member. It is expected that the OIST
 faculty member is present for the scheduled teaching hours to provide
 mentoring and quality control; this should not be used to replace faculty
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-in teaching. Selection as a Teaching Assistant for a course is decided by
+in teaching. Selection as a Teaching Assistant for a course is decided by
 the faculty member in charge of the course.
 2.
 Acting as tutors in OIST International Workshops and Courses, or
@@ -4547,13 +4835,14 @@ the Student Support desk. This form is necessary for recording the
 Teaching Assistant activity of each student. The form should detail the
 contact hours and be signed by the proposed supervisor. A CV should be
 attached.
-Service as a Teaching Assistant is normally unpaid because students
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+Service as a Teaching Assistant is normally unpaid because students
 receive financial support by other mechanisms. Exceptional cases and
 other necessary items are separately stipulated.
 
-ch05_graduate-school-handbook_20170926_en_cl
-
-5.3.17. Leave of Absence and Holidays
+5.3.17. Leave of Absence and Holidays
 Research study in the Graduate School is considered a year-round activity that
 continues between teaching terms. A student who wishes to be absent from Okinawa
 and / or the approved course of study and research, or who proposes to take
@@ -4592,12 +4881,11 @@ she is best advised for personal, health, or other reasons to have time
 completely away from his / her academic responsibilities. Under no
 circumstances shall leave of absence under this category be granted on
 each occasion or cumulatively for a period of more than two years for the
-entire period of study. Any period of Non-study Leave granted shall result
+ch05_graduate-school-handbook_en_20171227_cl
+
+entire period of study. Any period of Non-study Leave granted shall result
 in the extension of the period of study by the period of absence.
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-5.3.17.4.
+5.3.17.4.
 Special Leave
 Students may be granted Special Leave for a variety of reasons with
 approval by the Graduate School. The table below indicates acceptable
@@ -4701,15 +4989,15 @@ Up to 3 days
 •
 
 To provide care to a new
-born baby or for another
-child of the same family
-who has not entered
 
 Up to 5 days
 
-ch05_graduate-school-handbook_20170926_en_cl
+ch05_graduate-school-handbook_en_20171227_cl
 
-elementary school during
+born baby or for another
+child of the same family
+who has not entered
+elementary school during
 the period from 8 weeks (14
 weeks for multiple
 pregnancies) before the
@@ -4790,14 +5078,14 @@ University holidays shall be as follows:
 i. Saturdays and Sundays; and
 ii. Holidays specified in the Act on National Holidays (Act No. 178 of
 1948).
-iii. Year-end and New Year Holidays (from December 29 to January 3 of
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+iii. Year-end and New Year Holidays (from December 29 to January 3 of
 the following year)
 iv. The president may specify extraordinary holidays when deemed
 necessary.
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-5.3.18. Childbirth Accommodation Policy
+5.3.18. Childbirth Accommodation Policy
 The OIST Graduate University promotes diversity and supports balance in work
 and family life. It recognizes the need to accommodate the demands on students
 associated with pregnancy, childbirth, and the care of children. The University
@@ -4833,14 +5121,14 @@ Maternity Leave provisions for Full-time employees, as follows:
 Prenatal Leave. Research Assistants who expect to give birth within 6 weeks
 (14 weeks for multiple pregnancies) are granted prenatal maternity leave.
 When the actual delivery is after the expected delivery date, the additional
-days are included in the maternity leave.
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+days are included in the maternity leave.
 Postpartum Leave. Research Assistants are granted 8-week paid postpartum
 maternity leave after giving birth. In this period, the University may not
 require them to work. However, up on their request, the Research Assistant
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-may return to work for duties approved by a doctor.
+may return to work for duties approved by a doctor.
 Eligibility
 The Childbirth Accommodation Policy applies to registered OIST graduate
 students, who are anticipating or experiencing a birth, adoption, or delivery by
@@ -4875,11 +5163,11 @@ Accommodation Policy. Independent of making this request for part-time
 enrolment, if a serious medical problem were to arise for mother or newborn, the
 woman student would be eligible for extension of the period of Childbirth
 Accommodation Policy until the medical problem is resolved.
-Residency requirements
 
-ch05_graduate-school-handbook_20170926_en_cl
+ch05_graduate-school-handbook_en_20171227_cl
 
-The expectation is that the student will be in residence in Okinawa, and, assuming
+Residency requirements
+The expectation is that the student will be in residence in Okinawa, and, assuming
 good health of the pregnant woman or new mother and the infant, will remain
 engaged in class work and research, even if at a reduced level.
 Childbirth Accommodation Policy for students who are not in
@@ -4916,12 +5204,12 @@ Funding
 Once a student submits an application, the Office of the Dean of the Graduate
 School will ensure that students whose applications have been approved will see no
 change in their financial support as Research Assistants.
-Students who are supported by fellowships external to OIST must adhere to the
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+Students who are supported by fellowships external to OIST must adhere to the
 rules of the granting agency with respect to absences from academic and research
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-work. If the granting agency requires suspension of fellowship benefits the student
+work. If the granting agency requires suspension of fellowship benefits the student
 will be eligible for substitute payment from OIST under the terms of a temporary
 Research Assistant agreement.
 Duration
@@ -4958,12 +5246,12 @@ imagination to provide more than this minimum, according to the particular
 circumstances of the student. For example, women whose research involves
 working with toxic chemicals or fieldwork may need some form of accommodation
 during the entire pregnancy and during lactation. Taking care of an infant is timeconsuming and sleep-depriving, so advisors need to have realistic expectations
-about rates of progress on research. For their part, new parents need to keep the
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+about rates of progress on research. For their part, new parents need to keep the
 lines of communication with their advisors open, and demonstrate to their
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-advisors that they are academically engaged and making progress on coursework
+advisors that they are academically engaged and making progress on coursework
 and research, even if it is at a somewhat slower pace than prior to giving birth. In
 other words, the Childbirth Accommodation Policy is intended to support—not
 replace—the open communication and good will that should characterize the
@@ -5004,11 +5292,11 @@ Continued financial support for students in the doctoral program
 depends on maintained performance in study and research, and is based
 on the provision of satisfactory annual Progress Reports. Assistantships
 will be discontinued in the event of unexcused absence, failure to
-maintain adequate academic performance, unethical behavior, or other
-reasons determined by the academic oversight process to be incompatible
-ch05_graduate-school-handbook_20170926_en_cl
+ch05_graduate-school-handbook_en_20171227_cl
 
-with good standing.
+maintain adequate academic performance, unethical behavior, or other
+reasons determined by the academic oversight process to be incompatible
+with good standing.
 Overseas tenure of a Research Assistant and a Senior Research Assistant
 is not normally permitted. In exceptional circumstances, a period of
 overseas tenure may be granted by the Graduate School, if it can be
@@ -5047,11 +5335,10 @@ availability of budget, and the nature of the activity. When payment
 is possible it is made on an hourly basis for the contact hours and
 preparation time. Paid preparation time, when necessary, is based on
 a maximum of 4 hours preparation for 1 hour of contact time. Details
-of the conditions of service are separately stipulated.
+ch05_graduate-school-handbook_en_20171227_cl
 
-ch05_graduate-school-handbook_20170926_en_cl
-
-5.4.1.2.2. Tuition waiver
+of the conditions of service are separately stipulated.
+5.4.1.2.2. Tuition waiver
 The University may offer full amount tuition waiver to those who are
 recognized for their excellence in performance of research work by
 external awards (JSPS scholar etc.). Students applying for tuition
@@ -5084,12 +5371,12 @@ additional school terms (started from the beginning of each term
 using the terms defined in Article 17 of the University Rules) may be
 possible.
 2. Change in thesis research laboratory.
-This may occur because of the departure or incapacity of the
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+This may occur because of the departure or incapacity of the
 supervisor, or because of a change of supervisor that has been
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-approved by the graduate school. In such cases, subject to continued
+approved by the graduate school. In such cases, subject to continued
 satisfactory academic progress, the financial support may be
 extended by the Dean of the Graduate School for the period
 necessary to complete the course of study. Continuation is subject
@@ -5111,28 +5398,42 @@ to the Dean of the Graduate School by the end of the 4th year.
 Travel support for educational purposes
 The University does not provide grants for home leave. However, the
 University provides travel support for visiting an educational institution.
-The amount of support will be based on the cheapest of two quotes for a
-round trip economy flight to the student’s destination, no per-diem and
-lodging allowance will be provided. As long as there is no hindrance to
-study and the Research Assistant work, it is possible to take paid annual
-leave or other types of leave during the travel period. This support is
-available once each year of study. For a student who does not yet have
-an approved thesis supervisor, the travel itinerary is approved by the
-Dean of the Graduate School. When students do have an approved thesis
-supervisor, the thesis supervisor and the Dean of the Graduate School
-approve the travel.
-5.4.1.5.
+The amount of support will be based on the lowest quote obtained from
+the University’s PTAs for a round trip economy flight to the student’s
+destination, no per-diem and lodging allowance will be provided.
+However, the hotel arrangement due to flight connections can be
+considered as a part of this travel support. As long as there is no
+hindrance to study and the Research Assistant work, it is possible to take
+paid annual leave or other types of leave during the travel period. This
+support is available once each year of study. For students who do not yet
+have an approved thesis supervisor, the travel is approved by rotation
+supervisor and the Dean of the Graduate School. When students do have
+an approved thesis supervisor, the thesis supervisor and the Dean of the
+Graduate School approve the travel. For details concerning visiting an
+educational institution, please refer to the OIST Guidelines for Student
+Travel [Link:].
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+5.4.1.5.
 Travel grants for students to attend conferences
 Rules for travel grants for students to attend conferences and other
-educational activities are stipulated in PRP Chapter 29[link: 29].
+educational activities are stipulated in PRP Chapter 29[link: 29]. For
+details concerning attending conferences and other educational
+activities, please refer to the OIST Guidelines for Student Travel <Link:>
+5.4.1.6.
 
-ch05_graduate-school-handbook_20170926_en_cl
+Travel grants for career development
 
-5.4.1.6.
+Rules for travel grants for students to attend domestic career events and
+other career activities are stipulated in PRP Chapter 29. For details
+concerning attending career events and other career activities, please
+refer to the OIST Guidelines for Student Travel [Link:].
+5.4.1.7.
 
 Relocation
 
-5.4.1.6.1.
+5.4.1.7.1.
 
 Transfer Allowance
 
@@ -5148,7 +5449,7 @@ International
 Family relocation allowance:
 Spouse & Child 12 years of age or older = 2/3
 Child under 12 years of age = 1/3
-5.4.1.6.2.
+5.4.1.7.2.
 Relocation Expenses
 Actual relocation expenses can be reimbursed up to the maximum
 level stipulated in the table below:
@@ -5164,22 +5465,22 @@ International
 Reimbursement of relocation expenses can only be provided once.
 If a Student voluntarily terminates the agreement within the first
 three months, OIST S.C. may request return of the total amount
-provided. If the termination is due to unavoidable circumstances
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+provided. If the termination is due to unavoidable circumstances
 (including family health reasons), OIST S.C. may waive the claim
 regarding return of the above amount.
-5.4.1.7. Commuting
+5.4.1.8. Commuting
 In principle, students who live outside the campus and need to
 commute are expected to use the OIST shuttle bus.
-5.4.1.7.1 Commuting Allowance
+5.4.1.8.1 Commuting Allowance
 A commuting allowance may be paid to students who live
 outside of campus but cannot use the OIST shuttle bus for
 reasons deemed valid by the Dean of the Graduate School.
 Details on the allowance are stipulated separately by “Rules
 Pertaining to a Commuting Allowance for Students” ［link］.
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-5.4.2. Assistance with visa requirements
+5.4.2. Assistance with visa requirements
 The student support section provides assistance with student visas. Students must
 have completed visa requirements prior to registration. Students needing assistance
 must contact the student support section at least three months prior to registration
@@ -5209,7 +5510,9 @@ with PAS (Gakkensai and Gakkenbai)
 All students are covered by Gakkensai and Gakkenbai provided by
 Graduate School. <ref: link to Gakkensai and Gakkenbai>.
 
-5.4.3.3.
+ch05_graduate-school-handbook_en_20171227_cl
+
+5.4.3.3.
 Childcare
 Students needing childcare will be eligible to use on-campus earlychildhood education facilities when these become available.
 5.4.3.4.
@@ -5223,9 +5526,7 @@ student is required to live off-campus due to unavoidable circumstances, such as
 shortage of housing in the Campus Housing, the University may lease off-campus
 housing for residence of the student. (Please refer Student Rental Housing Rules
 [link: ].)
-ch05_graduate-school-handbook_20170926_en_cl
-
-5.4.4.1.
+5.4.4.1.
 
 On-Campus Housing
 
@@ -5280,10 +5581,8 @@ Net R en t
 41 , 00 0 ye n/ mt h
 Mast er B R:
 20 , 00 0 y e n/ mt h*
-Oth er BR :
-1 8 ,0 00 y en / mth *
 
-Net R e n t
+Net R en t
 (U nfu rn is h ed )
 13, 60 0 ye n/ mt h
 65 ,0 00 y en/ mt h
@@ -5291,6 +5590,12 @@ Net R e n t
 21 ,0 00 y en /m th
 Mast er B R:
 1 1 , 00 0 y e n/ mt h*
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+Oth er BR :
+1 8 ,0 00 y en / mth *
+
 Oth er BR :
 1 0, 00 0 ye n/ mt h *
 
@@ -5304,10 +5609,7 @@ circumstances, such as shortage of housing in the Campus Housing, the
 University may lease off-campus housing for residence of the student.
 (Please refer Student Rental Housing Rules.)
 5.4.4.3. Payment
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-Rent, Utilities (if applicable) and other necessary costs will be deducted
+Rent, Utilities (if applicable) and other necessary costs will be deducted
 from the emolument of the Research Assistantship. Those who do not
 have Research Assistantship will be billed.
 5.5. Categories of students
@@ -5336,7 +5638,9 @@ Eligibility
 
 Period
 
-Students receiving research
+ch05_graduate-school-handbook_en_20171227_cl
+
+Students receiving research
 Special Research
 Student <Tokubetsu-
 
@@ -5362,23 +5666,18 @@ Up to 6 months
 professor.
 
 Students participating in a
+research project as part of a
 Visiting Research
 Student
 
+recognized collaboration, or
 5.5.2.3.
 
-research project as part of a
-recognized collaboration, or
-
-Up to 364 days
-
-some other defined research
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-project under the
+some other defined research Up to 364 days
+project under the
 supervision of an OIST
 professor.
+
 Visiting Students
 <Kamoku-Tou-
 
@@ -5412,7 +5711,9 @@ OIST.
 
 These categories are separately considered in the following sections.
 
-5.5.2.1
+ch05_graduate-school-handbook_en_20171227_cl
+
+5.5.2.1
 Special Research Students <Tokubetsu-Kenkyu-Gakusei>
 Students of other universities (referred to as the “partner institution”)
 who are permitted by the partner institution to receive research guidance
@@ -5431,10 +5732,7 @@ applications will be approved provided this poses no obstacles to the
 education and research activity of the Graduate School.
 Faculty members of the OIST Graduate School can provide supervision
 to Special Research Students of the partner institution under the terms
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-of an agreement with the partner institution. The period for which a
+of an agreement with the partner institution. The period for which a
 student can receive research guidance as a Special Research Student
 must be stipulated in the agreement. This term is normally for one year,
 subject to renewal as needed. Upon the completion of the period of
@@ -5457,7 +5755,9 @@ exception of Financial Support, which is handled differently.
 Students of newly-hired faculty
 Students of newly hired faculty who relocate to OIST before
 completion of their PhD degree may need special arrangements
-to facilitate the successful completion of their PhD. If the student
+ch05_graduate-school-handbook_en_20171227_cl
+
+to facilitate the successful completion of their PhD. If the student
 is able to complete their research at OIST while continuing to be
 enrolled at their original home institution, they can be received
 as Special Research Students receiving research guidance from
@@ -5476,9 +5776,7 @@ Special Research Students must be formally accepted and
 registered as Special Students at the OIST Graduate University in
 accordance with Article 43 of the University Rules [link: ]. The
 Graduate School must be notified of the intention to host the
-ch05_graduate-school-handbook_20170926_en_cl
-
-student by the Professor of the Research Unit in a timely manner
+student by the Professor of the Research Unit in a timely manner
 (at least 6months prior to the expected start date). The
 procedure for acceptance and registration requires the student to
 submit the documents listed below:
@@ -5510,7 +5808,9 @@ OIST. The Graduate School will complete such an agreement
 with the partner institution. Such an agreement may allow for
 mutual waiver of tuition fees. Where such an agreement does not
 exist, tuition fees may be charged to the student.
-After acceptance of the student, the Graduate School will make a
+ch05_graduate-school-handbook_en_20171227_cl
+
+After acceptance of the student, the Graduate School will make a
 recommendation to the Research Unit concerning the conditions
 of financial support for the Special Research Student. The
 student must declare any external financial support from the
@@ -5526,10 +5826,7 @@ financial support, the conditions of appointment will be
 stipulated in an offer letter that will constitute the agreement
 between OIST and the Special Research Student after it is signed
 by both parties.
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-The host Research Unit is responsible for making travel and
+The host Research Unit is responsible for making travel and
 housing arrangements for the Special Research Student. As
 necessary, the Student Support Section will assist with visa
 processing requirements. Housing is available to Special
@@ -5552,7 +5849,10 @@ Research Unit.
 5.5.2.1.3.1. SRS Research Assistantship
 A SRS Research Assistantship is an appointment provided to
 a Special Research Student in good standing who performs
-research or who assists others performing research and
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+research or who assists others performing research and
 educational activities.
 Tenure of a SRS Research Assistantship is for one year, or
 until he thesis is submitted (whichever period is the shorter).
@@ -5570,9 +5870,7 @@ accordance with OIST PRP Chapter 29. For the purpose of
 business travel, Special Research Students are considered as
 Category Group 5 employees. Support for such travel must
 come from the Research Unit, not the Graduate School.
-ch05_graduate-school-handbook_20170926_en_cl
-
-5.5.2.1. 3.3. Relocation
+5.5.2.1. 3.3. Relocation
 5.5.2.1.3.3.1. Transfer Allowance Transfer Allowance can
 be provided stipulated in the table below:
 Domestic
@@ -5604,7 +5902,10 @@ per
 *350,000 yen if transferring a car from mainland Japan
 Reimbursement of relocation expenses can only be provided
 once.
-If a Special Research Student voluntarily terminates the
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+If a Special Research Student voluntarily terminates the
 agreement within the first three months, OIST S.C. may
 request return of the total amount provided. If the
 termination is due to unavoidable circumstances (including
@@ -5620,10 +5921,7 @@ Pertaining to a Commuting Allowance for Students”.
 All Special Research Students must join the National Health
 Insurance scheme. They are covered by Accident Insurance
 for Students Pursuing Education and Research (PAS), and
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-Liability Insurance coupled with PAS (Gakkensai and
+Liability Insurance coupled with PAS (Gakkensai and
 Gakkenbai) provided by Graduate School.
 5.5.2.1.3.6. Accommodation
 Subsidized accommodation is provided for Special Research
@@ -5673,7 +5971,10 @@ Net R en t
 *This applies only when both parties are registered OIST
 graduate students.
 Minor change in rates on the order of 10% is possible.
-5.5.2.1.3.6.2. Off-Campus Housing
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+5.5.2.1.3.6.2. Off-Campus Housing
 If a Special Research Student is required to live off-campus
 due to unavoidable circumstances, such as shortage of
 housing in the Campus Housing, the University may lease
@@ -5690,10 +5991,7 @@ Research Interns
 Previously registered, current, or intending students of another
 university who wish to undertake educational activity at OIST may do so
 as Research Interns. Research Intern placements give talented students
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-experience working in a research setting under the direction of a
+experience working in a research setting under the direction of a
 Professor at OIST.
 The Graduate School administers a limited number of Research Intern
 positions as part of its student recruitment and outreach program.
@@ -5716,7 +6014,10 @@ School.
 The applications of high ranking applicants who are already in
 PhD programs will be forwarded to the Faculty for consideration
 of placement in research units, supported by research unit funds.
-Applications from currently enrolled students must be supported
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+Applications from currently enrolled students must be supported
 by a recommendation letter from the Dean, Head of Department,
 or supervising professor of the program they are enrolled in.
 5.5.2.2.2.
@@ -5733,10 +6034,7 @@ available funding and space. Professors accepting students
 under these programs will review the student’s qualifications,
 research capabilities, and academic training in a comprehensive
 manner.
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-5.5.2.2.3
+5.5.2.2.3
 Duration
 The tenure of Research Intern placement is normally less than 6
 months. Under no circumstances may tenure be extended more
@@ -5763,7 +6061,10 @@ Holidays [link], or for working days on which Research Interns
 work less than four hours. In addition, where necessary, OIST
 will also provide up to a maximum of ￥45,000 per month as a
 Commuting Allowance and up to a maximum of ￥3,500 per day
-as Overnight Accommodation Costs (instead of provision of
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+as Overnight Accommodation Costs (instead of provision of
 accommodation costs, accommodation is normally provided at
 no cost to the student). The Internship Allowance will be adjusted
 if the Research Intern has another source of financial support.
@@ -5781,12 +6082,8 @@ by their supervisor; the Student Support Section is informed by
 submitting a leave request through the website [link]; there is no
 hindrance to their research activities.
 5.5.2.2.7
-
 Travel
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-OIST will pay for one direct round-trip travel for Research
+OIST will pay for one direct round-trip travel for Research
 Interns between the home university or institution and the
 Research Unit or other facility where the internship will take
 place (usually Okinawa). The travel dates must be as close as
@@ -5810,7 +6107,10 @@ Visiting Research Students are registered students of another institution
 who wish to undertake a period of research at OIST under the
 supervision of an OIST faculty member as part of a recognized
 collaborative research project or some other defined research project.
-5.5.2.3.1. Eligibility
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+5.5.2.3.1. Eligibility
 This category provides for students enrolled for higher degrees at
 other institutions and engaged in research activity who wish to
 come to OIST to engage in a recognized collaborative research
@@ -5827,9 +6127,7 @@ registered as Special Students at the OIST Graduate University in
 accordance with the University Rules. The Graduate School must
 be notified of the intention to host the student by the Professor of
 the Research Unit in a timely manner. The procedure for
-ch05_graduate-school-handbook_20170926_en_cl
-
-acceptance and registration requires the student to submit the
+acceptance and registration requires the student to submit the
 documents listed below:
 i)
 ii)
@@ -5863,7 +6161,9 @@ OIST PRP Chapter 29.
 Visiting Students are registered students of another university who wish
 to take one or more courses offered by the OIST Graduate School for
 credit at their home university. With the prior permission of the Dean,
-who will take into account such factors as class size, such a student may
+ch05_graduate-school-handbook_en_20171227_cl
+
+who will take into account such factors as class size, such a student may
 enroll as a Visiting Student. Applications for admission as a Visiting
 Student must be received one month before the start of the course,
 using the appropriate form (see Forms). Credit cannot be awarded to
@@ -5880,9 +6180,8 @@ graduate program, or who have been admitted but wish to start early,
 may enroll for courses and receive credit at the OIST graduate
 university as Visiting Students. The Graduate School will provide, on
 request, an individual student transcript of courses completed.
-ch05_graduate-school-handbook_20170926_en_cl
 
-5.5.2.5 Course Auditors <Choukousei>
+5.5.2.5 Course Auditors <Choukousei>
 Members of the OIST community (including faculty, researchers, OIST
 students and special research students, research interns, administrative
 staff, and family members) may apply to become Course Auditors of
@@ -5905,7 +6204,9 @@ Junior Research Fellows are the students whose thesis supervisor
 requests a continuation of their research project after the degree
 conferral at OIST.
 Students in this category are registered as Special Students. The
-duration is up to a maximum of 6 months. Under no conditions can this
+ch05_graduate-school-handbook_en_20171227_cl
+
+duration is up to a maximum of 6 months. Under no conditions can this
 be extended beyond 6 months. A concrete research plan approved by
 their thesis supervisor and the Dean of the Graduate School is required.
 Financial support for Junior Research Fellows may be available from
@@ -5920,9 +6221,7 @@ Appointment to a postdoctoral position at OIST is not permitted for
 OIST PhD students within 2 years of the last day of their studentship at
 OIST.
 5.5.2.6.1. Procedures for Junior Research Fellows
-ch05_graduate-school-handbook_20170926_en_cl
-
-Junior Research Fellows must be formally accepted and registered as
+Junior Research Fellows must be formally accepted and registered as
 Special Student at the OIST Graduate University in accordance with
 Article 43 of the University Rules. The Graduate School must be notified
 of the intention to host the student by their thesis supervisor (preferably
@@ -5957,7 +6256,10 @@ If a student is admitted by OIST as a Junior Research Fellow, the level
 of financial support and conditions are stipulated in the Junior
 Research Fellowship Agreement prepared by the Student Support
 Section. If the Junior Research Fellow is not receiving this financial
-support, the conditions of appointment will be stipulated in an offer
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+support, the conditions of appointment will be stipulated in an offer
 letter that will constitute the agreement between OIST and the Junior
 Research Fellows after it is signed by both parties.
 5.5.2.6.2. Financial Support for Junior Research Fellows
@@ -5973,10 +6275,7 @@ the research project after the degree conferral for up to 6 months.
 5.5.2.6.2.2. Business travel
 Approved business travel for work may be undertaken in accordance
 with OIST PRP Chapter 29. For the purpose of business travel, Junior
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-Research Fellows are considered as Category Group 5. Support for such
+Research Fellows are considered as Category Group 5. Support for such
 travel must come from the Research Unit.
 5.5.2.6.2.3. Commuting Allowance
 A commuting allowance may be paid to students who live outside of
@@ -5999,7 +6298,10 @@ Fellowship will be billed.
 5.6.
 
 Improvement of education
-5.6.1.
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+5.6.1.
 Basic Policy of Faculty Development
 The Graduate University must maintain and improve the quality of its Faculty in
 order to provide an outstanding education at OIST and to meet the different
@@ -6019,9 +6321,7 @@ Student Teaching Evaluations
 Students will evaluate each course at the end of the course. The results of
 such evaluations will be distributed to the teacher, and will also be
 available to students. The student responses to a standard subset of
-ch05_graduate-school-handbook_20170926_en_cl
-
-questions will be reported to the Office of the Dean of the Graduate
+questions will be reported to the Office of the Dean of the Graduate
 School. The Faculty Development section of the Office of the Dean of the
 Graduate School will assist the teacher to respond appropriately to this
 feedback.
@@ -6046,7 +6346,10 @@ experienced faculty to receive advice and support. As a part of this system
 the Thesis Committee supervising each student will include junior and
 senior Faculty members to facilitate the transfer of skills relating to
 supervision of research.
-The Faculty Development section will implement these methods to
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+The Faculty Development section will implement these methods to
 ensure the improvement of the education and research of the Graduate
 University.
 5.7. Library
@@ -6061,10 +6364,7 @@ Technology and Security [link: 6].
 5.9.
 
 Administrative rules
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-5.9.1.
+5.9.1.
 
 Academic progression requirements
 
@@ -6085,7 +6385,10 @@ to address issues affecting progress.
 Satisfactory academic progression requires:
 1. A level of performance in courses and rotations meeting all of the
 following criteria:
-i.
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+i.
 
 Completing an approved program of elective coursework with
 at least a “Pass” evaluation in all courses, at a rate sufficient
@@ -6110,9 +6413,7 @@ Committee. The Curriculum and Examinations Committee
 may require a minimal evaluation higher than a “Pass” in the
 overall academic performance of the student.
 
-ch05_graduate-school-handbook_20170926_en_cl
-
-2. Satisfactory progress in research defined by the following criteria:
+2. Satisfactory progress in research defined by the following criteria:
 i.
 
 Timely development by the student of research goals that can
@@ -6141,7 +6442,10 @@ criteria listed above, as determined by the Curriculum and Examinations
 Committee.
 In the case of established unsatisfactory academic progress the
 Committee may recommend probation or termination of candidacy.
-Probation is an option if satisfactory progress can be achieved by (a)
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+Probation is an option if satisfactory progress can be achieved by (a)
 repeating and passing a failed unit (course or rotation); or, (b)
 substituting and passing an approved alternative unit. If the Committee
 recommends probation the Dean of the Graduate School alerts the
@@ -6155,10 +6459,7 @@ Discontinuation of studies
 Discontinuation for unsatisfactory academic progress
 Students in the PhD program may be discontinued for unsatisfactory
 academic progress. In such cases the Dean of the Graduate School may
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-order the discontinuation of that student upon obtaining permission
+order the discontinuation of that student upon obtaining permission
 from the President, and with endorsement of the decision by the
 Curriculum and Examinations Committee.
 
@@ -6181,7 +6482,10 @@ appoints Committee members. The Dean of Research, Manager,
 Academic Services Section, and Manager, Student Support Section are
 ex-officio members of the Committee. The Academic Services section
 provides administrative support for the Committee.
-5.10.1.2.
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+5.10.1.2.
 Chairperson of the Committee
 The Dean of the Graduate School shall preside at meetings of the
 Committee.
@@ -6203,37 +6507,31 @@ Meetings of the Committee
 i
 If there is not a majority of the members with voting rights in
 attendance, the Committee shall not transact its business.
-ch05_graduate-school-handbook_20170926_en_cl
-
-ii
-iii
-
-iv
-
-v
-vi
-
-vii
-
+ii
 Resolutions of the Committee shall be passed by a majority. The
 Chairperson shall make a decision in case of tie in votes
+iii
 As deemed necessary by the Chairperson members may
 participate in the Committee meeting by teleconference and
 exercise voting rights. Absent
 members may not exercise
 voting rights.
+iv
 As deemed necessary by the Chairperson faculty members other
 than members of the Committee may be invited to attend the
 meeting and participate in proceedings or serve as advisors on
 panels. This may occur, for example, to ensure that certain fields
 of expertise are represented, or to achieve diversity.
+v
 The agenda and decisions of the Committee shall be made
 available to all Faculty Assembly members.
+vi
 The Committee shall include a member who is charged with
 ensuring that issues of diversity and equal opportunity are
 properly addressed. This shall be a trained member of staff from
 the diversity office or a member of the committee who has
 received appropriate training.
+vii
 Members of the committee or panels must declare conflicts of
 interest or the appearance of a conflict when these exist. Conflicts
 of interest occur when a candidate has any of the following
@@ -6241,13 +6539,16 @@ relationships to the Committee member or advisor:
 (a)
 (b)
 (c)
-(d)
-(e)
 
 Former or present student;
 Student for whom the member has written a
 supporting letter;
 Former or current business partner or employer;
+ch05_graduate-school-handbook_en_20171227_cl
+
+(d)
+(e)
+
 Close friend or partner;
 Family member (spouse, child, sibling, sibling of
 spouse or child of sibling).
@@ -6267,9 +6568,7 @@ of interest, they shall disclose the relevant facts. If an undeclared conflict
 of interest is discovered and the procedures have not been followed the
 matter shall be referred to the President, who will determine the course
 of action to be taken in response.
-ch05_graduate-school-handbook_20170926_en_cl
-
-Conflict of Interest in Relation to Applicants Who Are Family Members
+Conflict of Interest in Relation to Applicants Who Are Family Members
 There is no barrier to the candidacy or selection of a candidate who is a
 family member provided that proper procedures are followed. In the case
 of a family member, the conflict of interest shall be declared in writing to
@@ -6292,7 +6591,9 @@ In the case of other conflicts of interest, the conflict shall be declared to
 the Chairperson, who shall ensure that the committee member concerned
 takes no part in the decision of the committee with respect to the
 candidate, by requiring the member to leave the room when the
-candidate is discussed, or stronger measures as considered necessary by
+ch05_graduate-school-handbook_en_20171227_cl
+
+candidate is discussed, or stronger measures as considered necessary by
 the Chairperson.
 
 5.10.2. Curriculum and Examinations Committee
@@ -6310,10 +6611,7 @@ of research and education at OIST who are charged with providing advice
 on matters requiring academic input. The Dean of the Graduate School
 appoints Committee members. The Dean of Research, Manager,
 Academic Services Section, and Manager, Student Support Section are
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-ex-officio members of the Committee. The Academic Services section
+ex-officio members of the Committee. The Academic Services section
 provides administrative support for the Committee.
 5.10.2.2.
 Chairperson of the Committee
@@ -6339,7 +6637,10 @@ individual student progress in the PhD program.
 The committee deals with:
 •Individual student program (by review of program proposals)
 •Individual student progress (by review of annual progress reports)
-•Approval of thesis proposals and progression to thesis research
+
+ch05_graduate-school-handbook_en_20171227_cl
+
+•Approval of thesis proposals and progression to thesis research
 •Appointment of thesis supervisor and thesis committee
 •Appointment of examiners
 •Award of degrees
@@ -6358,10 +6659,7 @@ in the Committee meeting by teleconference and exercise voting rights.
 Absent members may not exercise voting rights.
 iv. As deemed necessary by the Chairperson faculty members other
 than members of the Committee may be invited to attend the meeting
-
-ch05_graduate-school-handbook_20170926_en_cl
-
-and participate in proceedings or serve as advisors on panels. This may
+and participate in proceedings or serve as advisors on panels. This may
 occur, for example, to ensure that certain fields of expertise are
 represented, or to achieve diversity.
 v.
@@ -6387,7 +6685,7 @@ Priority is given to use in official Graduate School courses and other Graduate 
 sponsored trainings and events. When a space is not in use, it may be booked and used with
 prior approval of the Graduate School.
 
-ch05_graduate-school-handbook_20170926_en_cl
+ch05_graduate-school-handbook_en_20171227_cl
 
 OIST Graduate University
 Policies, Rules, & Procedures
