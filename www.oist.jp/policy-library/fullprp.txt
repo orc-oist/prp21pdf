@@ -1898,7 +1898,7 @@ The management structure of the University is described in the Chapter 2
 [link: ]. The administrative organization responsible for faculty governance
 and academic issues will be the Faculty Assembly (the “Assembly”). The
 Assembly will have an executive body, the Faculty Council (the “Council”). The
-Assembly and Council are described in sections 3.3.1 and 3.3.2, respectively.
+Assembly and Council are described in sections 3.4.1 and 3.4.2, respectively.
 The administrative home of the members of the faculty will be the Dean for
 Faculty Affairs.
 The Dean of Research will lead the Research Support Division; administer
@@ -1967,8 +1967,8 @@ Dean of the Graduate School Dean for Faculty Affairs and Dean
 of Research make appointments to these committees.
 3.4.1.2 Membership of the Assembly
 The membership of the Assembly includes all full-time
-Professors, Associate Professors, and Assistant Professors. The
-Secretary to the Assembly (see 3.3.3[link: ]) will act as the
+Professors, Associate Professors, and 4ssistant Professors. The
+Secretary to the Assembly (see 3.4.3[link: ]) will act as the
 15
 ch03_faculty-handbook_en_20171221_cl
 
@@ -2301,7 +2301,7 @@ Affairs.
 3.7.3.5 Period of Partial Leave without Salary
 Periods of partial leave without salary have the same effect on
 Term of Appointment and Term of Research Support as
-described in 3.6.3.3, and 3.6.3.4, but on a proportional basis.
+described in 3.7.3.3, and 3.7.3.4, but on a proportional basis.
 3.7.4 Period of Pure Research Leave
 Full-time faculty members may apply for a period of pure research
 leave, which is defined as leave from teaching and other institutional
