@@ -2945,12 +2945,11 @@ promotion (if applicable) to the President:
 chance of having a significant impact in that discipline over the next
 10-15 years;
 3. That there is an identifiable benefit to OIST’s academic reputation.
-4.6.1.5
-The CSAC is comprised of the Executive Vice President for
-Technology Development and Innovation, the Dean of Research, the Dean of
-Faculty Affairs, and the Chair of the Faculty Assembly or his/her nominee. Since
-the Dean of Faculty Affairs is a member of the CSAC and is the proponent for the
-continuing appointment of the STA, the Dean of Faculty Affairs will present the
+The CSAC is comprised of the Executive Vice President for Technology
+Development and Innovation, the Dean of Research, the Dean of Faculty Affairs,
+and the Chair of the Faculty Assembly or his/her nominee. Since the Dean of
+Faculty Affairs is a member of the CSAC and is the proponent for the continuing
+appointment of the STA, the Dean of Faculty Affairs will present the
 recommendation, but will not participate in discussions regarding the STA’s
 continuing appointment during the CSAC meeting.
 When the CSAC recommends the continuing appointment and the President
@@ -2970,8 +2969,8 @@ year from notification of the decision, whichever is later, subject to the limit
 in 4.6.1.5.
 4.6.1.5 Total period of non-continuing appointment
 Under no circumstances, should the total period of non-continuing appointment
-exceed 10 years counting from the fixed term (non-continuing) contract start date
-or a contract extension executed on or after April 1, 2013.
+exceed 10 years counting from the fixed term (non-continuing) contract start
+date or a contract extension executed on or after April 1, 2013.
 4.6.1.6 STAs with continuing appointments
 STAs with continuing appointments will be evaluated by external peer review and
 will be reviewed for research funding, promotion, and salary adjustments (if
@@ -2997,9 +2996,9 @@ university matters, collects their opinions and suggestions to provide feedback 
 the University, identifies and discusses common issues, and allows them to share
 research results.
 4.6.2.2 Membership and Officers
-All STAssociates are members of the STG Forum. One member will be elected as
-the Chair of the Forum. The STG Forum will also elect the STG Representative to
-the Faculty Assembly.
+All STAs are members of the STG Forum. One member will be elected as the
+Chair of the Forum. The STG Forum will also elect the STG Representative to the
+Faculty Assembly.
 
 14
 Ch04_research-conduct_en_20171225_cl
