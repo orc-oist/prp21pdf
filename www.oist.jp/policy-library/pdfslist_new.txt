@@ -24,7 +24,7 @@ https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch24_Childcare
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch25_Housing_20150601_en_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch26_finance-and-accounting_20170901_en_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch27_budget-planning-execution-and-monitoring_20170901_en_cl.pdf
-https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch28_procurement_20170901_en_cl.pdf
+https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch28_procurement_en_20180201_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch29_travel-and-meetings_20171016_en_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch30_Human_Resources_EN20161209_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch31_recruitment-and-hiring_en_20170302_cl.pdf

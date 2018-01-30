@@ -17488,12 +17488,27 @@ Authority: Approved by the President
 
 Chapter 28. Procurement
 28.1 Policy
-The Board of Governors [link: 2.2] delegates significant procurement authority
-to the OIST Graduate University (“the University”) so that it may acquire goods,
-services and construction needed to carry out its goals and missions. This
-authority is ultimately delegated to designated procurement agents, Contracting
-Officers and faculty who must base their purchases on sound business practice,
-best value, accountability, and compliance with donor, sponsor, and regulatory
+The Board of Governor delegates significant procurement authority to the OIST
+Graduate University (“the University”) so that it may acquire goods, services and
+construction needed to carry out its goals and missions. This authority is
+ultimately delegated to designated procurement agents, Contracting Officers and
+faculty who must base their purchases on sound business practice, best value,
+accountability,
+
+and
+
+compliance
+
+with
+
+donor,
+
+sponsor,
+
+and
+
+regulatory
+
 requirements. Further, the University requires those who make purchases on its
 behalf to comply with the rules and procedures set out in this Chapter.
 28.2 General Considerations
@@ -17505,31 +17520,31 @@ Persons in charge of
 units or sections and their supervisors procuring
 
 goods or services on behalf of the University must comply with OIST
-Graduate University Code of Conduct [link: 1.4] in the course of all
-transactions. Examples of illegal and unethical practices include
-engaging in price fixing arrangements; bid rigging acts; agreements with
-competitors to divide or allocate markets or customers; falsifying
-accounting records; intentional misrepresentations to the University’s
-auditors; bribery and kickbacks.
+Graduate University Code of Conduct in the course of all transactions.
+Examples of illegal and unethical practices include engaging in price
+fixing arrangements; bid rigging acts; agreements with competitors to
+divide or allocate markets or customers; falsifying accounting records;
+intentional misrepresentations to the University’s auditors; bribery and
+kickbacks.
 
-Misconduct of this nature is subject to
+Misconduct of this nature is subject to disciplinary action in
 
-disciplinary action in accordance with Chapter 23, Misconduct &
-Whistleblower Protection [link: 23] and Chapter 38, Discipline [link: 38].
+accordance with Chapter 23, Misconduct & Whistleblower Protection and
+Chapter 38, Discipline.
 
 1
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
 Caution: Personal gifts or gratuities from vendors must be
 declined, and if received, returned to the vendors or suppliers.
 This and other conflict of interest and commitment concerns are
 addressed in detail in Chapter 22, Avoiding Conflicts of Interest
-and Commitment [link: 22].
+and Commitment.
 28.2.2 Conflicts of Interest
 The University expects its faculty and staff to avoid any real or potential
 conflict of interest when procuring goods or services on its behalf. For
-additional information, refer to our Code of Conduct [link: 1.4] and our
-Conflicts of Interest & Commitment policy [link: 22].
+additional information, refer to our Code of Conduct and our Conflicts of
+Interest & Commitment policy.
 28.2.3 Unauthorized Purchases
 Persons in charge of units or sections must not make unauthorized
 purchases, that is, those that are not in compliance with any aspect of this
@@ -17538,7 +17553,7 @@ making commitments for payments without proper authorization, and
 making false inspection records. Because unauthorized purchases
 increase legal and financial risks for the University, persons in charge of
 units and sections or their supervisors making such purchases may be
-held personally liable and/or subject to disciplinary action [link: 38].
+held personally liable and/or subject to disciplinary action.
 28.2.4 Business Purpose
 Persons in charge of units or sections and their supervisors must not
 make purchases that are not for an approved business purpose (Examples
@@ -17550,16 +17565,16 @@ The point service, which accumulates points through purchase of
 business purpose and enables to receive discount or item, is
 
 2
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
 recommended to use for the business purpose transactions in the next
 time or after. Procurement for the purposes of resale must be made in
 accordance with the requirements of this Chapter. See also Chapter 21,
-Use of University Resources [link: 21]
+Use of University Resources.
 28.2.5 Disclosure of Contract Information
-According to Stipulation on Contract Management [link: 28.5.2], the
-University discloses the following information regarding past and future
-procurements on its website [link: ].
+According to Stipulation on Contract Management, the University
+discloses the following information regarding past and future
+procurements on its website.
 
 
 Negotiated contracts of more than 5 million JPY: the University
@@ -17592,15 +17607,15 @@ units or sections
 other than the
 
 3
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
 Procurement and Supplies section and the sections under the supervision
 of Vice President for Buildings & Facility Management (the facility
 related sections) can purchase from vendors when they procure goods
 and services. When units or sections procure goods, services and
-construction, the prior subject to approval of Budget holder [link: 27.3.2]
-is necessary regardless of the amount. For placing an order, only an
-official authorized purchase order form by the University should be used.
+construction, the prior subject to approval of Budget holder is necessary
+regardless of the amount. For placing an order, only an official authorized
+purchase order form by the University should be used.
 28.3.1.1
 
 Approval on budget holder’s behalf
@@ -17628,7 +17643,7 @@ exceed 5.0 million JPY, the Procurement and Supplies section and the
 facility related sections may proceed using one of the following
 
 4
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
 competitive procedures
  Estimation of price (0.5 million JPY less than 1.0 million
@@ -17651,19 +17666,19 @@ goods, services or construction. The Committee decision is
 disclosed on the University website.
  Procurement in emergency situations
  Others stipulated in the Contract Management
-Stipulations [link: 28.5.2], Article 31
+Stipulations, Article 31
 The Procurement and Supplies Section and the facility related sections
 must obtain approval of the approver specified by the PRP26.9
-Appendices Table [link: ] and “Guidelines for Document based Approval
-Process” [link: ] with the justification for the vendor selection, terms
-and conditions, and the other necessary information.
+Appendices Table and “Guidelines for Document based Approval
+Process” with the justification for the vendor selection, terms and
+conditions, and the other necessary information.
 Making the intentional split order for adjusting the transaction amount,
 for the purpose of avoiding best value comparative analysis and tender,
 or of manipulating total amount to be less than 0.5 million JPY, is not
 acceptable.
 
 5
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
 28.3.2.1 Preparation of Specification document
 The University prepares specification document that specifies the
@@ -17682,7 +17697,7 @@ the other necessary terms and conditions for the transactions.
 In cases of the purchase of research equipment which exceeds 50
 million JPY or of Enterprise Systems, the specification documents
 must be prepared in compliance with the Bidding and Committees
-procedures [link: 28.5.2].
+procedures.
 28.3.3 Bidding Process
 The University will engage in competitive bidding in a manner that
 creates a fair, open, and competitive environment for qualified vendors,
@@ -17695,7 +17710,7 @@ or the most economically advantageous bid.
 The University will maintain the highest standards of business ethics and
 
 6
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
 conduct when interacting with suppliers. The employees of the University
 will build an appropriately competitive environment, considering local
@@ -17749,13 +17764,13 @@ related to their functional responsibilities.
 Procurement
 
 delegations must comply with the requirements of OIST
-Graduate University PRP Chapter 2.6 [link: 2.6] and must be
-approved by a Vice President at a level above the employee
+Graduate University PRP Chapter 2.6 and must be approved by
+a Vice President at a level above the employee seeking to delegate
 
 7
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
-seeking to delegate procurement authority.
+procurement authority.
 The delegation must contain the specifics of the delegation,
 including the scope, reason, and time limit for the delegation.
 
@@ -17794,18 +17809,17 @@ taking maintenance after the procurement into consideration. When the
 University procures from new overseas vendors, it must screen
 
 8
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
 qualifications for the vendors. The University does not authorize full
 payment in advance to the vendors not having the required qualifications.
 28.3.8 Payment Methods
 The University uses bank transfers by invoice after delivery as its primary
 payment method. However, if bank transfer is not possible, a corporate credit
-card may be used for a transaction in accordance with PRP 26.3.7. [link: ] The
+card may be used for a transaction in accordance with PRP 26.3.7. The
 University may use advance payment methods for vendors for
 construction, international procurement, and other situations stipulated
-in PRP 26.3.1.27 [link ]. Such vendors must meet all screening
-qualifications.
+in PRP 26.3.1.27. Such vendors must meet all screening qualifications.
 28.3.9 Blanket Purchase Orders
 If individual frequently needs specific supplies or services from the same
 supplier, the Procurement and Supplies section may establish a “blanket”
@@ -17819,17 +17833,17 @@ selection.
 The Procurement and Supplies section and the facility related
 sections can conclude multi-year contracts according to its property
 and purpose. However, it is stipulated separately about necessary
-requisitions for multi-year contract[Link;].
+requisitions for multi-year contract[link:].
 In addition, the Procurement and Supplies section and the facility
 related sections can accomplish vendor selection by multi-year valid
 conditions or procedures. At concluding of contract via such selection
 method, the Procurement and Supplies section and the facility
+related sections shall take appropriate actions by necessity like
 
 9
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
-related sections shall take appropriate actions by necessity like
-regularly review for succession of contract etc.
+regularly review for succession of contract etc.
 28.3.10 Receipt and Inspection of Deliveries
 The Receiving & Inspection Center must confirm receipt of procured
 goods and services at the time they are delivered to the University. If the
@@ -17846,8 +17860,8 @@ contents etc., by deliverables or service completion report.
 Receiving & Inspection Center staff receives all the packages delivered to
 Receiving & Inspection Center . To confirm the receipt of procured goods
 and services, Receiving & Inspection Center staff may open the delivered
-packages without permission of the recipient on the waybill.【Link:DFA
-site】
+packages without permission of the recipient on the waybill.[link : DFA
+site]
 Persons in charge of each purchasing unit or section shall inspect the
 performance of delivered goods and services, and record it eligibly. Staff
 of Receipt & Inspection Center may witness the performance inspection.
@@ -17855,12 +17869,12 @@ Persons in charge of each purchasing unit or section shall keep records of
 receipt and inspection on file, and submit the records as necessary.
 28.3.11 Emergency Purchase
 When an emergency situation occurs, an authorized procurement agent
+may make a commitment to a vendor without a formal purchase order.
 
 10
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
-may make a commitment to a vendor without a formal purchase order.
-Such transactions would include, for example, an unanticipated and
+Such transactions would include, for example, an unanticipated and
 sudden life-threatening or catastrophic event.
 Simple urgent matters and/or lack of time for required procurement
 procedure are not considered as appropriate reasons in this article.
@@ -17868,8 +17882,7 @@ procedure are not considered as appropriate reasons in this article.
 The Budget Section, the Accounting Section, the Procurement and
 Supplies section and the facility related sections must maintain records
 of procurement and disbursement transactions routed to their respective
-Offices. See also Chapter 12, Document and Record Management [link:
-12.3]
+Offices. See also Chapter 12, Document and Record Management.
 28.3.13 Correction of order
 Persons in charge of units or sections shall reissue an official purchase
 order form when modification or correction on the content of original
@@ -17899,15 +17912,15 @@ Conduct proper procurement and purchase request.
 
 Obtain approval specified by the rules prior to the procurement.
 
-11
-ch28_procurement_en_20170901_cl
-
-
+
 
 Inspect the deliverables and related documents with the Receiving & Inspection
 Center on delivery of goods and completion of services.
 
-The budget holders have the following responsibilities:
+11
+ch28_procurement_en_20180201_ar
+
+The budget holders have the following responsibilities:
 
 
 Be responsible for appropriate execution of transaction and appropriate use
@@ -17966,16 +17979,16 @@ as needed.
 
 Receiving & Inspection Center must confirm receipt of procured goods and
 services, and delivery of orders.
-12
-ch28_procurement_en_20170901_cl
 
-
+
 
 The University collects a document from the suppliers who have certain
 transaction amount or more pledging that they have no objection if the
-University imposes sanction including suspension of transactions when they
-are involved in misconduct.
+12
+ch28_procurement_en_20180201_ar
 
+University imposes sanction including suspension of transactions when they
+are involved in misconduct.
 28.5 Procedures
 28.5.1 Purchasing procedures
 For details on the purchasing procedures, please see the University
@@ -17986,35 +17999,36 @@ Website, the Operation Workflow
 page (Purchase) [link: ] .
 28.5.2 Bidding and Committees procedures
 The followings are the procedures for bidding and related committees.
-a. Contract Management Stipulations [link:]
-b. Procurement Committee Stipulations [link:]
+a. Contract Management Stipulations
+b. Procurement Committee Stipulations
 c. Detailed Stipulations for Competitive Bidding (Planning
-Competition) [link:]
+Competition)
 d. Detailed Stipulations on the Procurement of Large-scaled
-Equipment) [link:]
-e. Detailed Stipulations for Investigations of Lowest Bidders [link:]
-f. Detailed Stipulations for Contract Review Committee [link:]
-g. Contract Review Committee Operating Guideline [link:]
+Equipment)
+e. Detailed Stipulations for Investigations of Lowest Bidders
+f. Detailed Stipulations for Contract Review Committee
+g. Contract Review Committee Operating Guideline
 h. Establishment of the Competitive Bidding Participants
-Qualifications Examination Committee [link:]
+Qualifications Examination Committee
 i. Establishment of the Fair Bidding Investigation Committee
-[link:]
 j. Establishment of the Construction Consultant Selection
-Committee [link:]
+Committee
 k. Establishment of the OGVM Examination Committee concerning
-Facilities Construction and Maintenance Works [link:]
+Facilities Construction and Maintenance Works
 l. Establishment of the OGVM Examination Committee concerning
+Procurement for Goods and Services
+m. Handling of Contract Management in Cost-on Method
+n. Qualified Bidder Identification Implementation Guideline
 13
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
-Procurement for Goods and Services [link:]
-m. Handling of Contract Management in Cost-on Method [link:]
-n. Qualified Bidder Identification Implementation Guideline[link:]
-o. Small Amount Qualified Vendor Identification Implementation
-Guideline [link:]
-p. Specification formulation of Enterprise Systems [link: 17.3.8]
+o. Small Amount Qualified Vendor Identification Implementation
+Guideline
+p. Specification formulation of Enterprise Systems
 q. Stipulations for Multi-year contracts and multi-year vendor
-selection [link:]
+selection
+r. Detailed Stipulations on Priority Review for Adoption of PPP/PFI
+Methods [link:]
 28.6 Forms
 Independent Contractor Agreement (ICA)
 28.7 Contacts
@@ -18047,17 +18061,16 @@ conditions
 economic improvement based on life-time cost and
 maximization of services provided through the same
 amount of price.
-
-14
-ch28_procurement_en_20170901_cl
-
-bid
+bid
 
 A request for competitive quotation or proposal from a
-qualified vendor for the purpose of issuing a purchase
+
+14
+ch28_procurement_en_20180201_ar
+
+qualified vendor for the purpose of issuing a purchase
 order and contract for the procurement of goods,
 services and construction.
-
 conflict of interest
 
 A situation in which a member of the University
@@ -18083,7 +18096,7 @@ A credit card issued and used according to the
 
 card
 
-stipulation of PRP 26.3.7 [link ].
+stipulation of PRP 26.3.7.
 
 emergency situation
 
@@ -18112,13 +18125,14 @@ amount.
 independent
 
 A person or entity engaged to perform services mainly
-15
-ch28_procurement_en_20170901_cl
 
-contractor
+contractor
 
 as a consultant. Such service providers including
-independent
+15
+ch28_procurement_en_20180201_ar
+
+independent
 
 contractor
 
@@ -18190,11 +18204,11 @@ service
 
 An activity in which labor is the major factor and not
 merely incidental to the production, acquisition, and/or
+delivery of a good.
 16
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
-delivery of a good.
-spend
+spend
 
 An act of using funds to purchase goods, services or
 construction, or the funds spent by a person in charge, a
@@ -18247,11 +18261,12 @@ the University. May be used interchangeably with
 web-purchase
 
 To purchase goods and services through vendor’s web
-17
-ch28_procurement_en_20170901_cl
+portal. May be used interchangeably with “on-line
 
-portal. May be used interchangeably with “on-line
-purchase”.
+17
+ch28_procurement_en_20180201_ar
+
+purchase”.
 Delegation
 
 The Board of Governors and the Procurement and
@@ -18330,11 +18345,11 @@ Physical access must be requested through the facilities
 division, and entry made via the Bosai centre, temporary
 access cards are issued upon arrival and to be returned
 whenever leaving the facility.
+Virtual access to OIST resources must be requested via
 18
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
-Virtual access to OIST resources must be requested via
-IT, and access will be granted only for the time window
+IT, and access will be granted only for the time window
 required.
 Sales or
 
@@ -18363,10 +18378,10 @@ Temporary Staff)
 Appendix 28.A
 
 Non exhaustive list of purchases approved for business
-purpose [link: ]
+purpose
 
 19
-ch28_procurement_en_20170901_cl
+ch28_procurement_en_20180201_ar
 
 OIST Graduate University
 Policies, Rules & Procedures
