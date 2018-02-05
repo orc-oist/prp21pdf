@@ -2866,7 +2866,7 @@ of the work.
 4. Contribution to development of external partnerships with academic
 institutions, industries, or other international and local institutions.
 5. Proposed future work.
-4.6.1.2 “Stop-the-clock” policy for STAs
+4.6.1.2 “Stop-the-Clock” policy for STAs
 STAs may request contract extensions and postponement of reviews to
 accommodate parental responsibilities relating to childbirth, adoption of a child,
 or rearing of a baby. A second extension may be requested. Stop-the-Clock
@@ -2876,9 +2876,9 @@ cannot be multiplied for multiple births (e.g., twins).
 Ch04_research-conduct_en_20171225_cl
 
 This policy is independent of maternity, parental, or childcare leave. Taking such
-leave does not automatically lead to application of Stop-the Clock Policy. An
+leave does not automatically lead to application of Stop-the-Clock Policy. An
 extension of the review start date does not alter the STA’s normal duties.
-The Stop-the Clock application form [Link] must be submitted to the Dean of
+The Stop-the-Clock application form [Link] must be submitted to the Dean of
 Faculty Affairs before the review process begins (i.e., by the due date for
 submission of materials for review evaluation). Upon approval of the application
 form by the Dean of Faculty Affairs and the President, the following actions will
@@ -3005,11 +3005,11 @@ Ch04_research-conduct_en_20171225_cl
 
 4.6.2.3 Meetings
 The Forum will meet at least twice in each academic year. Forum meetings are
-attended by the Dean for Faculty Affairs, the Dean of Research, the STG
-Research Unit Administrator (who acts as the forum secretary), the Executive
-Assistant to the Dean of Faculty Affairs, and the HR Assistant to the Dean of
-Faculty Affairs as necessary. The President has a standing invitations to attend.
-The Dean for Faculty Affairs reports on the STG Forum to the Faculty Council,
+attended by the Dean of Faculty Affairs, the Dean of Research, the STG Research
+Unit Administrator (who acts as the forum secretary), the Executive Assistant to
+the Dean of Faculty Affairs, and the HR Assistant to the Dean of Faculty Affairs
+as necessary. The President has a standing invitations to attend.
+The Dean of Faculty Affairs reports on the STG Forum to the Faculty Council,
 and presents the STG Annual Report to the Faculty Assembly.
 4.7
 
