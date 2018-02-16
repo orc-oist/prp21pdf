@@ -21286,9 +21286,9 @@ University as officers.
 35.3.2.1 Calculation. Amount of the retirement allowance under the ORAP
 is determined by the following formula;
 [Monthly Base Salary (34.3.10.2) as of the date of retirement] multiplied
-by [months of service] multiplied by 0.125 multiplied by 87/100
+by [months of service] multiplied by 0.125 multiplied by 83.7/100
 1
-Ch35_benefits_20161102_en_cl
+Ch35_benefits_en_20171215_cl
 
 multiplied by [Performance Evaluation Rate]
 35.3.2.1.1 The number of months of service is calculated from the
@@ -21312,9 +21312,10 @@ he guidelines [link: https://groups.oist.jp/sites/default/files/imce/u113/35.3.
 ed by the Vice President for Gender Equality and Human Resource Develo
 pment.
 35.3.2.3.1 Transitional measure: In applying the provision of
-35.3.2.1, the term “87/100” in the provision shall be “98/100” from
-April 1, 2013 to September 30, 2013, and shall be “92/100” from
-October 1, 2013 to June 30, 2014.
+35.3.2.1, the term “83.7/100” in the provision shall be “98/100” from
+April 1, 2013 to September 30, 2013, shall be “92/100” from October
+1, 2013 to June 30, 2014, and shall be “87/100” from July 1, 2014 to
+December 31, 2017.
 35.3.3 University Housing Program
 The University owns several houses (Seaside Faculty Housing) at the Seaside
 Campus, some of which is available for residential use of eligible members of the
@@ -21322,9 +21323,8 @@ University community. In addition, the University may rent houses (Rental
 Housing) in the area surrounding the campus for the same purpose. The Division
 of Buildings and Facilities Management is in charge of the management and
 standards regarding the administration of Rental Housing are laid out in the OffCampus Rental Housing Regulations [link;]
-
 2
-Ch35_benefits_20161102_en_cl
+Ch35_benefits_en_20171215_cl
 
 Rules regarding short-term stays at Seaside Faculty Housing[link: 21.3.1.2] are
 provided separately.
@@ -21355,11 +21355,12 @@ by the CEO/President.
 similar items, as well as providing childcare and other services, deemed
 necessary by the CEO/President. Such assistance must be within socially
 acceptable limits.
-35.3.4.3 Details of special assistance must be clearly defined in the
-3
-Ch35_benefits_20161102_en_cl
 
-employment contract.
+3
+Ch35_benefits_en_20171215_cl
+
+35.3.4.3 Details of special assistance must be clearly defined in the
+employment contract.
 35.4 Responsibilities
 35.4.1 HR Management Section
 The HR Management Section is responsible for carrying out administrative
@@ -21386,7 +21387,7 @@ and Off-Campus Rental Housing) [link: 2.5]
 35.8 Definitions
 
 4
-Ch35_benefits_20161102_en_cl
+Ch35_benefits_en_20171215_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
