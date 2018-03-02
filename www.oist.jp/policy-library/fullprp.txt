@@ -9611,14 +9611,64 @@ ch12_document-and-records-management_en_20170602_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
-Authority: Approved by the President and Dean of Research
+Authority: Approved by the President and the Dean of Research
 
 
 Industrial Safety and Health Act
 
 
 
-Foreign Exchange and Foreign Trade Control Law
+Offensive Odor Control Law
+
+
+
+Act on the Evaluation of Chemical Substances and Regulation of Their
+Manufacture, etc.
+
+
+
+Explosives Control Act
+
+
+
+High Pressure Gas Safety Act
+
+
+
+Ordinance on Safety and Health of Work under High Pressure
+
+
+
+Fire Service Act
+
+
+
+Water Pollution Prevention Act
+
+
+
+Air Pollution Control Act
+
+
+
+Act on Confirmation, etc. of Release Amounts of Specific Chemical Substances in
+the Environment and Promotion of Improvements to the Management Thereof
+
+
+
+Poisonous and Deleterious Substances Control Act
+
+
+
+Agricultural Chemicals Control Act
+
+
+
+Narcotics and Psychotropics Control Act
+
+
+
+Waste Disposal and Public Cleansing Act
 
 
 
@@ -9631,12 +9681,12 @@ Act on Domestic Animal Infectious Diseases Control
 
 
 
-Rabies Prevention Act
+Act Concerning the Prevention of Infectious Diseases and Medical Care for
+Patients with Infectious Diseases
 
 
 
-Act Concerning the Prevention of Infectious Diseases and Medical Care
-for Patients with Infectious Diseases
+Rabies Prevention Act
 
 
 
@@ -9644,71 +9694,34 @@ Plant Protection Act
 
 
 
-Invasive Species Act
-
-
-
 Act on the Protection of Fishery Resources
 
 
 
-Poisonous and Deleterious Substances Control Act
+Invasive Species Act
 
 
 
-Fire Service Act
+Act on Welfare and Management of Animals
 
 
 
-High Pressure Gas Safety Act
+Foreign Exchange and Foreign Trade Control Law
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+
+
+Act on the Prohibition of Chemical Weapons and the Regulation of Specific
+Chemicals
 
 
 
-Air Pollution Control Act
-
-
-
-Offensive Odor Control Law
-
-
-
-Act on the Prohibition of Chemical Weapons and the Regulation of
-Specific Chemicals
-
-
-
-Agricultural Chemicals Control Act
-
-
-
-Explosives Control Act
-
-
-
-Act on the Evaluation of Chemical Substances and Regulation of
-Their Manufacture, etc.
-
-
-
-
-Narcotics and Psychotropics Control Act
 Act on Prevention of Radiation Disease Due to Radioisotopes, etc.
 
 
 
-Act on the Regulation of Nuclear Source Material, Nuclear Fuel Material
-and Reactors
-
-
- 
-
-Waste Disposal and Public Cleansing Act
-1
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-
-
-Act on Welfare and Management of Animals
+Act on the Regulation of Nuclear Source Material, Nuclear Fuel Material and
+Reactors
 
 Chapter 13. Safety, Health & Environmental Protection
 13.1 Policy
@@ -9733,23 +9746,18 @@ addition to complying with all relevant Japanese legal requirements. The dedicat
 and active commitment of every individual regarding SHEP is critical to the success
 of the University’s safety, health, environmental protection, and disaster preparedness
 programs.
-
 13.1.1 General Safety Policy
 General workplace safety training is important for everyone at the University,
 even those who believe that they have a non-hazardous desk job. Safety
 training is one of the most basic and important functions of the University.
 Safety training provides insight into potential hazards in the workplace, how to
-spot them, and what to do once a hazard is recognized. Several forms of
- 
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
-2
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-training are available, such as group instruction, WEB-based training, or oneon-one sessions. The University requires that all those who operate in the
-University take safety training, including the health and safety orientation
-program. Orientation programs including workplace safety matters [link:
-13.3.1], and such orientations must be refreshed as necessary.
-
+spot them, and what to do once a hazard is recognized. Several forms of
+training are available, such as group instruction, WEB-based training, or oneon-one sessions. The University requires that all those who operate in the
+University take safety training programs, including the Basics of Health and
+Safety program which extensively covers workplace safety matters [link:
+13.3.1], and renew program certifications as necessary.
 13.1.1.1 Job-Specific Safety Policy. Numerous hazards are jobspecific. Operation of machine tools, electrical work, construction,
 plumbing, and just about any effort involving machinery will expose
 those doing that work to dangers. Work involving these dangers is
@@ -9757,20 +9765,18 @@ subject to stringent occupational safety regulation and training, and
 those who are engaged in those occupations (or those otherwise
 carrying-out such activities) at the University must take the relevant
 safety training [link: 13.3.2].
-
-13.1.1.2 Occupational Health and Safety Policy. Different experiments
-pose different potential risks. Individuals involved in conducting
-experiments must familiarize themselves with all potential risks
-before starting the experiment so that they can anticipate possible
-incidents, ensure to follow safe experimental procedures and take
-safety measures to prevent incidents. Additionally, Faculty members
-and Lead Investigators must instruct research personnel about
-appropriate safety measures, and research personnel must follow their
-instructions and advice. If an accident occurs, OIST personnel must
-implement appropriate first-aid responses, giving priority to rescuing
-activities and attending to injured people, and to preventing the
-spread of damage.
-
+13.1.1.2 Research Safety Policy. Different experiments pose different
+potential risks. Individuals involved in conducting experiments must
+familiarize themselves with all potential risks before starting the
+experiment so that they can anticipate possible incidents, ensure to
+follow safe experimental procedures and take safety measures to
+prevent incidents. Additionally, Faculty members and Lead
+Investigators must instruct research personnel about appropriate safety
+measures, and research personnel must follow their instructions and
+advice. If an accident occurs, OIST personnel must implement
+appropriate first-aid responses, giving priority to rescuing activities
+and attending to injured people, and to preventing the spread of
+damage.
 13.1.2
 
 Health & Wellness Policy
@@ -9779,17 +9785,14 @@ The University offers training, programs and medical services to promote the
 physical and mental health and well being of employees and students and to
 support a healthy and productive work environment. Employees and
 students are expected to engage in the University’s Health & Wellness
- 
-
-3
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-programs, to be conscious of their health, to undergo periodic general and
+programs, to be conscious of their health, to undergo periodic general and
 specific medical examinations[link: 41.3.1], to pay attention to diet and
 nutrition, to exercise daily, to get enough sleep each night, and to take time
 for relaxation and recreation.
 
-13.1.3 Environmental Protection Policy
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+13.1.3 Environmental Protection Policy
 The University is committed to the continuous development of technologies
 related to renewable energy, to research in the environmental and
 associated sciences, and to minimization of energy consumption in its
@@ -9797,7 +9800,6 @@ activities. All employees and students are expected to behave in
 conformance with the University’s policy of reducing environmental
 impact, reducing waste, managing and handling of hazardous waste, and
 maximizing energy efficiency.
-
 13.1.4 Disaster Preparedness & Emergency Response Policy
 In order to minimize the adverse impact of the unpredictable natural and
 other disasters that may strike, the University has developed and deployed
@@ -9810,20 +9812,16 @@ disasters and emergencies away from the University. For details, see “OIST
 Graduate University Emergency, Safety and Health Procedures and
 Guidelines” [link:
 https://groups.oist.jp/sites/default/files/imce/u745/ESH_procedur
-es_and_guidelines_e_Lab1.pdf]
-
-13.2 General considerations
+es_and_guidelines_e_Lab1.pdf].
+13.2 General Considerations
 13.2.1
 Industrial Safety & Health Act and Other Significant Laws
 With regard to occupational safety and health, the University’s activities are
-subject to Japan’s Industrial Safety and Health Act [link: http://law.egov.go.jp/htmldata/S47/S47HO057.html]. In addition, the University
-has its own Safety and Health Management Rules [link:
-https://groups.oist.jp/sites/default/files/imce/u318/docs/safety 
-
-4
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-and-health-management-rules.pdf] and a University Safety and Health
+subject to Japan’s Industrial Safety and Health Act [link:
+http://www.japaneselawtranslation.go.jp/law/detail/?id=1926&vm=
+&re ]. In addition, the University has its own Safety and Health
+Management Rules [link:
+https://groups.oist.jp/sites/default/files/imce/u318/docs/safetyand-health-management-rules.pdf] and a University Safety and Health
 Committee [link:
 https://groups.oist.jp/sites/default/files/imce/u300/Rules%20for%20Safety%
 20and%20Health%20Committee_dor_0.pdf]. Also, additional laws
@@ -9832,41 +9830,37 @@ set out where relevant elsewhere in this Chapter.
 13.2.2
 
 Export and Import Compliance
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
-Japan, like most nations, imposes controls, requirements, and duties on the
+Japan, like most nations, imposes controls, requirements, and duties on the
 export and import of virtually all goods, including materials and equipment
 used in basic research of the type conducted at the University. Of grave
-concern are items, devices, substances, information, and materiel that could
-be diverted to a military use. Intellectual property such as software,
+concern are items, devices, substances, information, and specimens that
+could be diverted to a military use. Intellectual property such as software,
 production know-how, and even use manuals are also regulated and
-controlled by import/export laws.
-Generally, licenses are required for the export of controlled goods. The
-government also controls, and may require licenses for, the importing of a
-variety of items, devices, substances, information, and materiel, including
-living organisms. Genetically modified organisms are a particular concern
-in Japan.
-Goods approved for importation may also be subject to fees/taxes
-(sometimes referred to as “duties”), although items used in university-based
-research may be eligible for an exemption from duties. Great care must be
-exercised and advice from the person in charge at the Occupational Health
-and Safety Section sought to assure export/import control compliance; refer
-to the OIST Rules for Security Export Control [link:
-https://groups.oist.jp/sites/default/files/imce/u318/docs/rules-for-securityexport-control.pdf], the University’s Security Trade Control WEB site
-[link: http://law.e-gov.go.jp/htmldata/S47/S47HO057.html, Security Export
-Control WEB site (METI)[link:
-http://www.meti.go.jp/policy/anpo/index.html], and the Foreign Exchange
-and Foreign Trade Control Law [link:
-http://www.japaneselawtranslation.go.jp/law/detail/?id=21&vm=04&re=01
-] for pertinent details.
- 
-
-5
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-13.2.3
-
+controlled by Foreign Exchange and Foreign Trade Control Law (Foreign
+Exchange Law). Generally, licenses are required for the export of controlled
+goods. The government also controls, and may require licenses for, the
+importing of a variety of items, devices, substances, information, and
+specimens, including living organisms. Genetically modified organisms are
+a particular concern in Japan. Goods approved for importation may also be
+subject to fees/taxes (sometimes referred to as “duties”), although items
+used in university-based research may be eligible for an exemption from
+duties. Great care must be exercised and advice from the person in charge at
+the Occupational Health and Safety Section sought to assure export/import
+control compliance; for pertinent details, refer to:
+• The OIST Rules for Security Export Control [link:
+https://groups.oist.jp/sites/default/files/imce/u318/docs/rules-forsecurity-export-control.pdf]
+• The University’s Security Trade Control WEB site [link:
+https://groups.oist.jp/rs/security-export-control ]
+• Security Export Control WEB site (METI) [link:
+http://www.meti.go.jp/policy/anpo/englishpage.html ]
+• Foreign Exchange and Foreign Trade Control Law (Foreign Exchange
+Law) [link:
+http://www.japaneselawtranslation.go.jp/law/detail/?id=21&vm=04&re
+=01 ]
+13.2.3
 Transporting Biological Agents, Chemical Materials,
-
 and Other Regulated Material
 Transportation of many research materials, devices, and substances is
 subject to strict regulations, under the provisions of the Postal Act, Terms
@@ -9876,77 +9870,66 @@ and packaging for transport within Japan and overseas must comply with
 specific requirements.
 Relevant laws affecting import/export of biological agents and chemical
 materials include:
-
 
- 
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+•
+
+•
 
 Act on the Conservation and Sustainable Use of Biological Diversity
-through Rules on the Use of Living Modified Organisms
-[link:
-http://www.japaneselawtranslation.go.jp/law/detail/?ft=1&re=01&dn=1&x=7
-1&y=19&co=01&ia=03&ky=%E3%82%AB%E3%83%AB%E3%82%BF%E
-3%83%98%E3%83%8A&page=1
-
-6
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-
-
-Act on Domestic Animal Infectious Diseases Control [link:  
-http://www.japaneselawtranslation.go.jp/law/detail/?re=01&dn=1&x=0&y=0&co=
-1&ia=03&yo=&gn=&sy=&ht=&no=&bu=&ta=&ky=%E5%AE%B6%E7%95%9
-C%E4%BC%9D%E6%9F%93&page=1 ]
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-Rabies Prevention Act [link:
-http://law.e-gov.go.jp/cgibin/idxselect.cgi?IDX_OPT=1&H_NAME=%8b%b6%8c%a2%95%61&H_
-NAME_YOMI=%82%a0&H_NO_GENGO=H&H_NO_YEAR=&H_NO_T
-YPE=2&H_NO_NO=&H_FILE_NAME=S25HO247&H_RYAKU=1&H_C
-TG=1&H_YOMI_GUN=1&H_CTG_GUN=1]
-Act Concerning the Prevention of Infectious Diseases and Medical Care
-for Patients with Infectious Diseases [link:
-https://groups.oist.jp/sites/default/files/imce/u745/Act%20on%20Prevention
-%20of%20Infectious%20Diseases.pdf]
+through Rules on the Use of Living Modified Organisms (Cartagena
+Act) [link:
+http://www.japaneselawtranslation.go.jp/law/detail/?ft=1&re=01&dn
+=1&x=78&y=10&co=01&ia=03&ky=%E3%82%AB%E3%83%AB
+%E3%82%BF%E3%83%98%E3%83%8A%E8%AD%B0%E5%AE
+%9A%E6%9B%B8&page=1 ]
+Act on Domestic Animal Infectious Diseases Control [link:
+http://www.japaneselawtranslation.go.jp/law/detail/?re=01&dn=1&x=
+0&y=0&co=1&ia=03&yo=&gn=&sy=&ht=&no=&bu=&ta=&ky=%
+E5%AE%B6%E7%95%9C%E4%BC%9D%E6%9F%93&page=1 ]
+Rabies Prevention Act [link: http://elaws.egov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=32
+5AC1000000247&openerCode=1 ]
+Act Concerning the Prevention of Infectious Diseases and Medical
+Care for Patients with Infectious Diseases [link:
+https://groups.oist.jp/sites/default/files/imce/u745/Act%20on%20Prev
+ention%20of%20Infectious%20Diseases.pdf]
 Plant Protection Act [link:
-http://www.japaneselawtranslation.go.jp/law/detail/?re=01&dn=1&x=0&y=0
-&co=1&ia=03&yo=&gn=&sy=&ht=&no=&bu=&ta=&ky=%E6%A4%8D%
-E7%89%A9%E9%98%B2%E7%96%AB%E6%B3%95&page=3]
+http://www.japaneselawtranslation.go.jp/law/detail/?re=01&dn=1&x=
+0&y=0&co=1&ia=03&yo=&gn=&sy=&ht=&no=&bu=&ta=&ky=%
+E6%A4%8D%E7%89%A9%E9%98%B2%E7%96%AB%E6%B3%9
+5&page=3]
 Invasive Alien Species Act [link:
 https://www.env.go.jp/en/nature/as/040427.pdf]
 Act on the Protection of Fishery Resources [link:
-http://www.japaneselawtranslation.go.jp/law/detail/?re=01&dn=1&x=0&y
-=0&co=1&ia=03&yo=&gn=&sy=&ht=&no=&bu=&ta=&ky=%E6%B0%
-B4%E7%94%A3%E8%B3%87%E6%BA%90%E4%BF%9D%E8%AD%
-B7%E6%B3%95&page=7]
-Import and export of chemical materials is regulated by the ”Act on the
-Evaluation of Chemical Substances and Regulation of Their Manufacture,
-etc. (Chemicals Evaluation Act)” [link:
-http://www.japaneselawtranslation.go.jp/law/detail/?re=01&dn=1&x=0&y
-=0&co=1&ia=03&yo=&gn=&sy=&ht=&no=&bu=&ta=&ky=%E5%8C%9
-6%E5%AD%A6%E7%89%A9%E8%B3%AA%E3%81%AE%E5%AF%A
-9%E6%9F%BB%E5%8F%8A%E3%81%B3%E8%A3%BD%E9%80%A0
-%E7%AD%89&page=1
+http://www.japaneselawtranslation.go.jp/law/detail/?re=01&dn=1&x=
+0&y=0&co=1&ia=03&yo=&gn=&sy=&ht=&no=&bu=&ta=&ky=%
+E6%B0%B4%E7%94%A3%E8%B3%87%E6%BA%90%E4%BF%9
+D%E8%AD%B7%E6%B3%95&page=7]
+Import and export of chemical materials is regulated by the Act on the
+Evaluation of Chemical Substances and Regulation of Their
+Manufacture, etc. (Chemicals Evaluation Act) [link:
+http://www.japaneselawtranslation.go.j
+p/law/detail/?id=1957&vm=04&re=02 ]
 
-7
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-13.2.4 Safety-Related Signage
+13.2.4 Safety-Related Signage
 ”Safety Signs” warning of hazards and the need for caution are posted at
 various locations around the campus. Some are temporary warnings, such as
 used during construction or roadwork. Those placed on laboratory doors are
-generally permanent and must be taken seriously. Employees, students, and
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+generally permanent and must be taken seriously. Employees, students, and
 visitors are expected to notice, read, and obey all safety signs. Safety signs
 are fabricated and maintained in accordance with University Safety Signs
 Guidance [link:
@@ -9956,129 +9939,155 @@ Everyone in the University has a responsibility to respond to and report health
 or safety incidents and accidents in accordance with the “OIST Graduate
 University Emergency, Safety, Health Procedures & Guidelines” [link:
 https://groups.oist.jp/sites/default/files/imce/u745/ESH_procedures_and_gu
-idelines_j_Lab1.pdf] and other relevant rules. Refer to the procedures in
+idelines_e_Lab1.pdf] and other relevant rules. Refer to the procedures in
 13.5 [link: 13.5] for specific response and reporting procedures. Also, see,
-the Occupational Health and Safety WEB site [link:
-https://groups.oist.jp/rs/] for further information.
+the Occupational Health and Safety WEB site [link: https://groups.oist.jp/rs
+] for further information.
+13.2.5.1 HIYARI-HATTO Report/Minor Accident Report
+The University promotes the HIYARI-HATTO project to reinforce its
+efforts to prevent on campus accidents or injuries. "HIYARI-HATTO"
+means near misses. The project aims at raising awareness towards potential
+dangers that might be present in research and other daily activities, to
+prevent actual accidents from taking place. Any person who has witnessed
+or experienced a HIYARI-HATTO incident or minor accident case is
+encouraged to report it to the University using the web-form [link:
+https://groups.oist.jp/hiyari-hatto-project-report-form]. The purpose of
+receiving such reports is to understand potential dangers associated with the
+cases to prevent accidents or workplace injuries, not blaming concerned
+people or reporters. The University will share information in the reports
+with people at OIST through the University's internal webpage
+[https://groups.oist.jp/rs/hiyari-hatto-project], after excluding information
+that could be used to identify particular individuals or Unit/Sections.
+
 13.3 Rules
 13.3.1 Training
-Training on health and safety and environmental protection is provided in
-classroom-based, online and hands-on forms. At the University, all personnel who
+Training on health and research as well as environmental protection is provided in
+classroom-based, online and hands-on forms. At the University, all persons who
 operate in the University, regardless of their affiliation or how long they have been
 or will be operating at the University, must select and take any trainings that are
 required for the type of activity they plan to engage in, before engaging in it or
-before submitting the required application. In principle, trainings remain valid for a
-five year period. However, the Update Session on Health and Safety must be taken
-every year. All required trainings must be taken again before their period of validity
-expires. In addition to taking the required trainings, supervisors such as faculty
-members and section leaders must also inform faculty and staff working under them
-and any invited researchers and students they are hosting about all required
-trainings, and ensure that they complete these trainings.
-13.3.1.1 Health and Safety Orientation Program
-The Health and Safety Orientation Program (OP) is one training related
-to health and safety and environmental protection, and it is therefore an
-important training and one which newcomers receive first. The OP
-outlines all the basic health and safety matters that those operating at
- 
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
-8
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-OIST ought to know. There are two kinds of OP, which are General OP
-and Special OP. General OP enables trainees to develop an overall
-understanding of emergency procedures, applicable statutory and
-regulatory requirements as well as University rules. All University
-students and employees, including clerical workers (and contract
-workers) not directly engaged in research or experiments, must take the
-General OP (GOP). Personnel belonging to wet lab is required to also
-take the Special OP (SOP) in addition to the GOP. Both GOP and SOP
-are updated in response to revision of the statutory laws and instrument,
-and OIST rules. Employees and students must take “refresher” courses
-of the orientation programs immediately after receiving update
-notification
-
-13.3.1.2 Update Session
-The Update Session is held once a year and provides updates on the Industrial
-Safety and Health Act and other laws, regulations and guidelines concerning
-safety and health, updates on the University Rules, as well as important
-information concerning health and safety. The Update Session is an essential
-training for sharing revisions to laws and regulations as well as the latest matters
-concerning safety and health, and it must be attended by all personnel who
-operate in the University. The Update Session is also available in an online
-format.
-
+before submitting the required application. Certification of trainings is generally
+valid for five years; however, certification of some trainings expires earlier. In
+addition, all persons are required to take the Basics of Health and Safety and the
+Update Session on Research Safety and Ethics every year to renew certification of
+these trainings. Renewal of certification of required trainings must be completed
+before expiry. In addition to taking the required trainings, supervisors such as
+faculty members and section leaders must also inform faculty and staff members
+working under them and any visiting researchers and students they are hosting
+about all required trainings, and confirm that they have completed these trainings.
+For details, see Appendix [link:xxx].
+13.3.1.1 Basics of Health and Safety
+The Basics of Health and Safety is a comprehensive training on health
+and safety and environmental protection, which is also one of the
+important initial trainings that all new personnel at OIST must receive.
+Its training material puts together all the basic health and safety matters
+that those operating at OIST ought to know. It enables trainees to
+develop an overall understanding of emergency procedures, applicable
+legal and regulatory requirements as well as University rules. All
+University students and employees, including clerical workers (and
+contract workers) not directly engaged in research or experiments, must
+receive this training. The material is updated as necessary, to include
+revision of laws and regulatory provisions as well as University rules.
+Certification of this training is valid only for one year, and thus all
+persons are required to complete annual renewal by receiving the
+training again before expiry.
+13.3.1.2 Update Session on Research Safety and Ethics
+The University provides an update session on the Industrial Safety and
+Health Act and other updates on laws, regulations, guidelines and the
+University rules concerning health and safety including research safety
+and ethics, as well as other substantial information in terms of health and
+safety, approximately once a year. This session is essential means for
+building common understanding of revisions to laws and regulations as
+well as the latest developments of matters relating to safety and health.
+Wet lab members and staff members of Research Support Division must
+take the annual update session.
 13.3.1.3 Responsible Conduct of Research
-The Guidelines for Responding to Misconduct in Research (Decision by the
-Minister of Education, Culture, Sports, Science and Technology, August 26,
-2014) require that all personnel who are broadly involved in research activities
-in research institutes such as universities undergo research ethics education. All
-personnel who conduct or are involved in research, regardless of whether they
-are a faculty member, employee, student or visiting researcher, must take the
-Responsible Conduct of Research course. Administrative employees who are
-not directly involved in research activities are also strongly recommended to
-take this course.
+The Guidelines for Responding to Misconduct in Research (Decision by
+the Minister of Education, Culture, Sports, Science and Technology,
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
-13.3.1.4 Required Trainings for Personnel who Operate in the University
- 
+August 26, 2014) require research institutions such as universities to
+provide research ethics education to a wide range of persons who are
+involved in their research activities. All persons who are involved in
+research activities or operations for supporting research at the University
+must take the Responsible Conduct of Research program. Administrative
+employees who are not directly involved in research activities are also
+strongly recommended to take this program. [link: 4.8.2] Additionally,
+taking research ethics materials provided by an institution other than
+OIST is also encouraged. Of note, those who have acquired an external
+research grant may be required to take an additional research ethics
+material by the funding agency. Certification of this program is valid for
+five years.
+13.3.1.4 Required Trainings for Personnel who Operate in the
+University
+To perform certain types of work, personnel must take certain trainings
+which are required by laws, regulations and guidelines, or are
+necessitated to operate safely. Those who are engaged in an activity at
+the University must complete all required trainings before the
+commencement of the activity or application procedures relating to it.
+Information on required trainings for specific works can be obtained
+from the relevant laws and regulatory provisions as well as the
+University's Health and Safety website. [link:
+https://groups.oist.jp/rs/industrial-safety-and-health] Persons who operate
+at the University are recommended to additionally take a broad range of
+programs even if they are not mandatory. In addition, if training
+programs consist of multiple modules, including those of mandatory and
+non-mandatory, likewise, trainees should willingly take non-mandatory
+modules as well.
+Persons who are engaged in waste collection or cleaning as well as
+outside contractors who have access to laboratory areas must complete
+the Advanced Safety Program on Health and Safety in advance of the
+commencement of the work and, subsequently, at least once in five years.
 
-9
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-To perform certain types of work, personnel are required to take certain
-trainings so that they can comply with the laws, regulations and guidelines, and
-so that they are familiar with the necessary safety precautions. Those who
-operate in the University must take the required trainings before engaging in
-certain activities or before starting the relevant application procedures. The
-training course that must be taken by those who operate at the University is set
-in the table. [Link: ] It is recommended that personnel who operate in the
-University take a range of non-mandatory courses in addition to the mandatory
-ones. Some courses consist of more than one module, including mandatory and
-reference modules. It is recommended to proactively take reference modules in
-addition to mandatory ones.
-
-Personnel who perform collection or cleanup of waste, and frequently access
-experimental areas must complete the Advanced Safety Program in addition to
-OP in advance of engaging in that work. Also Waste and Security Export
-Control training must be taken by all personnel who operate in the University in
-a prompt manner after being assigned to the workplace.
-
-13.3.2 Hazardous Work and handling of Harmful Agents
+13.3.2 Hazardous Work and Handling of Harmful Agents
 The following general rules must always be observed when performing
-hazardous work and handling harmful agents:
+hazardous work or handling harmful agents:
 (1) When handling an apparatus or equipment that involves high
 temperatures, high pressure, high voltage or high speed or that is
 heavy weight, use appropriate protective measures and equipment and
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
 work attentively.
-(2) Before using an apparatus or equipment that is new to the operator, the
+Before using an apparatus or equipment that is new to the operator, the
 operator must carefully read operation manuals, do any other
 appropriate preparation work and ask for guidance from a person who
 has experience in using the apparatus or equipment.
-(3) Before operating an apparatus, device, or equipment that requires a
+Before operating an apparatus, device, or equipment that requires a
 particular skill, the potential user must be familiar with basic
 operations of the apparatus or equipment.
-(4) After use, the apparatus, device, or equipment - and the surrounding
+After use, the apparatus, device, or equipment - and the surrounding
 areas - must be cleaned up; if any defect is found, it must be promptly
- 
-
-10
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-repaired (or the next user notified of the problem).
-(5) The following personal protective equipment must be provided and
+repaired (or the next user notified of the problem).
+The following personal protective equipment must be provided and
 used as necessary:
-・Protective equipment for eyes and face (such as glasses with face
+• Protective equipment for eyes and face (such as glasses with face
 shield)
-・Protective equipment for body, hands and feet (such as
+• Protective equipment for body, hands and feet (such as
 protective clothes, gloves and safety shoes)
-・Protective equipment for respiration (such as dust respirator, gas
+• Protective equipment for respiration (such as dust respirator, gas
 mask and air respirator)
+
 (6) Maintain personal protective equipment so as to be used in the best
 condition anytime and clearly indicate the place where they are stored.
 (7) Be familiar with how to wear personal protective equipment so that
 they can be worn quickly and appropriately when necessary.
-After use, personal protective equipment must be sterilized
+(8) After use, personal protective equipment must be sterilized
 appropriately and stored in an appropriate place.
-
+(9) Employees who are engaged in work with limitations on working
+conditions or work specified as dangerous or harmful work under
+the Industrial Safety and Health Act or any other relevant laws
+must have license or have completed skill trainings or special
+trainings required by the Act or such laws.
 13.3.3 Machinery, Equipment, Instruments & Devices
 In performing their duties for the University, workers may make use of a variety
 of machines, equipment, devices, tools and instruments, large and small, simple
@@ -10087,414 +10096,386 @@ and complex, from hammers and welding torches to cranes and lasers
 manuals thoroughly to understand and know the measures how to avoid or
 mitigate hazards.
 
-13.3.3.1 Equipment that Require Approval or Notification
-Power press machine, fuel tank, acetylene welding equipment, fume
-food, radiation equipment, high-frequency devices are required to be
-authorized by or notified to the regulatory agencies before installation
-or use by law. Before purchasing or using those equipment, one must
-consult with the Occupational Health and Safety Section and complete
-the necessary procedures.
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
+13.3.3.1 Equipment that Require License or Notification
+The Industrial Safety and Health Act or any other relevant laws may
+require a potential user of certain equipment to obtain license or
+submit a notification for the use in advance; for details, see “OIST
+Safety and Health Management Rules [link:
+https://groups.oist.jp/sites/default/files/imce/u318/docs/safety-andhealth-management-rules.pdf] ” and the University's pertinent website
+[link: https://groups.oist.jp/rs/regulated-equipment]. However, for any
+license or notification procedures which involve the Fire Prevention
+Ordinance of the Okinawa Prefecture, the Facility Management
+Section will act as the contact office for communication between the
+University and the Okinawa Prefecture.
 13.3.3.2 Unattended Operation of Equipment
- 
-
-11
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-Although refrigerators, freezers and incubators operating in an
-intermediate temperature range may be left unattended, the general
-rule is that no equipment may be left unattended while operating
-(including overnight operation). However, in the case of low risk
-machines that are provided with safety devices, unattended operation
-may be conduced if all pertinent ancillary safety precautions are in
-effect. When performing unattended operation, the following notices
-must be posted:
-
-
-On the equipment, indicate that unattended operation
-or overnight operation is scheduled;
-
-
-
-On the equipment, post a description of the current operation
-and provide emergency response and contact person
-information.
+Although refrigerators, freezers and incubators operating in an
+intermediate temperature range may be left unattended exceptionally,
+the general rule is that no equipment may be left unattended while
+operating (including overnight operation). However, in the case of
+low risk machines that are provided with safety devices, unattended
+operation may be conducted if all pertinent ancillary safety
+precautions are in effect. When performing unattended operation, the
+following notices must be posted:
+ On the equipment, indicate that unattended operation or
+overnight operation is scheduled;
+ On the equipment, post a description of the current
+operation and provide emergency response and contact
+person information.
 
 13.3.3.3 Equipment Requiring Periodic Inspection
-Some of the equipment, such as fume food and biological safety
-cabinets, used in experiments or research and in facility operations,
-require periodic inspection by law. Minimally, inspections and
-re-inspection must be done upon installation, relocation and disposal.
+The Industrial Safety and Health Act or any other relevant laws may
+require periodic inspection on certain equipment and installations; for
+details, see “OIST Safety and Health Management Rules [link:
+https://groups.oist.jp/sites/default/files/imce/u318/docs/safety-andhealth-management-rules.pdf] ” and the University's pertinent website
+[link: https://groups.oist.jp/ja/rs/regular-checking-equipment].
 13.3.3.4 Use of Laser
 Refer to “Laser Safety Management Rules [link:
 https://groups.oist.jp/sites/default/files/imce/u318/docs/Laser_Safety_
-Management_Rules.pdf ]” and “Laser Safety Standards [link:
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+Management_Rules.pdf ]” and “Laser Safety Standards [link:
 https://groups.oist.jp/sites/default/files/imce/u745/Laser_Safety_Standa
 rds.pdf]” for use of laser.
-13.3.3.5 Mechanical Workshop In order to obtain permission to enter
-the Mechanical Workshop and to use the equipment, a user must
-apply to the Mechanical Engineering & Microfabrication Support
-Section and successfully complete the training concerning safe use of
-the equipment beforehand. When using the equipment, a user must
-pay attention to safe operation, following the rules set by the
-Mechanical Engineering & Microfabrication Support Section.
-13.3.3.6 Use of X-ray Instruments
+13.3.3.5 Use of X-ray Instruments
 The necessary requirements to ensure the safe and appropriate use of
 X-ray instruments are stipulated in “X-ray Instruments Management
-Rules”
-[link:
- 
+Rules” [link: https://groups.oist.jp/sites/default/files/imce/u318/docs/Xray-Instrument-Management-Rules.pdf]. The University's X-ray
+instrument website is [link: https://groups.oist.jp/x-ray-instrument].
+13.3.3.6 Mechanical Workshop
+In order to obtain permission to enter the Mechanical Workshop and to
+use the equipment, a user must apply to the Mechanical Engineering &
+Microfabrication Support Section and successfully complete the
+training concerning safe use of the equipment beforehand. When using
+the equipment, a user must pay attention to safe operation, following
+the rules set by the Mechanical Engineering & Microfabrication
+Support Section.
 
-12
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-https://groups.oist.jp/sites/default/files/imce/u318/docs/X-rayInstrument-Management-Rules.pdf].
 13.3.4 Rules for Working with Electrical Hazards
 Electricity, especially high-voltage electricity, can be extremely dangerous to
 work with or around. It poses a serious risk to human life, as well as to property,
 if not properly, appropriately, and carefully managed and handled. All persons
-working with electricity must make efforts to prevent electrical disaster and
-conduct the electrical work under the supervision of the Electrical Chief
-Engineer whenever such work is needed. When conducting electrical work on
-campus, the procedures for electrical work [ link : Procedures for Electrical
-Work ] must be observed.
+working with electricity must make efforts to prevent electrical accidents or
+injuries and conduct the electrical work under the supervision of the Electrical
+Chief Engineer whenever such work is needed. When conducting electrical
+work on campus, the procedures for electrical work [link: Procedures for
+Electrical Work ] must be observed.
 13.3.5 High Pressure and Liquefied Gas
 In the case of handling high pressure or liquefied gas, the person must comply
 with the requirements of the “High Pressure Gas Safety Act” [link:
-http://www.japaneselawtranslation.go.jp/law/detail/?id=1974&vm=04&re=01],
-which regulates the use of compressed gases and stipulates in detail how to use
-these gases. Liquefied gases that can become 0.2 MPa are also regulated as high
-pressure gases such as petroleum gas, compressed acetylene gas, liquefied
-hydrogen cyanide, liquefied ethylene oxide and liquefied bromomethyl. Those
-using such regulated high pressure/liquefied gas must undergo training
-concerning high pressure gas and must use the high pressure gases in safe
-manner, undertaking all necessary safety measures in compliance with the High
-Pressure Gas Safety Law.
+http://www.japaneselawtranslation.go.jp/law/detail/?ft=1&re=01&dn=1&x=65
+&y=25&co=01&ia=03&ky=%E9%AB%98%E5%9C%A7%E3%82%AC%E3%
+82%B9%E4%BF%9D%E5%AE%89%E6%B3%95&page=6], which regulates
+the use of compressed gases and stipulates in detail how to use these gases.
+Liquefied gases that can become 0.2 MPa are also regulated as high pressure
+gases such as petroleum gas, compressed acetylene gas, liquefied hydrogen
+cyanide, liquefied ethylene oxide and liquefied bromomethyl. Those using such
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+regulated high pressure/liquefied gas must undergo training concerning high
+pressure gas and must use the high pressure gases in safe manner, undertaking
+all necessary safety measures in compliance with the High Pressure Gas Safety
+Law.
+
 13.3.6 Experiment/Research required Institutional Review
-In order to use recombinant DNA [link: 13.3.7], pathogens and toxins [link:
-13.3.8], experiment animals [link: 13.3.9], radiation [link: 13.3.10], human
-subjects [link: 13.3.11], and laser [link:
-
-], the experimenter must submit an
-
-experiment/research protocol before commencing an experiment and obtain
-approval from the Dean of Research after being reviewed by the relevant
-Institutional Review Committee.
-
-The Institutional Review Committees for the University are:
- 
-
-13
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-
-
-Biosafety Committee
-
-
+If an experiment involves recombinant DNA [link: 13.3.7], pathogens and toxins
+[link: 13.3.8], laboratory animals [link: 13.3.9], radiation [link: 13.3.10], human
+subjects research [link: 13.3.11], field work [link: 13.3.13], or laser [link:
+13.3.3.4 ], the experimenter must submit an application to the pertinent secretariat
+(Section in charge) for review by the pertinent Institutional Review Committee
+before commencing the experiment and obtain approval from the Dean of
+Research.
+The Institutional Review Committees established in the University are:
+• Biosafety Committee
+•
 
 Animal Experiment Committee
 
-
+•
 
 Radiation Safety Committee
 
-
+•
 
 Human Subjects Research Committee
 
-
+•
+
+Field Work Safety Committee
+
+•
 
 Laser Safety Advisory Committee
 
 13.3.7 Recombinant DNA Experiments
-Operation of Recombinant DNA Experiments must comply with following
-Rules and Acts, and other statutory provisions and guidelines. In addition,
-appropriate training programs and procedures required must be completed in
-advance of the start of experiments. When procuring living modified organisms
-(LMOs) or providing LMOs to other institutions, necessary procedures must be
-completed in compliance with relevant statutory and regulatory provisions
-concerning import/export as well as the rules of a carrier of international
-shipment.
-
-
-
-OIST Graduate University Recombinant DNA Experiment Rules” [link:
+Operation of Recombinant DNA Experiments must comply with the following
+Rules and Acts, and other legal and regulatory provisions. In addition,
+completion of appropriate training programs and necessary procedures is also
+required before commencing any experiments in this category. When procuring
+or acquiring living modified organisms (LMOs) from or providing LMOs to
+other institutions, necessary procedures must be completed beforehand, in
+compliance with all legal and regulatory provisions concerning import/export as
+well as the rules of a carrier of international shipment.
+• OIST Graduate University Recombinant DNA Experiment Rules [link:
 https://groups.oist.jp/sites/default/files/imce/u745/Biosafety/RecombinantDNA-Experiment-Rules.pdf]
-
-
+•
 
 OIST Graduate University Biosafety Management Rules [link:
 https://groups.oist.jp/sites/default/files/imce/u745/Biosafety/BiosafetyRules.pdf]
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
-
+•
 
 OIST Graduate University Biosafety Committee Rules [link:
 https://groups.oist.jp/sites/default/files/imce/u745/Biosafety/BiosafetyCommittee-Rules.pdf]
 
-
+•
 
 OIST Biosafety Manual [link:
 https://groups.oist.jp/sites/default/files/imce/u697/docs/biosafetymanual_v
 er100_en.pdf]
 
-
+•
 
 Act on the Conservation and Sustainable Use of Biological Diversity
-through Rules on the Use of Living Modified Organisms [link:
-http://www.japaneselawtranslation.go.jp/law/detail/?re=01&dn=1&x
-=0&y=0&co=1&ia=03&yo=&gn=&sy=&ht=&no=&bu=&ta=&ky=
-
- 
-
-14
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-%E9%81%BA%E4%BC%9D%E5%AD%90%E7%B5%84%E6%8
-F%9B%E3%81%88%E7%94%9F%E7%89%A9%E7%AD%89%E3
-%81%AE%E4%BD%BF%E7%94%A8%E7%AD%89%E3%81%A
-E%E8%A6%8F%E5%88%B6&page=1 ]
-
-
+through Rules on the Use of Living Modified Organisms
+[link:http://www.japaneselawtranslation.go.jp/law/detail/?re=01&dn
+=1&x=0&y=0&co=1&ia=03&yo=&gn=&sy=&ht=&no=&bu=&ta=
+&ky=%E9%81%BA%E4%BC%9D%E5%AD%90%E7%B5%84%
+E6%8F%9B%E3%81%88%E7%94%9F%E7%89%A9%E7%AD%8
+9%E3%81%AE%E4%BD%BF%E7%94%A8%E7%AD%89%E3%
+81%AE%E8%A6%8F%E5%88%B6&page=1]
 Recombinant DNA WEB site (Occupational Health and Safety) [link:
 https://groups.oist.jp/rs/recombinant-dna]
 
-
+•
+•
 
 Japan Biosafety Clearing-House (J-BCH) [link:
 http://www.biodic.go.jp/bch/english/e_index.html]
 
-13.3.8 Pathogens and Toxins
-Operation of Experiments handling Pathogens and Toxins must comply with
-following Rules and Acts, and other statutory provisions and guidelines. In
-addition, required training programs and procedures must be completed in
-advance of the start of experiments. When procuring pathogens and toxins or
-providing them to other institutions, necessary procedures must be completed in
-compliance with relevant statutory and regulatory provisions concerning
-import/export as well as the rules of a carrier of international shipment. It should
-note that many varieties of biological agents are subject to the scope of the
-biosafety committee review at OIST.
-
-
+13.3.8 Experiments Handling Pathogens and Toxins
+Operation of Experiments handling Pathogens and Toxins must comply with the
+following Rules and Acts, and other legal and regulatory provisions. In addition,
+completion of appropriate training programs and necessary procedures is also
+required before commencing any experiments in this category. When procuring
+or acquiring pathogens and toxins from or providing them to other institutions,
+necessary procedures must be completed beforehand, in compliance with all
+legal and regulatory provisions concerning import/export as well as the rules of
+a carrier of international shipment. Of note, a wide variety of biological agents
+are subject to the biosafety committee review at OIST.
+•
 
 OIST Graduate University Biosafety Management Rules [link:
 https://groups.oist.jp/sites/default/files/imce/u745/Biosafety/BiosafetyRules.pdf]
 
-
+•
 
 OIST Graduate University Biosafety Committee Rules [link:
 https://groups.oist.jp/sites/default/files/imce/u745/Biosafety/BiosafetyCommittee-Rules.pdf]
 
-
+•
 
 OIST Biosafety Manual [link:
 https://groups.oist.jp/sites/default/files/imce/u318/docs/biosafetymanual_v
 er100_j.pdf]
 
-
+•
 
 National Institute of Infectious Diseases Safety Management Regulations
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+•
+
+•
+
 for Pathogens and Toxins [link:
 http://www0.nih.go.jp/niid/Biosafety/kanrikitei3/Kanrikitei3_1006.pdf]
-
-
-
 Act Concerning the Prevention of Infectious diseases and Medical Care
 for Patients with Infectious Diseases [link:
-http://www.japaneselawtranslation.go.jp/law/detail/?id=1345&vm=&re=0
-1http://www.japaneselawtranslation.go.jp/law/detail/?id=1345&vm=&re=
-
- 
-
-15
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-01]
-
-
+http://www.japaneselawtranslation.go.jp/law/detail/?id=2830&vm=04&re
+=02]
 Pathogens and Toxins WEB site (Occupational Health and Safety) [link:
 https://groups.oist.jp/rs/pathogens-and-toxins]
 
 13.3.9 Animal Experiments
-Operation of Animal Experiments must comply with following the Rules and
-Acts, and other statutory provisions and guidelines. In addition, appropriate
-training programs and procedures required must be completed in advance of the
-start of experiments. When procuring laboratory animals or providing them to
-other institutions, necessary procedures must be completed in compliance with
-relevant statutory and regulatory provisions concerning import/export as well as
-the rules of a carrier of international shipment.
-
+o Operation of Animal Experiments must comply with the following Rules
+and Acts, and other legal and regulatory provisions. In addition,
+completion of appropriate training programs and necessary procedures is
+also required before commencing any experiments in this category.
+When procuring or acquiring laboratory animals from or providing them
+to other institutions, necessary procedures must be completed
+beforehand, in compliance with all legal and regulatory provisions
+concerning import/export as well as the rules of a carrier of international
+shipment.
+•
 
 OIST Graduate University Animal Experiment Regulations [link:
 https://groups.oist.jp/sites/default/files/imce/u1465/Animal%20Experimen
 t%20Regulations.pdf]
 
-
+•
 
 OIST Graduate University Detailed Stipulations for Animal Care and use
 Committee [link:
 https://groups.oist.jp/sites/default/files/imce/u1465/Detailed%20Stipulati
 ons%20for%20Animal%20Care%20and%20Use%20Commi.pdf]
-
-
-
 OIST Graduate University Detailed Stipulations for the Vivarium
 Operation Committee [link:
 https://groups.oist.jp/sites/default/files/imce/u1465/Detailed%20
 Stipulations%20for%20the%20Vivarium%20Operation%20Com
 mittee.pdf]
-
-
-
 SOP [link: https://groups.oist.jp/ja/ars/laws-regulations-and-sop]
 
-
+•
+
+•
+•
+
+•
 
 Act on Welfare and Management of Animals [link:
 http://www.japaneselawtranslation.go.jp/law/detail/?id=61
 &vm=04&re=01 ]
-
-
-
 Standards Relating to the Care and Management of Laboratory Animals
 and Relief of Pain (MOE) [link:
-http://www.japaneselawtranslation.go.jp/law/detail/?re=01&dn=1&x=0
-&y=0&co=1&ia=03&yo=&gn=&sy=&ht=&no=&bu=&ta=&ky=%E5
-%AE%B6%E7%95%9C%E4%BC%9D%E6%9F%93&page=1] (To
+https://www.env.go.jp/nature/dobutsu/aigo/2_data/laws/nt_h25_84_en.p
+df ]
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
- 
+•
 
-16
-ch13_safety-health-and-environmental-protection_20160701_en_cl
+•
 
-be translated into English)
-
+•
 
 Fundamental Guidelines for Proper Conduct of Animal Experiment and
 Related Activities in Academic Research Institutions (MEXT) [link:
-http://www.mext.go.jp/b_menu/hakusho/nc/06060904.htm ]
-
-
-
+http://www.qda.med.kyushuu.ac.jp:8080/koukai/rules/Fundamental%20Guidelines.pdf ]
 Guidelines for Proper Conduct of Animal Experiments (Science Council
 of Japan)” [link:
 http://www.scj.go.jp/ja/info/kohyo/pdf/kohyo-20-k16-2e.pdf]
-
-
-
 Act on Domestic Animal Infectious Diseases Control [link:
 http://www.japaneselawtranslation.go.jp/law/detail/?re=01&dn=1&x=0&
 y=0&co=1&ia=03&yo=&gn=&sy=&ht=&no=&bu=&ta=&ky=%E5%A
 E%B6%E7%95%9C%E4%BC%9D%E6%9F%93&page=1]
+
+•
+
 Act on the Conservation and Sustainable Use of Biological Diversity
 through Rules on the Use of Living Modified Organisms [link
-http://www.japaneselawtranslation.go.jp/law/detail/?ft=1&re=01&dn=1&
-x=48&y=16&co=01&ia=03&ky=%E9%81%BA%E4%BC%9D%E5%AD
-%90%E7%B5%84%E6%8F%9B%E3%81%88%E7%94%9F%E7%89%
-A9%E7%AD%89%E3%81%AE%E4%BD%BF%E7%94%A8%E7%AD
-%89%E3%81%AE%E8%A6%8F%E5%88%B6%E3%81%AB%E3%82
-%88%E3%82%8B%E7%94%9F%E7%89%A9%E3%81%AE%E5%A4%
-9A%E6%A7%98%E6%80%A7%E3%81%AE%E7%A2%BA%E4%BF%
-9D%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%9
-5%E5%BE%8B&page=1]
+http://www.japaneselawtranslation.go.jp/law/detail/?ft=1&re=01&dn=1
+&x=48&y=16&co=01&ia=03&ky=%E9%81%BA%E4%BC%9D%E5%
+AD%90%E7%B5%84%E6%8F%9B%E3%81%88%E7%94%9F%E7%8
+9%A9%E7%AD%89%E3%81%AE%E4%BD%BF%E7%94%A8%E7%
+AD%89%E3%81%AE%E8%A6%8F%E5%88%B6%E3%81%AB%E3
+%82%88%E3%82%8B%E7%94%9F%E7%89%A9%E3%81%AE%E5
+%A4%9A%E6%A7%98%E6%80%A7%E3%81%AE%E7%A2%BA%E
+4%BF%9D%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E
+6%B3%95%E5%BE%8B&page=1]
 
-
+•
 
 Control on animal import [link:
 http://www.mhlw.go.jp/english/topics/importanimal/]
-
-
-
 Animal Resources Section WEB site [link: https://groups.oist.jp/ja/ars]
 
-13.3.10 Experiments Involving the Use of Radiation
-Experiment that uses radiation must comply with the following Rules and Acts,
-and other statutory provisions and guidelines. In addition, required training
-programs and procedures must be completed in advance of the start of
-experiments. Only the Radiation Protection Supervisor can handle the
-procurement procedures of Radioisotopes. Installation of radiation equipment
-may require obtaining a permit or submission of notification to the regulatory
-authority in advance of the installation, in accordance with the provision of the
-“Act concerning Prevention of Radiation Hazards due to Radioisotopes, etc.”
+•
 
-
- 
+13.3.10 Experiments Involving the Use of Radiation
+Operation of experiments involving use of radiation must comply with the
+following Rules and Acts, and other legal and regulatory provisions. In addition,
+completion of appropriate training programs and necessary procedures is also
+required before commencing any experiments in this category. Only the
+Radiation Protection Supervisor can handle the procurement procedures of
+Radioisotopes. Of note, the “Act concerning Prevention of Radiation Hazards
+due to Radioisotopes, etc.” may require installation of equipment generating
+radiation be performed under a permit obtained from or a notification submitted
+to the regulatory authority in advance of the installation.
+•
 
 OIST Graduate University Rules for Prevention of Radiation Hazards
-17
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-
-
-
-
-
-
-
-
-
 [link: https://groups.oist.jp/sites/default/files/imce/u318/docs/Rulesfor-Prevention-of-Radiation-Hazards.pdf]
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+•
+
+•
+
 OIST Graduate University Instructions on Prevention of Radiation
 Hazards [link:
 https://groups.oist.jp/sites/default/files/imce/u318/docs/Instruction
 s-for-Prevention-of-Radiation-Hazards.pdf]
 OIST Graduate University Rules for Radiation Safety Committee [link:
 https://groups.oist.jp/sites/default/files/imce/u318/docs/Rules-forRadiation-Safety-Committee.pdf]
+
+•
+
 OIST Graduate University Instructions for Joint Use of RI Facility [link:
 https://groups.oist.jp/sites/default/files/imce/u318/docs/Instructions-forJoint-Use-of-RI-Facility.pdf]
+
+•
+
 Manual for the handling of Radioisotopes [link:
-https://groups.oist.jp/sites/default/files/imce/u318/docs/ri_manual_j.pdf]
+https://groups.oist.jp/sites/default/files/imce/u318/docs/ri_manual_e.pdf]
+
+•
+
 Act Concerning Prevention of Radiation Hazards due to Radioisotopes,
 etc. [link:
-http://law.e-gov.go.jp/htmldata/S32/S32HO167.html]
-RI WEB site (Occupational Health and Safety)[link:
+
+http://www.japaneselawtranslation.go.jp/law/detail/?ft=1&re=01&dn=1
+&x=56&y=25&co=01&ia=03&ky=%E6%94%BE%E5%B0%84%E6%8
+0%A7%E5%90%8C%E4%BD%8D%E5%85%83%E7%B4%A0%E7%
+AD%89%E3%81%AB%E3%82%88%E3%82%8B%E6%94%BE%E5%
+B0%84%E7%B7%9A%E9%9A%9C%E5%AE%B3%E3%81%AE%E9
+%98%B2%E6%AD%A2%E3%81%AB%E9%96%A2%E3%81%99%E
+3%82%8B%E6%B3%95%E5%BE%8B&page=5]
+• RI WEB site (Occupational Health and Safety)[link:
 https://groups.oist.jp/rs/radioisotopes]
 
 13.3.11 Human Subjects Research
-Implementation of Human Subjects Research studies must comply with the
-following Rules and Guidelines. In addition, appropriate training programs and
-procedures required must be completed in advance of the start of the research
-studies. In the case of handling Human Specimens, infection prevention
-measures against blood-borne pathogens must be taken. When procuring Human
-Specimens or providing them to other institutions, necessary procedures must be
-completed in compliance with relevant statutory and regulatory provisions
-concerning import/export as well as the rules of a carrier of international
-shipment.
-
-
-
-
-
- 
-
-OIST Graduate University Human Subject Research Rules [link:
+Operation of Human Subjects Research must comply with the following Rules
+and Guidelines, and other legal and regulatory provisions. In addition,
+completion of appropriate training programs and necessary procedures is also
+required before commencing the research. To handle Human Specimens,
+infection prevention measures against blood-borne pathogens must be taken.
+When procuring or acquiring Human Specimens from or providing them to
+other institutions, necessary procedures must be completed in compliance with
+all legal and regulatory provisions concerning import/export as well as the rules
+of a carrier of international shipment.
+• OIST Graduate University Human Subject Research Rules [link:
 https://groups.oist.jp/sites/default/files/imce/u300/human%20subjects%20r
 esearch%20rules%201.02_dor.pdf]
+•
+
 OIST Graduate University Detailed Information on Human Subjects
 Research [link:
 https://groups.oist.jp/sites/default/files/imce/u300/detailed%20infor
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+•
+
+•
+
 mation%20on%20human%20subjects%20research%201.01.pdf]
 OIST Graduate University Human Subjects Research Committee Rules
 [Link:
 https://groups.oist.jp/sites/default/files/imce/u300/rules%20for%20hum
-18
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-
-
-
-
-
-
-
-
 an%20subjects%20research%20review%20committee%201.02_dor.pdf
 ]
 OIST Graduate University Human Subject Research Manual [link: ]
+
+•
+
 Ethical Guidelines for Medical and Health Research Involving Human
 Subjects [link: http://www.lifescience.mext.go.jp/files/pdf/n1500_01.pdf]
+
+•
+
 Declaration of Helsinki (WMA) [link:
-http://www.wma.net/en/30publications/10policies/b3/]
+https://www.wma.net/policies-post/wma-declaration-of-helsinkiethical-principles-for-medical-research-involving-humansubjects/]
 The Belmont Report (The National Commission for the Protection of
 Human Subjects of Biomedical and Behavioral Research) [link:
 http://www.hhs.gov/ohrp/humansubjects/guidance/belmont.html]
@@ -10502,98 +10483,103 @@ Human Subjects Research WEB site (Occupational Health and Safety)
 [link: https://groups.oist.jp/rs/human-subjects-research]
 Health and Labour Sciences Researches WEB site (MHLW)[link:
 http://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hokabunya/kenk
-yujigyou/i-kenkyu/]
+yujigyou/i-kenkyu/] (Japanese website)
+Ministry of Education, Culture, Sports, Science and Technology,
+Bioethics and Biosafety WEB site (MEXT)
+[http://www.lifescience.mext.go.jp/bioethics/index.html ] (Japanese
+website)
+
+•
+
+•
+•
+
+•
 
 13.3.12 Chemical Materials
-(Rules applicable to Radioisotopes (RIs) are described in the section of
-Radiation and Radioisotopes [link 13.3.10].) Handling, use and storage of
-chemical materials at the University must comply with “OIST Graduate
-University Rules for the Management of Chemical Materials,” the
-“Industrial Safety and Health Act” and any other relevant statutory and
-regulatory provisions. A user of chemical materials must be aware that
-safety requirements differ depending on each specific chemical. Other
-relevant laws include:
-
-
-Occupational Health and Safety WEB site [link:
+(Rules that apply to Radioisotopes (RIs) are described in the section of
+Experiments Involving the Use of Radiation [link 13.3.10].) Handling, use
+and storage of chemical materials at the University must comply with “OIST
+Graduate University Rules for the Management of Chemical Materials,” the
+“Industrial Safety and Health Act” and other relevant legal and regulatory
+provisions. A user of chemical materials must be aware that safety
+requirements differ depending on each specific chemical. In addition,
+completion of all necessary training programs is required before
+commencing any experiments involving use of chemical materials.
+• Occupational Health and Safety WEB site [link:
 https://groups.oist.jp/rs]
-
-
+•
 
 Chemical Hazards Control Division WEB site (MHLW) [link:
 http://www.mhlw.go.jp/new-info/kobetu/seikatu/kagaku/]
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+•
+
+•
+
 (Japanese website)
-
-
-
 Chemical Management Policy WEB site (METI) [link:
 http://www.meti.go.jp/policy/chemical_management/]
 (Japanese website)
-
-
-
 National Institute of Technology and Evaluation (NITE) [link:
-http://www.bio.nite.go.jp/] (Japanese website)
-
- 
-
-19
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-13.3.12.1 Basic Chemical Safety Rules
- 
-
-Before working with any new chemical materials, use Chemical Risk
-Information Platform (CRIP) and Material Safety Data Sheet (MSDS)
-and diligently do the following:
-(1) Wear appropriate personal protective equipment (such as lab
-coat, rubber gloves, safety glasses and masks);
-(2) Consider a lower risk alternative, if a chemical material that
-you intend to work with poses a high potential risk;
-(3) Before use, again review the physical and chemical properties
-of chemical materials that you will work with, along with
-information concerning hazards and disposal methods;
-(4) Plan safety measures to prevent potential accidents and
-mitigate hazards; and
-(5) Proceed thoughtfully and carefully.
+http://www.nite.go.jp/en/index.html]
+13.3.12.1 Basic Chemical Safety Rules
+ Before working with any new chemical materials, use Chemical
+Risk Information Platform (CRIP) and Material Safety Data Sheet
+(MSDS).
+ Wear appropriate personal protective equipment (such as lab coat,
+rubber gloves, safety glasses and masks).
+ Consider a lower risk alternative, if a chemical material that you
+intend to work with poses a high potential risk.
+ Before use, again review the physical and chemical properties of
+chemical materials that you will work with, along with
+information concerning hazards and disposal methods.
+ Plan and take safety measures to prevent potential accidents and
+mitigate hazards.
 13.3.12.2 Export/Import of Chemical Materials
 In Japan, the “Act on the Evaluation of Chemical Substances and
 Regulation of Their Manufacture, etc.” has been established to
 evaluate whether new chemical substances to be manufactured or
-imported have harmful properties to human beings, and to control the
+imported have harmful properties to humans, and to control the
 manufacture, import and use of chemical substances posing the risk of
 impairing human health through the environment. Those who intend to
 import chemical materials must contact the Chemical Materials Safety
 Supervisor at Occupational Health and Safety, and take necessary
-instructions from the Supervisor. See Chemical Materials WEB site
-[link: https://groups.oist.jp/rs/chemical-materials] and Chemical
-Management WEB site (METI) [link:
+instructions from the Supervisor.
+
+
+Chemical Materials WEB site [link:
+https://groups.oist.jp/rs/chemical-materials]
+
+
+
+Chemical Management WEB site (METI) [link:
 http://www.meti.go.jp/policy/chemical_management/index.html]
 (Japanese website).
-13.3.12.3 Transport
+
+13.3.12.3 Transport of Chemical Materials
 Transport of chemical materials is controlled by the provisions of the
 Postal Act, Terms and Conditions of Domestic Postal Services,
-Universal Postal Convention, IATA Dangerous Goods Rules, etc., and
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+Universal Postal Convention, IATA Dangerous Goods Rules, etc., and
 transportable goods are specified in these stipulations. Containers and
 packages for transport must comply with specific requirements.
 Contact the carrier or shipping company, as they may decline to handle
 delivery of dangerous goods or quarantine items. See 13.2.2 [link:
- 
-
-20
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-13.2.2] in this Chapter, and the University’s Security Trade Control
+13.2.2] in this Chapter, and the University’s Security Trade Control
 website [link: https://groups.oist.jp/rs/security-export-control].
-13.3.12.4 Hazardous Chemical Materials
+13.3.12.4 Special Requirements for handling Chemical Materials
 The chemical materials listed below have been deemed hazardous by
 regulatory agencies and are subject to stringent requirements regarding
 their handling, management and storage. In addition, if a non-listed
 chemical material is expected to pose a hazard similar to those
 associated with any of the below-listed chemical materials, then those
-safe handling requirements apply:
-(a) ) Organic solvents (Ordinance on the Prevention of
-Organic Solvent Poisoning) [link: http://law.egov.go.jp/htmldata/S47/S47F04101000036.html]
+safe handling requirements apply. Further, other relevant legal and
+regulatory provisions and OIST Rules must also be observed as well:
+(a) Organic solvents (Ordinance on the Prevention of Organic
+Solvent Poisoning) [link: http://law.egov.go.jp/htmldata/S47/S47F04101000036.html]
 (b) Specified chemical substances (Ordinance on Prevention of
 Hazards due to Specified Chemical Substances) [link:
 http://law.e-gov.go.jp/htmldata/S47/S47F04101000036.html]
@@ -10608,14 +10594,16 @@ Act)
 (d) Dangerous materials (Fire Service Act) [link:
 https://groups.oist.jp/sites/default/files/imce/u318/docs/6Hazardou
 s-materials.pdf]
-(e) ) Special material gas (High Pressure Gas Safety Act) [link:
+(e) ) High pressure gas (High Pressure Gas Safety Act) [link:
 https://groups.oist.jp/sites/default/files/imce/u318/docs/9Highpressure-gas.pdf]
 (f) Narcotics [link :
 https://groups.oist.jp/sites/default/files/imce/u697/docs/Narco
 tics-list_en.pdf ,
 https://groups.oist.jp/sites/default/files/imce/u697/docs/Psych
 otropics-list_en.pdf]（Narcotics and Psychotropics Control
-Act）
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+Act）
 (g) Nuclear fuel material (Act on the Regulation of Nuclear
 Source Material, Nuclear Fuel Material and Reactors) [link:
 http://www.japaneselawtranslation.go.jp/law/detail/?x=33&
@@ -10623,28 +10611,21 @@ y=18&re=01&co=1&ia=03&yo=&gn=&sy=&ht=&no=&bu
 =&ta=&ky=%E6%A0%B8%E5%8E%9F%E6%96%99%E7
 %89%A9%E8%B3%AA%E3%80%81%E6%A0%B8%E7
 %87%83%E6%96%99%E7%89%A9%E8%B3%AA%E5%
- 
-
-21
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-8F%8A%E3%81%B3%E5%8E%9F%E5%AD%90%E7%8
+8F%8A%E3%81%B3%E5%8E%9F%E5%AD%90%E7%8
 2%89%E3%81%AE%E8%A6%8F%E5%88%B6%E3%81
 %AB%E9%96%A2%E3%81%99%E3%82%8B%E6%B3%
-95%E5%BE%8B&page=1
-]
-See below Rules for internal provisions and procedures of chemical
-materials.
-
+95%E5%BE%8B&page=1 ]
+•
 
-
+•
 
-
+•
 
-
+•
 
-
-
+•
+
+•
 
 OIST Graduate University Rules for the Management of
 Chemical Materials [link:
@@ -10665,22 +10646,24 @@ https://groups.oist.jp/sites/default/files/imce/u318/docs/chemical_m
 anual_e.pdf]
 OIST Narcotics and Psychotropics Manual [link: ]
 
-13.3.13 Field Activity
-See “Rules for Field Education/Research Activities” [link:
-https://groups.oist.jp/sites/default/files/imce/u100087/finalized_ENG%20rules%
-20for%20field%20educationresearch%20activities_0623.pdf] for detail rules
-and procedures about the field activities of OIST.
+13.3.13 Field Work
+Field work involve risks and dangers which are different from those that may be
+present in indoor academic or research activities. Besides, access to work sites
+and collection of biological resources are subject to restrictions imposed by
+various legal and regulatory provisions. Thus, operation of field work require
+careful planning of the work, taking measures to ensure safety, and acting in
+strict compliance with the law. People who intend to conduct any field work
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
+must carefully read OIST Rules for Field Work and OIST Field Work Manual
+[link: https://oist-prod-groups.s3-ap-northeast-1.amazonaws.com/s3fspublic/imce/u103453/oist_en_a4_1007.pdf] beforehand, and complete all
+appropriate training programs, acquire required qualifications, and receive
+designated health examinations.
 13.3.14 Rules Regarding Health & Wellness
 All University students and employees must pay attention to their own health
 and wellness in addition to complying with safety rules. In particular, each work
 area should be free of hazards and contain the proper equipment, should be
- 
-
-22
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-appropriately lighted, should provide ergonomically correct tools, equipment,
+appropriately lighted, should provide ergonomically correct tools, equipment,
 and furniture, and should be properly ventilated. Students and employees should
 also be mindful of the need for enough sleep each day, for a modicum of daily
 exercise, for a nutritious diet, and for periods of relaxation and recreation.
@@ -10696,57 +10679,71 @@ University requirements to prevent release to the environment.
 activities.
 5. Minimize waste and reuse resources where feasible.
 13.3.15.1 Waste Management
-Management of waste must comply with “OIST Graduate University
-Rules for Waste Management” [link :
-https://groups.oist.jp/sites/default/files/imce/u318/docs/Rules_for_the_
-Management_of_Waste_111101.pdf], “OIST Graduate University
-Manual for the Management of Waste” [link:
-https://groups.oist.jp/sites/default/files/imce/u318/docs/waste_manual
-_e.pdf], the “Waste Disposal and Public Cleansing Act” [link:
-http://www.env.go.jp/en/laws/recycle/01.pdf], and other relevant
-statutory and regulatory provisions. All training programs and
-procedures required for such work must be completed before
+Management of waste must comply with the following Rules and
+Acts, and other legal and regulatory provisions. All training programs
+and procedures required for such work must be completed before
 commencing work. Appropriate protective gear must be worn in
-carrying out waste handling and disposal.
+carrying out waste handling and disposal:
+
 
-13.3.16 Disaster Preparedness & Emergency Response Rules
-Prevention of hazardous incidents and appropriate responses under an
-emergency situation is possible if each person knows what an
- 
+OIST Graduate University Rules for Waste Management” [link :
+https://groups.oist.jp/sites/default/files/imce/u318/docs/Rules_for_
+the_Management_of_Waste_111101.pdf]
 
-23
-ch13_safety-health-and-environmental-protection_20160701_en_cl
+
 
-emergency situation is like and what to do in response. Employees and
-students must maintain preparedness by periodically reviewing
-emergency response
-procedures, emergency contacts, evacuation routes, for the areas where they
-work. Employees and students must read and understand “University
-Emergency, Safety, Health Procedures & Guidelines” [link:
+OIST Graduate University Manual for the Management of
+Waste” [link:
+https://groups.oist.jp/sites/default/files/imce/u318/docs/waste_ma
+nual_e.pdf]
+ch13_safety-health-and-environmental-protection_en_20180222_ar
+
+
+
+Waste Disposal and Public Cleansing Act [link:
+http://www.env.go.jp/en/laws/recycle/01.pdf]
+
+13.3.16 Disaster Preparedness & Emergency Response Rules Prevention of
+hazardous incidents and appropriate responses under an emergency situation is
+possible if each person knows what an emergency situation is like and what to
+do in response. Employees and students must maintain preparedness by
+periodically reviewing emergency response procedures, emergency contacts,
+evacuation routes, for the areas where they work. Employees and students must
+read and understand “University Emergency, Safety, Health Procedures &
+Guidelines” [link:
 https://groups.oist.jp/sites/default/files/imce/u745/ESH_procedures_and_guidel
 ines_e_Lab1.pdf ]. Employees and students should also prepare an individual
 emergency response plan based on the specifics of their work. Please refer to
-the “Typhoon Guidelines” [link: in case of typhoon.
-
+the “Typhoon Guidelines” [link:
+https://hr.oist.jp/sites/default/files/files/Typhoon_Guideline_JP_20160224.pdf]
+in case of typhoon. For earthquake, take necessary preparedness measures in
+accordance with the "Earthquake Preparedness Manual" [link: xxx].
 13.4 Responsibilities
 13.4.1 All Employees and Students
-Safety, health, environmental protection, and disaster preparedness program
-in the University are based on the premise that every member of the OIST
-community shares responsibility for safety, health, environmental protection
-and disaster preparedness.
+The University's safety management is based on the premise that all
+members of the OIST community shares responsibility for ensuring safety.
+Every member of the OIST community must comply with the University's
+safety, health, environmental protection, and disaster preparedness program.
+13.4.2 Faculty members and Section Leaders
+Faculty members and section leaders fall into the "foremen" under Article
+60 of the Industrial Safety and Health Act (those who directly guide or
+supervise workers in operations), and have the following responsibilities:
+they are primarily responsible for the safety and environmental sanitation of
+their laboratory or workplace, and must have an understanding of the
+hazards associated with operation and/or research and disseminate the
+information on hazards to their members under their supervision; they also
+need to set and reinforce safety standards for their laboratory and/or office,
+having their members receive proper training on general and lab-specific
+hazards and making sure that the members are using the appropriate
+equipment following proper procedures; they need to have their members
+receive designated health examinations and make sure that the members
+have completed the health examinations; they are also required to make
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
-13.4.2 Division & Section Leaders
-Faculty members and section leaders are primarily responsible for the safety
-and environmental sanitation of their unit or section, and must have an
-understanding of the hazards associated with operation and/or research.
-Additionally, faculty members and section leaders have the responsibility to
-set and reinforce safety standards for their laboratory and/or office; making
-sure that their unit or section members receive proper training on general and
-lab-specific hazards and are using the appropriate equipment following proper
-procedures. Faculty members and section leaders are also required to make
-sure that the lab abides by relevant statutory laws and instruments, and OIST
-internal rules.
-
+sure that the members comply with relevant legal and regulatory provisions,
+and OIST Rules and follow proper procedures; further, during lab rotation
+and when appointed to a PhD Thesis Supervisor, they are primarily
+responsible for ensuring safety and environmental sanitation of the students.
 13.4.3
 
 Fire Safety Manager
@@ -10754,30 +10751,22 @@ Fire Safety Manager
 Fire Safety Manager is responsible for fire prevention management for the
 University. This includes preparing a fire defense plan, providing drills for
 fire fighting and evacuation, enabling emergency reporting and evacuation,
- 
-
-24
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-ensuring inspection and management of fire extinguishers and similar
+ensuring inspection and management of fire extinguishers and similar
 equipment, and other efforts to prevent fires and mitigate the effects of both
 man-caused and natural disasters.
-
 13.4.4. Manager of Occupational Health and Safety
 Manager of Occupational Health and Safety is responsible for ensuring
 research in the University compliance with requirements of the University’s
-rules, and statutory and regulatory provisions.
-
+rules, and legal and regulatory provisions.
 13.4.5 Manager of Animal Resources Section
 Manager of Animal Resources Section is responsible for ensuring safety,
-and health in Animal Facilities and Animal Experiments.
-
+and health, environmental protection, and disaster preparedness in Animal
+Facilities and Animal Experiments.
 13.4.6 Manager of General Facility Management Section
 Manager of General Facility Management Section is responsible for
 management and maintenance of facilities in a manner that will ensure
 the workplace safety and health, environmental protection, and disaster
 preparedness.
-
 13.4.7 Research Personnel
 In order to avoid unnecessary risk to themselves and/or other researchers,
 individuals engaging in research at OIST, regardless of their titles such as
@@ -10786,135 +10775,113 @@ only when they acquire sufficient knowledge and understanding of health
 and safety issues associated with research activities. To this end, research
 personnel must actively participate in a variety of educational and training
 programs on safety and health, and follow appropriate instructions and
-advice from faculty members, section leaders and personnel associated with
-OIST safety management duties.
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
+advice from faculty members, section leaders and personnel associated with
+OIST safety management duties, including principle investigators, as listed
+below.
 13.4.8
-
 Specific Research-Related Responsible Roles
-
-Biosafety Officer： Must ensure compliance with statutory and regulatory
+ Biosafety Officer： Must ensure compliance with legal and regulatory
 provisions as well as the University Rules so that the operation of
- 
-
-25
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-Recombinant DNA Experiment and Experiment Handling Pathogens and
-Toxins is appropriately performed in the University.
-Human Subject Research Officer： Must ensure compliance with statutory
-and regulatory provisions, and guidelines as well as the University Rules so
-that the operation of Human Subject Research is appropriately performed in
-the University.
-Personal Information Officer for Human Subjects Research： Must manage
-personal information to ensure appropriate protection of personal
-information related to Human Subject Research in the University.
-RI Facility Director： Must manage and mitigate radiation hazards and
-ensure compliance with statutory and regulatory provisions as well as the
-University Rules so that experiments using radioisotopes are appropriately
-performed in the University.
-Radiation Protection Supervisor ：
-radiation
-
-Responsible for the prevention of
-
-hazards and the management of implementation of proper
-
-experiments in the University.
-Chemical Materials Safety Officer ：
-
-Must ensure compliance with
-
-statutory and regulatory provisions as well as the University Rules so that
-the handling of chemical materials is appropriately performed in the
-University.
-Animal Experiment Coordinator： Must ensure compliance with statutory
+Recombinant DNA Experiment and Experiment Handling Pathogens
+and Toxins is appropriately performed in the University.
+ Human Subject Research Officer： Must ensure compliance with legal
 and regulatory provisions, and guidelines as well as the University
-Regulations so that the operation of Animal Experiment is appropriately
+Rules so that the operation of Human Subject Research is appropriately
 performed in the University.
-Drug Control Supervisor： Must ensure compliance with statutory and
-regulatory provisions as well as the University Rules so that the handling of
-Narcotics and Psychotropics is appropriately performed in the University.
- 
+ Personal Information Officer for Human Subjects Research： Must
+manage personal information to ensure appropriate protection of
+personal information related to Human Subject Research in the
+University.
+ RI Facility Director： Must manage and mitigate radiation hazards and
+ensure compliance with legal and regulatory provisions as well as the
+University Rules so that experiments using radioisotopes are
+appropriately performed in the University.
+ Radiation Protection Supervisor： Assists the RI Facility Director, and
+must ensure compliance with legal and regulatory provisions as well as
+the University Rules such that the prevention of radiation hazards and
+the implementation of proper experiments are ensured.
+ Chemical Materials Safety Officer： Must ensure compliance with legal
+and regulatory provisions as well as the University Rules so that the
+handling of chemical materials is appropriately performed in the
+University.
+ Diving Safety Officer: Must ensure safety and compliance with legal
+and regulatory provisions, as well as the University Rules, for diving
+and snorkeling, through activities such as reviewing plans involving
+diving or snorkeling before institutional review by the Field Work
+Safety Committee, and providing safety training (including hands-on
+trainings) and giving guidance necessary for diving or snorkeling.
+ Animal Experiment Coordinator： Must ensure compliance with legal
+and regulatory provisions, and guidelines as well as the University
+Rules so that the operation of Animal Experiment is appropriately
+performed in the University.
+ Drug Control Supervisor： Must ensure compliance with legal and
+regulatory provisions as well as the University Rules so that the
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
-26
-ch13_safety-health-and-environmental-protection_20160701_en_cl
+
 
-Drug Control Supervisor for Animal Facility： Must ensure compliance with
-statutory and regulatory provisions as well as the University Rules so that
-the handling of Narcotics and Psychotropics used for animal clinical
-diagnosis purposes is appropriately performed in the University.
+handling of Narcotics and Psychotropics is appropriately performed in
+the University.
+Drug Control Supervisor for Animal Facility： Must ensure compliance
+with legal and regulatory provisions as well as the University Rules so
+that the handling of Narcotics and Psychotropics used for animal
+clinical diagnosis purposes is appropriately performed in the
+University.
+
 13.5 Procedures
-The specific response and reporting procedure based on 13.2.5 are following. The other
-procedures of each particular item in this chapter are defined in each set of relevant
-rules.
-a. If incidents, accidents, injuries, or sickness occurs as a result of work, the
-victim or the witness must immediately report to the victim's supervisor
-and the Central Control Room (Bosai Center) [link: 10.8.4]. When
-treatment for injured personnel is necessary, priority should be given to
-contacting the Health Center or the public emergency services.
-b. Depending on the details of the incident, accident, injury or sickness, the
-Central Control Room (Bosai Center) shall contact the public emergency
-services, Occupational Health and Safety (Safety and Health Committee
-[link:
-
-https://groups.oist.jp/rs/safety-and-health-committee-minutes]
-
-Secretariat), Health Center, and/or other relevant sections as
-necessary. If a victim is a student, the Central Control Room (Bosai
-Center) shall also contact the Student Support Section.
+The specific response and reporting procedure based on 13.2.5 are following. The
+other procedures of each particular item in this chapter are defined in each set of
+relevant University Rules:
+a. If incidents, accidents, injuries, or sickness occurs as a result of work,
+the victim or the witness must immediately report to the victim's
+supervisor and the Central Control Room (Bosai Center) [link: 10.8.4].
+When treatment for injured personnel is necessary, priority should be
+given to contacting the Health Center or the public emergency services.
+b. Depending on the details of the incident, accident, injury or sickness,
+the Central Control Room (Bosai Center) shall contact the public
+emergency services, Occupational Health and Safety (Safety and
+Health Committee [link: https://groups.oist.jp/rs/safety-and-healthcommittee-minutes] Secretariat), Health Center, and/or other
+relevant sections as necessary. If a victim is a student, the Central
+Control Room (Bosai Center) shall also contact the Student Support
+Section.
 c. The Occupational Health and Safety, Health Center, and relevant
-sections shall immediately share information on the incident, accident,
-injury, or sickness and take necessary action.
-d. The Occupational Health and Safety Leader shall report to the General
-Safety and Health Manager [link:] and the Safety and Health Committee
-members. For serious incidents, accidents, injuries, or sickness, the
-Occupational Health and Safety Leader shall also report immediately to
-the President and to the Dean of Research
-
-
-Details of response procedures shall be in accordance with the
-“OIST Graduate University Emergency, Safety, and Health
-Procedures
-
-and
-
-Guidelines
-
-[link:
-
+sections shall immediately share information on the incident,
+accident, injury, or sickness and take necessary action.
+d. The Occupational Health and Safety Leader shall report to the
+General Safety and Health Manager and the Safety and Health
+Committee members. For serious incidents, accidents, injuries, or
+sickness, the Occupational Health and Safety Leader shall also report
+immediately to the President and to the Dean of Research
+ Details of response procedures shall be in accordance with
+the “OIST Graduate University Emergency, Safety, and
+Health Procedures and Guidelines [link:
 https://groups.oist.jp/sites/default/files/imce/u745/ESH_procedure
- 
+s_and_guidelines_e_Lab1.pdf ] and other rules.
+ If the victim or witness is able to identify the section that
+should respond, then he/she may directly contact that section
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
-27
-ch13_safety-health-and-environmental-protection_20160701_en_cl
+
 
-s_and_guidelines_j_Lab1.pdf]” and other rules.
-
+
 
-If the victim or witness is able to identify the section that should
-respond, then he/she may directly contact that section without
-following the procedure above (for example, contacting the
-Animal Resources Section in the case of an incident or accident
-during animal experiment).
-
-
-
-It is not necessary to follow the procedure above in the case of
-minor incidents or accidents. However, a report shall be sent by
-email or other means to the Occupational Health and Safety at a
-later date.
-
-
-
-There is a smart-phone application that may be used to send the
-emergency report to all relevant staff including university Senior
-Level Executive [link: 30.2.2].
+without following the procedure above (for example,
+contacting the Animal Resources Section in the case of an
+incident or accident during animal experiment).
+It is not necessary to follow the procedure above in the case
+of minor incidents or accidents. However, a report shall be sent
+by email or other means to the Occupational Health and Safety
+at a later date. [link: 13.2.5]
+There is a smart-phone application that may be used to send
+the emergency report to all relevant staff including university
+Senior Level Executive [link: 30.2.2].
 
 13.6 Forms
 13.6.1 Recombinant DNA Experiment
 See Occupational Health and Safety WEB site [link:
-https://groups.oist.jp/ja/rs/narcotics-and-psychotropics]
+https://groups.oist.jp/rs/narcotics-and-psychotropics]
 13.6.2 Experiment Handling Pathogens and Toxins
 See Occupational Health and Safety WEB site [link:
 https://groups.oist.jp/rs/pathogens-and-toxins]
@@ -10930,23 +10897,28 @@ https://groups.oist.jp/rs/human-subjects-research]
 13.6.6 Chemical Material
 See Occupational Health and Safety WEB site (chemical material) [link:
 https://groups.oist.jp/rs/chemical-materials] and Occupational Health and
- 
-
-28
-ch13_safety-health-and-environmental-protection_20160701_en_cl
-
-Safety WEB site (narcotics and psychotropics) [link:
+Safety WEB site (narcotics and psychotropics) [link:
 https://groups.oist.jp/rs/narcotics-and-psychotropics]
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
-13.6.7 Radioisotopes
+13.6.7 Radioisotopes
 See Occupational Health and Safety WEB site [link:
 https://groups.oist.jp/rs/radioisotopes]
+
+13.6.8 Field Work
+See Occupational Health and Safety WEB site (Field Work) [link:
+https://groups.oist.jp/rs/%E9%87%8E%E5%A4%96%E6%B4%BB%E5%8B%9
+5]
+
+13.6.9 Equipment requiring a License or Submission of a Notification
+(Regulated Equipment)
+See Occupational Health and Safety WEB site (Regulated Equipment) [link:
+https://groups.oist.jp/rs/regulated-equipment]
 
 13.7 Contacts
 Policy Owner:
 Dean of Research
 Vice President for Buildings & Facility Management
-
 13.7.1 Other Contacts:
 Section Leader, Occupational Health and Safety
 Section Leader, Animal Resources
@@ -10955,10 +10927,7 @@ Section Leader, Instrumental Analysis
 Section Leader, Mechanical Engineering & Microfabrication Support
 Section Leader, Facility Management
 
- 
-
-29
-ch13_safety-health-and-environmental-protection_20160701_en_cl
+ch13_safety-health-and-environmental-protection_en_20180222_ar
 
 OIST Graduate University
 Policies, Rules and Procedures
