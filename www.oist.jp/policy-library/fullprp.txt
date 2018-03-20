@@ -16734,7 +16734,7 @@ Corporation.
 CEO/President in the financial and accounting affairs of the Corporation.
 26.2.3 Titles of Accounts
 1
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 The accounting of the Corporation shall be handled in accordance with the titles of
 accounts[link: http://iwww.oist.jp/document/prp-aux/26.2.3_ titlesofaccounts_en.pdf] as
@@ -16771,7 +16771,7 @@ attached.
 documents shall constitute the evidential documents stated in the above section.
 26.3 Rules
 2
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 26.3.1 Accounting Procedures and Handling of Money
 For purposes of this Chapter, “money” and “securities” shall be defined as follows:
@@ -16807,7 +16807,7 @@ Accounting Supervisor.
 money in the Accounting Section shall serve as the Supervisor for
 receiving, paying and custody of money of the Corporation.
 3
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 26.3.1.2.2 The Supervisor for receiving, paying and custody of money shall
 not receive or pay any money or security that is not relevant to the business
@@ -16841,7 +16841,7 @@ provisions of 26.3.1.4.1.
 by the Corporation shall be kept in trust pursuant to cash.
 
 4
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 26.3.1.4.6 In terms of 26.3.1.4.5, the receipt-payment books must be
 updated, writing up the book for each receipt or payment.
@@ -16874,9 +16874,9 @@ balance monthly.
 26.3.1.9 Petty Cash Payments
 Petty cash payments shall be limited to urgent cases and situations where payment
 in cash is necessary, and shall not exceed truly necessary amount for the business
-purposes. .
+purposes.
 5
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 26.3.1.9.1Petty cash payments shall be made in exchange for receipts from
 the parties receiving payments.
@@ -16912,7 +16912,7 @@ cash.
 26.3.1.13 Procedures for Receiving and Paying Money
 
 6
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 The Supervisor for receiving, paying and custody of money shall receive or pay
 money in accordance with a voucher created based on necessary evidential
@@ -16950,7 +16950,7 @@ overdue payment immediately after such payment becomes due and payable and
 ensure the receipt of any payment.
 26.3.1.19 Debt Forgiveness
 7
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 The Accounting Supervisor shall obtain the approval of the CEO/President for any
 forgiveness or change of effect of any receivables in whole or in part, other than
@@ -16989,7 +16989,7 @@ the case of payment to a staff and a petty cash payment.
 shall collect a receipt for any payment. If the payment is made by a direct
 deposit, the bank deposit slip may suffice in lieu of a receipt.
 8
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 26.3.1.24 Date of Payment
 Payment shall be in principle made monthly with the closing date at the end of the
@@ -17026,7 +17026,7 @@ Supervisor
 The expenses paid by estimate must be promptly settled.
 26.3.1.29 Payment on behalf of Corporation
 9
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 Any staff of the Corporation may make payment on behalf of the Corporation only
 in the case separately stipulated by VPF, if necessary for business purposes [Link:
@@ -17060,7 +17060,7 @@ projection under which any short-term loan may be paid back within the
 same fiscal year.
 26.3.2.3 Long-term Loans
 10
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 The Corporation shall receive approval from Prime Minister when borrowing
 funds with a payment period exceeding one year as stipulated in Article 10 of
@@ -17071,9 +17071,10 @@ other assets. With regard to Fixed Assets, the terms and definitions below are a
 (1) Real estate: Land, buildings, structures, and usufructs
 (2) Movable property etc.: Small-sum equipment, fixed assets other than intellectual
 property rights and real estate etc., and books (Books managed as fixed assets, based on
-the Accounting Standard Article 42 of the University, shall be defined as the collection of
-the Library of the Okinawa Institute of Science and Technology Graduate University ("the
-Library") which acquired and managed by the Library.)
+the Accounting Standard[Link: https://groups.oist.jp/dfa/accounting-standard-oist-sc]
+Article 42 of the University, shall be defined as the collection of the Library of the
+Okinawa Institute of Science and Technology Graduate University ("the Library") which
+acquired and managed by the Library.)
 (3) Acquisition: Ownership or exclusive use of fixed assets and small-sum equipment
 (hereinafter referred to as “fixed assets etc.”) from purchase, manufacturing, selfconstruction, donation, exchange, contribution, etc.
 (4) Improvement: Implementing the necessary works for the operations of existing fixed
@@ -17098,7 +17099,7 @@ to handle any part of his or her business.
 26.3.3.1.4 In the event that the Asset Management Supervisor is unable to
 act, a person designated by the CEO/President shall act on his or her behalf.
 11
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 26.3.3.2 Fixed Assets Etc. Management Works
 The Asset Management Supervisor shall conduct the following works concerning
@@ -17141,7 +17142,7 @@ the IT fixed assets were purchased or transferred. (Asset management of IT
 fixed assets etc. shall be governed by the PRP Chapter 17. Information
 Technology and Security [link:]. )
 12
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 26.3.3.3.1 Asset Use Supervisors shall receive fixed assets etc. from the
 Asset Management Supervisor and work to have them used effectively in
@@ -17178,7 +17179,7 @@ promptly attach identification labels to the acquired movable property etc..
 26.3.3.7 Acquisition Prices
 The acquisition prices of fixed assets etc. shall be as follows:
 13
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 (1) For purchased assets, the purchase price and incidental expenses
 (2) For self-constructed assets, the overall cost calculated as the sum of the
@@ -17216,7 +17217,7 @@ Asset Use Supervisor. Asset Management Supervisor must record the fixed assets
 etc. in the fixed assets ledger after receiving the transfer request.
 
 14
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 26.3.3.14 Lending
 When the lending of fixed assets, etc. is deemed necessary and this does not
@@ -17257,9 +17258,9 @@ clarified beforehand under sponsored research agreements.
 When the Asset Management Supervisor receives fixed assets etc. returned by
 Asset Use Supervisors, the Asset Management Supervisor must consider the
 15
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
-usability of the said fixed assets, etc for others also examine the necessity of
+usability of the said fixed assets, etc. for others also examine the necessity of
 disposition.
 26.3.3.15.1 Unnecessary important assets which the Asset Use Supervisors
 deem to be of no effective use (hereinafter referred to as “determined
@@ -17289,14 +17290,14 @@ Although in principle the provisions of 26.3.3.15.3 apply in general, the Asset
 Management Supervisor may transfer the ownership of fixed assets determined
 unnecessary under the provisions of 26.3.3.15.1, to institutions, organizations or
 individuals without compensation (hereinafter referred to as “gratis ownership
-transfer”), with the permisson of the Accounting Supervisor, under any of the
+transfer”), with the permission of the Accounting Supervisor, under any of the
 following circumstances. However, gratis ownership transfer requires the approval
 of the CEO/President if the fixed assets are important assets.
 (1) When necessary for dissemination of public information regarding the
 Corporation’s research findings or business, or otherwise necessary for the
 execution of the Corporation’s business
 16
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 (2) When transferring ownership of fixed assets to national or regional
 public bodies, non-profit foundations, or corporations established under
@@ -17335,7 +17336,7 @@ The initial month for the depreciation of depreciable fixed assets shall be
 the month in which said assets are acquired and begin to be used.
 1. Depreciable assets shall be depreciated using the straightline method.
 17
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 2. The residual value of tangible fixed assets shall be 1 yen of
 memorandum price of the acquisition price, and the residual
@@ -17375,7 +17376,7 @@ instruct Asset Use Supervisors to implement inspections and submit reports.
 26.3.3.25.2 When Asset Use Supervisors recognize any discrepancies
 between assets and their ledger records, they must investigate the causes of
 18
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 said discrepancies, report to the Asset Manager, devise countermeasures to
 address the cause of the discrepancies, and work to prevent recurrence.
@@ -17411,7 +17412,7 @@ performance at the end of each fiscal year through organizing accounting records
 fiscal year.
 26.3.5.1 Monthly Settlement of Accounts
 19
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 To clarify monthly financial conditions, the Accounting Supervisor shall create the
 documents prescribed by 26.3.5.2.
@@ -17448,7 +17449,7 @@ negligence, any damages to the Corporation in violation of 26.3.6, the officer o
 the staff causing such damages shall be liable to compensate such damages.
 26.3.6.2 Report of Loss, etc.
 20
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 Any loss or extinguishment of or damage to any of the Corporation’s money,
 securities, fixed assets or any other assets shall be reported to the CEO/President,
@@ -17509,7 +17510,7 @@ Corporate
 Card
 
 21
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 Card User
 
@@ -17543,7 +17544,7 @@ level)
 26.3.7.4
 Application and Issuance of Corporate Credit Card
 Card applications must be completed by the card supervisor and submitted to the
-relevant card administrator. For P-card applications by an AVP or Section Leader,,
+relevant card administrator. For P-card applications by an AVP or Section Leader,
 approval of the relevant budget supervisor (VP level) is required upon application.
 The card administrator reviews applications for a corporate credit card and
 approves or rejects. If approved, a corporate credit card will be issued and delivered
@@ -17553,7 +17554,7 @@ card (Exception: central corporate card).
 26.3.7.5
 Corporate Credit Card Use Workflow
 Card supervisors of a corporate credit card must use the card by following the
-workflow defined separately [link: https://groups.oist.jp/node/5482/].
+workflow defined separately [link: ].
 26.3.7.6
 Uses Allowed and Not Allowed
 Corporate credit card usage is strictly limited to regular university-related business
@@ -17561,32 +17562,22 @@ purchases and strictly prohibited for personal expenses and business expenses
 comingled with non-business expenses. Purchases must be approved in the ERP
 system prior to the transaction.
 Central corporate card can be used upon request by a Unit/Section. In principle,
-the
-P-card
-and
-Individual
-Corporate
-Card
-Guideline
-[link:
-https://groups.oist.jp/node/5482/] applies regarding uses allowed with a corporate
-credit card. However, when it is not practical to apply the above Guideline, central
-corporate card can be used for transactions specifically authorized as necessary by
-the Accounting Supervisor or the person to whom the Accounting Supervisor
-delegates central corporate card related duties..
+the P-card and Individual Corporate Card Guideline [link: ] applies regarding uses
+allowed with a corporate credit card. However, when it is not practical to apply the
+above Guideline, central corporate card can be used for transactions specifically
+authorized as necessary by the Accounting Supervisor or the person to whom the
+Accounting Supervisor delegates central corporate card related duties..
 For P-cards and individual corporate cards, uses allowed and not allowed are
-detailed in the P-card and Individual Corporate Card Guideline [link:
-https://groups.oist.jp/node/5482/]. In case of doubt, the card supervisor should
-confirm the eligibility of the transaction with staff in charge in the Division of
-Financial Management.
-22
-ch26_finance-and-accounting_20170901_en_cl
-
-26.3.7.7
+detailed in the P-card and Individual Corporate Card Guideline [link:]. In case of
+doubt, the card supervisor should confirm the eligibility of the transaction with
+staff in charge in the Division of Financial Management.
+26.3.7.7
 
 Responsibility
+22
+ch26_finance-and-accounting_en_20170901_cl
 
-26.3.7.7.1
+26.3.7.7.1
 Card Administrator
 The card administrator is responsible for overall administration of the
 relevant corporate credit cards (such as reviewing card applications,
@@ -17603,19 +17594,13 @@ directly from the University account and that irregular use of these
 corporate credit cards brings an audit and financial risk to the University. It
 is the card supervisor’s responsibility to ensure the corporate credit card is
 used in compliance with PRP Chapters 26 through 29, the P-card and
-Individual
-Corporate
-card
-Guideline
-[link:
-https://groups.oist.jp/node/5482/], and future stipulation relevant to the
-corporate credit card.
+Individual Corporate card Guideline [link:], and future stipulation relevant
+to the corporate credit card.
 The card supervisors must reconcile all transactions with an approved
 Purchase Order number (PO#) and submit required documents by the
-deadline set in the workflow [link: https://groups.oist.jp/node/5482/]. The
-card supervisors must make sure all ordered goods and services are
-delivered by the end of the fiscal year by carefully monitoring the delivery
-status.
+deadline set in the workflow [link:]. The card supervisors must make sure
+all ordered goods and services are delivered by the end of the fiscal year by
+carefully monitoring the delivery status.
 The University will hold the card supervisor fully responsible for all
 unauthorized transactions (See 26.3.7.6 Uses Allowed and Not Allowed),
 transactions followed by non-delivery of ordered items or services, and
@@ -17631,15 +17616,15 @@ The card user must carefully handle and store the card information. The
 card information should not be posted, emailed or visible in any place that
 is accessible by others. The card user may not share the card information
 with anyone else.
-23
-ch26_finance-and-accounting_20170901_en_cl
-
-26.3.7.8
+26.3.7.8
 Misuse of Corporate Credit Card
 Misuse of a corporate credit card, intentional or accidental, is a violation of the
 University PRP (See also Chapters 28.2.3 and 29.1). In case of misuse, the card
 administrator will issue a warning and may decide suspension of the corporate
-credit card. It may result in other disciplinary action depending on the seriousness
+23
+ch26_finance-and-accounting_en_20170901_cl
+
+credit card. It may result in other disciplinary action depending on the seriousness
 of the violation, in accordance with PRP 38 “Discipline”.
 26.3.7.9
 Lost or Stolen Corporate Credit Card
@@ -17677,11 +17662,12 @@ Accounting books, vouchers and documents shall be stored for the following perio
 (3) other accounting books = 10 years
 (4) slips and vouchers = 10 years
 26.4 Responsibilities
-24
-ch26_finance-and-accounting_20170901_en_cl
+26.5 Procedures
 
-26.5 Procedures
-26.6 Forms
+24
+ch26_finance-and-accounting_en_20170901_cl
+
+26.6 Forms
 26.7 Contacts
 26.7.1 Policy Owner: Vice President for Financial Management
 26.7.2 Other Contacts: Accounting Section
@@ -17690,7 +17676,7 @@ ch26_finance-and-accounting_20170901_en_cl
 Appendices & Table[link:]
 
 25
-ch26_finance-and-accounting_20170901_en_cl
+ch26_finance-and-accounting_en_20170901_cl
 
 OIST Graduate University
 Polices, Rules & Procedures
