@@ -2,7 +2,7 @@ cover.pdf
 ch00_about-the-prp-library_en＿20170412.pdf
 ch01_who-we-are_en_20151028_cl.pdf
 ch02_governance-organization_20170901_en_cl_1.pdf
-ch03_faculty-handbook_en_20180207_cl.pdf
+ch03_faculty-handbook_en_20180309_cl.pdf
 ch04_research-conduct_en_20180301_cl.pdf
 ch05_graduate-school-handbook_en_20180127_cl.pdf
 ch06_university-library_20170816_en_cl.pdf

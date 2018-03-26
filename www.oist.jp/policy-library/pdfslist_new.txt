@@ -1,7 +1,7 @@
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch00_about-the-prp-library_en%EF%BC%BF20170412.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch01_who-we-are_en_20151028_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch02_governance-organization_20170901_en_cl_1.pdf
-https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch03_faculty-handbook_en_20180207_cl.pdf
+https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch03_faculty-handbook_en_20180309_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch04_research-conduct_en_20180301_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch05_graduate-school-handbook_en_20180127_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch06_university-library_20170816_en_cl.pdf
