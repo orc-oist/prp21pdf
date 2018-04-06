@@ -1,5 +1,5 @@
 cover.pdf
-ch00_about-the-prp-library_en＿20170412.pdf
+ch00_about-the-prp-library_en_20180401_cl.pdf
 ch01_who-we-are_en_20151028_cl.pdf
 ch02_governance-organization_en_20180401_cl.pdf
 ch03_faculty-handbook_en_20180309_cl.pdf
@@ -20,7 +20,7 @@ ch18_Telecommunications-Services-and-Devices_20170816_en_cl.pdf
 ch19_university-events_en_20171110_cl.pdf
 ch20_health_and_welness_program_20170901_en_cl.pdf
 ch21_use-of-university-resources_20170901_en_cl.pdf
-ch22_avoiding_conflicts_of_interest_&_commitment_en_20180401_cl.pdf
+ch22_avoiding_conflicts_of_interest_&_commitment_en_20180401_cl_0.pdf
 ch23_misconduct-and-whistleblower-protection_en_20180401_cl.pdf
 ch24_Childcare-Services_20150401_en_cl.pdf
 ch25_Housing_20150601_en_cl.pdf

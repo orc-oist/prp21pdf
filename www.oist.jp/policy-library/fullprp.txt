@@ -15,10 +15,10 @@ provide the framework and directions for working and conducting other
 transactions within School Corporation. The Library contains the
 administrative and operating requirements of the University, as well as the
 Faculty Handbook, the Graduate School Handbook, and the University
-Library. Responsibility for maintaining the PRP Library is vested in the Vice
-President for Administrative Compliance [link: 2.4.4.3], which oversees
-development of new and revised chapters and maintains the website, assisted
-by the Rules and Procedures Section [link: o.2].
+Library. Responsibility for maintaining the PRP Library is vested in the Chief
+Operating Officer (hereinafter referred to as “COO”) [link: 2.4.6.2], which
+oversees development of new and revised chapters and maintains the website,
+assisted by the Rules and Procedures Section [link: o.2].
 Each PRP chapter is intended to help faculty, students and staff (and in some
 cases, visitors, vendors and others) with policy guidance and rules, as well as
 clear “how to” instructions for accessing School Corporation services and
@@ -26,8 +26,9 @@ complying with School Corporation requirements.
 Because many of the policies, rules, and procedures in the Library have
 general applicability, this online PRP Library is accessible to the community
 outside School Corporation. Visitors, guests, vendors, and others who may be
+
 1
-ch00_about-the-prp-library_20170412_en_cl
+ch00_about-the-prp-library_en_20180401_cl
 
 intermittently on premises or otherwise involved with School Corporation are
 encouraged to review PRP Chapters that may be relevant.
@@ -40,13 +41,13 @@ by PRP among his/her responsibilities and duties. Requirements and
 restriction on 0.2.1 and procedures on 0.4.2 shall be followed in the
 process of the establishment and maintaining the PRP.
 0.2 Maintaining the PRP Library
-The Vice President for Administrative Compliance is responsible for
-maintaining the Library of Policies, Rules and Procedures.
+The COO is responsible for maintaining the Library of Policies, Rules and
+Procedures.
 Officers and employees follow procedures specified in 0.4.1 when they
 establish new or revise some chapters of PRP.
-However, VPAC shall convene the PRP Review Committee [link:] for review as
-necessary before his/her approval in case of significant matters such as major
-change of Policies or draft of new Chapters.
+However, the COO shall convene the PRP Review Committee [link:] for review
+as necessary before his/her approval in case of significant matters such as
+major change of Policies or draft of new Chapters.
 In principal, date of enforcement of the proposal for establishment or revision
 is set in the Document for Approval Process (kessai). In the case that the date
 is not set in the Document for Approval Process (kessai), the proposal come
@@ -59,7 +60,7 @@ Designated University Officer, who established the Regulations,
 include old versions and edit histories.
 
 2
-ch00_about-the-prp-library_20170412_en_cl
+ch00_about-the-prp-library_en_20180401_cl
 
 Officers and employees follow procedures specified in 0.4.2 when
 they establish or revise Regulations.
@@ -85,40 +86,33 @@ contain any other Designated University Officer’s assignment,
 he/she has responsibility to obtain consent from them by
 consultation and discussion with relevant departments.
 Chapter
-
-Title
-
 0
-
-About the Policies, Rules and
-Procedures Library
-
 1
 2
+3
 
+Title
+About the Policies, Rules and
+Procedures Library
 Who We Are: Founding and
 Governing Principles
 Organization and
 Governance
+Faculty Handbook
 
 Designated University
 Officer
-Vice President for
-Administrative
-Compliance
+COO
 President
 President
+Dean of Faculty Affairs
 
 3
-ch00_about-the-prp-library_20170412_en_cl
+ch00_about-the-prp-library_en_20180401_cl
 
 Chapter
 
 Title
-
-3
-
-Faculty Handbook
 
 4
 
@@ -138,31 +132,35 @@ University Library
 Dean of Faculty Affairs
 
 7
-
-Fundraising
-
 8
 
+Fundraising
 Internal Audit
 
 President
-Vice President for
-Administrative
-Compliance
+COO
 
 9
 
 Auditors’ Audit
+
+Auditors
 
 10
 
 Land, Buildings and
 Facilities
 
+Vice President for
+Buildings and Facilities
+Management
+
 12
 
 Document and Record
 Management
+
+COO
 
 13
 
@@ -192,16 +190,8 @@ Services and Devices
 
 Designated University
 Officer
-Dean for Faculty Affairs
 Dean of Research
 
-Auditors
-Vice President for
-Buildings and Facilities
-Management
-Vice President for
-Administrative
-Compliance
 Dean of Research
 Vice President for
 Buildings and Facilities
@@ -232,28 +222,32 @@ Public Relations
 Health and Wellness
 Program
 
-President
-
-Use of University Resources
-
-Vice President for
-Buildings and Facilities
-Management
-Vice President for
+Dean of Research
 
 21
 
-4
-ch00_about-the-prp-library_20170412_en_cl
-
-Chapter
-
-Title
+Use of University Resources
 
 22
 
 Avoiding Conflicts of Interest
 and Commitment
+
+Vice President for
+Buildings and Facilities
+Management
+Vice President for
+Communication and
+Public Relations
+COO and Dean of Faculty
+Affairs
+
+4
+ch00_about-the-prp-library_en_20180401_cl
+
+Chapter
+
+Title
 
 23
 
@@ -322,16 +316,21 @@ Leaving the University
 
 Discipline
 
+39
+
+Resolving Complaints and
+Disputes
+
+40
+
+Staff Development and
+
 Designated University
 Officer
-Communication and
-Public Relations
-President and Dean for
-Faculty Affairs
-Vice President for
-Administrative
-Compliance
-President
+COO
+Vice President for Gender
+Equality and Human
+Resource Development
 Vice President for
 Buildings and Facilities
 Management
@@ -370,36 +369,27 @@ Resource Development
 Vice President for Gender
 Equality and Human
 Resource Development
-
-5
-ch00_about-the-prp-library_20170412_en_cl
-
-Chapter
-
-Title
-
-39
-
-Resolving Complaints and
-Disputes
-
-40
-
-Staff Development and
-Awards
-
-41
-
-Workplace Health and Safety
-
-0.3.2
-
-Designated University
-Officer
 Vice President for Gender
 Equality and Human
 Resource Development
 Vice President for Gender
+
+5
+ch00_about-the-prp-library_en_20180401_cl
+
+Chapter
+
+Title
+Awards
+
+41
+
+0.3.2
+
+Workplace Health and Safety
+
+Designated University
+Officer
 Equality and Human
 Resource Development
 Vice President for Gender
@@ -421,7 +411,7 @@ Process (kessai) by following the procedures in 0.4.2, and
 shall
 
 obtain approvals from relevant Designated University Officer(s) and
-VPAC.
+COO.
 0.3.4 Rules and Procedures Section reviews drafts of PRP and
 Regulations for conformance with Laws, Bylaws, University Rules,
 other PRP chapters and Regulations, and checked technical details
@@ -431,24 +421,22 @@ errors.
 chapter that have been approved by the CEO/President in the
 appropriate section of the online Policies, Rules and Procedures
 Library immediately.
-
-6
-ch00_about-the-prp-library_20170412_en_cl
-
-0.3.4.2 Rules and Procedures Section informs changes of PRP to
+0.3.4.2 Rules and Procedures Section informs changes of PRP to
 School Corporation community by way of using internal websites
 or other relevant tools.
-0.3.4.3 Rules and Procedures Section maintains files of Unit-Specific
+6
+ch00_about-the-prp-library_en_20180401_cl
+
+0.3.4.3 Rules and Procedures Section maintains files of Unit-Specific
 Internal Procedures and Processes [link: 0.4.2] that have been
 approved and will make them available on an internal website
 restricted to University employees.
 0.3.4.4 Rules and Procedures Section sends an email notification of
 the change(s) to the OIST Graduate University Community on or
 several days in advance of the effective date.
-0.3.5 The Vice President for Administrative Compliance provides
-a review for content/substance for each draft of established new or
-revised PRP chapter or Regulation submitted as a Document for
-Approval Process (Kessai).
+0.3.5 The COO provides a review for content/substance for each draft of
+established new or revised PRP chapter or Regulation submitted as a
+Document for Approval Process (Kessai).
 0.3.6 The CEO/President reviews and gives final approval to a draft of
 established new or revised PRP chapters submitted as a Document
 for Approval Process (Kessai).
@@ -461,14 +449,14 @@ PRP chapter, prepares a draft and submits that to relevant
 Designated University Officer[Link.0.3.1], and obtains
 agreement from him/her. The Designated University Officer
 consults and discusses with other department(s) and obtains
-
-7
-ch00_about-the-prp-library_20170412_en_cl
-
-consent on the draft, in the case that the establishment or
+consent on the draft, in the case that the establishment or
 revision contains other Designated University Officer’s
 assignment.
-0.4.1.3 Any employee who is proposing to establish a new or revise
+
+7
+ch00_about-the-prp-library_en_20180401_cl
+
+0.4.1.3 Any employee who is proposing to establish a new or revise
 PRP chapter, submits the draft, which is admitted by the
 Designated University Officer(s), to the Rules and Procedures
 Section, and modifies the draft as necessary responding to the
@@ -477,8 +465,8 @@ review.
 PRP chapter, creates the Document for Approval Process
 (kessai) attached the draft admitted by the Designated
 University Officer(s) and Rules and Procedures Section, and
-obtains approvals from the CEO/President, VPAC, and any other
-relevant department’s heads.
+obtains approvals from the COO, and any other relevant
+department’s heads.
 0.4.1.5 Any employee who is proposing to establish a new or revise
 PRP chapter, informs establishment and revisions of PRP
 chapter under the instruction of the Designated University
@@ -494,18 +482,18 @@ department and obtains consent on the draft, in the case that the
 establishment or revision contains other Designated University
 Officer’s assignment.
 0.4.2.2 Any officers and employees who is proposing to establish a
-8
-ch00_about-the-prp-library_20170412_en_cl
-
-new or revise the Regulation, submits the draft, which is
+new or revise the Regulation, submits the draft, which is
 admitted by the Designated University Officer(s), to the Rules
 and Procedures Section, and modifies the draft as necessary
 responding to the review.
-0.4.2.3 Any officers and employees who is proposing to establish a
+8
+ch00_about-the-prp-library_en_20180401_cl
+
+0.4.2.3 Any officers and employees who is proposing to establish a
 new or revise the Regulation, creates the Document for Approval
 Process (kessai) attached the draft admitted by the Designated
 University Officer(s) and the Rules and Procedures Section, and
-obtains approvals from the Designated University Officer, VPAC,
+obtains approvals from the Designated University Officer, COO,
 and any other relevant department’s heads.
 0.4.2.4 Any officers and employees who are proposing to establish a
 new or revise the Regulation, informs establishment and
@@ -517,23 +505,24 @@ and approve PRP changes ,and ensure the consistency as a
 whole, and maintain the mission and policies of School
 Corporation.
 0.4.3.2 Details of PRP Review Committee is specified separately by
-the President [link;].
+the COO [link;].
 0.5 Contacts
 0.5.1 Owner:
-Vice President for Administrative Compliance
+COO
 0.5.2 Other Contacts:
-Rules and Procedures Section
+Rules and Procedures Section rules@oist.jp
+
+***
 
 9
-ch00_about-the-prp-library_20170412_en_cl
+ch00_about-the-prp-library_en_20180401_cl
 
-***
-The University reserves the right to augment, revise, add and delete Policies,
+The University reserves the right to augment, revise, add and delete Policies,
 Rules and Procedures Chapters at any time.
 ***
 
 10
-ch00_about-the-prp-library_20170412_en_cl
+ch00_about-the-prp-library_en_20180401_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
@@ -14742,7 +14731,7 @@ yen from universities or institutions which you do not have any
 conflict of interests with, without filing a report; however, if you
 accept gifts & favors from universities or institutions that exceed
 5,000 yen, you must submit a Report of Gifts & Favors [link:] to
-VPAC.
+CCO.
 22.2.4 Financial Interests Related to Licensing of University
 Technology.
 The University has an active program to license its inventions to
