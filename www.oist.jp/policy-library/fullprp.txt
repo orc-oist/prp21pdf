@@ -1300,7 +1300,7 @@ will have laboratory resources at the University and will spend
 significant amounts of time (up to 50% full-time equivalent) at the
 University. Adjunct Professors will contribute by directing or
 1
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 assisting in teaching University courses, contributing to University
 international workshops, and participating in research. Adjunct
@@ -1350,7 +1350,7 @@ Access to opportunities to develop and coordinate a course is
 important for the professional development of faculty members
 because scholarship and teaching are the primary factors in
 2
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 evaluation for promotion and tenure. While the quality of teaching is
 paramount an evenly distributed teaching load is also important to
@@ -1396,7 +1396,7 @@ Applications must be submitted at least one month prior to the
 scheduled teaching on form [link: TBD].
 
 3
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 6. With the agreement of the Deans of the Graduate School and
 Faculty Affairs, non-faculty researchers (Postdoctoral Scholars,
@@ -1447,7 +1447,7 @@ Faculty members of the University are selected based on the highest
 international standards of evaluation of candidates to ensure the
 recruitment of the best available faculty. The procedures are
 4
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 described in the Search Committee Handbook, the Tenure Review
 Evaluation Committee Handbook, the Promotion Review Evaluation
@@ -1497,7 +1497,7 @@ Evaluation Start Date is the deadline for receiving the materials
 from the candidate. The TESD cannot normally be delayed
 except for the specific reasons detailed in the TREC
 5
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 Handbook. If the outcome of the tenure review is positive, an
 Assistant Professor is promoted to Associate Professor and
@@ -1543,7 +1543,7 @@ Proceedings
 The entire appointment and promotion proceedings
 require discussion of specific individuals, and the opinions
 6
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 of others regarding those individuals. This and other
 relevant information must be held in strict confidence by
@@ -1593,7 +1593,7 @@ individual's scholarship and research ranks among the top
 5-10 percent in their world-wide cohort at his or her level of
 professional development for the proposed appointment
 7
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 level. Letters from reviewers should support this
 assessment in an unequivocal fashion.
@@ -1640,7 +1640,7 @@ member or a reviewer should be clearly disclosed in the
 cover letter from the Chair.
 
 8
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 Letters from external reviewers are essential for an
 objective evaluation process and, in general, carry more
@@ -1689,7 +1689,7 @@ objective evaluation. At least 8 letters from external
 reviewers are required. The external reviewers should
 neither be close collaborators of the candidate nor have
 9
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 served as mentors of the candidate. When soliciting the
 opinion of external reviewers, the TREC should draft the
@@ -1735,7 +1735,7 @@ informing the candidate.
 For an Assistant Professor, the award of tenure
 automatically involves promotion to Associate Professor.
 10
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 For an Associate Professor, TREC may solicit from the
 reviewers an opinion on whether to promote to Professor
@@ -1780,7 +1780,7 @@ teaching, supervision).
 A candidate who wishes to extend the tenure evaluation
 period to accommodate the addition of a child to the family
 11
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 shall complete the form and submit it to the Office of the
 Dean for Faculty Affairs. The application to “Stop-theClock” must be submitted before the tenure review
@@ -1826,7 +1826,7 @@ PRP Chapter 22. Members of the faculty must declare conflicts
 of interest or the appearance of a conflict of interest when these
 exist. The existence of a conflict of interest is not necessarily a
 12
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 barrier to employment or procurement relationships. However,
 special procedures must be followed to ensure the integrity of
@@ -1878,7 +1878,7 @@ and carrying teaching and service responsibilities and the title
 “Professor” during the agreed term beyond retirement age.
 
 13
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 This is considered a fixed-term, untenured position and will involve a
 significant reduction in unit space and funds. Salary will be
@@ -1927,7 +1927,7 @@ including the following matters:
 • Student recruitment and admissions
 • Curriculum and organization of courses
 14
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 Student guidance and supervision
 Student career development
@@ -1979,7 +1979,7 @@ Adjunct, Emeritus, Distinguished and Visiting faculty members
 may participate in Assembly meetings as non-voting members.
 Two student representatives (elected by the students), two
 15
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 researcher representatives (elected by the Postdoctoral Scholars,
 Staff Scientists, and Research Specialists through the OIST Researcher
@@ -2028,7 +2028,7 @@ times per year.
 3.4.1.5 Items to be Discussed at Meetings of the Assembly
 
 16
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
 The Assembly will deliberate on policy matters, strategic
 direction and educational philosophy. The Assembly may
@@ -2075,72 +2075,97 @@ members.
 3.4.2 Faculty Council
 
 17
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
-The Council is the elected executive body of the Assembly and its
-role is to provide advice to the President on academic and
-administrative matters. The agenda is set by the Chair of the
-Council, but the President, The Executive Vice President,
-Executive Vice President for Technology Development and
-Innovation, Dean of the Graduate School Dean for Faculty
-Affairs and Dean of Research should always be consulted and be
-invited to the meeting. Other members of the administration can
-be invited as need be. These meetings are critical for the healthy
-operation of the institution and provide a venue at which the
-trust and cooperation between administration and faculty can be
-established and maintained. The Assembly devolves the
-responsibilities to deliberate on specific matters to the Council.
-The membership of the Council includes 8 elected members of
-the Assembly (at least two of whom are Assistant Professors)
-including the Chair of the Faculty Assembly. Terms of the
-members of the Faculty Council and the Chair of the Faculty
-Assembly start on September 1. Members are elected for a term
-of two years and may serve two consecutive terms. The Assembly
-may vote to increase the number of members on the Council
-proportionately as the faculty grows but the number may not
-exceed 20% of the whole faculty. Following ex-officio members
-and the advisor may attend the Council. The composition of
-the Council is as follows:
+The Council is the elected executive body of the Assembly and its role is
+to advise to the President on academic and administrative matters. The
+agenda is set by the Chair of the Council, but the President, Executive
+Vice President for Technology Development and Innovation, Dean of the
+Graduate School Dean of Faculty Affairs and Dean of Research should
+always be consulted and be invited to the meeting. Other members of the
+administration can be invited as appropriate. These meetings are critical
+for the healthy operation of the institution and provide a venue in which
+the trust and cooperation between administration and faculty can be
+established and maintained. The Assembly delegates the responsibility
+to deliberate on specific matters to the Council. Council members are
+elected members of the Faculty (at least two of whom are Assistant
+Professors), including the Chair of the Faculty Assembly, who is also the
+Chair of the Council. Consistent with the Japanese government gender
+equality goal of 30% women in leadership positions, at least 20% of
+Faculty Council positions will be reserved for female faculty members.
+In order for a quorum of the Faculty Council to conduct business, at least
+one female faculty member must be present. If the remaining reserved
+position(s) is/are not filled, then the position will remain vacant, to be
+filled via an election, when one or more female candidates become
+available.
+Terms of Faculty Council members and the Chair of the Faculty
+Assembly start on September 1. Members are elected for a term of two
+years and may serve two consecutive terms. The Assembly may vote to
+increase the number of members on the Council proportionately as the
+faculty grows, but the number may not exceed 20% of the whole faculty.
+The following ex-officio members and the advisor may attend the Council.
+The composition of the Council is as follows:
 Elected Members
 Chair of the Assembly
 Seven elected members of the Assembly
-Ex Officio Members
+Ex-Officio Members
 President
 Executive Vice President for Technology Development and
 Innovation
 Dean of the Graduate School
-Dean for Faculty Affairs
+Dean of Faculty Affairs
 Dean of Research
 Secretary to the Assembly
 Advisor
 Vice President for Financial Management
 The Council will meet monthly. Council minutes will be available to
 all faculty members.
-For the election of the members of the Faculty Council, a call for
-nominations will be made on April 15. Candidates will make their
-presentations at the Faculty Assembly meeting in June. The election
-will be held immediately following the Faculty Assembly
-presentations.
-3.4.2.1 Procedures and Rules of the Faculty Council
-a) A majority of votes is required to pass a resolution in the Faculty
-Council. The elected members of the Faculty Council have voting
+3.4.2.1 Election of Council members
+It is important that the Faculty Council reflects the composition of
+the Faculty, with an appropriate mix of gender, ethnicity, scientific
+discipline, and seniority. Voting members of the Assembly, namely,
 18
-ch03_faculty-handbook_en_20180309_cl
+ch03_faculty-handbook_en_20180329_cl
 
-rights. The Ex Officio Members and Advisors do not have voting
+full-time Professors, Associate Professors, and Assistant Professors
+are eligible to elect and to serve as Council members.
+For the election of the Faculty Council members, a call for
+nominations will be made on April 15. Candidates will make their
+presentations at the Faculty Assembly meeting in May, but if a
+quorum is not convened in May, a special faculty meeting may be
+called in June for candidate presentations. The election will be held
+immediately following the presentations at either of the foregoing
+Faculty Assembly meeting.
+Election Rules and Procedures are as follows:
+1.
+If the number of candidates does not exceed the number of
+positions to be filled, candidates who receive more than 50% of the
+votes cast will be elected, including reserved positions for Assistant
+Professors and female faculty members.
+2.
+If the number of candidates exceeds the number of
+positions to be filled, the candidates who receive the greatest
+numbers of votes will be elected until all positions are filled.
+3.
+Election results must be publicized to Faculty Assembly
+members as soon as practicable after the close of voting.
+3.4.2.2 Procedures and Rules of the Faculty Council
+a) A majority of votes is required to pass any resolution in the Faculty
+Council. Elected members of the Faculty Council have voting
+rights, but Ex-Officio Members and Advisors do not have voting
 rights. If there is not a majority of the members with voting rights
-in attendance, the Faculty Council shall not transact its business.
+is not in attendance, the Faculty Council shall not transact any
+business.
 b) The Faculty Council agendas and minutes will be available to all
 faculty members.
 3.4.3 The Secretariat of the Faculty Assembly and Faculty Council
-The Faculty Affairs Office plays the role of the Secretariat of the
-Faculty Assembly. A Secretary to the Assembly will work with the
-Chair of the Faculty Assembly and act as the Executive Secretary to
-the Assembly and to the Council, with the responsibility for
-preparing their Agendas, preparing or commissioning the papers for
-meetings, serving any sub-Committees created by the Assembly or
-Council, and coordinating with the Senior Level Executive [link:
-30.2.2.1.1].
+The Faculty Affairs Office serves as Secretariat of the Faculty
+Assembly. A Secretary to the Assembly will work with the Chair of
+the Faculty Assembly and act as the Executive Secretary to the
+Assembly and to the Council, with the responsibility for preparing
+agendas, preparing or commissioning documents for meetings,
+serving any sub-Committees created by the Assembly or Council, and
+coordinating with Senior Executives [link: 30.2.2.1.1].
 3.5 Academic Program Evaluations
 3.5.1 Basic Policy
 The University will conduct regular assessments of education,
@@ -2148,7 +2173,11 @@ research and results leading to technological developments. This will
 entail the review of organizational operation, facilities and
 equipment, and the release and dissemination of the research results
 and technologies and patents to the public.
-3.5.2 Method
+
+19
+ch03_faculty-handbook_en_20180329_cl
+
+3.5.2 Method
 Assessment will be conducted regularly, based on the criteria set in
 advance, in regards to the goals of the University.
 3.5.3 Structure for Assessment and Evaluation
@@ -2167,12 +2196,9 @@ will be made publicly available by means of the University’s web site
 and other publications.
 3.5.5 Major Evaluation Items
 Major evaluation items include:
-• Purpose of the University
-• Research results
-19
-ch03_faculty-handbook_en_20180309_cl
-
-•
+•
+•
+•
 •
 •
 •
@@ -2184,6 +2210,8 @@ ch03_faculty-handbook_en_20180309_cl
 •
 •
 
+Purpose of the University
+Research results
 Technology impact
 Organization for education and research
 Faculty and supporting staff
@@ -2206,7 +2234,11 @@ the Dean of the Graduate School will play an active role in the
 development of faculty members by implementing programs for
 faculty development in teaching and supervision of graduate
 students.
-3.6.2 Methods
+
+20
+ch03_faculty-handbook_en_20180329_cl
+
+3.6.2 Methods
 Specifically, the University will conduct the following:
 3.6.2.1 Teaching Guidelines
 The Dean of the Graduate School’s office will create, maintain
@@ -2227,11 +2259,7 @@ colleagues by participating from time to time as classroom
 observers, with the agreement of the instructor. The date of such
 observation will be reported to the Dean of the Graduate
 School’s office, and the observer will discuss their observations
-
-20
-ch03_faculty-handbook_en_20180309_cl
-
-with the instructor in a collegial, respectful and supportive
+with the instructor in a collegial, respectful and supportive
 manner.
 3.6.2.4 Instructor Training
 The Dean of the Graduate School’s office will arrange training
@@ -2252,7 +2280,10 @@ the Graduate University.
 3.7.1 Holiday Entitlements
 Holiday entitlements are defined in PRP Chapter 33 Leave.
 3.7.2 Sabbatical Leave
-Sabbatical leave offers tenured faculty members opportunities for
+21
+ch03_faculty-handbook_en_20180329_cl
+
+Sabbatical leave offers tenured faculty members opportunities for
 study, research, acquisition of new techniques, and enhanced
 professional development. Sabbatical leave allows faculty members
 to focus on such matters without teaching and administrative duties.
@@ -2275,11 +2306,7 @@ between the host institution and OIST must be prepared. This
 agreement must include management of intellectual property that
 may result from the sabbatical research, and other pertinent
 sabbatical terms and conditions.
-
-21
-ch03_faculty-handbook_en_20180309_cl
-
-After submitting the online application form, the applicant must
+After submitting the online application form, the applicant must
 make necessary arrangements with the Deans of the Graduate School
 (DGS) and Faculty Affairs (DFA) to cover teaching, supervision of
 students and unit members, and administrative responsibilities
@@ -2304,7 +2331,10 @@ Graduate School and the Dean for Faculty Affairs.
 In deciding a request for leave without salary, consideration will
 be given to the faculty member’s teaching and other academic
 responsibilities, scholarly productivity, number of doctoral
-theses supervised, previous leaves without salary, and any other
+22
+ch03_faculty-handbook_en_20180329_cl
+
+theses supervised, previous leaves without salary, and any other
 relevant circumstances.
 3.7.3.3 Effect of Leave on Term of Appointment
 A leave without salary for faculty on fixed-term appointments
@@ -2323,11 +2353,7 @@ Affairs.
 Periods of partial leave without salary have the same effect on
 Term of Appointment and Term of Research Support as
 described in 3.7.3.3, and 3.7.3.4, but on a proportional basis.
-
-22
-ch03_faculty-handbook_en_20180309_cl
-
-3.7.4 Period of Pure Research Leave
+3.7.4 Period of Pure Research Leave
 Full-time faculty members may apply for a period of pure research
 leave, which is defined as leave from teaching and other institutional
 responsibilities during which the faculty member receives full or
@@ -2351,7 +2377,10 @@ without salary or pure research leave.
 The family, medical, childcare and other leave policies for OIST
 employees are described in PRP Chapter 33 Leave. [link: 33] In
 addition to the standard leave options, faculty can request
-adjustments in time or amount of teaching through the Dean of the
+23
+ch03_faculty-handbook_en_20180329_cl
+
+adjustments in time or amount of teaching through the Dean of the
 Graduate School.
 3.8 External Appointment or Employment
 Full-time faculty members may accept external visiting or adjunct
@@ -2372,10 +2401,7 @@ The next level of management for the Dean for Faculty Affairs is the
 CEO/President. For Committee Level Dispute Resolution, the
 CEO/President will appoint a Dispute Resolution Committee. For
 complaints and disputes reported by employees supervised by faculty, the
-23
-ch03_faculty-handbook_en_20180309_cl
-
-standard procedures described in Chapter 39 apply. For complaints and
+standard procedures described in Chapter 39 apply. For complaints and
 disputes reported by students, the procedures in Chapter 5 Graduate
 School Handbook apply.
 3.10 Term and Conditions of Appointment
@@ -2398,7 +2424,10 @@ notification.
 A tenured or non-tenured faculty member who after review has been
 notified that his or her internal funding will not be renewed will be
 provided with a negotiated level of funding to allow a scale-down
-during the last year of funding. Failure to give timely notice of nonrenewal of internal funding shall entitle the individual to an
+24
+ch03_faculty-handbook_en_20180329_cl
+
+during the last year of funding. Failure to give timely notice of nonrenewal of internal funding shall entitle the individual to an
 extension of the current level of internal funding to the date of
 notification and to an extension of the scale-down period to a period
 of one year from the time of notification.
@@ -2409,8 +2438,8 @@ covers all OIST employees. For discipline of faculty members the
 supervisor is the Dean for Faculty Affairs, and if this cannot be resolved
 satisfactorily, the President.
 
-24
-ch03_faculty-handbook_en_20180309_cl
+25
+ch03_faculty-handbook_en_20180329_cl
 
 OIST Graduate University Policies, Rules & Procedures
 Authority: Approved by the Dean of Research and the President
@@ -14974,8 +15003,8 @@ reporting requirements, provide review of disclosed situation, and
 report to the Board of Governors when it deems necessary.
 22.4.7 The Conflict of Interest Review Panel
 The “Conflict of Interest Review Panel” (the General Counsel, the CCO,
-and two faculty members appointed by the COO) in the office of the
-COO will assess the facts and report their findings and
+and two faculty members appointed by the Dean of Faculty Affairs) in
+the office of the COO will assess the facts and report their findings and
 recommendation to the COO for decision.
 22.4.8 The General Counsel
 In addition to serving on the COO’s “Conflict of Interest Review Panel,”
