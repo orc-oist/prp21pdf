@@ -3402,7 +3402,7 @@ conduct top class academic instruction. The academic program will aim to develop
 potential of each student toward scientific excellence and independence. In accordance
 with this aim, every student will be treated as a unique individual and have their program
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 of studies tailored to their scientific aspirations, prior education, and current interests. The
 basic principles of the curriculum design are to facilitate independent scientific thinking,
@@ -3444,7 +3444,7 @@ submission of the thesis. The Final Examination includes examination of the writ
 by two external examiners of international standing in the field of the thesis research, who
 also conduct an on-site oral examination.
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 The Graduate School is a division of the OIST Graduate University. The Dean is the head of
 the Graduate School. The Graduate School’s major role is to provide academic services,
@@ -3455,46 +3455,47 @@ Academic Services Section
 The academic services section supports the academic program of the graduate
 school, and performs the following tasks:
 i
+ii
+iii
+iv
+v
+vi
+vii
+viii
+ix
+x
+xi
+xii
+xiii
+xiv
+xv
+xvi
+xvii
+
 Participate in the formulation of academic policies related to
 teaching of graduate courses and the academic program;
-ii
 Administer the process of admission, registration and enrolment of
 students;
-iii
 Organize course advising and appointment of Academic Mentors
-iv
 Organize thesis supervision and appointment of supervisors and
 thesis committees;
-v
 Monitor the academic progress of graduate students;
-vi
 Coordinate conduct of course assessment and manage results;
-vii
 Determine the results of PhD candidatures on the recommendation
 of the examiners;
-viii
 Organize PhD examinations, external examiners, and coordinate
 the examination process;
-ix
 Award degrees and administer graduation requirements;
-x
 Conduct quality control processes including evaluation of teaching;
-xi
 Disseminate good practice in teaching and PhD supervision;
-xii
 Provide information about the Graduate School and its courses;
-xiii
 Coordinate teaching activities, faculty assignment of teaching, the
 course schedule and timetable of classes and examinations;
-xiv
 Manage teaching resources including seminar rooms and lecture
 theatres, teaching laboratories and equipment;
-xv
 Provide induction programs for new students and teaching faculty;
-xvi
 Coordinate academic content of international workshops, courses
 and seminars; and
-xvii
 Prepare and maintain database systems concerning:
 
 a. Intending students and applicants for admission
@@ -3511,7 +3512,7 @@ Student academic records
 Course schedules
 g. Alumni
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 xviii
 
@@ -3529,53 +3530,59 @@ Student Support Section
 The student support section is concerned with the everyday requirements for living,
 health and welfare of students at OIST, and is charged with the following tasks:
 i
+
+ii
+iii
+iv
+v
+vi
+vii
+
 Participate in the formulation of policy on issues broadly affecting
 graduate students, including housing, financial support and other
 welfare;
-ii
 Provide supporting services for prospective and current graduate
 students, special students and interns;
-iii
 Disseminate information and advice to students concerning
 scholarships and financial support;
-iv
 Provide orientation to life in Okinawa and Japan for new students;
-v
 Implement policies concerning student welfare, health, disability,
 childcare and safety;
-vi
 Administer student financial support and scholarships;
-vii
 Administer student welfare services;
+
 5.1.3.
 Admissions and Career Development Section
 The Admissions and Career Development Section is concerned with the recruiting
 of graduate students to OIST and supports professional development of current
 students in the Graduate School, and performs the following tasks:
 i.
+
+ii.
+iii.
+iv.
+
 Assist faculty in the mentoring of students for career development
 and provide information and advice to students on career
 opportunities, among other things
-ii.
 Provide professional development courses as part of the academic
 program;
-iii.
 Undertake student recruitment activity
-iv.
 Organize seminars and lectures of general interest, among other
 things
+
 5.2. Admissions and Registration
 The OIST Graduate University aims to train researchers who will play important roles in the
 international scientific community at leading scientific institutions in the public and private
 sectors. Accordingly, recruitment focuses on attracting outstanding students. Here
 “outstanding” means students who are highly motivated by the excitement and potential of the
 cutting edge research that is possible at OIST, who have the curiosity and academic ability
-needed to excel in their chosen areas of study, and who have the capacity for independent
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+needed to excel in their chosen areas of study, and who have the capacity for independent
 research and original thinking.
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-The OIST Graduate Program is conducted in English, therefore our students also require
+The OIST Graduate Program is conducted in English, therefore our students also require
 proficiency in oral and written communication skills in English for advanced study in science.
 <equal opportunity statement: Candidates are considered for admission without regard to race,
 color, religion, national origin, disability, or gender.>>
@@ -3605,8 +3612,6 @@ ii.
 
 iii.
 
-iv.
-
 Academic transcript and authenticated copies of diploma (BSc, MSc,
 etc.) An English explanation is required for transcripts that are not
 written in English.
@@ -3621,18 +3626,24 @@ examination is not English is required to provide standard language
 test scores (TOEFL or IELTS) obtained within last 2 years. There is
 no minimum score required but the information is necessary in
 determining preparatory course requirements.
+ch05_graduate-school-handbook_en_20180404_cl
+
+iv.
+
 A minimum of two letters of recommendation from appropriate
 academic sponsors.
-ch05_graduate-school-handbook_en_20180127_cl
 
-The following documents may be submitted optionally, and will be taken into
+The following documents may be submitted optionally, and will be taken into
 consideration by the selection committee if available:
 i
+
 Additional evidence of academic ability such as GRE general test
 scores obtained within last 2 years.
-ii
 Additional material such as copies of publications and abstracts of
 oral presentations, and other evidence of achievement.
+
+ii
+
 The OIST Graduate School reserves the right to request an external evaluation of
 academic qualifications from any applicant.
 5.2.3. Selection for admission
@@ -3645,7 +3656,9 @@ Workshop.
 Admissions Workshop
 An Admissions Workshop will be held each year. The aims of the
 Admissions Workshop are to:
-i Conduct face-to-face interviews of candidates by the Admissions
+i
+
+Conduct face-to-face interviews of candidates by the Admissions
 Committee or a subcommittee thereof.
 In the interview the
 Committee discusses with the student their aims and their motivation
@@ -3662,14 +3675,14 @@ For those invited to attend the workshop the travel costs and a per diem
 will be paid by OIST. The workshop will comprise a minimum of two full
 days in Okinawa, with flexibility regarding additional time.
 Meals and accommodation
-OIST will cover the cost of accommodation and meals for candidates
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+OIST will cover the cost of accommodation and meals for candidates
 attending the Admissions Workshop at the OIST Graduate University.
 Breakfast, lunch & dinner will be provided from the evening before
 through the morning after the workshop.
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-Travel support
+Travel support
 1: OIST will support a round trip in economy class between Okinawa
 and the airport for the candidate’s starting and returning destination,
 excluding expenses for any layover (at any Japanese or foreign cities).
@@ -3705,12 +3718,11 @@ offers if places become available.
 In accordance with best-practice graduate teaching methods where low numbers of
 students for each faculty member are essential, and in line with overseas prestigious
 universities, the admission capacity of PhD full-time graduate students accepted by
-the Graduate School shall be as stipulated in Article 15 of the OIST University Rules
+ch05_graduate-school-handbook_en_20180404_cl
+
+the Graduate School shall be as stipulated in Article 15 of the OIST University Rules
 [link:].
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-5.2.5. Transfer students
+5.2.5. Transfer students
 Students who have commenced studies at another university and wish to continue
 their students at OIST and obtain the OIST PhD degree may, under special
 circumstances, be admitted subject to meeting admission standards. Such cases may
@@ -3738,21 +3750,25 @@ Variations in time of registration may be allowed by the President at the reques
 the Dean of the Graduate School.
 For graduate students registering for the doctoral program leading to a PhD, the
 following conditions apply:
-i Registration is restricted to full-time candidates.
-ii A full-time candidate may hold an external scholarship or receive
+i
+ii
+
+iii
+
+Registration is restricted to full-time candidates.
+A full-time candidate may hold an external scholarship or receive
 financial support from OIST, or a combination of both, to enable
 him or her to study on a full-time basis, but may not otherwise hold
 employment.
-iii The full-time status of the student must be confirmed in a written
+The full-time status of the student must be confirmed in a written
 declaration signed by the student and the Dean of the Graduate
 School.
 
-In order to register, the student, must submit all forms in complete form to the
+ch05_graduate-school-handbook_en_20180404_cl
+
+In order to register, the student, must submit all forms in complete form to the
 Student Support section.
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-On registration a “registered student record” will be created for the student in the
+On registration a “registered student record” will be created for the student in the
 student record system. This record will be the official record of the student and will
 link to all other records including student academic record, progress reports,
 financial support, and housing, etc.
@@ -3792,12 +3808,11 @@ ID Card will be issued.
 Permissions
 Student ID Cards may not under any circumstances be loaned out or used
 by other persons, whether or not those persons are themselves authorized
-to have access to OIST facilities. Cards may not be copied, reverseengineered, distributed without permission, or cryptanalyzed. Cards
+ch05_graduate-school-handbook_en_20180404_cl
+
+to have access to OIST facilities. Cards may not be copied, reverseengineered, distributed without permission, or cryptanalyzed. Cards
 remain the property of OIST even when invalidated. The Dean of the
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-Graduate School may take disciplinary action in the event that these
+Graduate School may take disciplinary action in the event that these
 provisions are not followed.
 5.2.8. Induction program
 Students registered as full time OIST PhD students complete an induction program
@@ -3840,13 +3855,13 @@ least 30 points (20 from courses, 10 from research work) or
 alternatively, has obtained the equivalent number of credits based
 on prior study; and
 presents a successful thesis representing the result of the
-candidate’s research which should constitute an original
-contribution to knowledge and contain material worthy of
-publication; and
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 iv
 
+candidate’s research which should constitute an original
+contribution to knowledge and contain material worthy of
+publication; and
 satisfies the examiners in an oral examination in matters relevant
 to the subject of the thesis.
 
@@ -3889,12 +3904,11 @@ project in each Research Rotation (See Article 17 of the OIST University Rule).
 The first two years of the integrated 5-year doctoral program comprise a
 combination of Research Rotations and courses, designed to prepare the student for
 his or her doctoral thesis work in a flexible way. In the first two years of the program
-students will undertake an individualized study program constructed from a
+ch05_graduate-school-handbook_en_20180404_cl
+
+students will undertake an individualized study program constructed from a
 combination of courses.
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-5.3.4. Course credits
+5.3.4. Course credits
 The number of credits assigned to each course is stipulated in the Schedule of
 Courses [link: http://groups.oist.jp/ja/grad/course-info]. Students will be required
 to accrue at least 30 points before graduation. Courses include Professional
@@ -3934,12 +3948,12 @@ complete three Rotations before deciding on a thesis topic.
 Three Research Rotations are always required, with a total point value of
 9 points. There may be exceptions to this requirement in the case of
 equivalent prior research experience, in which case credit may be
-awarded in increments of 3 points as a cross-credit [link: 5.6.2.]. In
+ch05_graduate-school-handbook_en_20180404_cl
+
+awarded in increments of 3 points as a cross-credit [link: 5.6.2.]. In
 general, not more than 6 points can be cross-credited for rotations, so
 that all students must complete at least one rotation.
-ch05_graduate-school-handbook_en_20180127_cl
-
-The choice of Rotations is part of the approved course taken by the
+The choice of Rotations is part of the approved course taken by the
 student, and requires discussion with the Academic Mentor [link: 5.3.10].
 The number of students who may take a rotation in a given research unit
 is limited to 2 and not all choices will necessarily be available at a given
@@ -3966,39 +3980,8 @@ Committee to ensure cooperation among faculty members in facilitating
 individual student progress.
 5.3.7.
 PhD Thesis Proposal
-Students are required to complete a PhD Thesis Proposal with a point value of 1
-point. Students will normally begin work on their PhD Thesis Proposal at the start
-of the second year, in the Research Unit where they intend to conduct their thesis
-research. The Thesis Supervisor will provide research guidance and the students will
-undertake preliminary thesis work. The PhD Thesis Proposal will comprise:
-i
-ii
-
-iii
-
-an in-depth literature review on the subject of the proposed thesis,
-a write-up of an independent research project undertaken in the
-research unit. The independent research project is developed by the
-student, under the guidance of the Thesis Supervisor. The student
-should complete this piece of independent research using the
-methods available in the Research Unit, collect and analyze data or
-develop theoretical work, and write up in the prescribed format
-[link: TBC].
-A proposed topic for thesis research. This should constitute a
-research question and outline of the aims, methods and significance
-of the proposed research. It would normally use the independent
-ch05_graduate-school-handbook_en_20180127_cl
-
-research project as preliminary evidence in support of the proposed
-research, but the student may also choose a different topic for the
-thesis.
-These three parts will normally be completed in sequence and submitted one at the
-end of each term to the provisional Thesis Committee. The committee will give
-feedback and the student will make necessary revisions. The completed PhD Thesis
-Proposal, including the literature review, write-up of independent research, and
-proposed thesis research, will be submitted to the Academic Services Section by the
-closing date set by the Graduate School and will form part of the assessment for
-progression to thesis research.
+Students are required to complete a PhD thesis proposal, which is worth one credit.
+For details, see PRP 5.3.11.
 5.3.8. Workload
 The maximum the number of courses that can be taken in any one term is four.
 However, students will not normally take more than two Basic or Advanced Courses
@@ -4010,16 +3993,20 @@ Overview of order of study
 Year 1
 i
 Appointment of Academic mentor
-ii
+ch05_graduate-school-handbook_en_20180404_cl
+
+ii
+iii
+iv
+v
+
 Course plan for Year 1 and Year 2 prepared (including
 rotations)
-iii
 Professional Development I.
-iv
 Complete approved Basic Courses and Advanced Courses if
 appropriate.
-v
 Three Rotations.
+
 (See separate note regarding additional professional development courses.)
 Year 2
 i
@@ -4047,9 +4034,7 @@ Thesis research.
 Professional Development II.
 Workshop Courses.
 
-ch05_graduate-school-handbook_en_20180127_cl
-
-Examination of thesis
+Examination of thesis
 i Notification of intention to submit Thesis
 ii Thesis Examination Committee nominated.
 iii Thesis submitted
@@ -4068,7 +4053,10 @@ An Academic Mentor (also called General Advisor) is assigned to each
 student from the time of admission. The Academic Mentor is required to
 work carefully with the student to select courses and Research Rotations
 that reinforce the foundations of the field of study and also provide the
-breadth of study necessary to develop the ability to collaborate effectively
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+breadth of study necessary to develop the ability to collaborate effectively
 across traditional boundaries. The Academic Mentor for each student will
 be appointed by the Dean of the Graduate School, with advice from the
 Academic Services Section. The Academic Mentor should have the
@@ -4087,10 +4075,7 @@ the duration of the student’s studies at OIST. The Academic Mentor
 cannot also be the same student’s Thesis Supervisor. If a student elects to
 undertake their thesis research in the research unit of the Academic
 Mentor, a new Academic Mentor shall be appointed.
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-5.3.10.2.
+5.3.10.2.
 Duties of Academic Mentor in development of Course Plan
 The Academic Mentor and student together will formulate a plan of
 courses and Rotations for the first two years. The course plan will take
@@ -4114,7 +4099,10 @@ http://groups.oist.jp/ja/grad/course-info]. Examiners may examine by
 means of written, practical, or oral test, or by continuous assessment, or
 by any combination of these. Examination scripts and reports must be
 written in English.
-A student who is unable to complete an assessment because of genuine
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+A student who is unable to complete an assessment because of genuine
 impairment may be permitted by the Dean of the Graduate School to
 complete a supplementary assessment. In such cases an application for
 special consideration must be submitted within 48 hours of the
@@ -4132,10 +4120,7 @@ advised of the examination and assessment timetable at the start of the
 year.
 Examination questions must be provided to Academic Services at least
 one month prior to the examination for preparation of examination
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-papers. Examinations will be invigilated. Entry to the examination rooms
+papers. Examinations will be invigilated. Entry to the examination rooms
 will only be permitted for candidates enrolled in the course.
 5.3.10.6.
 Monitoring of student progress and student mentoring
@@ -4149,136 +4134,383 @@ individual student as needed. If difficulties continue the Academic
 Mentor has the responsibility of alerting the Dean of the Graduate School,
 who may initiate proceedings related to poor progress or performance.
 (Chapter 5.11.2 [link: 5.11.2])
-5.3.11. Qualifying for progression to PhD thesis research
+5.3.11. Qualifying for Progression to PhD Thesis Research
 Before commencing PhD thesis research all OIST graduate students will be
-evaluated by the Curriculum and Examination Committee to determine if they are
+evaluated by the Curriculum and Examinations Committee to determine if they are
 qualified for PhD thesis work. To initiate this process the student prepares the PhD
-Thesis Proposal, as described in Section [link: 5.3.7.] after selecting a Thesis
-Supervisor(s) and Research Unit, and nominates a Thesis Supervisor and Thesis
-Committee. The Thesis Proposal, Thesis Supervisor, and Thesis Committee must be
-formally approved by the Dean of the Graduate School before the student
-commences thesis research.
-5.3.11.1.
+thesis proposal, as described in Section [link: 5.3.11.3] after selecting a Thesis
+Supervisor(s) and Research Unit, and nominates a Thesis Committee. The thesis
+proposal, Thesis Supervisor, and Thesis Committee must be formally approved by
+the Dean of the Graduate School before the student commences thesis research
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+5.3.11.1.
+members
+
 Nomination of Thesis Supervisor, and Thesis Committee
+
 All students will be required to have a Thesis Committee - irrespective of
 the seniority of the Thesis Supervisor - to provide oversight of the thesis
 research supervision. The Thesis Committee will comprise the Thesis
-Supervisor (or cosupervisors if there is more than one supervisor), the
-Academic Mentor, and another faculty member selected by the Dean of
-the Graduate School in consultation with the student and Thesis
-Supervisor. The student is responsible for nominating the Thesis
-Supervisor and may suggest names for the third Thesis Committee
-Member. The Academic Services section will provide guidance and
-assistance to students in relation to this process.
+Supervisor, the Academic Mentor, and the cosupervisor or the third
+Thesis Committee member, selected from among OIST faculty members
+by the student in consultation with the Thesis Supervisor. If the
+cosupervisor is selected from faculty members external to OIST, an
+additional Thesis Committee member also needs to be selected from
+among OIST faculty members. The student is responsible for nominating
+the Thesis Supervisor and may suggest names for the other committee
+members. The thesis committee members should be nominated before
+appointment of the Examination Panel for the thesis proposal. The
+Academic Services Section will provide guidance and assistance to
+students in relation to this process.
 PhD Thesis Supervisors must be full-time faculty members. Adjunct and
 visiting faculty members may be cosupervisors or Thesis Committee
-members. Faculty external to the university may be cosupervisors or
-Thesis Committee members provided an institutional agreement exists
-with the university of the external faculty member. Information about
-such agreements is available from Academic Services.
+members. Faculty external to the university may be cosupervisors
+provided an institutional agreement exists with the university of the
+external faculty member. Information about such agreements is available
+from Academic Services.
+5.3.11.2.
+Process for Approval of Thesis Supervisor and Thesis
+Committee Members
+In consultation with the intended PhD Thesis Supervisor and Academic
+Mentor, the student completes and submits the form for nominating
+Thesis Supervisor [link: Preliminary Thesis Research Supervisor] to the
+Graduate School. Furthermore, in consultation with the intended PhD
+Thesis Supervisor, Academic Mentor and prospective members of the
+Thesis Committee, the student completes and submits the form for
+nominating Thesis Committee members [link: Thesis Proposal
+Submission Cover Sheet] along with the thesis proposal to the Graduate
+School. The Thesis Supervisor and Thesis Committee members for each
+student will be appointed by the Dean of the Graduate School, with advice
+from the Academic Services Section. If the proposed Thesis Supervisor is
+the same person as the Academic Mentor, a new Academic Mentor will
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
-5.3.11.2.
-Process for approval of Thesis Supervisor/s and Thesis
-Committee members
-In consultation with the intended PhD Thesis Supervisor, Academic
-Mentor and prospective members of the Thesis Committee the student
-completes the form for nominating Thesis Supervisors and Thesis
-Committee members [link: TBC] and submits it along with the Thesis
-Proposal to the Dean of the Graduate School. If the proposed Thesis
-Supervisor is the same person as the Academic Mentor, a new Academic
-Mentor will be appointed by the Dean of the Graduate School to avoid
-any conflict of interest.
-5.3.11.3.
-Evaluation for progression to PhD thesis research
+be appointed by the Dean of the Graduate School to avoid any conflict
+of interest.
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+5.3.11.3.
+
+PhD Thesis Proposal Requirement
+
+The PhD thesis proposal is the student’s plan for their thesis research,
+and forms an important part of the evaluation for progression to thesis
+research. A positive outcome of the evaluation means that the proposal is
+acceptable and that the Curriculum and Examinations Committee agrees
+that the student is competent to proceed with the plan under the
+supervision of the thesis committee. The thesis proposal must be the
+student’s independent work in which the student makes an original
+contribution to the development of the research question, design of the
+research, and review of the literature. In the course of developing the
+proposal the student is expected to discuss the intended research with the
+thesis supervisor. The supervisor should advise the student on what is
+possible in the research unit, and discuss the scientific questions, the
+relevant existing work, and the research design and methods.
+Students must write the thesis proposal in their own words. In referring
+to the work of others correct citation and attribution of sources is
+essential. Plagiarism by copying or paraphrasing is strictly forbidden and
+if established may lead to a fail without further examination.
+The student’s supervisor and proposed Thesis Committee must read the
+proposal before it is submitted. The student’s Thesis Committee may give
+feedback on one draft of the proposal and allow the student to make
+necessary revisions before submission. When satisfied that the plan is
+achievable and that the research goals are appropriate, the supervisor
+and committee members indicate formal agreement by signing the cover
+page. The proposal is then submitted for examination. The student must
+defend the proposal in an oral examination.
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+5.3.11.3.1. Format and Content of the Thesis Proposal
+It is part of the student's training in research to prepare a concise,
+rigorous, and scholarly thesis proposal and present it in the correct
+format. There is no strict length requirement for the thesis proposal.
+It is anticipated that most students will need 8,000-10,000 words
+(about twenty pages of text) to adequately explain the motivation and
+goals of their project, review the relevant literature, and describe
+progress to date. However, concise proposals are encouraged, and a
+proposal of 5,000 words, which covered all these points, would be
+perfectly acceptable. The proposal should contain the following
+sections:
+i.
+
+Front Page. This should include the name and logo of the
+OIST Graduate University, the words “PhD Thesis
+Proposal”, the title of the thesis proposal, the names of the
+student, primary supervisor (and co-supervisor if there is
+one), and the month and year of submission of the thesis
+proposal.
+
+ii.
+
+Abstract. This should be a single paragraph of not more than
+500 words, which concisely summarizes the entire proposal.
+
+iii.
+
+List of Abbreviations
+
+iv.
+
+Introduction and Literature Review. This should include a
+statement of the problem, the overall aims, and background
+to the research including a review of relevant existing work
+(literature review). The literature review should be of
+publishable quality and provide a concise, scholarly review
+of the literature explaining the background to the proposed
+research. The review should provide the context for the aims
+of the proposed research in relation to existing work on the
+topic.
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+v.
+
+Research Plan. This should begin with the specific aims of
+the research and provide a concrete plan for completion of
+the research including the design and methods. This section
+should include an explanation of how the methods will
+address the aims and the significance of the results for the
+field.
+
+vi.
+
+Progress Report. This should be a report on the research
+achievements of the student in the laboratory of the
+proposed supervisor during preliminary thesis research. The
+report should not duplicate material previously submitted
+for evaluation as part of a previous degree, but may include
+work completed during rotations at OIST. The report may
+include examples of results obtained with the methods
+proposed. It is understood that results may not be available
+in projects requiring, for example, development of methods,
+sample preparation, or recruitment of participants, in which
+case other evidence of progress should be reported.
+
+vii.
+
+Bibliography. The bibliography should include all references
+cited in the text and should not include references that have
+not been cited. In preparing the bibliography, students may
+use any of the conventional styles of referencing that include
+the titles of articles, such as the Harvard, Vancouver or ACS
+systems. However, the style chosen must be used
+consistently and correctly throughout, both for in-text
+citations, and formatting of bibliographic entries
+
+viii.
+
+Appendices. These are optional and should only be used if
+necessary.
+
+The examiners commit to read the proposal, but the Curriculum and
+Examinations Committee reserves the right to require students to rewrite
+excessively long, or poorly constructed, thesis proposals, without
+forwarding them to examiners. The student cannot assume that the
+examiners will read the optional appendices.
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+The complete doctoral thesis proposal document must be submitted to
+the Graduate School by the due date as nominated by the Dean, normally
+no later than four weeks (28 days) prior to the oral defense. An
+emergency exception to the standard due date deadline can be granted by
+the Dean on the basis of a written request from the supervisor.
+
+5.3.11.4.
+Examination and Defence of Thesis Proposal
+An Examination Panel for the thesis proposal comprises three members:
+an External Examiner, an Internal Examiner, and a Chair appointed by
+the Curriculum and Examinations committee. The Examination Panel
+will conduct a three-hour oral examination that will include a defense of
+the thesis proposal. The Examination Panel will include an External
+Examiner who is expert in the field of the proposed thesis and external to
+OIST. Normally the examination will be conducted in person at OIST but
+if this is not possible the Dean of the Graduate School may permit
+electronic participation by audiovisual link. The Curriculum and
+Examinations Committee appoints the External Examiner taking into
+account nominations provided by the proposed supervisor. Similar
+conflicts of interest precaution apply as outlined in 5.3.13.3.1 below. The
+Examination Panel also includes an Internal Examiner from OIST faculty
+members, who is appointed by the Curriculum and Examinations
+committee. An OIST faculty member with knowledge of OIST standards
+and regulations concerning thesis proposal examinations is nominated
+by the Curriculum and Examinations committee and will chair the
+Examination Panel. The Examination Panel will not include the proposed
+thesis supervisor or student’s mentor. The Thesis Supervisor and other
+members of the Thesis Committee may attend the oral examination as
+observers but should not participate in the examination.
+5.3.11.4.1. Conduct of the Examination
+The only material normally permitted in the examination room is
+the thesis proposal itself. Additional material such as copies of
+additional results figures developed since the thesis proposal was
+submitted, are permitted provided they are supplied to the Chair at
+least one week in advance, and the Chair agrees to their inclusion.
+The Chairperson starts the examination by announcing the start of
+the examination and explaining the examination process to the
+student and examiners. The Chairperson then invites the student to
+give a concise summary of the research proposal, which should
+normally take less than 15 minutes. The use of slides or other
+material for the presentation is not permitted. However, the
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+student may refer to a hard copy of the thesis proposal during the
+examination. A white board and pens are also provided.
+After the summary, the Chairperson invites the External Examiner
+to examine the student. The Internal Examiner may follow the
+External Examiner or, as appropriate, join the discussion with the
+student. As the expert in the field of the thesis proposal, the
+External Examiner is expected to play the principal role in the
+examination.
+It is expected that the examination will comprise a balance of
+roughly equal parts: (1) defense of the thesis proposal and (2)
+examination of fundamental knowledge in the field or fields of
+study relevant to the thesis topic.
+In the defense of the thesis proposal (part 1), the student is expected
+to demonstrate the necessary advanced knowledge and
+understanding to undertake the proposed thesis research and show
+their original and independent contribution to the proposal and the
+research question.
+In the oral examination (part 2), the student is expected to
+demonstrate adequate fundamental knowledge in the field or fields
+of study relevant to the thesis topic, and the ability to organize,
+apply and convey that knowledge effectively.
+In the conduct of the examination it is envisaged that part 2 will
+flow naturally from part 1. A rigid division into parts is not
+necessary and the balance of time spent on each part, while
+nominally equal, may be varied at the discretion of the examiners.
+The examination shall not continue for more than three hours
+maximum, but may be concluded sooner if the examiners are
+satisfied that they have sufficiently examined the student and are
+able to make a recommendation. The Chairperson formally
+concludes the examination when the allowed time has elapsed or
+the examiners have indicated they have no further questions.
+After the examination, the External Examiner and Internal
+Examiner independently provide brief written reports on the
+examination to the Chairperson within one week of the examination.
+The Chairperson then forwards the reports to the Curriculum and
+Examinations Committee. The report shall remain
+confidential and shall not be released to the student until
+after the Curriculum and Examinations Committee has
+formally decided on the outcome of the examination.
+ch05_graduate-school-handbook_en_20180404_cl
+
+The examiners’ report is required to include one of the following
+possible recommendations listed below:
+i.
+
+ii.
+
+iii.
+
+Pass. The examiners recommend that the student be advanced to
+candidacy. The examiners may recommend additional course work
+or stipulate minor revisions to the thesis proposal.
+Defer. This outcome is possible only if the student’s academic
+preparation is sufficient, and the thesis proposal is not acceptable in
+its present form but could be acceptable pending major revisions. The
+thesis proposal must be re-examined in a second oral examination.
+In such case the Examiner’s report shall itemize the deficiencies of
+the thesis proposal that need to be addressed in the revisions, and any
+deficiencies in the scope and depth of the student’s knowledge that
+require remediation.
+Fail. This is the outcome when academic preparation is not sufficient
+or the thesis proposal is not suitable for re-examination, or has not
+met the required standard on re-examination. No re-examination is
+allowed in the case of a fail outcome.
+
+5.3.11.5.
+
+Evaluation for Progression to PhD Thesis Research
+
 The purpose of evaluating qualification for progression to PhD thesis
 research is to determine whether the student has an adequate
 fundamental knowledge in the field or fields of study relevant to the
 thesis topic, and can organize, apply and convey that knowledge
-effectively. The Curriculum and Examinations committee will make this
+effectively. The Curriculum and Examinations Committee will make this
 evaluation taking into account the completed program of study and the
 student’s performance in courses and rotations at OIST, the thesis
-proposal, and the candidate’s performance in an examination. The thesis
+proposal, and the student’s performance in an examination. The thesis
 proposal forms an important part of the evaluation. The thesis proposal
 must be the student’s independent work and clearly show the original
 contribution of the student to the research question. The evaluation may
-occur when requested by the candidate and normally before the end of
-the second year of study, and at the latest within 12 months of the start of
-Preliminary Thesis Research. When evaluating the candidate the
-Curriculum and Examinations committee will consider the following
+occur when requested by the student and normally before the end of the
+second year of study, and at the latest within 12 months of the start of
+preliminary thesis research. When evaluating the student, the
+Curriculum and Examinations Committee will consider the following
 materials:
-1. The student’s PhD Thesis proposal. The requirements for the proposal
-are separately described (5.3.7).
-2. A report from the examining panel as separately described (5.3.11.4).
-3. The student’s academic record at OIST.
-4. Write-ups of Rotations.
-5. An Endorsement of the thesis proposal from the proposed thesis
-supervisor, the student’s academic mentor, and other members of the
-intended thesis committee, on the prescribed Thesis Proposal
-Submission Cover Sheet ［link］
-6. Further material deemed relevant to the evaluation.
-The Curriculum and Examinations committee will reach one of the
-three decisions listed below and record the decision in the student’s
-academic record:
 i.
 
-Passed. The candidate is advanced to candidacy. The committee
+The student’s PhD thesis proposal.
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
-may require additional course work or stipulate minor revisions to the
-thesis proposal.
-ii. Deferred. This outcome is possible only if the student’s academic
-preparation is sufficient, and the thesis proposal is not acceptable in its
-present form but could be acceptable pending major revisions. The
-thesis proposal must be re-examined in a second oral examination after
-which the committee must reach a decision of either passed or failed.
-The committee will stipulate a deadline for submission of a revised
-proposal and date of re-examination. If the candidate fails to resubmit
-by the deadline the outcome will change to fail.
-iii. Failed. This is the outcome when academic preparation is not
-sufficient or the thesis proposal is not suitable for re-examination, or
-has not met the required standard on re-examination. No reexamination is allowed in the case of a fail outcome.
-Procedures for appeal against the outcome of the evaluation are
-separately described (5.3.11.7).
-5.3.11.4.
-Examination and defence of thesis proposal
-An examining panel comprises three members: an external examiner, an
-internal examiner, and a chair appointed by the Curriculum and
-Examination committee. The examining panel will conduct a three-hour
-oral examination that will include a defense of the thesis proposal. The
-examining panel will include an External Examiner who is expert in the
-field of the proposed thesis and external to OIST. Normally the
-examination will be conducted in person at OIST but if this is not possible
-the Dean of the Graduate School may permit electronic participation by
-audiovisual link. The Curriculum and Examinations Committee appoints
-the External Examiner taking into account nominations provided by the
-proposed supervisor. Similar conflicts of interest precaution apply as
-outlined in 5.3.13.2 below. The examining panel also includes an OIST
-faculty member familiar with the out-of-field postgraduate courses taken
-by the student at OIST, who is appointed by the Curriculum and
-Examinations committee. A member of the Curriculum and
-Examinations committee nominated by the Dean of the Graduate School
-will chair the examining panel. The examining panel will not include the
-proposed thesis supervisor or student’s mentor.
-Half of the examination will be an oral defense of the thesis proposal. The
-student will be required to demonstrate the necessary advanced
-knowledge and understanding to undertake the proposed thesis research,
-and show their original and independent contribution to the proposal.
-The other half of the examination will cover fundamental knowledge in
-the field or fields of the proposed thesis research. The candidate should
-demonstrate fundamental knowledge of sufficient scope and depth to
-provide a secure foundation. The examining panel will take into account
-ch05_graduate-school-handbook_en_20180127_cl
+ii.
 
-the recommendations of the proposed thesis supervisor concerning the
-scope and depth of the knowledge required, which will be communicated
-to the examiner and student through the Curriculum and Examinations
-Committee. On the advice of the Committee the oral examination may be
-supplemented by a written examination conducted before the oral
-examination.
-5.3.11.5.
+A report from the examining panel as separately described
+(5.3.11.3).
+
+iii.
+
+The student’s academic record at OIST.
+
+iv.
+v.
+
+Write-ups of Rotations.
+An Endorsement of the thesis proposal from the proposed
+thesis supervisor, the student’s academic mentor, and other
+members of the intended thesis committee, on the prescribed
+Thesis Proposal Submission Cover Sheet (link).
+Further material deemed relevant to the evaluation.
+
+vi.
+
+At the next available meeting of the Curriculum and Examinations
+Committee after the examination, the committee considers the reports
+from the examiners and makes a recommendation. The Curriculum and
+Examinations Committee will reach one of the three decisions listed below
+and record the decision in the student’s academic record:
+i.
+ii.
+
+iii.
+
+Pass. The student is advanced to candidacy. The committee
+may require additional course work or stipulate minor revisions
+to the thesis proposal.
+Defer. This outcome is possible only if the student’s academic
+preparation is sufficient, and the thesis proposal is not
+acceptable in its present form but could be acceptable pending
+major revisions. The thesis proposal must be re-examined in a
+second oral examination after which the committee must reach
+a decision of either pass or fail. The committee will stipulate a
+deadline for submission of a revised proposal and date of reexamination. If the student fails to resubmit by the deadline the
+outcome will change to fail.
+Fail. This is the outcome when academic preparation is not
+sufficient or the thesis proposal is not suitable for reexamination, or has not met the required standard on reexamination. No re-examination is allowed in the case of a fail
+outcome.
+
+This outcome is sent to the student and the Thesis Committee as soon as
+it becomes available, together with the reports of the examiners. If
+revisions are required, a timeline for their completion is described in the
+outcome letter. Revisions must be submitted by the deadline, for
+consideration by the responsible person (usually the Examiner or Chair).
+Once revisions have been accepted, the student is notified after ratification
+at the next available meeting of the Curriculum and Examinations
+Committee.
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+Procedures for appeal against the outcome of the evaluation are separately
+described (5.3.11.8).
+
+5.3.11.6.
 
 Exit with MSc (“Non-continuation” outcome of evaluation for
 progression).
@@ -4289,7 +4521,8 @@ submit a thesis for consideration for award of the MSc degree in
 accordance with Article 37, paragraph 3 of the University Rules. An MSc
 may be awarded if the candidate has successfully completed the following
 minimum requirements:
-i. at least 30 points (20 from courses, 10 from research work),
+i. at least 30 points (20 from cou
+rses, 10 from research work),
 ii. submission of a thesis describing their own research work at a level
 judged to be suitable for the award of MSc by a panel of examiners
 including at least one external examiner.
@@ -4309,17 +4542,17 @@ Individual Student Record shall be updated with an entry on the next day,
 stating that the outcome is “fail ” . At the time when the individual
 Student Record is updated, the candidate is sent a letter advising of the
 outcome.
-5.3.11.6. Exit with MSc prior to progression to PhD thesis research
+5.3.11.7. Exit with MSc prior to progression to PhD thesis research
 Under exceptional circumstances, when deemed necessary by the Dean
 of the Graduate School, a student who, prior to evaluation for progression
 to PhD thesis research, requests early exit from the program may be
 allowed to submit a thesis for award of the MSc degree in accordance with
 Article 37, paragraph 3 of the University Rules. Early exit must be
+requested within two years of enrolment and approved by the Dean of the
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
-requested within two years of enrolment and approved by the Dean of the
-Graduate School. An MSc may be awarded if the candidate successfully
+Graduate School. An MSc may be awarded if the candidate successfully
 completes the following minimum requirements:
 i. At least 30 points (20 from courses, 10 from research work).
 ii. Submission of a thesis describing their own research work at a level
@@ -4336,7 +4569,7 @@ recommendation of either “passed” or “failed”. The Curriculum and
 Examination committee reviews the recommendation and considers
 whether all academic requirements for the award of the degree have been
 satisfied.
-5.3.11.7. Appeals procedure
+5.3.11.8. Appeals procedure
 A student who has failed the qualifying examination (or MSc thesis
 examination) may lodge an appeal. Grounds for appeal include incorrect
 application of the procedures, but objections to the evaluations in the
@@ -4361,7 +4594,7 @@ outcome of the examination, and the appeal is unsuccessful.
 iii.The procedures for the qualifying examination were not applied
 correctly, and the variation in procedures did influence the outcome of
 the examination, and the appeal is successful. In this case, the Dean of
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 Faculty Affairs will determine further action to be taken, which may
 include re-examination.
@@ -4388,8 +4621,8 @@ discontinuation.
 5.3.12.2.
 Discontinuation
 A candidature may be discontinued:
-iif academic progress is not satisfactory; or
-iiif the student has failed to meet the requirements as stipulated
+i if academic progress is not satisfactory; or
+ii if the student has failed to meet the requirements as stipulated
 elsewhere [link: 5.4. ].
 5.3.13. Ph.D Degree Completion
 The Ph.D. degree is conferred by the University in recognition of completion by the
@@ -4404,8 +4637,7 @@ candidate must present their work in a thesis and defend it in an oral examinati
 A candidate may not submit for examination work that has been included in a thesis
 or dissertation that has been previously submitted towards a degree qualification.
 Course credit requirements are listed in PRP 5.3.13.7.
-
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 5.3.13.1.
 Thesis Requirements
@@ -4452,8 +4684,7 @@ After receiving the Notice of Intent to Submit a Thesis, the Curriculum
 and Examinations Committee (CEC) will appoint thesis examiners from
 within and outside the University, to form a Thesis Examination Panel,
 as follows:
-
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 i.
 Two Examiners selected from two different working-countries, who
@@ -4500,13 +4731,14 @@ to compromise objectivity, such as having been in the same
 department as the candidate, having supervised the candidate in
 academic or project work, or having joint publications or grants
 with the candidate at any time.
-5.3.13.4.
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+5.3.13.4.
 
 Examination of the Written Thesis
 
-ch05_graduate-school-handbook_en_20180127_cl
-
-The two external examiners read the thesis, separately prepare a report
+The two external examiners read the thesis, separately prepare a report
 and choose a recommendation regarding the acceptability of the thesis
 for a PhD from the following:
 i.
@@ -4549,13 +4781,13 @@ Exceptionally, if an examiner is not available in Okinawa at a time
 convenient for a meeting of the Thesis Examination Panel, the Dean of
 the Graduate School can approve remote participation of an examiner by
 teleconferencing.
-The Thesis Supervisor and members of the Thesis Committee may attend
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+The Thesis Supervisor and members of the Thesis Committee may attend
 the oral examination as observers but may not participate in the
 examination.
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-After the oral examination the Thesis Examination Panel confers
+After the oral examination the Thesis Examination Panel confers
 privately to determine a recommendation from one of the following:
 i. PASS
 ii. PASS with minor revisions
@@ -4597,15 +4829,17 @@ professional development candidates are expected to give a final
 presentation of their research for the OIST community, but this does not
 form part of the examination.
 5.3.13.7 Summary of Completion Requirements
-In order to graduate with the PhD degree, a candidate must have been
+ch05_graduate-school-handbook_en_20180404_cl
+
+In order to graduate with the PhD degree, a candidate must have been
 registered as a full-time student for a minimum enrolment period
 stipulated in Article 35 of the university rules[link] and successfully met
 the following minimum requirements:
 i.
-completed and passed at least 30 course credits (20
-ch05_graduate-school-handbook_en_20180127_cl
 
-credits in case of MSc graduates)
+completed and passed at least 30 course credits (20
+credits in case of MSc graduates)
+
 ii.
 
 submitted a PhD thesis for examination,
@@ -4640,7 +4874,10 @@ all academic requirements for the award of the degree have been satisfied,
 the student shall submit a bound copy of his or her thesis, with all
 required corrections completed, to the University library, together with
 an electronic copy for the University record.
-On confirmation of receipt of the electronic file of thesis, the secretary of
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+On confirmation of receipt of the electronic file of thesis, the secretary of
 the Curriculum and Examinations Committee passes to the faculty
 assembly
 
@@ -4661,10 +4898,7 @@ The
 recommendation shall be sent electronically. If there are no objections
 within three working days, the recommendation shall be considered as
 having been confirmed by the Faculty Assembly. In the case that there
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-are valid objections the matter shall be put on the agenda for the next
+are valid objections the matter shall be put on the agenda for the next
 Faculty Assembly meeting, and the student and members of the thesis
 committee shall be informed. The Dean of the Graduate School shall
 prepare a recommendation for the Faculty Assembly after hearing the
@@ -4691,15 +4925,15 @@ Science and Technology, and the summary of the contents of the thesis
 and the summary of the results of the thesis examination shall be
 publicized on the internet within 3 months following the day of the
 conferment of the Doctoral degree.
-When a Doctoral degree is conferred, the entire text of the thesis related
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+When a Doctoral degree is conferred, the entire text of the thesis related
 to the conferment of the Doctoral degree shall be published within one
 year following the day of the conferment of the Doctoral degree; provided
 however, that this shall not apply to the thesis published prior to the
 conferment of the Doctoral degree. The student may request that the full
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-text not be published, and instead only publish a summary of the
+text not be published, and instead only publish a summary of the
 contents of the thesis in lieu of the entire text of thesis when there is
 significant reason and with approval of the Dean of the Graduate School.
 In this case, the University will make available for inspection the entire
@@ -4738,7 +4972,10 @@ be considered by the Committee three months before the
 Graduation Ceremony.
 Nominations for the Honorary Degree are considered by the
 Honorary Degree Committee, which makes recommendations to
-the President. Nominations are made on the Honorary Degree
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+the President. Nominations are made on the Honorary Degree
 Nomination Form[Link]. If the nomination is supported, and the
 President agrees, and the recipient accepts the offer, the Degree is
 awarded at the next Graduation Ceremony.
@@ -4748,10 +4985,7 @@ Honorary Degree Committee
 
 The Honorary Degrees Committee consists of the Dean of
 Research, who chairs the committee, the Dean of Faculty Affairs,
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-the Dean of the Graduate School, and the Chair of the Faculty
+the Dean of the Graduate School, and the Chair of the Faculty
 Assembly. The duty of the Committee is to select persons to be
 recommended in writing to the president for the Honorary Degree.
 The final decision is made by the president, who is not bound by
@@ -4781,7 +5015,7 @@ attention of the Committee. If relevant, nominations should be
 accompanied by details of the nominees’ published works in an
 Appendix.
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 5.3.15.3.
 
@@ -4823,7 +5057,7 @@ The OIST Graduate School offers OIST PhD students and Special
 Research Students opportunities to gain experience and develop skills as
 Teaching Assistants. Teaching Assistants may contribute to various
 educational activities such as:
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 1.
 Assisting an OIST faculty member in the delivery of an official OIST
@@ -4868,7 +5102,7 @@ Teaching Assistant activity of each student. The form should detail the
 contact hours and be signed by the proposed supervisor. A CV should be
 attached.
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 Service as a Teaching Assistant is normally unpaid because students
 receive financial support by other mechanisms. Exceptional cases and
@@ -4913,7 +5147,7 @@ she is best advised for personal, health, or other reasons to have time
 completely away from his / her academic responsibilities. Under no
 circumstances shall leave of absence under this category be granted on
 each occasion or cumulatively for a period of more than two years for the
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 entire period of study. Any period of Non-study Leave granted shall result
 in the extension of the period of study by the period of absence.
@@ -5024,7 +5258,7 @@ To provide care to a new
 
 Up to 5 days
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 born baby or for another
 child of the same family
@@ -5111,7 +5345,7 @@ i. Saturdays and Sundays; and
 ii. Holidays specified in the Act on National Holidays (Act No. 178 of
 1948).
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 iii. Year-end and New Year Holidays (from December 29 to January 3 of
 the following year)
@@ -5154,7 +5388,7 @@ Prenatal Leave. Research Assistants who expect to give birth within 6 weeks
 (14 weeks for multiple pregnancies) are granted prenatal maternity leave.
 When the actual delivery is after the expected delivery date, the additional
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 days are included in the maternity leave.
 Postpartum Leave. Research Assistants are granted 8-week paid postpartum
@@ -5196,7 +5430,7 @@ enrolment, if a serious medical problem were to arise for mother or newborn, the
 woman student would be eligible for extension of the period of Childbirth
 Accommodation Policy until the medical problem is resolved.
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 Residency requirements
 The expectation is that the student will be in residence in Okinawa, and, assuming
@@ -5237,7 +5471,7 @@ Once a student submits an application, the Office of the Dean of the Graduate
 School will ensure that students whose applications have been approved will see no
 change in their financial support as Research Assistants.
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 Students who are supported by fellowships external to OIST must adhere to the
 rules of the granting agency with respect to absences from academic and research
@@ -5279,7 +5513,7 @@ circumstances of the student. For example, women whose research involves
 working with toxic chemicals or fieldwork may need some form of accommodation
 during the entire pregnancy and during lactation. Taking care of an infant is timeconsuming and sleep-depriving, so advisors need to have realistic expectations
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 about rates of progress on research. For their part, new parents need to keep the
 lines of communication with their advisors open, and demonstrate to their
@@ -5324,7 +5558,7 @@ Continued financial support for students in the doctoral program
 depends on maintained performance in study and research, and is based
 on the provision of satisfactory annual Progress Reports. Assistantships
 will be discontinued in the event of unexcused absence, failure to
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 maintain adequate academic performance, unethical behavior, or other
 reasons determined by the academic oversight process to be incompatible
@@ -5367,7 +5601,7 @@ availability of budget, and the nature of the activity. When payment
 is possible it is made on an hourly basis for the contact hours and
 preparation time. Paid preparation time, when necessary, is based on
 a maximum of 4 hours preparation for 1 hour of contact time. Details
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 of the conditions of service are separately stipulated.
 5.4.1.2.2. Tuition waiver
@@ -5404,7 +5638,7 @@ using the terms defined in Article 17 of the University Rules) may be
 possible.
 2. Change in thesis research laboratory.
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 This may occur because of the departure or incapacity of the
 supervisor, or because of a change of supervisor that has been
@@ -5445,7 +5679,7 @@ Graduate School approve the travel. For details concerning visiting an
 educational institution, please refer to the OIST Guidelines for Student
 Travel [Link:].
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 5.4.1.5.
 Travel grants for students to attend conferences
@@ -5498,7 +5732,7 @@ Reimbursement of relocation expenses can only be provided once.
 If a Student voluntarily terminates the agreement within the first
 three months, OIST S.C. may request return of the total amount
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 provided. If the termination is due to unavoidable circumstances
 (including family health reasons), OIST S.C. may waive the claim
@@ -5542,7 +5776,7 @@ with PAS (Gakkensai and Gakkenbai)
 All students are covered by Gakkensai and Gakkenbai provided by
 Graduate School. <ref: link to Gakkensai and Gakkenbai>.
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 5.4.3.3.
 Childcare
@@ -5623,7 +5857,7 @@ Net R en t
 Mast er B R:
 1 1 , 00 0 y e n/ mt h*
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 Oth er BR :
 1 8 ,0 00 y en / mth *
@@ -5670,7 +5904,7 @@ Eligibility
 
 Period
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 Students receiving research
 Special Research
@@ -5743,7 +5977,7 @@ OIST.
 
 These categories are separately considered in the following sections.
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 5.5.2.1
 Special Research Students <Tokubetsu-Kenkyu-Gakusei>
@@ -5787,7 +6021,7 @@ exception of Financial Support, which is handled differently.
 Students of newly-hired faculty
 Students of newly hired faculty who relocate to OIST before
 completion of their PhD degree may need special arrangements
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 to facilitate the successful completion of their PhD. If the student
 is able to complete their research at OIST while continuing to be
@@ -5840,7 +6074,7 @@ OIST. The Graduate School will complete such an agreement
 with the partner institution. Such an agreement may allow for
 mutual waiver of tuition fees. Where such an agreement does not
 exist, tuition fees may be charged to the student.
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 After acceptance of the student, the Graduate School will make a
 recommendation to the Research Unit concerning the conditions
@@ -5882,7 +6116,7 @@ Research Unit.
 A SRS Research Assistantship is an appointment provided to
 a Special Research Student in good standing who performs
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 research or who assists others performing research and
 educational activities.
@@ -5935,7 +6169,7 @@ per
 Reimbursement of relocation expenses can only be provided
 once.
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 If a Special Research Student voluntarily terminates the
 agreement within the first three months, OIST S.C. may
@@ -6004,7 +6238,7 @@ Net R en t
 graduate students.
 Minor change in rates on the order of 10% is possible.
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 5.5.2.1.3.6.2. Off-Campus Housing
 If a Special Research Student is required to live off-campus
@@ -6047,7 +6281,7 @@ The applications of high ranking applicants who are already in
 PhD programs will be forwarded to the Faculty for consideration
 of placement in research units, supported by research unit funds.
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 Applications from currently enrolled students must be supported
 by a recommendation letter from the Dean, Head of Department,
@@ -6094,7 +6328,7 @@ work less than four hours. In addition, where necessary, OIST
 will also provide up to a maximum of ￥45,000 per month as a
 Commuting Allowance and up to a maximum of ￥3,500 per day
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 as Overnight Accommodation Costs (instead of provision of
 accommodation costs, accommodation is normally provided at
@@ -6140,7 +6374,7 @@ who wish to undertake a period of research at OIST under the
 supervision of an OIST faculty member as part of a recognized
 collaborative research project or some other defined research project.
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 5.5.2.3.1. Eligibility
 This category provides for students enrolled for higher degrees at
@@ -6193,7 +6427,7 @@ OIST PRP Chapter 29.
 Visiting Students are registered students of another university who wish
 to take one or more courses offered by the OIST Graduate School for
 credit at their home university. With the prior permission of the Dean,
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 who will take into account such factors as class size, such a student may
 enroll as a Visiting Student. Applications for admission as a Visiting
@@ -6236,11 +6470,14 @@ Junior Research Fellows are the students whose thesis supervisor
 requests a continuation of their research project after the degree
 conferral at OIST.
 Students in this category are registered as Special Students. The
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 duration is up to a maximum of 6 months. Under no conditions can this
-be extended beyond 6 months. A concrete research plan approved by
-their thesis supervisor and the Dean of the Graduate School is required.
+be extended beyond 6 months by the use of subsidy funding or external
+grants, provided that, students who have time remaining more than 6
+months on a JSPS DC Fellowship are permitted to continue until the
+end date of the Fellowship. A concrete research plan approved by their
+thesis supervisor and the Dean of the Graduate School is required.
 Financial support for Junior Research Fellows may be available from
 the host research unit. Financial support for Junior Research Fellows,
 including fellowship and other benefits, should be included in the
@@ -6285,13 +6522,13 @@ declare any external financial support from funding agency and this will
 be taken into account in determining the recommended level of
 financial support and benefits at OIST.
 If a student is admitted by OIST as a Junior Research Fellow, the level
-of financial support and conditions are stipulated in the Junior
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+of financial support and conditions are stipulated in the Junior
 Research Fellowship Agreement prepared by the Student Support
 Section. If the Junior Research Fellow is not receiving this financial
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-support, the conditions of appointment will be stipulated in an offer
+support, the conditions of appointment will be stipulated in an offer
 letter that will constitute the agreement between OIST and the Junior
 Research Fellows after it is signed by both parties.
 5.5.2.6.2. Financial Support for Junior Research Fellows
@@ -6327,13 +6564,13 @@ their Junior Research Fellow status. Rent, Utilities (if applicable) and
 other necessary costs will be deducted from the emolument of the
 Junior Research Fellowship. Those who do not have Junior Research
 Fellowship will be billed.
-5.6.
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+5.6.
 
 Improvement of education
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-5.6.1.
+5.6.1.
 Basic Policy of Faculty Development
 The Graduate University must maintain and improve the quality of its Faculty in
 order to provide an outstanding education at OIST and to meet the different
@@ -6376,12 +6613,12 @@ A mentoring system will be established so that faculty with less
 experience in teaching and thesis supervision can meet with more
 experienced faculty to receive advice and support. As a part of this system
 the Thesis Committee supervising each student will include junior and
-senior Faculty members to facilitate the transfer of skills relating to
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+senior Faculty members to facilitate the transfer of skills relating to
 supervision of research.
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-The Faculty Development section will implement these methods to
+The Faculty Development section will implement these methods to
 ensure the improvement of the education and research of the Graduate
 University.
 5.7. Library
@@ -6415,12 +6652,12 @@ requirements. Students who are not meeting progression requirements
 are alerted by the Dean of the Graduate School and provided assistance
 to address issues affecting progress.
 Satisfactory academic progression requires:
-1. A level of performance in courses and rotations meeting all of the
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+1. A level of performance in courses and rotations meeting all of the
 following criteria:
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-i.
+i.
 
 Completing an approved program of elective coursework with
 at least a “Pass” evaluation in all courses, at a rate sufficient
@@ -6472,12 +6709,12 @@ the program
 Unsatisfactory academic progress is defined as failure to meet any of the
 criteria listed above, as determined by the Curriculum and Examinations
 Committee.
-In the case of established unsatisfactory academic progress the
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+In the case of established unsatisfactory academic progress the
 Committee may recommend probation or termination of candidacy.
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-Probation is an option if satisfactory progress can be achieved by (a)
+Probation is an option if satisfactory progress can be achieved by (a)
 repeating and passing a failed unit (course or rotation); or, (b)
 substituting and passing an approved alternative unit. If the Committee
 recommends probation the Dean of the Graduate School alerts the
@@ -6512,12 +6749,12 @@ of research and education at OIST who are charged with providing advice
 on matters requiring academic input. The Dean of the Graduate School
 appoints Committee members. The Dean of Research, Manager,
 Academic Services Section, and Manager, Student Support Section are
-ex-officio members of the Committee. The Academic Services section
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+ex-officio members of the Committee. The Academic Services section
 provides administrative support for the Committee.
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-5.10.1.2.
+5.10.1.2.
 Chairperson of the Committee
 The Dean of the Graduate School shall preside at meetings of the
 Committee.
@@ -6528,10 +6765,14 @@ per year.
 5.10.1.4.
 Items to be discussed at meetings of the Committee
 The Committee may consider specific matters as follows:
-i Graduate student admissions
-ii Graduate student recruiting
+i
+ii
 iii
+
+Graduate student admissions
+Graduate student recruiting
 Other matters
+
 The Committee may also deliberate on policy matters in relation to
 admissions.
 5.10.1.5.
@@ -6568,19 +6809,18 @@ Members of the committee or panels must declare conflicts of
 interest or the appearance of a conflict when these exist. Conflicts
 of interest occur when a candidate has any of the following
 relationships to the Committee member or advisor:
-(a)
+ch05_graduate-school-handbook_en_20180404_cl
+
+(a)
 (b)
 (c)
+(d)
+(e)
 
 Former or present student;
 Student for whom the member has written a
 supporting letter;
 Former or current business partner or employer;
-ch05_graduate-school-handbook_en_20180127_cl
-
-(d)
-(e)
-
 Close friend or partner;
 Family member (spouse, child, sibling, sibling of
 spouse or child of sibling).
@@ -6618,14 +6858,15 @@ declaration shall include the following statement:
 concerning the above candidate, and any other candidate in the
 same round of applications, immediately and until a decision
 about the above candidate has been made.”
-Other Conflicts of Interest
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+Other Conflicts of Interest
 In the case of other conflicts of interest, the conflict shall be declared to
 the Chairperson, who shall ensure that the committee member concerned
 takes no part in the decision of the committee with respect to the
 candidate, by requiring the member to leave the room when the
-ch05_graduate-school-handbook_en_20180127_cl
-
-candidate is discussed, or stronger measures as considered necessary by
+candidate is discussed, or stronger measures as considered necessary by
 the Chairperson.
 
 5.10.2. Curriculum and Examinations Committee
@@ -6635,9 +6876,7 @@ related to the curriculum and individual student progress in the PhD program, an
 is advisory to the Dean of the Graduate School. The Curriculum and Examinations
 Committee reports to the Assembly through the Dean of the Graduate School.
 5.10.2.1.
-
 Membership of the Committee
-
 The Committee includes faculty members representing the major fields
 of research and education at OIST who are charged with providing advice
 on matters requiring academic input. The Dean of the Graduate School
@@ -6666,13 +6905,13 @@ members who are scheduled to teach at the time of the meeting.
 Items to be discussed at meetings of the Committee
 The Committee deliberates on matters related to the curriculum and
 individual student progress in the PhD program.
-The committee deals with:
+
+ch05_graduate-school-handbook_en_20180404_cl
+
+The committee deals with:
 •Individual student program (by review of program proposals)
 •Individual student progress (by review of annual progress reports)
-
-ch05_graduate-school-handbook_en_20180127_cl
-
-•Approval of thesis proposals and progression to thesis research
+•Approval of thesis proposals and progression to thesis research
 •Appointment of thesis supervisor and thesis committee
 •Appointment of examiners
 •Award of degrees
@@ -6716,8 +6955,9 @@ Graduate School teaching spaces are intended to support teaching and learning at
 Priority is given to use in official Graduate School courses and other Graduate School
 sponsored trainings and events. When a space is not in use, it may be booked and used with
 prior approval of the Graduate School.
+ch05_graduate-school-handbook_en_20180404_cl
 
-ch05_graduate-school-handbook_en_20180127_cl
+ch05_graduate-school-handbook_en_20180404_cl
 
 OIST Graduate University
 Policies, Rules, & Procedures

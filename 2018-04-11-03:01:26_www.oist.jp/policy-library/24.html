@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="next" href="/policy-library/24.1" />
+<link rel="shortcut icon" href="https://www.oist.jp/sites/all/themes/oist_master_main/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="up" href="/policy-library" />
+<link rel="prev" href="/policy-library/23.7.9" />
+<meta name="description" content="Authority: Approved by the President" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.oist.jp/policy-library/24" />
+<link rel="shortlink" href="https://www.oist.jp/node/9146" />
+<meta property="og:site_name" content="Okinawa Institute of Science and Technology Graduate University OIST" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.oist.jp/policy-library/24" />
+<meta property="og:title" content="24. Childcare Services" />
+<meta property="og:description" content="Authority: Approved by the President" />
+<meta property="og:updated_time" content="2015-04-07T08:36:44+09:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.oist.jp/policy-library/24" />
+<meta name="twitter:title" content="24. Childcare Services" />
+<meta name="twitter:description" content="Authority: Approved by the President" />
+<meta property="article:published_time" content="2012-12-26T13:55:10+09:00" />
+<meta property="article:modified_time" content="2015-04-07T08:36:44+09:00" />
+  <title>24. Childcare Services | Okinawa Institute of Science and Technology Graduate University OIST</title>
+  <link type="text/css" rel="stylesheet" href="https://www.oist.jp/s3fs-css/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.oist.jp/s3fs-css/css/css_xc-PR2_GXx3s2t9pjiLzU5JNaDtAoHFRAhO-t7KdX7Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.oist.jp/s3fs-css/css/css_KLFTLUX5LIKiNA5x7EunINNuBEo5e_RdlwiTm8l0WHY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.0.2/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.oist.jp/s3fs-css/css/css_sIHuaDjtnE-lAODzGLCTbbK7PXzNWuX93CJwH1sorks.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.oist.jp/s3fs-css/css/css_H7ZFxEjAFA9yqjjijgheNFdevjXfMSlk26nCLUG3z0I.css" media="print" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="https://www.oist.jp/s3fs-js/js/js_v7z_ueNi9EIrZXPI8So7AkuzyXuKekr2jbdDptsM5Oc.js"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="https://www.oist.jp/s3fs-js/js/js_PePLzLqB7KWv2N8ZO8ordZMt0NheB-DsHQrK5NG6FSA.js"></script>
+<script src="https://www.oist.jp/sites/all/modules/lightbox2/js/lightbox.js?1523383243"></script>
+<script src="https://www.oist.jp/s3fs-js/js/js_Olv9uA1_9jki-zdi-Fdf2TNqCbU1QOvfu_9Owu3MnmY.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-26875993-1", {"cookieDomain":".oist.jp"});ga("send", "pageview");</script>
+<script src="https://www.oist.jp/s3fs-js/js/js_D3gaWDovdngGvy7Ar8cOr5P3FJZDJ4dJMGHTZV2zNIY.js"></script>
+<script src="https://www.oist.jp/s3fs-js/js/js_8tzvVnma37FaJ2yv4usRbXfvVSWFCzwtPayBlhbe_VE.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"oist_master_main","theme_token":"1sC1Aoy4Q8IymzjxtoS9fsnaWzxFx_sZeixNc6x4ieg","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/mathjax\/2.2.0\/MathJax.js?config=TeX-AMS_HTML":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/nice_menus\/nice_menus.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.min.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1,"sites\/all\/themes\/oist_master\/bootstrap\/js\/bootstrap.min.js":1,"sites\/all\/themes\/oist_master\/js\/oist_master.js":1,"sites\/all\/themes\/oist_master_main\/js\/scripts.js":1,"sites\/all\/themes\/oist_master_main\/js\/jquery.mobile.custom.min.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/nice_menus\/nice_menus.css":1,"\/sites\/all\/themes\/oist\/css\/schemes\/nav.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/modules\/taxonomy_access\/taxonomy_access.css":1,"sites\/all\/themes\/oist_master_main\/layouts\/left-sidebar-layout\/left-sidebar-layout.css":1,"modules\/locale\/locale.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.0.2\/overrides.min.css":1,"sites\/all\/themes\/oist_master\/css\/oist_master_style.css":1,"sites\/all\/themes\/oist_master\/css\/oist_master_screen_0-320.css":1,"sites\/all\/themes\/oist_master\/css\/oist_master_screen_321-480.css":1,"sites\/all\/themes\/oist_master\/css\/oist_master_screen_481-767.css":1,"sites\/all\/themes\/oist_master\/css\/oist_master_screen_768-979.css":1,"sites\/all\/themes\/oist_master\/css\/oist_master_screen_980-1199.css":1,"sites\/all\/themes\/oist_master\/css\/oist_master_screen_1200-and-up.css":1,"sites\/all\/themes\/oist_master_main\/css\/style.css":1,"sites\/all\/themes\/oist_master_main\/font-awesome\/css\/font-awesome.min.css":1,"sites\/all\/themes\/oist_master\/css\/oist_master_print.css":1,"sites\/all\/themes\/oist_master_main\/css\/print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"nice_menus_options":{"delay":"800","speed":"slow"},"urlIsAjaxTrusted":{"\/policy-library\/24":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1,"trackDomainMode":"1"},"superfish":[{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":true,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}},{"id":"2","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":true,"dropShadows":true,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}],"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-9146 node-type-book book-page i18n-en">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="header">
+  <div id="header_line"></div>
+  <div class="header-inner">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-7">
+                      <div class="region region-header region-header-left">
+              <a href="/"><img src="/sites/all/themes/oist_master/images/oist-header-en.png" /></a>            </div>
+                  </div>
+        <div class="col-sm-5">
+                      <div class="region region-header region-header-right">
+                <div class="region region-header-right">
+    <section id="block-locale-language" class="block block-locale clearfix">
+
+  <ul class="language-switcher-locale-url"><li class="en first active"><a href="/policy-library/24" class="language-link active" xml:lang="en" title="24. Childcare Services ">English</a></li>
+<li class="ja last"><a href="/ja/policy-library/24" class="language-link" xml:lang="ja" title="24. チャイルドケア・サービス">日本語</a></li>
+</ul>
+</section> <!-- /.block -->
+<section id="header-search-box" class="header-right-element"><form class="form-search content-search" action="/policy-library/24" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Search form</h2>
+    <div class="input-group"><input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><button type="submit" class="btn btn-primary"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span></button></span></div><div class="form-actions form-wrapper form-group" id="edit-actions--2"><button class="element-invisible btn btn-primary form-submit" type="submit" id="edit-submit--2" name="op" value="Search">Search</button>
+</div><input type="hidden" name="form_build_id" value="form-pZ_X2KGLWH8VbATR6s5W04sqei81E0EJGgTgaHivVrY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form></section><section id="header-menu" class="header-right-element"><ul class="menu nav"><li class="menu-31303 first"><a href="/contact-us" title="">Contact</a></li>
+<li class="menu-31305"><a href="/access-map" title="">Access</a></li>
+<li class="menu-41011 last"><a href="/oist-members" title="">OIST Members</a></li>
+</ul></section>  </div>
+            </div>
+                  </div>
+      </div>
+    </div>
+          <div id="nav">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12">
+              <div class="region region-navigation">
+                <nav class="navbar navbar-default" role="navigation">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                      </button>
+                    </div>
+                    <div id="main-nav" class="collapse">
+                      <section id="block-superfish-1" class="block block-superfish clearfix">
+
+  <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-9 sf-parent-items-7 sf-single-items-2"><li id="menu-3980-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" title="" class="sf-depth-1">Home</a></li><li id="menu-3981-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-12 sf-parent-children-4 sf-single-children-8 menuparent"><a href="/about" class="sf-depth-1 menuparent">About</a><ul><li id="menu-3982-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/oist-nutshell" class="sf-depth-2">OIST in a Nutshell</a></li><li id="menu-4812-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/sitemap" title="" class="sf-depth-2">Sitemap</a></li><li id="menu-4152-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/contact-us" class="sf-depth-2">Contact Us</a></li><li id="menu-4150-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/access-map" class="sf-depth-2 menuparent">Access &amp; Maps</a><ul><li id="menu-41321-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/directions-southern-okinawa" class="sf-depth-3">How to Get to OIST from Naha Airport and Southern Okinawa</a></li><li id="menu-41323-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/directions-northern-okinawa" class="sf-depth-3">How to Get to OIST from Northern Okinawa</a></li><li id="menu-41318-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/oist-shuttle-bus" class="sf-depth-3">OIST Shuttle Bus</a></li><li id="menu-22083-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/limousine-bus" class="sf-depth-3">Airport Limousine Bus</a></li><li id="menu-41325-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/taxi-service-near-oist" class="sf-depth-3">Taxi Service Near OIST</a></li><li id="menu-41412-1" class="last even sf-item-6 sf-depth-3 sf-no-children"><a href="/maps" class="sf-depth-3">Maps</a></li></ul></li><li id="menu-3996-1" class="middle odd sf-item-5 sf-depth-2 sf-total-children-8 sf-parent-children-2 sf-single-children-6 menuparent"><a href="/organigram" class="sf-depth-2 menuparent">Organization</a><ul><li id="menu-4024-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/organigram" title="" class="sf-depth-3">Organigram</a></li><li id="menu-4000-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/officers-and-vice-presidents" class="sf-depth-3">Officers and Vice Presidents</a></li><li id="menu-4850-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/message-president" class="sf-depth-3">Message from the President</a></li><li id="menu-4005-1" class="middle even sf-item-4 sf-depth-3 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/board-governors" class="sf-depth-3 menuparent">Board of Governors</a><ul><li id="menu-4006-1" class="firstandlast odd sf-item-1 sf-depth-4 sf-no-children"><a href="/board-governors-meeting-summaries" class="sf-depth-4">Meeting Summaries</a></li></ul></li><li id="menu-5643-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/board-councilors" class="sf-depth-3">Board of Councilors</a></li><li id="menu-39711-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="https://groups.oist.jp/auditors" title="" class="sf-depth-3">Auditors</a></li><li id="menu-3985-1" class="middle odd sf-item-7 sf-depth-3 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/history" class="sf-depth-3 menuparent">History</a><ul><li id="menu-13712-1" class="firstandlast odd sf-item-1 sf-depth-4 sf-no-children"><a href="/information-oist-pc" class="sf-depth-4">Information on OIST PC</a></li></ul></li><li id="menu-13713-1" class="last even sf-item-8 sf-depth-3 sf-no-children"><a href="https://groups.oist.jp/acd/information-disclosure" title="" class="sf-depth-3">Information Disclosure</a></li></ul></li><li id="menu-4107-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/tdic" title="" class="sf-depth-2">Relations with Industry</a></li><li id="menu-37897-1" class="middle odd sf-item-7 sf-depth-2 sf-total-children-12 sf-parent-children-0 sf-single-children-12 menuparent"><a href="/campus" class="sf-depth-2 menuparent">Campus</a><ul><li id="menu-37928-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/master-plan" title="" class="sf-depth-3">Master Plan</a></li><li id="menu-37903-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/center-building-tunnel-gallery" title="" class="sf-depth-3">Center Building and Tunnel Gallery</a></li><li id="menu-38217-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/housing" class="sf-depth-3">Housing</a></li><li id="menu-38199-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/visitors-center-shops-restaurants" class="sf-depth-3">Shops and Restaurants</a></li><li id="menu-38209-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/community-facilities" class="sf-depth-3">Community Facilities</a></li><li id="menu-38215-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/research-facilities" class="sf-depth-3">Research Facilities</a></li><li id="menu-37904-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/healthcare-facilities" title="" class="sf-depth-3">Healthcare Facilities</a></li><li id="menu-37905-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/childcare-facilities" class="sf-depth-3">Childcare Facilities</a></li><li id="menu-40983-1" class="middle odd sf-item-9 sf-depth-3 sf-no-children"><a href="/conference-venue" class="sf-depth-3">Event Venues</a></li><li id="menu-37907-1" class="middle even sf-item-10 sf-depth-3 sf-no-children"><a href="/seaside-house-0" class="sf-depth-3">Seaside House</a></li><li id="menu-37909-1" class="middle odd sf-item-11 sf-depth-3 sf-no-children"><a href="/parking" class="sf-depth-3">Parking</a></li><li id="menu-41045-1" class="last even sf-item-12 sf-depth-3 sf-no-children"><a href="/construction" class="sf-depth-3">Construction</a></li></ul></li><li id="menu-4030-1" class="middle even sf-item-8 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/procurement" class="sf-depth-2 menuparent">Procurement</a><ul><li id="menu-40062-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/procurement/article" class="sf-depth-3">Article Tender</a></li><li id="menu-4034-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/procurement/tender-archive" title="" class="sf-depth-3">Tenders Archive</a></li><li id="menu-39731-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/electronic-procurement-system" class="sf-depth-3">Electronic Procurement System</a></li><li id="menu-39723-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/pc-procurement-info" title="" class="sf-depth-3">PC Procurement Information</a></li><li id="menu-39986-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/procurement/construction/tender-construction-2005-2009" title="" class="sf-depth-3">Past Procurement Information (Construction)</a></li></ul></li><li id="menu-4040-1" class="middle odd sf-item-9 sf-depth-2 sf-no-children"><a href="/oist-publications-reports" class="sf-depth-2">Publications &amp; Reports</a></li><li id="menu-4916-1" class="middle even sf-item-10 sf-depth-2 sf-no-children"><a href="/policy-library" class="sf-depth-2">Policy Library</a></li><li id="menu-25372-1" class="middle odd sf-item-11 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/acd/privacy-policy" title="" class="sf-depth-2">Privacy Policy</a></li><li id="menu-39796-1" class="last even sf-item-12 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/giving" title="" class="sf-depth-2">Giving to OIST</a></li></ul></li><li id="menu-4044-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="https://groups.oist.jp/grad" title="" class="sf-depth-1 menuparent">Graduate School</a><ul><li id="menu-40286-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://admissions.oist.jp" title="" class="sf-depth-2">Admissions</a></li><li id="menu-40290-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="http://admissions.oist.jp/node/373" title="" class="sf-depth-2">Apply</a></li><li id="menu-40288-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/grad/research-interns" title="" class="sf-depth-2">Internships</a></li><li id="menu-40987-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/grad" title="" class="sf-depth-2">Graduate School Office</a></li></ul></li><li id="menu-4049-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/research-overview" class="sf-depth-1 menuparent">Research</a><ul><li id="menu-4051-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/research-units" class="sf-depth-2">Faculty Research Units</a></li><li id="menu-41314-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/rsd" title="" class="sf-depth-2">Research Support</a></li><li id="menu-18695-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/node/372" title="" class="sf-depth-2">Library</a></li></ul></li><li id="menu-4108-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-9 sf-parent-children-3 sf-single-children-6 menuparent"><a href="/community-activities" class="sf-depth-1 menuparent">Community</a><ul><li id="menu-4109-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/community-activities" class="sf-depth-2">Community Activities</a></li><li id="menu-41327-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/guided-campus-tour" class="sf-depth-2 menuparent">Guided Campus Tour</a><ul><li id="menu-4112-1" class="firstandlast odd sf-item-1 sf-depth-3 sf-no-children"><a href="/webform/campus-tour-reservations" title="" class="sf-depth-3">Register for Guided Tour</a></li></ul></li><li id="menu-41332-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/unguided-campus-visit" class="sf-depth-2">Unguided Campus Visit</a></li><li id="menu-41329-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/group-tours" class="sf-depth-2 menuparent">Group Tours</a><ul><li id="menu-41334-1" class="firstandlast odd sf-item-1 sf-depth-3 sf-no-children"><a href="/webform/campus-tour-reservations" title="" class="sf-depth-3">Register for Guided Tour</a></li></ul></li><li id="menu-40564-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/school-visits" class="sf-depth-2">School Visits</a></li><li id="menu-7166-1" class="middle even sf-item-6 sf-depth-2 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><a href="/science-festival" class="sf-depth-2 menuparent">OIST Science Festival</a><ul><li id="menu-41390-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/oist-science-festival-2016" class="sf-depth-3">OIST Science Festival 2016</a></li><li id="menu-41140-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/open-campus-autumn-2015" class="sf-depth-3">Open Campus Autumn 2015</a></li><li id="menu-41141-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="https://groups.oist.jp/cpr/open-campus-2015" title="" class="sf-depth-3">Open Campus 2015</a></li><li id="menu-41142-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/open-campus-2014" class="sf-depth-3">Open Campus 2014</a></li><li id="menu-41143-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/open-campus-2013-program" class="sf-depth-3">Open Campus 2013</a></li><li id="menu-41144-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/press-room/news/2012/3/21/thousands-visit-oist-open-campus-2012" title="" class="sf-depth-3">Open Campus 2012</a></li><li id="menu-41145-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="/events/featured-events/2010/12/9/oist-open-campus-2010" title="" class="sf-depth-3">Open Campus 2010</a></li></ul></li><li id="menu-41158-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/score" title="" class="sf-depth-2">SCORE! Science in Okinawa</a></li><li id="menu-38157-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/resource-center" title="" class="sf-depth-2">Resource Center</a></li><li id="menu-41310-1" class="last odd sf-item-9 sf-depth-2 sf-no-children"><a href="http://www.kuroshiomag.com/" title="" class="sf-depth-2">Kuroshio Magazine</a></li></ul></li><li id="menu-4115-1" class="middle even sf-item-6 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/events-0" title="" class="sf-depth-1 menuparent">Events</a><ul><li id="menu-39726-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/calendar" title="" class="sf-depth-2">Calendar</a></li><li id="menu-28027-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/upcoming" title="" class="sf-depth-2">Upcoming Events</a></li><li id="menu-39727-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/events" title="" class="sf-depth-2">Past Events</a></li><li id="menu-4120-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/cws/workshops" title="" class="sf-depth-2">OIST Workshops</a></li><li id="menu-40984-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="/conference-venue#events" title="" class="sf-depth-2">Event Venues</a></li></ul></li><li id="menu-4126-1" class="middle odd sf-item-7 sf-depth-1 sf-total-children-11 sf-parent-children-0 sf-single-children-11 menuparent"><a href="/news-center" title="" class="sf-depth-1 menuparent">News Center</a><ul><li id="menu-4922-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/news-center/news" title="" class="sf-depth-2">Articles</a></li><li id="menu-4131-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/news-center/press-releases" title="" class="sf-depth-2">Press Releases</a></li><li id="menu-4810-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/news-center/videos" title="" class="sf-depth-2">Videos</a></li><li id="menu-41601-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="https://vimeo.com/oistedu" title="" class="sf-depth-2">OIST on Vimeo</a></li><li id="menu-4128-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/news-center/photos" title="" class="sf-depth-2">Photos</a></li><li id="menu-40075-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/university-photo-collections" class="sf-depth-2">University Photo Collections</a></li><li id="menu-41419-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="https://www.flickr.com/photos/oistedu/albums" title="" class="sf-depth-2">OIST on Flickr</a></li><li id="menu-21024-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="/news-center/oist-in-the-news" title="" class="sf-depth-2">OIST in the News</a></li><li id="menu-21025-1" class="middle odd sf-item-9 sf-depth-2 sf-no-children"><a href="/news-center/tags" title="" class="sf-depth-2">Keyword List</a></li><li id="menu-40082-1" class="middle even sf-item-10 sf-depth-2 sf-no-children"><a href="/webform/media-section" class="sf-depth-2">Press Inquiries</a></li><li id="menu-41388-1" class="last odd sf-item-11 sf-depth-2 sf-no-children"><a href="/oist-multimedia-guidelines" class="sf-depth-2">OIST Multimedia Guidelines</a></li></ul></li><li id="menu-4137-1" class="middle even sf-item-8 sf-depth-1 sf-total-children-8 sf-parent-children-0 sf-single-children-8 menuparent"><a href="/careers" class="sf-depth-1 menuparent">Careers</a><ul><li id="menu-40784-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/ged" title="" class="sf-depth-2">Gender Equality Division</a></li><li id="menu-40783-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/cdc" title="" class="sf-depth-2">Child Development Center</a></li><li id="menu-40785-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/resource-center" title="" class="sf-depth-2">Resource Center</a></li><li id="menu-41019-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/ganjuu" title="" class="sf-depth-2">Ganjuu Wellbeing Services</a></li><li id="menu-40976-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/pcda" title="" class="sf-depth-2">Postdoctoral Career Development</a></li><li id="menu-40780-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="http://newsletters.oist.jp/newsletter/jobs-oist" title="" class="sf-depth-2">&quot;OIST Careers&quot; Newsletter</a></li><li id="menu-40781-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="https://www.facebook.com/oist.recruiting" title="" class="sf-depth-2">OIST Recruiting Facebook</a></li><li id="menu-40782-1" class="last even sf-item-8 sf-depth-2 sf-no-children"><a href="https://groups.oist.jp/facultypositions" title="" class="sf-depth-2">Faculty Positions</a></li></ul></li><li id="menu-41014-1" class="last odd sf-item-9 sf-depth-1 sf-no-children"><a href="https://groups.oist.jp" title="" class="sf-depth-1">Groups</a></li></ul>
+</section> <!-- /.block -->
+                  </div>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+</div>
+<div id="page" class="container">
+  <img src="/sites/all/themes/oist_master_main/images/footer_logo_med_en.png" class="print-only print-en" />
+<img src="/sites/all/themes/oist_master_main/images/footer_logo_med_ja.png" class="print-only print-ja" />
+
+  
+        
+  <div id="columns"><div class="columns-inner clearfix">
+          <div id="breadcrumb-wrapper">
+           <nav id="breadcrumb"><ol class="breadcrumb"><li><a href="/policy-library">Policy Library</a></li>
+<li class="active">24. Childcare Services </li>
+</ol></nav>
+      </div><!-- /breadcrumb-wrapper -->
+        <div>
+            <div class="row main-content-container">
+		
+
+        
+      
+
+      
+
+              <div class="col-sm-12">
+        <div id="content-column"><div class="content-inner">
+
+          
+                    <section id="main-content" role="main">
+
+              <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+  <div >
+            <div id="main-row" class="full-width">
+        <div class="row">
+            <div class="col-sm-9 col-sm-push-3">
+                <div class="panel-pane pane-node-content" >
+  
+  <!-- REMOVE TITLE AND INSERT WITH MODULE -->
+  <!--      <h1 class="pane-title">24. Childcare Services </h1>
+    -->
+
+  
+  <div class="pane-content">
+    <div id="node-9146" class="node node-book clearfix">
+    <div class="field field-name-title-field field-type-text field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><h1>24. Childcare Services </h1>
+</div>
+      </div>
+</div>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field-items">
+          <div class="field-item even"><p>Authority:&nbsp; Approved by the President</p>
+</div>
+      </div>
+</div>
+<div class="field field-name-field-prp-pdf field-type-file field-label-above">
+      <div class="field-label">PDF Version:&nbsp;</div>
+    <div class="field-items">
+          <div class="field-item even"><span class="file"><img class="file-icon" alt="PDF icon" title="application/pdf" src="/modules/file/icons/application-pdf.png" /> <a href="https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch24_Childcare-Services_20150401_en_cl.pdf" type="application/pdf; length=30978">ch24_Childcare-Services_20150401_en_cl.pdf</a></span></div>
+      </div>
+</div>
+  <div id="zbook-navigation-1797" class="zbook-navigation">
+    <ul class="menu nav"><li class="first leaf"><a href="/policy-library/24.1">24.1 Policy</a></li>
+<li class="collapsed"><a href="/policy-library/24.3">24.3 Rules</a></li>
+<li class="collapsed"><a href="/policy-library/24.4">24.4 Responsibilities</a></li>
+<li class="collapsed"><a href="/policy-library/24.5">24.5 Procedures</a></li>
+<li class="collapsed"><a href="/policy-library/24.6">24.6 Forms</a></li>
+<li class="last collapsed"><a href="/policy-library/24.7">24.7 Contacts</a></li>
+</ul>
+        <ul class="pager clearfix">
+              <li class="previous"><a href="/policy-library/23.7.9" class="page-previous" title="Go to previous page">‹ 23.7.9 Retaliation Complaint</a></li>
+                    <li><a href="/policy-library" class="page-up" title="Go to parent page">up</a></li>
+                    <li class="next"><a href="/policy-library/24.1" class="page-next" title="Go to next page">24.1 Policy ›</a></li>
+          </ul>
+    
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+            </div>
+            <div class="col-sm-3 col-sm-pull-9">
+                <div class="panel-pane pane-block pane-oist-solr-www-policy-library-search"  >
+  
+        <h2 class="pane-title">
+      Policy Library Search    </h2>
+    
+  
+  <div class="pane-content">
+    <form action="/policy-library/24" method="post" id="oist-solr-www-policy-library-search" accept-charset="UTF-8"><div><div class="form-item form-item-search-field form-type-textfield form-group"><input class="form-control form-text" type="text" id="edit-search-field" name="search_field" value="" size="60" maxlength="128" /></div><input type="hidden" name="form_build_id" value="form-Z3Tblccf2h45HCB3QFgk9M_BlwP1yMlafCVCLjCjuMA" />
+<input type="hidden" name="form_id" value="oist_solr_www_policy_library_search" />
+<div class="form-actions form-wrapper form-group" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Search" class="btn btn-primary form-submit">Search</button>
+</div></div></form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-i18n-book-navigation-i18n-book-navigation"  >
+  
+        <h2 class="pane-title">
+      Table of Contents    </h2>
+    
+  
+  <div class="pane-content">
+      <div id="book-block-menu-1797" class="book-block-menu">
+    <ul class="menu nav"><li class="first last expanded active-trail active"><a href="/policy-library" class="active-trail">Policy Library</a><ul class="menu nav"><li class="first collapsed"><a href="/policy-library/1">01.  Who We Are: Founding and Governing Principles</a></li>
+<li class="collapsed"><a href="/policy-library/2">02.  Governance and Organization</a></li>
+<li class="collapsed"><a href="/policy-library/3">03. Faculty Handbook </a></li>
+<li class="collapsed"><a href="/policy-library/4">04. Research Activities</a></li>
+<li class="collapsed"><a href="/policy-library/5">05. Graduate School Handbook</a></li>
+<li class="collapsed"><a href="/policy-library/6">06. University Library</a></li>
+<li class="collapsed"><a href="/policy-library/7">07.  Fundraising</a></li>
+<li class="collapsed"><a href="/policy-library/8">08. Internal audit</a></li>
+<li class="collapsed"><a href="/policy-library/9">09. Auditors&#039; Audit</a></li>
+<li class="collapsed"><a href="/policy-library/10">10.  Land, Buildings and Facilities </a></li>
+<li class="collapsed"><a href="/policy-library/12">12. Document and Records Management</a></li>
+<li class="collapsed"><a href="/policy-library/13">13. Safety, Health &amp; Environmental Protection</a></li>
+<li class="collapsed"><a href="/policy-library/14">14. Intellectual Property and Technology Transfer</a></li>
+<li class="collapsed"><a href="/policy-library/15">15. Name Use, Endorsements, Use of University Logo and Trademarks </a></li>
+<li class="collapsed"><a href="/policy-library/16">16.  External and Internal Communications  &amp; Public Relations</a></li>
+<li class="collapsed"><a href="/policy-library/17">17. Information Technology and Security</a></li>
+<li class="collapsed"><a href="/policy-library/18">18. Telecommunications Services and Devices </a></li>
+<li class="collapsed"><a href="/policy-library/19">19. University Events </a></li>
+<li class="collapsed"><a href="/policy-library/20">20. Health &amp; Wellness Program</a></li>
+<li class="collapsed"><a href="/policy-library/21">21.  Use of University Resources</a></li>
+<li class="collapsed"><a href="/policy-library/22">22. Avoiding Conflicts of Interest and Commitment</a></li>
+<li class="collapsed"><a href="/policy-library/23">23. Investigation and Determination of Misconduct &amp; Whistleblower Protection</a></li>
+<li class="expanded active-trail active"><a href="/policy-library/24" class="active-trail active">24. Childcare Services </a><ul class="menu nav"><li class="first leaf"><a href="/policy-library/24.1">24.1 Policy</a></li>
+<li class="collapsed"><a href="/policy-library/24.3">24.3 Rules</a></li>
+<li class="collapsed"><a href="/policy-library/24.4">24.4 Responsibilities</a></li>
+<li class="collapsed"><a href="/policy-library/24.5">24.5 Procedures</a></li>
+<li class="collapsed"><a href="/policy-library/24.6">24.6 Forms</a></li>
+<li class="last collapsed"><a href="/policy-library/24.7">24.7 Contacts</a></li>
+</ul></li>
+<li class="collapsed"><a href="/policy-library/25">25. Campus Housing </a></li>
+<li class="collapsed"><a href="/policy-library/26">26. Finance and Accounting</a></li>
+<li class="collapsed"><a href="/policy-library/27">27. Budget Planning, Execution and Monitoring</a></li>
+<li class="collapsed"><a href="/policy-library/28">28. Procurement</a></li>
+<li class="collapsed"><a href="/policy-library/29">29. Travel,Meetings and Related Expenses</a></li>
+<li class="collapsed"><a href="/policy-library/30">30. Human Resources</a></li>
+<li class="collapsed"><a href="/policy-library/31">31. Hiring Process</a></li>
+<li class="collapsed"><a href="/policy-library/32">32. Work Schedules and Breaks</a></li>
+<li class="collapsed"><a href="/policy-library/33">33. Leave</a></li>
+<li class="collapsed"><a href="/policy-library/34">34. Compensation</a></li>
+<li class="collapsed"><a href="/policy-library/35">35. Benefits</a></li>
+<li class="collapsed"><a href="/policy-library/36">36. Performance Evaluation</a></li>
+<li class="collapsed"><a href="/policy-library/37">37. Leaving the University</a></li>
+<li class="collapsed"><a href="/policy-library/38">38. Discipline</a></li>
+<li class="collapsed"><a href="/policy-library/39">39. Resolving Complaints &amp; Disputes</a></li>
+<li class="collapsed"><a href="/policy-library/40">40. Staff Development and Awards</a></li>
+<li class="collapsed"><a href="/policy-library/41">41. Workplace Health and Safety </a></li>
+<li class="last leaf"><a href="/policy-library/00">00. About the Policies, Rules &amp; Procedures Library</a></li>
+</ul></li>
+</ul>  </div>
+  </div>
+
+  
+  </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                            </div>
+        </div>
+    </div>
+</div>
+</section> <!-- /.block -->
+  </div>
+
+            
+          </section>
+
+          
+        </div></div>
+      </div><!--END MIDDLE COL  -->
+      
+      </div><!--END ROW  -->
+    </div><!--END CONTAINER  -->
+
+  </div></div>
+
+  
+  
+
+</div><!-- /#page .container -->
+<footer>
+  <div class="container footer1">
+    <div class="row">
+      <div class="col-sm-6">
+                  <p>Okinawa Institute of Science and Technology Graduate University<br />1919-1 Tancha, Onna-son, Kunigami-gun<br />Okinawa, Japan 904-0495<br />
+<a href="/node/1018">How to Contact Us</a></p>              </div>
+      <div class="col-sm-6">
+        <div class="region region-footer-right">
+                      <section id="block-superfish-2" class="block block-superfish clearfix">
+
+  <ul id="superfish-2" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-9 sf-parent-items-0 sf-single-items-9"><li id="menu-3980-2" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" title="" class="sf-depth-1">Home</a></li><li id="menu-3981-2" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/about" class="sf-depth-1 menuparent sf-depth-1">About</a></li><li id="menu-4044-2" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="https://groups.oist.jp/grad" title="" class="sf-depth-1">Graduate School</a></li><li id="menu-4049-2" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/research-overview" class="sf-depth-1 menuparent sf-depth-1">Research</a></li><li id="menu-4108-2" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/community-activities" class="sf-depth-1 menuparent sf-depth-1">Community</a></li><li id="menu-4115-2" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/events-0" title="" class="sf-depth-1 menuparent sf-depth-1">Events</a></li><li id="menu-4126-2" class="middle odd sf-item-7 sf-depth-1 sf-no-children"><a href="/news-center" title="" class="sf-depth-1">News Center</a></li><li id="menu-4137-2" class="middle even sf-item-8 sf-depth-1 sf-no-children"><a href="/careers" class="sf-depth-1 menuparent sf-depth-1">Careers</a></li><li id="menu-41014-2" class="last odd sf-item-9 sf-depth-1 sf-no-children"><a href="https://groups.oist.jp" title="" class="sf-depth-1">Groups</a></li></ul>
+</section> <!-- /.block -->
+                  </div>
+      </div>
+    </div> 
+  </div>
+  <div class="footer2">
+    <div class="container">
+      <div class="row">
+                  <p>Copyright © 2014 Okinawa Institute of Science and Technology Graduate University</p><ul class="menu nav">
+<li class="first leaf"><a href="https://tida.oist.jp/" title="" class="active">TIDA</a></li>
+<li class="leaf"><a href="https://groups.oist.jp/acd/privacy-policy" title="" class="active">Privacy Policy</a></li>
+<li class="last leaf"><a href="/sitemap" title="" class="active">Sitemap</a></li>
+</ul>              </div>
+    </div>
+  </div>
+</footer>
+<div id="footer_line"></div>
+<!-- oist-nagios-verification -->
+
+  <script src="https://www.oist.jp/s3fs-js/js/js_L50O_PWoAuMOxVjnzZCkNSSmI0kFwhZsO1_KS8WnGKw.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.2.0/MathJax.js?config=TeX-AMS_HTML"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d0c1cf1e75","applicationID":"53178921","transactionName":"YgMHMEBZXRBXBxJZWltJJAdGUVwNGRQHV1BqCwQKU19WEWkKCVRQahAMAUVnQwJRAQ==","queueTime":0,"applicationTime":1688,"atts":"TkQERghDTh4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
