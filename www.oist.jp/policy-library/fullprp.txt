@@ -19421,13 +19421,11 @@ reimbursed for only the business portion of the trip at the lowest available far
 cases, the costs of a business trip can be significantly reduced by an extension of a day
 or two. When such extensions are used for personal purposes, this must be indicated in
 the travel request. Use of paid leave while on business travel must be clearly indicated
-in travel request, which should be approved by Supervisor in advance. For more details
+in travel request, which should be approved by Supervisor in advance.
 Page 2 of 29
 ch29_travel –and-meetings_en_20180401_cl
 
-please see “Paid Leave During Business Travel for OIST Employees” of Travel
-Handbook [link:].
-29.2.3.1 If a travel itinerary is created to accommodate personal travel, the
+29.2.3.1 If a travel itinerary is created to accommodate personal travel, the
 traveler must pay the incremental cost of personal business compared with the
 same direct itinerary with only business purpose and document the costs
 incurred, separating personal expenses from University business expenses.
@@ -19458,6 +19456,7 @@ university will also pay the travel costs of other non-employees (job applicants
 lecturers, volunteers, and other visitors, students etc.) when approved by travel
 approver(s) indicated in the table [link:]. Generally, non-employees traveling for the
 university are required to comply with this policy.
+
 Page 3 of 29
 ch29_travel –and-meetings_en_20180401_cl
 
@@ -19496,11 +19495,11 @@ Business travel expenses allowable for payment by the University are ordinary an
 necessary expenses of traveling away from employee's home for the purpose of
 conducting business for the sole benefit of the University (official or business travel).
 See Table [link: 26.9] for traveler categories, items of reimbursement, and amounts.
+Expenses deemed as personal by the University are not reimbursed.
 Page 4 of 29
 ch29_travel –and-meetings_en_20180401_cl
 
-Expenses deemed as personal by the University are not reimbursed.
-Air/Hotel Packages should be avoided unless purchased through the University's PTAs.
+Air/Hotel Packages should be avoided unless purchased through the University's PTAs.
 Receipt requirements are found here (Chapter 29.3.13)[29.3.13.]
 29.3.2 Air Transportation
 Travelers should use the class of airline accommodations permitted in the
@@ -19535,12 +19534,12 @@ Management Division.
 Direct billing of airfare to the University by PTAs is recommended. This is also
 applied for all business travels including guest travels.
 29.3.2.3 Insurance
+Trip insurance, cancellation insurance: the cost for purchasing this insurance
+can be significant and should not be purchased on a regular basis for most
 Page 5 of 29
 ch29_travel –and-meetings_en_20180401_cl
 
-Trip insurance, cancellation insurance: the cost for purchasing this insurance
-can be significant and should not be purchased on a regular basis for most
-University travel. The cancellation insurance is not an allowable business travel
+University travel. The cancellation insurance is not an allowable business travel
 expense under this University’s travel policy. If the traveler believes that there
 is a relatively high probability that the trip may be cancelled due to
 circumstances beyond his/her control, it may be possible to obtain cancellation
@@ -19577,6 +19576,7 @@ accident.
 29.3.3.1 Rail, buses and commercial vessels
 When traveling by rail, bus or boat, the travel fare applicable depends upon the
 travelers’ situation and travel location. (Appendices & Table)[link: 26.9]
+
 Page 6 of 29
 ch29_travel –and-meetings_en_20180401_cl
 
