@@ -19015,27 +19015,23 @@ Reporting to funding agencies is usually done according to specific rules
 and forms. Budget Supervisors need to be aware that missing deadline
 or improper documentation may result in penalty such as
 disqualification for applying other funding or order to return the funds.
-27.11 Prohibition of self-approval
+
+27.6 Prohibition of self-approval
 Budget execution in cases in which the requester and the approver are the
 same person is not allowed under any circumstances in OIST. (Prohibition of
 self-approval)
-27.12
-
-Contacts
-
-27.12.1 Policy Owner
+27.7 Contacts
+27.7.1 Policy Owner
 Vice President for Financial Management
-27.12.2 Other Contacts
+27.7.2 Other Contacts
 Budget Section
 President Office
 COO Office
-Procurement Section
 Page 15 of 16
 ch27_budget-planning-execution-and-monitoring_en_20180401_cl
 
-27.13
-
-Definitions
+Procurement Section
+27.8 Definitions
 
 Page 16 of 16
 ch27_budget-planning-execution-and-monitoring_en_20180401_cl
