@@ -1259,8 +1259,8 @@ ch02_governance-organization_en_20180401_cl
 OIST Graduate University
 Policies, Rules & Procedures
 Authority:
- Approved by the President
- School Education Act
+⚫ Approved by the President
+⚫ School Education Act
 Chapter 3. Faculty Handbook
 3.1 Policy
 The OIST Graduate University Faculty Handbook describes policies governing
@@ -2222,7 +2222,7 @@ The management structure of the University is described in the Chapter 2
 and academic issues will be the Faculty Assembly (the “Assembly”). The
 Assembly will have an executive body, the Faculty Council (the “Council”). The
 Assembly and Council are described in sections 3.4.1 and 3.4.2, respectively.
-The administrative home of the members of the faculty will be the Dean for
+The administrative home of the members of the faculty will be the Dean of
 Faculty Affairs.
 The Dean of Research will lead the Research Support Division; administer
 common resources, shared equipment, grants and research computing;
@@ -2631,7 +2631,7 @@ programs.
 3.7.3.1 Requesting a Leave without Salary
 Leave without salary should be requested on a standard leave
 request form for review and approval by the Dean of the
-Graduate School and the Dean for Faculty Affairs.
+Graduate School and the Dean of Faculty Affairs.
 3.7.3.2 Review Criteria for Leave without Salary
 In deciding a request for leave without salary, consideration will
 be given to the faculty member’s teaching and other academic
@@ -2644,7 +2644,7 @@ extends the term of appointment by a period equal to the
 duration of the leave, unless there is advanced written
 agreement. This extension is not automatic and must be
 requested from and approved by the Dean of the Graduate
-School and Dean for Faculty Affairs.
+School and Dean of Faculty Affairs.
 3.7.3.4 Effect of Leave on Term of Research Support
 With a leave without salary the period of research support may
 be extended by a period up to the duration of the leave. The
@@ -2652,7 +2652,7 @@ be extended by a period up to the duration of the leave. The
 ch03_faculty-handbook_en_20180402_cl
 
 total funds committed are not increased. Extension of the
-period of research must be approved by the Dean for Faculty
+period of research must be approved by the Dean of Faculty
 Affairs.
 3.7.3.5 Period of Partial Leave without Salary
 Periods of partial leave without salary have the same effect on
@@ -2666,7 +2666,7 @@ partial salary supported by the University.
 3.7.4.1 Requesting a Period of Pure Research Leave
 Applications for periods of pure research should be requested on
 the regular leave form for review and approval by the Dean of
-the Graduate School and the Dean for Faculty Affairs.
+the Graduate School and the Dean of Faculty Affairs.
 3.7.4.2 Reviewing a Request for Period of Pure Research Leave
 In deciding a period of pure research leave request,
 consideration will be given to the faculty member’s teaching and
@@ -2691,7 +2691,7 @@ organization, or company provided that their educational, research and
 other activities in OIST are not affected and that there is no conflict with
 OIST PRPs, including intellectual property, research safety, animal care
 and use, human subjects or other relevant areas. Prior approval for
-external appointment or employment must be obtained from the Dean for
+external appointment or employment must be obtained from the Dean of
 Faculty Affairs in accordance with OIST Rules for External Professional
 Activities [link: ]. Such appointments or employment may not exceed 20%
 time. There must be disclosure of any financial interests.
@@ -2701,8 +2701,8 @@ ch03_faculty-handbook_en_20180402_cl
 3.9 Resolving Complaints and Disputes
 Procedures for resolving complaints and disputes are described in PRP
 Chapter 39 Resolving Complaints & Disputes. For complaints and
-disputes reported by faculty, the supervisor is the Dean for Faculty Affairs.
-The next level of management for the Dean for Faculty Affairs is the
+disputes reported by faculty, the supervisor is the Dean of Faculty Affairs.
+The next level of management for the Dean of Faculty Affairs is the
 CEO/President. For Committee Level Dispute Resolution, the
 CEO/President will appoint a Dispute Resolution Committee. For
 complaints and disputes reported by employees supervised by faculty, the
@@ -2737,8 +2737,8 @@ of one year from the time of notification.
 Procedures for taking disciplinary action in response to conduct that
 violates the OIST PRPs are described in PRP Chapter 38 Discipline, which
 covers all OIST employees. For discipline of faculty members the supervisor
-is the Dean for Faculty Affairs, and if this cannot be resolved satisfactorily,
-the Preside
+is the Dean of Faculty Affairs, and if this cannot be resolved satisfactorily,
+the President.
 
 31
 ch03_faculty-handbook_en_20180402_cl
