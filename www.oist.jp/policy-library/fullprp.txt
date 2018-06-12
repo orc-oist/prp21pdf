@@ -15861,24 +15861,22 @@ ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
 
 Policies, Rules and Procedures
 Authority:
- Approved by the President/CEO
- Whistleblower Protection Act
+⚫ Approved by the President/CEO
+⚫ Whistleblower Protection Act
 
 Chapter 23 Investigation and Determination of
 Misconduct & Whistleblower Protection
 23.1 Policy
-Misconduct [link: 23.7.6] subject to this Chapter includes any activity
-undertaken by anyone affiliated with OIST Graduate University (University),
-including, without limitation, officers, employees, students, vendors, and
-contractors that violates applicable Japanese legal or regulatory provisions, or
-violates Bylaws, University Rules, Policies, Rules, and Procedures (PRPs)
-(collectively, “non-compliance”) and misconduct in research activities by these
-people. The scope of non-compliance includes public research fund misuse.
-Besides this Chapter, the University’s Code of Conduct [link: 1.4] and Research
-Ethics, Compliance and Prevention of Conflict of Interest [link: 4.7], Operation
-and Management of Public Research [link: 4.11], Avoiding Conflicts of Interest
-and Commitment [link: 22], and Resolving Complaints & Disputes [link: 39]
-should be reviewed for additional guidance.
+Misconduct subject to this Chapter includes any activity undertaken by anyone
+affiliated with OIST Graduate University (University), including, without
+limitation, officers, employees, students, vendors, and contractors that violates
+applicable Japanese legal or regulatory provisions, or violates Bylaws,
+University Rules, Policies, Rules, and Procedures (PRPs) (collectively, “noncompliance”) and misconduct in research activities by these people. The scope
+of non-compliance includes public research fund misuse. Besides this Chapter,
+the University’s Code of Conduct and Research Ethics, Compliance and
+Prevention of Conflict of Interest, Operation and Management of Public
+Research, Avoiding Conflicts of Interest and Commitment, and Resolving
+Complaints & Disputes should be reviewed for additional guidance.
 All officers, employees and students, who are the members of the University,
 are responsible for maintaining the highest ethical standards. To protect the
 integrity of the University community, and to ensure the highest standards of
@@ -15894,12 +15892,12 @@ and employee), expulsion (students), cancellation of contractual relationship
 23.1.1 Whistleblower Protection Policy
 The University will not tolerate retaliatory action against any employee or
 student for making a good faith report of potential or suspected
-misconduct [link: 23.7.6]. Similarly, the University will not tolerate any
-direct or indirect use (or attempted use) of official authority or official
-influence [link: 23.7.7] for the purpose of interfering with the rights of an
-employee or a student to make a Protected Disclosure [link: 23.7.8].
+misconduct. Similarly, the University will not tolerate any direct or
+indirect use (or attempted use) of official authority or official influence for
+the purpose of interfering with the rights of an employee or a student to
+make a Protected Disclosure.
 1
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
 
 23.2 Rules
 23.2.1
@@ -15941,11 +15939,11 @@ Procedures for investigation of non-compliance are set forth in
 are set forth in 23.4.3, and procedures for investigation of Specified
 Research Misconduct are set forth in 23.4.4. For investigation of
 misconduct in research activities other than Specified Research
+Misconduct [link: 23.7.6.2.1] such as duplicate submissions and
 2
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
 
-Misconduct [link: 23.7.6.2.1] such as duplicate submissions and
-inappropriate authorship, 23.4.4 will apply mutatis mutandis to the
+inappropriate authorship, 23.4.4 will apply mutatis mutandis to the
 procedures as necessary.
 In addition, when the countermeasures to the relevant report are
 clearly provided in the PRP and other regulations, the said report
@@ -15954,15 +15952,13 @@ original contact point shall notify the reporter regarding the
 assignment to the relevant division/section.
 23.2.2.2 Any person subject to the concerned whistleblowing or
 has an interest in the investigated case shall not be involved in the
-investigation ; provided, however, this shall not apply if it is under
-exceptional circumstances.
+investigation.
 23.2.2.3 Results of investigation shall be reported to the
 President/CEO (and to the Board of Governors and Auditors, if there
 is any potentially serious non-compliance with legal or regulatory
 provisions). This report shall be made directly to the Board of
 Governors and Auditors, if the President/CEO has an interest in the
-concerned whistleblowing ; provided, however, this shall not apply
-if it is under exceptional circumstances.
+concerned whistleblowing.
 23.2.2.4 Also, a case brought to the University's attention by means
 other than a report, such as by a consultation without a clear
 indication or a willingness of making a report, or by media coverage
@@ -15976,27 +15972,27 @@ by a report.
 23.2.3.1 Any whistleblower who experiences retaliatory action for
 making a good faith report of potential or suspected misconduct, or
 who has been the subject of direct or indirect use or attempted use
-of official authority or official influence [link: 23.7.7] for the purpose
-of interfering with his or her right to make a Protected Disclosure
-[link: 23.7.8], may file a Retaliation Complaint [link: 23.7.9] to the
-Chief Operating Officer (hereinafter referred to as "COO").
-23.2.3.2 The Whistleblower Protection Policy [link: 23.1.1] shall
-apply to any retaliation complaint filed by whistleblowers, attempted
+of official authority or official influence for the purpose of interfering
+with his or her right to make a Protected Disclosure, may file a
+Retaliation Complaint to the Chief Operating Officer (hereinafter
+referred to as "COO").
+23.2.3.2 The Whistleblower Protection Policy shall apply to any
+retaliation complaint filed by whistleblowers, attempted
+whistleblowers or employees or members who have refused to obey
+an Illegal Order.
 3
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
 
-whistleblowers or employees or members who have refused to obey
-an Illegal Order [link: 23.7.5].
-23.2.3.3 The University will take whatever action is necessary to
+23.2.3.3 The University will take whatever action is necessary to
 prevent and correct violations of this Whistleblower Protection
 Policy, in accordance with applicable laws and regulations and
 University PRPs.
 23.2.3.4 The COO conducts an investigation to verify the facts and
 circumstances which constitute the cause of a specific Retaliation
 Complaint.
-23.2.4 Any individual who files a Groundless Report or Complaint
-[link: 23.7.4] is not subject to protection under the University’s
-Whistleblower Protection Policy [link: 23.1.1].
+23.2.4 Any individual who files a Groundless Report or Complaint is
+not subject to protection under the University’s Whistleblower Protection
+Policy.
 23.3 Responsibilities
 23.3.1 All Employees and Students
 All employees and students are required to report any non-compliance
@@ -16020,19 +16016,19 @@ fully inform employees and students that they have responsibility to
 report misconduct and where the contact points for reporting. Also, the
 President/CEO shall promptly review reported cases and draw a
 conclusion.
-23.3.3 Dean of Faculty Affairs and Provost
-The Dean of Faculty Affairs is the General Administrative Officer over the
+23.3.3 Dean of Research and Dean of Faculty Affairs
+The Dean of Research is the General Administrative Officer over the
+response and investigation of the public research fund misuse, and is a
+contact point for reporting the public research fund misuse. The Dean of
+Faculty Affairs is the General Administrative Officer over the response and
 4
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
 
-response and investigation of the public research fund misuse, and is a
-contact point for reporting the public research fund misuse. The Provost
-is the General Administrative Officer over the response and investigation
-of the misconduct in research activities, and is a contact point for
-reporting the misconduct in research activities. Also, under the
-instruction of the President/CEO, the Dean of Faculty Affairs and the
-Provost provide instructions to relevant departments and offices and
-makes inquiry to verify details of a reported case.
+investigation of the misconduct in research activities, and is a contact
+point for reporting the misconduct in research activities. Also, under the
+instruction of the President/CEO, the Dean of Research and the Dean of
+Faculty Affairs provide instructions to relevant departments and offices
+and makes inquiry to verify details of a reported case.
 23.3.4 COO
 The COO is a contact point for whistleblowing concerning any activity that
 violates Japanese laws or regulations, Bylaws, University Rules or PRPs
@@ -16056,34 +16052,36 @@ Procedures for Reporting Misconduct
 23.4.1.1 A report of misconduct may be made to a person who is a
 supervisor of the suspected person or a contact point listed below.
 Supervisors include the following people:
- When an employee is subject to the whistleblowing: A senior
+⚫ When an employee is subject to the whistleblowing: A senior
 employee in the employee's office or department;
- When a student is subject to the whistleblowing: The student's
+⚫ When a student is subject to the whistleblowing: The student's
 academic supervisor or the Dean of the Graduate School; and
- When a faculty member is subject to the whistleblowing: The
+⚫ When a faculty member is subject to the whistleblowing: The
 Dean of Faculty Affairs.
-Table 1: Contact points of report of misconduct
+
+5
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+Table 1: Contact points of report of misconduct
 Contact Points
 Internal
 
 Case Category
+(PRP 23.4.2)
 Non-compliance
 
 External
-Misconduct
-Report Hotline
 
 COO
+Compliance Section Manager
+Dean of Research
+Research Finance Manager
 
-5
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-Compliance Section Manager
-Dean of Faculty Affairs
-
+(PRP 23.4.3)
 Public research
 fund misuse
 
+(PRP 23.4.4)
 Misconduct in
 research
 activities
@@ -16095,23 +16093,18 @@ Collaborations Section Manager or the
 Business Development Section
 Manager.
 
-[Link:
 Misconduct
-Report
-Hotline]
+Report Hotline
 
-Provost
-Provost office
+Dean of Faculty Affairs
 
-*Conflicts of interest [Link: 22] may be reported to the COO or the
-Compliance Section Manager, and Harassment and Personnel
-Dispute [Link: 39] may be reported to the AVPHR or the RWAH
-Hotline [Link: TBP].
+*Conflicts of interest may be reported to the COO or the Compliance
+Section Manager, and Harassment and Personnel Dispute may be
+reported to the AVPHR or the RWAH Hotline.
 23.4.1.1.1 Whistleblowers may report suspected misconduct to
 the listed contact points by email, in writing, or by phone. It is
-recommended to use the Whistleblower Report [Link: 23.5.1] as
-much as possible in order to promptly implement the
-investigation.
+recommended to use the Whistleblower Report] as much as
+possible in order to promptly implement the investigation.
 23.4.1.1.2 As a basic rule, a report shall be made by identifying
 the name of the whistleblower, and only a report that describes
 details of the case, such as who has committed the suspected
@@ -16127,15 +16120,16 @@ the equivalent procedures for reports made by identified
 whistleblowers, taking account of the contents of the case.
 23.4.1.1.4 When a contact point has received a report
 concerning significant misconduct, it shall promptly notify
-thereof to the COO, the Dean of Faculty Affairs and the Provost.
+thereof to the COO, the Dean of Research or the Dean of Faculty
+6
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+Affairs.
 23.4.1.1.5 When the contact point finds that the University is
 not an entity to conduct investigation of the reported case, it will
 forward the report to an entity that is the investigatory
 organization. The University will handle any report of suspected
-6
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-misconduct being forwarded from another entity deeming that
+misconduct being forwarded from another entity deeming that
 the report has been made to the University. Also, in the case of
 the University finds that there is another entity that is in charge
 of the investigation besides the University, it notifies said
@@ -16151,7 +16145,7 @@ hereinafter).
 23.4.1.1.7 When a consultation contains such a description
 that misconduct is about to occur or a person is asked to commit
 misconduct, the contact point notifies the COO, the Dean of
-Faculty Affairs or the Provost.
+Research or the Dean of Faculty Affairs.
 23.4.1.2 When an illegal activity violating the Act on the Protection
 of Personal Information Held by Incorporated Administrative
 Agencies, Etc. has taken place or is about to take place, a report may
@@ -16167,15 +16161,15 @@ to conduct the Preliminary Investigation. When conducting the
 Preliminary Investigation, the COO will investigate the
 credibility, rationality and the purpose of the report, in addition
 to the credibility and rationality of conducting the Substantial
-Investigation, etc.
+7
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+Investigation, etc.
 23.4.2.1.2 The COO shall review the details of the report from
 the standpoint of credibility, rationality and the purpose of the
 report, in addition to the credibility and rationality of conducting
 the Substantial Investigation, etc. within 30 days from the
-7
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-official receipt of the report, and decide whether or not a
+official receipt of the report, and decide whether or not a
 Substantial Investigation is necessary. However, in case there is
 a legitimate reason, such as difficulty in administrative
 procedures, etc., the said period of 30 days may be extended to
@@ -16209,16 +16203,16 @@ hearing and/or other necessary cooperation.
 before making a determination, notify the respondent of the
 contents of the investigation to ask for the respondent's
 comments. The respondent may submit his/her comments to
-the Compliance Investigatory Committee within 30 days from
+8
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+the Compliance Investigatory Committee within 30 days from
 the date of notification of the contents of investigation under the
 preceding paragraph. In this case, when the Compliance
 Investigatory Committee has received comments or a response
 of “no comments” from the respondent, the Committee may
 make a determination even before the expiry of the 30-day
-8
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-period.
+period.
 23.4.2.3 Determination
 The Compliance Investigatory Committee shall make a
 determination as to whether or not there was non-compliance, based
@@ -16253,26 +16247,15 @@ investigation, and also, if any concerned person is to receive an
 adverse disposition, submit reports with additional descriptions
 including dispositions on the concerned persons, factors facilitated
 the misconduct and recurrence prevention measures to the Board of
-Governors, Auditors, the Funding Agency, Cabinet Office and the
+9
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+Governors, Auditors, the Funding Agency, Cabinet Office and the
 relevant ministries and agencies, within, unless otherwise specified,
 210 days from the official receipt of the report made by the
 whistleblower.
-23.4.2.6 Public
-
-Announcement
-
-of
-
-The
-
-Results
-
-of
-
-9
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-Investigation
+23.4.2.6 Public Announcement of The Results of
+Investigation
 When it was determined that there was non-compliance with legal
 or regulatory provisions, the President/CEO shall publicly announce
 the results of investigation promptly after the determination, unless
@@ -16290,29 +16273,29 @@ necessary.
 23.4.2.7.1 When a determination that misconduct took place
 has been made, the President/CEO will take an appropriate
 disciplinary action against a person determined to be involved in
-the misconduct in accordance with Chapter 38.
+the misconduct in accordance with Chapter 38 “Discipline”.
 23.4.2.7.2 When a report made by a whistleblower is
 determined to be bad faith, the President/CEO will take an
 appropriate disciplinary action against the whistleblower in
-accordance with Chapter 38.
+accordance with Chapter 38 “Discipline”.
 23.4.3 Procedures for Investigation of Public Research Fund
 Misuse
 23.4.3.1 Preliminary Investigation
 23.4.3.1.1 When the President/CEO finds that a reported case
 needs a Preliminary Investigation, he/she may have the Dean of
-Faculty Affairs to conduct the Preliminary Investigation. When
-the Dean of Faculty Affairs is instructed by the President/CEO
-to conduct the Preliminary Investigation, the Dean of Faculty
-Affairs will investigate the credibility and so on of the report, and
-will submit the results thereof to the President/CEO within 14
-days from the date of receipt of the instruction.
+Research to conduct the Preliminary Investigation. When the
+Dean of Research is instructed by the President/CEO to conduct
+the Preliminary Investigation, the Dean of Research will
+investigate the credibility and so on of the report, and will submit
+10
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+the results thereof to the President/CEO within 14 days from the
+date of receipt of the instruction.
 23.4.3.1.2 The President/CEO shall review the details of the
 report from the standpoint of rationality within 30 days from the
 official receipt of the report, decide whether or not a Substantial
-10
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-Investigation is necessary, and notify the Board of Governors,
+Investigation is necessary, and notify the Board of Governors,
 Auditors, the Funding Agency, the Cabinet Office and the
 relevant ministries and agencies of the decision when the
 decision is to conduct a Substantial Investigation. The
@@ -16326,18 +16309,18 @@ Investigation will not be conducted.
 23.4.3.2.1 The President/CEO shall, when the decision is to
 conduct a Substantial Investigation, promptly establish and
 cause a Public Research Fund Investigatory Committee to
-conduct factual investigation. The Dean of Faculty Affairs chairs
-the Public Research Fund Investigatory Committee, and
-convenes meetings on a case basis selecting persons whom the
-Dean of Faculty Affairs considers necessary from the people
-listed below. The Secretariat of the Public Research Fund
-Investigatory Committee is handled by the Office of the Dean of
-Faculty Affairs.
-(1) Dean of Faculty Affairs
+conduct factual investigation. The Dean of Research chairs the
+Public Research Fund Investigatory Committee, and convenes
+meetings on a case basis selecting persons whom the Dean of
+Faculty Affairs considers necessary from the people listed below.
+The Secretariat of the Public Research Fund Investigatory
+Committee is handled by the Office of the Dean of Research.
+(1) Dean of Research
 (2) General Counsel
 (3) COO
 (4) Vice President, Financial Management
-(5) Dean of Research
+(5) Dean of Faculty Affairs
+(6) Research Finance Manager
 (7) HR Management Section Leader
 (8) Compliance Section Leader
 (9) Accounting Section Leader
@@ -16346,33 +16329,33 @@ Faculty Affairs.
 (12) Other eligible persons whom the chairperson considers
 necessary
 23.4.3.2.2 The Public Research Fund Investigatory Committee
-will investigate whether there was public research fund misuse,
+11
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+will investigate whether there was public research fund misuse,
 what kind of misuse took place, who were involved in the alleged
 misuse and how deeply they were involved, what is an amount
 equivalent the misuse, etc. The Public Research Fund
 Investigatory Committee shall discuss the policy of the
 investigation and what and how to investigate before the
-11
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-commencement of the Substantial Investigation. The Public
+commencement of the Substantial Investigation. The Public
 Research Fund Investigatory Committee may request the
 respondent to submit relevant documents, make an attestation,
 respond to hearing and/or other necessary cooperation. In
 addition, the Public Research Fund Investigatory Committee
 may order the respondent not to use the public research funds
 subject to the investigation, if it deems necessary.
-23.4.3.2.3 The Public Research Fund Investigatory Committee
-shall, before making a determination, notify the respondent of
-the contents of the investigation to ask for the respondent's
-comments. The respondent may submit his/her comments to
-the Public Research Fund Investigatory Committee within 30
-days from the date of notification of the contents of investigation
-under the preceding paragraph. In this case, when the Public
-Research Fund Investigatory Committee has received comments
-or a response of “no comments” from the respondent, the
-Committee may make a determination even before the expiry of
-the 30-day period.
+23.4.3.2.3 The Public Research Fund Investigatory
+Committee shall, before making a determination, notify the
+respondent of the contents of the investigation to ask for the
+respondent's comments. The respondent may submit his/her
+comments to the Public Research Fund Investigatory Committee
+within 30 days from the date of notification of the contents of
+investigation under the preceding paragraph. In this case, when
+the Public Research Fund Investigatory Committee has received
+comments or a response of “no comments” from the respondent,
+the Committee may make a determination even before the expiry
+of the 30-day period.
 23.4.3.3 Determination
 The Public Research Fund Investigatory Committee shall make a
 determination as to whether there was public research fund misuse,
@@ -16389,16 +16372,16 @@ department or office of the results of the investigation, and also
 submit reports with additional descriptions including
 dispositions on the concerned persons, factors facilitated the
 misuse, information on mechanisms for managing and
-supervising public research funds which are other than those
+12
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+supervising public research funds which are other than those
 subject to the investigation and said concerned persons are
 involved in and recurrence prevention measures to the Board of
 Governors, Auditors, the Funding Agency, the Cabinet Office
 and the relevant ministries and agencies, within, unless
 otherwise specified, 210 days from the official receipt of the
-12
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-report made by the whistleblower. The President/CEO shall
+report made by the whistleblower. The President/CEO shall
 notify the respondent of the results of the investigation.
 23.4.3.4.2 The President/CEO shall, even when the
 investigation is on-going, when any parts of the facts of the
@@ -16433,25 +16416,14 @@ a decision on the appeal and notify the respondent and the Public
 Research Fund Investigatory Committee of the decision. When the
 President/CEO has decided not to conduct a re-investigation, he/she
 will notify the respondent and the Public Research Fund
-Investigatory Committee of the decision with a reason why the reinvestigation will not be conducted. The respondent may not further
+13
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+Investigatory Committee of the decision with a reason why the reinvestigation will not be conducted. The respondent may not further
 appeal against said decision on the appeal.
 
-23.4.3.6 Public
-
-Announcement
-
-of
-
-the
-
-Results
-
-of
-
-13
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-Investigation
+23.4.3.6 Public Announcement of the Results of
+Investigation
 When it was determined that there was misuse, the President/CEO
 shall publicly announce the results of investigation promptly after
 the determination, unless the President/CEO finds it necessary to
@@ -16468,7 +16440,7 @@ on-going, if it deems necessary.
 23.4.3.7.1 When a determination that misuse took place has
 been made, the President/CEO will take an appropriate
 disciplinary action against a person determined to be involved in
-the misuse in accordance with Chapter 38.
+the misuse in accordance with Chapter 38 “Discipline”.
 23.4.3.7.2 As a result of the reporting, if the President/CEO is
 ordered to refund the public research funds determined to be
 misused by the Funding Agency, the Cabinet Office or the
@@ -16476,12 +16448,7 @@ relevant ministries and agencies, the President/CEO may
 request the respondent to return the amount. If the misuse is
 serious such as misappropriation for a private purpose, legal
 measures may be taken, if it is deemed necessary.
-23.4.3.7.3 When
-no
-misuse
-was
-determined,
-the
+23.4.3.7.3 When no misuse was determined, the
 President/CEO may, based on the results notified under the
 preceding paragraph, take measures for preventing possible
 disadvantages on the whistleblower and the respondent, if it is
@@ -16489,24 +16456,25 @@ deemed necessary.
 23.4.3.7.4 When a report made by a whistleblower is
 determined to be bad faith, the President/CEO will take an
 appropriate disciplinary action against the whistleblower in
-accordance with Chapter 38.
+14
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+accordance with Chapter 38 “Discipline”.
 23.4.4 Procedures for Investigation of Specified Research
 Misconduct
 23.4.4.1 Preliminary Investigation
-14
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-A Preliminary Investigation is conducted in order to determine
+A Preliminary Investigation is conducted in order to determine
 whether or not an official Substantial Investigation is necessary, in
 accordance with the following guidelines:
-23.4.4.1.1 The Provost will, with members selected from
-following list based on the research field in question, promptly
-undertakes a Preliminary Investigation to evaluate the
-possibility that the alleged Specified Research Misconduct took
-place, credibility of the rationale provided as a scientifically
-reasonable ground of reporting, rationality of the contents of the
-reporting, whether or not an investigation is warranted and so
-on, while providing any and all reasonable and practical means.
+23.4.4.1.1 The Dean of Faculty Affairs will, with members
+selected from following list based on the research field in
+question, promptly undertakes a Preliminary Investigation to
+evaluate the possibility that the alleged Specified Research
+Misconduct took place, credibility of the rationale provided as a
+scientifically reasonable ground of reporting, rationality of the
+contents of the reporting, whether or not an investigation is
+warranted and so on, while providing any and all reasonable and
+practical means.
 (1)
 (2)
 (3)
@@ -16514,9 +16482,7 @@ on, while providing any and all reasonable and practical means.
 (5)
 (6)
 (7)
-(8)
 
-Provost
 Dean of Faculty Affairs
 General Counsel
 Dean of Research
@@ -16528,31 +16494,33 @@ considers necessary
 
 23.4.4.1.2 When conducting a Preliminary Investigation with
 respect to a manuscript which has been withdrawn before
-receiving the reporting, the Provost will, in the process of the
-Preliminary Investigation, also evaluate as to whether or not the
-case should be investigated in a Substantial Investigation as an
-issue of Specified Research Misconduct, taking account of such
-matters as how and why the manuscript was withdrawn and any
-other relevant situations, and make a decision whether to
-proceed with a further full-scale investigation.
-23.4.4.1.3 The Provost will confirm the source of funding which
-funds the research subject to the reporting. Budget Section, and
-Grants and Research Collaborations Section will provide a
-report on the source of funding to the Provost.
-23.4.4.1.4 The Provost will decide whether to conduct a
-Substantial Investigation within 30 days after the official receipt
-of the reporting and report to the President/CEO.
-23.4.4.1.5 When the decision is not to conduct a Substantial
-Investigation, the Provost shall notify the whistleblower of the
+receiving the reporting, the Dean of Faculty Affairs will, in the
+process of the Preliminary Investigation, also evaluate as to
+whether or not the case should be investigated in a Substantial
+Investigation as an issue of Specified Research Misconduct,
+taking account of such matters as how and why the manuscript
+was withdrawn and any other relevant situations, and make a
+decision whether to proceed with a further full-scale
+investigation.
+23.4.4.1.3 The Dean of Faculty Affairs will confirm the source
+of funding which funds the research subject to the reporting.
+Budget Section, and Grants and Research Collaborations Section
+will provide a report on the source of funding to the Dean of
 15
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
 
-decision and the reason why the Substantial Investigation will
-not be conducted. In this case, the Provost shall archive
-reference materials used in the Preliminary Investigation, and,
-upon request by the relevant Funding Agency, the Cabinet Office,
-the relevant ministries and agencies or the whistleblower,
-disclose these archived references.
+Faculty Affairs.
+23.4.4.1.4 The Dean of Faculty Affairs will decide whether to
+conduct a Substantial Investigation within 30 days after the
+official receipt of the reporting and report to the President/CEO.
+23.4.4.1.5 When the decision is not to conduct a Substantial
+Investigation, the Dean of Faculty Affairs shall notify the
+whistleblower of the decision and the reason why the Substantial
+Investigation will not be conducted. In this case, the Dean of
+Faculty Affairs shall archive reference materials used in the
+Preliminary Investigation, and, upon request by the relevant
+Funding Agency, the Cabinet Office, the relevant ministries and
+agencies or the whistleblower, disclose these archived references.
 23.4.4.1.6 A report of a Preliminary Investigation and relevant
 documents will be archived for 7 years at the University.
 23.4.4.2 Substantial Investigation
@@ -16560,12 +16528,13 @@ documents will be archived for 7 years at the University.
 i)
 A Substantial Investigation is carried out by the Committee
 to Promote the Responsible Conduct of Research (hereinafter,
-“CPR”). The Provost chairs the CPR, and convenes meetings on
-a case bases selecting persons whom the Provost considers
-necessary from the people listed below. Internal Faculty
-members and external members are selected by the Provost
-based on the research field in question. The Secretariat of the
-CPR is handled by the Provost Office.
+“CPR”). The Dean of Faculty Affairs chairs the CPR, and
+convenes meetings on a case bases selecting persons whom the
+Dean of Faculty Affairs considers necessary from the people
+listed below. Internal Faculty members and external members
+are selected by the Dean of Faculty Affairs based on the research
+field in question. The Secretariat of the CPR is handled by the
+Office of Dean of Faculty Affairs.
 (1)
 (2)
 (3)
@@ -16573,9 +16542,7 @@ CPR is handled by the Provost Office.
 (5)
 (6)
 (7)
-(8)
 
-Provost
 Dean of Faculty Affairs
 General Counsel
 Dean of Research
@@ -16589,7 +16556,10 @@ When a decision to carry out a Substantial Investigation has
 been made, the President/CEO will notify in writing the
 whistleblower and the respondent that the Substantial
 Investigation will be carried out and ask them to cooperate with
-the investigation. When the respondent belongs to an entity
+16
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+the investigation. When the respondent belongs to an entity
 other than the University, the notice will also be given to said
 entity. The chairperson will, when it has established the CPR,
 provide the whistleblower and the respondent with a list of
@@ -16597,10 +16567,7 @@ committee members identifying their organizations. In response
 thereto the whistleblower and the respondent may file an
 opposition within 7 days after he/she received said notification.
 In the case where an opposition is filed, the chairperson will
-16
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-review the contents of the opposition, and if the chairperson
+review the contents of the opposition, and if the chairperson
 finds the opposition is reasonable, it will replace the committee
 member(s) objected in the opposition and notify the
 complainant and the respondent of the replacement. In carrying
@@ -16609,9 +16576,10 @@ used so that, unless the whistleblower agrees to the contrary, the
 whistleblower cannot be identified by the respondent or a person
 other than the persons working in the investigation.
 ii)
-The Provost notifies the Board of Governors, Auditors, the
-Funding Agency, the Cabinet Office and the relevant ministries
-and agencies that it will carry out a Substantial Investigation.
+The Dean of Faculty Affairs notifies the President/CEO,
+the Board of Governors, Auditors, the Funding Agency, the
+Cabinet Office and the relevant ministries and agencies that it
+will carry out a Substantial Investigation.
 iii) A Substantial Investigation shall be commenced no later
 than 30 days after the decision to conduct the Substantial
 Investigation.
@@ -16633,7 +16601,10 @@ such experiment and the CPR finds it necessary, the
 reproduction of the same experiment will be carried out within
 the extent that the CPR finds it reasonably necessary taking
 account of a necessary period and opportunity (including
-equipment, costs, and other relevant matters). In doing so,
+17
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+equipment, costs, and other relevant matters). In doing so,
 guidance and supervision provided by the CPR will be followed.
 iii) With respect to the Substantial Investigation, the CPR may
 request other entities to conduct a necessary investigation.
@@ -16641,10 +16612,7 @@ iv) With respect to the preceding three paragraphs, the CPR
 has the power to require concerned persons to submit reference
 materials, appear in hearings and conduct reproduction of the
 same experiment, and require the University to pay costs
-17
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-reasonably necessary for the procedures. Also, concerned
+reasonably necessary for the procedures. Also, concerned
 persons including the whistleblower and the respondent shall
 cooperate with the investigation carried out by the CPR based on
 said delegated power in good faith.
@@ -16653,7 +16621,7 @@ In addition to the research activities in question, other research
 activities which involve the respondent and are relevant to the
 investigation may be subject to investigation at the discretion of
 the CPR.
-23.4.4.2.4Measures for Preserving Evidence
+23.4.4.2.4 Measures for Preserving Evidence
 In order to carry out a Substantial Investigation, the CPR will
 take measures for preserving reference materials which may be
 used as evidence for the research activities in question. In this
@@ -16672,9 +16640,17 @@ President/CEO will submit a mid-term investigation report to
 the Funding Agency, the Cabinet Office or the relevant ministries
 and agencies even before the completion of the investigation,
 and it will be reported to Auditors.
-23.4.4.2.6 Protection of Research or Technical
+23.4.4.2.6 Protection of Research
 Information Subject to Investigation
-In carrying out investigation, a special care shall be used so that
+
+or
+
+Technical
+
+18
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+In carrying out investigation, a special care shall be used so that
 research or technical information subject to investigation such
 as data and manuscripts before publication will not be disclosed
 beyond the extent that is just necessary for carrying out the
@@ -16683,10 +16659,7 @@ respondents, if it has been found that they were not collectively
 involved in the alleged misconduct, investigation reports may be
 prepared individually for these respondents, for the sake of
 maintaining confidentiality.
-18
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-23.4.4.3 Determination
+23.4.4.3 Determination
 23.4.4.3.1 Determination
 i)
 The CPR will complete documentation of the results of the
@@ -16717,7 +16690,10 @@ question, the respondent shall explain, under his/her own
 responsibility, that the research activities have been carried out
 in accordance with scientifically appropriate methods and
 procedures, and the papers have been written based thereon
-using appropriate expressions, presenting scientific evidence
+19
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+using appropriate expressions, presenting scientific evidence
 that supports his/her explanation.
 23.4.4.3.3 Determination Whether or Not Specified
 Research Misconduct Took Place
@@ -16727,10 +16703,7 @@ respondent under the preceding paragraph and makes
 comprehensive evaluation of all evidence obtained by the
 investigation including physical or scientific evidence,
 testimonies and self-admission of the respondent, to determine
-19
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-whether or not Specified Research Misconduct took place.
+whether or not Specified Research Misconduct took place.
 Credibility of evidence is determined by the evaluation of the
 CPR, but, to determine factual basis of the misconduct and
 intentionality, it is important to take account of various aspects
@@ -16762,29 +16735,18 @@ specified by OIST Guidelines on Research Data and Laboratory
 Notebooks [link: TBP] or the research institution that the
 respondent belonged to when he/she was carrying out the
 alleged research activities.
-iii) Specific standard of proof regarding the preceding two
+20
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+iii) Specific standard of proof regarding the preceding two
 paragraphs and basic elements which should normally exist in
 research activities as mentioned in the preceding paragraph are
 determined by the CPR taking account of the characteristics of
 the relevant research field.
 iv) A report of a Substantial Investigation and relevant
 documents will be archived for 7 years at the University.
-23.4.4.3.4 Notifying
-
-and
-
-Reporting
-
-of
-
-Results
-
-of
-
-20
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-Investigation
+23.4.4.3.4 Notifying and Reporting of Results of
+Investigation
 i)
 The President/CEO will promptly notify the whistleblower
 and the respondent (including those who are other than the
@@ -16817,7 +16779,10 @@ proceedings initiated by the respondent; the provision of
 “23.4.4.3.3 Determination Whether or Not Specified Research
 Misconduct Took Place” above will apply mutatis mutandis to
 the determination in this case) whose reporting has been
-determined to be bad faith may file an appeal, by applying
+21
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+determined to be bad faith may file an appeal, by applying
 mutatis mutandis the preceding paragraph.
 iii) Review in the appeal proceedings will be handled by the
 CPR. In doing so, if claims of the appeal may require a new
@@ -16827,10 +16792,7 @@ another body in place of the CPR. However, this does not apply
 to the case where the President/CEO finds there is no reasonable
 ground for requiring a change of the members of the CPR with
 respect to said appeal proceedings.
-21
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-iv) With respect to the appeal proceedings initiated by the
+iv) With respect to the appeal proceedings initiated by the
 respondent in the case being determined that Specified Research
 Misconduct took place, the CPR (including those in place of the
 CPR according to (iii) above; the same applies hereinafter in
@@ -16862,7 +16824,10 @@ In addition, the President /CEO will report the relevant Funding
 Agency, the Cabinet Office, the relevant ministries and agencies
 thereof and Auditors. The same applies to the case where it has
 decided to dismiss the appeal or to carry out re-investigation.
-vi) When the CPR has started re-investigation, it will decide,
+22
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+vi) When the CPR has started re-investigation, it will decide,
 within a period of 50 days, whether or not it will overturn the
 conclusion of the earlier investigation, and immediately report
 the President/CEO of the decision, and then, the President/CEO
@@ -16871,10 +16836,7 @@ respondent belongs to and the whistleblower. In addition, the
 President/CEO will report the same to the relevant Funding
 Agency, the Cabinet Office, the relevant ministries and agencies
 and Auditors.
-22
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-vii) Upon receipt of an appeal from the whistleblower of the
+vii) Upon receipt of an appeal from the whistleblower of the
 reporting being determined to be bad faith as provided in (ii)
 above, the President/CEO will notify the entity that the
 whistleblower belongs to and the respondent thereof. In
@@ -16906,7 +16868,10 @@ investigation. However, it will make public the results of the
 investigation if information of the case under investigation has
 been divulged outside the University or if an unintentional
 mistake was found in a research paper. When it has been
-determined that the reporting was bad faith, the results of the
+23
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+determined that the reporting was bad faith, the results of the
 investigation will be made public.
 iii) When information of an investigated case has been
 divulged and become known to a person other than those in
@@ -16916,10 +16881,7 @@ that the whistleblower and the respondent give consent to do so.
 However, if the divulgence of information is due to a cause
 attributable to the whistleblower or the respondent, consent of
 the person is not necessary.
-23
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-23.4.4.3.7 Measures
+23.4.4.3.7 Measures
 for
 Whistleblowers
 and
@@ -16927,28 +16889,25 @@ Respondents
 i)
 When it has been determined that Specified Research
 Misconduct took place, the President/CEO will take appropriate
-measures in accordance with Chapter 38 “Disciplinary Actions”
-[link: 38] for the person determined to be involved in the
-Specified Research Misconduct or a person who is not
-determined to be involved therein but determined to be
-responsible for the contents of a paper relating to the determined
-Specified Research Misconduct as its author (hereinafter,
-“determined person”) and recommend the determined person to
-withdraw the paper or the like being determined to be Specified
-Research Misconduct.
+measures in accordance with Chapter 38 “Discipline” for the
+person determined to be involved in the Specified Research
+Misconduct or a person who is not determined to be involved
+therein but determined to be responsible for the contents of a
+paper relating to the determined Specified Research Misconduct
+as its author (hereinafter, “determined person”) and recommend
+the determined person to withdraw the paper or the like being
+determined to be Specified Research Misconduct.
 ii)
 When a reporting has been determined to be bad faith, the
 President/CEO will take appropriate measures against the
-whistleblower in accordance with the Chapter 38 “Disciple”
-[link:38].
+whistleblower in accordance with the Chapter 38 “Discipline”.
 iii) No one shall partially or totally prohibit the respondent
 from carrying out research activities, nor fire, demote, pay cut
 nor give any other disadvantageous treatment on the respondent,
 simply based on the fact that the person has been accused in the
 reporting without substantial reason.
-23.4.4.3.8Refund of Competitive Research Funding
-and
-Application for Grant and Qualification of
+23.4.4.3.8 Refund of Competitive Research Funding
+and Application for Grant and Qualification of
 Applicants
 i)
 Subsequently to the determination of Specified Research
@@ -16956,7 +16915,10 @@ Misconduct, if the Funding Agency requests to refund a part or
 all of the granted competitive research funding, the determined
 person and the University will respond to the request in good
 faith.
-ii)
+24
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+ii)
 The determined person may be subject to restrictions on
 submitting an application for grant of competitive research
 funding, and on participating in granted projects. The Grants
@@ -16966,10 +16928,8 @@ processing of applications.
 23.4.5
 
 How to Submit A Retaliation Complaint to the COO
-24
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
 
-23.4.5.1 A Retaliation Complaint shall be submitted to the COO as
+23.4.5.1 A Retaliation Complaint shall be submitted to the COO as
 promptly as possible after experiencing a suspicious action or
 interference or a likelihood of retaliation.
 23.4.5.2 Requirements and Criteria for Making Complaint
@@ -16985,31 +16945,30 @@ ii) The complainant was under the influence of threatening, coercion
 or order not to make a report, or gave up making a report due to
 threatening; or
 iii) The complainant rejected to obey an Illegal Order.
-23.4.5.3 The provisions of the investigation regarding noncompliance [link: 23.4.2] apply mutatis mutandis to the
-investigation regarding Retaliation Complaint.
+23.4.5.3 The provisions of the investigation regarding noncompliance apply mutatis mutandis to the investigation regarding
+Retaliation Complaint.
 23.5 Forms
 23.5.1 Whistleblower Report
 23.6 Contacts
 23.6.1 Policy Owner
 COO
+Dean of Research
 Dean of Faculty Affairs
-Provost
+
 23.6.2 Other Contacts
-The Office of Dean of Faculty Affairs
-The office of the Provost
+The Office of Dean of Research
+25
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+The Office of Dean of Faculty Affairs
 Compliance Section
 Grants and Research Collaborations Section
 Business Development Section
 Occupational Health and Safety Section
 
 23.7 Definitions
-23.7.1
-
-Funding Agency
-25
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-It means an agency that distributes grants or provides measures through
+23.7.1 Funding Agency
+It means an agency that distributes grants or provides measures through
 competitive research funding or other open-recruitment type research
 funding.
 23.7.2 Preliminary Investigation
@@ -17031,24 +16990,24 @@ such conduct.
 23.7.5 Illegal Order
 Any directive to violate or to assist in violating any applicable Japanese
 and local legal or regulatory provisions, or to violate or to assist in
-violating University policies, rules and procedures.
+violating University Policies, Rules and Procedures (PRPs).
 23.7.6 Misconduct
 It means any activity undertaken by anyone affiliated with OIST Graduate
 University (University), including, without limitation, officers, employees,
 students, vendors, that violates any applicable Japanese legal or
 regulatory provisions, or violates Bylaws, University Rules, Policies, Rules,
 and Procedures (PRPs), (collectively, “non-compliance”), and misconduct
-in research activities by these people. The scope of non-compliance
+26
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+in research activities by these people. The scope of non-compliance
 includes public research fund misuse.
 23.7.6.1 Non-compliance
 It means any activity that contradicts with applicable Japanese legal
-or regulatory provisions or with Bylaws, University Rules, Rules or
-the PRPs.
+or regulatory provisions or with Bylaws, University Rules or the
+PRPs.
 23.7.6.1.1 Public Research Fund Misuse
-26
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-It means any activity that violates the University's internal rules
+It means any activity that violates the University's internal rules
 or Japanese legal or regulatory provisions by submitting falsified
 documentation for disbursement claim, such as obtaining
 deposit money taking advantage of a relationship with a vendor
@@ -17080,7 +17039,10 @@ etc.
 equipment or processes, or changing data or results being
 obtained from research activities such that the research is not
 accurately represented.
-(iii) Plagiarism: It is the appropriation of another
+27
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+
+(iii) Plagiarism: It is the appropriation of another
 researcher's ideas, analysis processes, data, results, manuscripts
 or words without obtaining consent from the researcher or
 giving appropriate credit.
@@ -17088,10 +17050,7 @@ In addition, misconduct in research activities are not limited to
 those fall under the Specified Research Misconduct.
 23.7.7 Use of Official Authority or Official influence
 It means to give an order, proposal, treatment or approval to give benefits
-27
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
-
-or make a promise to give benefits, exercise retaliation or make a threat to
+or make a promise to give benefits, exercise retaliation or make a threat to
 retaliate, take personnel measures (including, but not limited to,
 appointment, promotion, relocation, selection, performance appraisal,
 suspension and other disciplinary actions) or an order, proposal,
@@ -17109,7 +17068,7 @@ that the contents of the complaint are true or a statement that the
 complainant believes that the contents of the complaint are true.
 
 28
-ch23_misconduct-and-whistleblower-protection_en_20180401_cl
+ch23_misconduct-and-whistleblower-protection_en_20180605_cl
 
 OIST Graduate University
 Policies, Rules and Procedures
