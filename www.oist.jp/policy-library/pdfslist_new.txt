@@ -36,6 +36,6 @@ https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch35_benefits_
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/CH36%EF%BC%BFPerformance_Evaluation_en_20161102_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/CH37_Leaving_the_University_en_20161102_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/CH38_Discipline_en_20161102_cl.pdf
-https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch39_resolving-complaints-%26-disputes_en_20180401_cl.pdf
+https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch39_resolving-complaints-%26-disputes_en_20180601_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/CH40_Staff_Development_and_Awards_en_20161102_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/CH41_Workplace_Health_and_safety_en_20161102_cl.pdf

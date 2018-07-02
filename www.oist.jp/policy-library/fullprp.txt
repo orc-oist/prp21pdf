@@ -22803,10 +22803,10 @@ The OIST Graduate University (University or OIST, as applicable) has procedures
 in place that provide employees with the following review processes for resolving
 complaints about inappropriate treatment or actions.
 39.1.1 For disputes or allegations relating to Respectful Workplace Policy
-[link: 1.3.2] violations, every employee is entitled to use the external hotline
-to reach OIST-designated outside independent mediators who provide
-external consultation and reporting services. Alternatively, every employee
-can directly consult the Vice President for Gender Equality and Human
+violations, every employee is entitled to use the external hotline to reach
+OIST-designated outside independent mediators who provide external
+consultation and reporting services. Alternatively, every employee can
+directly consult the Vice President for Gender Equality and Human
 Resource Development (VPGEHR) [link:39.4.3].
 39.1.2 Cases where the main issue is academic, scientific, or research
 misconduct or non-compliance are managed by the Dean of Faculty Affairs
@@ -22823,7 +22823,8 @@ steps for resolution, provided, however, that every employee should attempt
 to solve disputes in accordance with the procedures provided for in 39.6.1.
 39.2 Policy for Students
 1
-ch39_resolving-complaints-&-disputes_en_20180401_cl
+
+ch39_resolving-complaints-&-disputes_en_20180601_cl
 
 OIST has procedures in place that provide students with systematic review
 processes for resolving both non-harassment and harassment issues. Students
@@ -22839,17 +22840,17 @@ during their working hours.
 39.4 Anti-Harassment and Anti-Bullying Policy
 The University is committed to creating and maintaining a safe and respectful
 environment in which all officers, employees, students, and visitors are treated
-with dignity and respect, in accordance with the Respectful Workplace Policy [link:
-1.3.2]. The University will not tolerate disrespectful communication,
-discrimination, harassment, or bullying in any form.
+with dignity and respect, in accordance with the Respectful Workplace Policy. The
+University will not tolerate disrespectful communication, discrimination,
+harassment, or bullying in any form.
 39.4.1 The University will take all disputes and harassment complaints
 seriously and handle them in confidence. When a dispute or an act of
 harassment is established, the University will take remedial measures and
 appropriate corrective actions.
 39.4.2 If an OIST officer, employee, student, or exchange visitor feels that
 he or she is a victim of, or has witnessed, a violation of the Respectful
-Workplace Policy [link: 1.3.2], or feels that he or she is the victim of sexual,
-power, academic harassment, or other harassment, that individual should
+Workplace Policy, or feels that he or she is the victim of sexual, power,
+academic harassment, or other harassment, that individual should
 immediately consider taking action to inform the University of the situation.
 39.4.3 To report such disputes or incidents of harassment, employees
 should contact either the confidential external Respectful Workplace and
@@ -22858,13 +22859,14 @@ President for Gender Equality and Human Resource Development
 (VPGEHR) [link: 39.6.2.3].
 39.5 The University will not tolerate retaliatory action against any employee or
 student for making a good faith report of disputes or incidents of harassment based
-on 39.4.2[link: 39.4.2] and 39.4.3[link: 39.4.3] or 39.2[link: 39.2] . Similarly, the
-University will not tolerate any direct or indirect use (or attempted use) of official
+on 39.4.2 and 39.4.3 or 39.2. Similarly, the University will not tolerate any direct
+or indirect use (or attempted use) of official authority or official influence for the
 2
-ch39_resolving-complaints-&-disputes_en_20180401_cl
 
-authority or official influence for the purpose of interfering with the rights of a
-student or an employee making a protected disclosure.
+ch39_resolving-complaints-&-disputes_en_20180601_cl
+
+purpose of interfering with the rights of a student or an employee making a
+protected disclosure.
 39.6 Rules
 39.6.1 Non-harassment Dispute Resolution Procedures
 39.6.1.1 Eligibility. All University employees are eligible to seek
@@ -22900,12 +22902,13 @@ to
 make
 a
 claim:
-RWAH.HRcontact@oist.jp. VPGEHR or a HR staff
+RWAH.HR@oist.jp. VPGEHR or a HR staff designated
 3
-ch39_resolving-complaints-&-disputes_en_20180401_cl
 
-designated by VPGEHR will contact the person within
-2 working days.
+ch39_resolving-complaints-&-disputes_en_20180601_cl
+
+by VPGEHR will contact the person within 2 working
+days.
 39.6.1.3.2 Once it is determined that the complaint is
 appropriately filed, the VPGEHR must facilitate
 communication about the dispute between the claimant and
@@ -22939,7 +22942,8 @@ additional time is needed to complete the review, the period
 may be extended for additional 20 working days.
 
 4
-ch39_resolving-complaints-&-disputes_en_20180401_cl
+
+ch39_resolving-complaints-&-disputes_en_20180601_cl
 
 39.6.1.4.4 The DRC’s report and the recommendation must be
 submitted to the COO. The COO is responsible to determine
@@ -22969,13 +22973,14 @@ trained professional mediators who can provide consultation, and if
 necessary report the matter to the University to seek a resolution of
 the situation. The claimant can choose which mediator to contact
 within the hotline.
-Hotline in English: 080-6495-7196
-Hotline in Japanese: 080-6495-7197
+Hotline in English: 050-5236-2375
+Hotline in Japanese: 050-5236-2376
 Since the mediators of the RWAH hotline may not immediately be
 available to answer the call, voice mail is provided, and they will call
 back, in general, within 2 working days of the call.
 5
-ch39_resolving-complaints-&-disputes_en_20180401_cl
+
+ch39_resolving-complaints-&-disputes_en_20180601_cl
 
 The mediators may also be contacted by email at
 oistmediators@yahoo.co.jp, which reaches the mediators
@@ -23020,7 +23025,8 @@ illegal action (such as an assault, sexual or otherwise) or
 present an imminent risk to the safety or health of the
 claimant or others at the University, the mediator may
 6
-ch39_resolving-complaints-&-disputes_en_20180401_cl
+
+ch39_resolving-complaints-&-disputes_en_20180601_cl
 
 immediately inform the COO and VPGEHR even without the
 consent of the claimant.
@@ -23057,12 +23063,13 @@ to
 make
 a
 claim:
-[RWAH.HRcontact@oist.jp]. VPGEHR or a HR staff
+[RWAH.HR@oist.jp]. VPGEHR or a HR staff
 designated by VPGEHR will contact the person within
 2 working days.
 39.6.2.3.2 The VPGEHR conducts an initial investigation and
 7
-ch39_resolving-complaints-&-disputes_en_20180401_cl
+
+ch39_resolving-complaints-&-disputes_en_20180601_cl
 
 attempts to resolve the complaint. This investigation is
 carried out informally and confidentially, and in close
@@ -23101,18 +23108,22 @@ against a Member of the Executive including Deans,
 regardless of the nature of the allegations, the VPGEHR will
 report directly to the President.
 8
-ch39_resolving-complaints-&-disputes_en_20180401_cl
+
+ch39_resolving-complaints-&-disputes_en_20180601_cl
 
 39.6.2.4 Executive Committee Level Harassment Dispute
 Resolution
 39.6.2.4.1 A problem that has not been resolved at the HR
-level may be brought to the Executive Committee level. The
-request must be submitted, in writing, by the claimant to the
-VPGEHR for review and investigation by a Harassment
-Dispute Resolution Committee (HRC).
-39.6.2.4.1.1 The COO will appoint at least 3 members
-to a HRC for each case. The COO will appoint the HRC
-chair. The HRC members may include external experts.
+level or GS level (PRP5.12.2.1) may be brought to the
+Executive Committee level. The request must be submitted, in
+writing, by the claimant to the VPGEHR or Dean of the
+Graduate School for review and investigation by a
+Harassment Dispute Resolution Committee (HRC).
+39.6.2.4.1.1 The COO (in case of employees) or Provost
+(in case of graduate students) will appoint at least 3
+members to a HRC for each case. The COO or Provost
+will appoint the HRC chair. The HRC members may
+include external experts.
 39.6.2.4.2 The HRC must be formed and convened to review
 the dispute within 15 working days after receipt of the written
 request. If additional time is needed to convene the HRC, the
@@ -23134,13 +23145,13 @@ additional 40 days.
 concurrence of the President. Once the final decision has been
 implemented, the COO must notify in writing the claimant
 that the case is closed. Due to privacy considerations, in some
-cases, the claimant may only be notified that the matter has
-been closed, without receiving any details of the outcome.
-
 9
-ch39_resolving-complaints-&-disputes_en_20180401_cl
 
-39.7 Responsibilities
+ch39_resolving-complaints-&-disputes_en_20180601_cl
+
+cases, the claimant may only be notified that the matter has
+been closed, without receiving any details of the outcome.
+39.7 Responsibilities
 39.7.1 Employees
 Employees must attempt to solve disputes in accordance with the
 procedures provided in this chapter.
@@ -23170,12 +23181,13 @@ Vice President for Gender Equality and Human Resource Development
 Mediators of the RWAH hotline
 Employee Relation Specialist
 39.9 Definitions
-39.9.1 Employees
-Employees, Fellows, External Researchers, and Personnel from Staff
 10
-ch39_resolving-complaints-&-disputes_en_20180401_cl
 
-Agencies.
+ch39_resolving-complaints-&-disputes_en_20180601_cl
+
+39.9.1 Employees
+Employees, Fellows, External Researchers, and Personnel from Staff
+Agencies.
 39.9.2 Bullying
 Bullying is any ongoing antisocial or unreasonable actions that offends,
 degrades, intimidates, or humiliates a reasonable person, and has the
@@ -23204,7 +23216,8 @@ degrades, intimidates, or humiliates a reasonable person, and has the
 potential to create a risk to health, safety, or wellbeing.
 
 11
-ch39_resolving-complaints-&-disputes_en_20180401_cl
+
+ch39_resolving-complaints-&-disputes_en_20180601_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
