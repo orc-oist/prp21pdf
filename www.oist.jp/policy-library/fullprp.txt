@@ -1290,19 +1290,44 @@ community. The full-time faculty will be composed of Professors,
 Associate Professors and Assistant Professors, all of whom have
 independent research programs, teach in the Graduate University,
 and supervise doctoral research.
-In addition to the full-time faculty members, the faculty will include
-Adjunct, Visiting, Distinguished and Emeritus Professors. Adjunct
-Professors will generally have external appointments in other
-universities, but will have laboratory resources at the University and
-will spend significant amounts of time (up to 50% full-time
-equivalent) at the University. Adjunct Professors will contribute by
-directing or assisting in teaching University courses, contributing to
-University international workshops, and participating in research.
+In addition to the full-time appointments, adjunct
+faculty appointments may be made to fill special needs that cannot
+be filled at the time with a full-time appointment. Adjunct
+appointments may be made in connection with collaborative
+research project or external research project. Adjunct
+appointments also may be made during transition periods for
+incoming professors before they can begin full-time work at OIST,
 1
-ch03_faculty-handbook_en_20180402_cl
+ch03_faculty-handbook_en_20180608_cl
 
-Adjunct faculty members will not be primary Thesis Supervisors but
-may serve on Thesis Committees.
+and for outgoing professors to complete ongoing research and
+educational supervision.
+Appointments of Adjunct faculty at OIST are exceptional. They do
+not constitute a customary or required element of the faculty. The
+total number of Adjunct appointments should not exceed ~10% of
+the full-time faculty, excluding those in transition. Adjunct
+appointments are for a fixed term not exceeding five years and in
+general under a non-employee relationship, not exceeding 25%-time
+commitment. Adjunct faculty members will have research units
+with reduced resources in proportion to the scale of their
+appointment. Adjunct Faculty are eligible to and encouraged to
+seek additional, external funding.
+An appointment of an Adjunct Professor may be proposed by the
+President, the Deans, or the Chair of the Faculty Assembly. Upon
+approval by the President, a Search Committee is formed and a
+recruiting process is initiated.
+The approved candidate consults with the Dean of the Graduate
+School and the Dean of Faculty Affairs to prepare a plan for research,
+teaching, and academic service with appropriate scope and content.
+The application will be reviewed according to standard procedures
+described in PRP 3.2.4. The criteria for appointment are described
+in PRP 3.2.4.3(d). Based on the recommendation of the Search
+Committee, the President makes a final decision on the appointment.
+With approval of the President, Adjunct appointments may be
+renewed.
+Review of Adjunct faculty units will follow the standard unit review
+process [link: PRP 3.2.4.5] and will be completed by the end of the
+penultimate year of the appointment.
 Visiting Professors and Sabbatical Visitors (link to Procedure for
 Applying for a Sabbatical Visitor) will have external appointments in
 other universities. They will not have independent laboratory
@@ -1319,7 +1344,10 @@ The definition of Emeritus Professor is stipulated in 3.3.1.
 3.2.2 Faculty Teaching Assignment
 The University is dedicated to excellence in research and education.
 Access to opportunities to develop and coordinate a course is
-important for the professional development of faculty members
+2
+ch03_faculty-handbook_en_20180608_cl
+
+important for the professional development of faculty members
 because scholarship and teaching are the primary factors in
 evaluation for promotion and tenure. While the quality of teaching is
 paramount an evenly distributed teaching load is also important to
@@ -1342,11 +1370,7 @@ pro rata. For example, the two credits could be achieved by coteaching two cours
 proportional to their time commitment to the University. For
 example, an adjunct faculty member with 50% commitment to the
 University is expected to contribute one-credit.
-
-2
-ch03_faculty-handbook_en_20180402_cl
-
-3. The credit loading may be amortized over two years provided the
+3. The credit loading may be amortized over two years provided the
 overall teaching commitment of the University in any given year is
 realized.
 4. Faculty members are encouraged to go beyond minimum
@@ -1365,7 +1389,10 @@ lectures by visiting faculty are welcome but require prior approval by
 the Dean of the Graduate School, based on confirmation that the
 teaching content and methods will fulfill the course objectives.
 Applications must be submitted at least one month prior to the
-scheduled teaching on form [link: TBD].
+3
+ch03_faculty-handbook_en_20180608_cl
+
+scheduled teaching on form [link: TBD].
 6. With the agreement of the Deans of the Graduate School and
 Faculty Affairs, non-faculty researchers (Postdoctoral Scholars, Staff
 Scientists, Research Specialists and Science and Technology
@@ -1380,7 +1407,7 @@ University faculty member is present for the scheduled teaching
 hours to provide mentoring and quality control; this should not be
 used to replace faculty in teaching. Measures of performance of nonfaculty researchers may include the contribution to teaching. Non
 faculty members wishing to teach should consult the relevant section
-of the Graduate School Handbook [link: ].
+of the Graduate School Handbook.
 7. Other teaching and administrative responsibilities do not offset the
 baseline
 faculty
@@ -1389,15 +1416,12 @@ expectation.
 Other
 teaching
 responsibilities include service as Academic Mentors, on
-Committees including the Admissions Committee [link: 5.10.1] and
-the Curriculum and Examinations Committee [link:], supervision of
-PhD Thesis Research, Supervision of Rotations, and Supervision of
+Committees including the Admissions Committee and the
+Curriculum and Examinations Committee, supervision of PhD
+Thesis Research, Supervision of Rotations, and Supervision of
 Research Interns etc.
 3.2.3 Research Units
-3
-ch03_faculty-handbook_en_20180402_cl
-
-The Research Unit is the administrative entity for managing faculty
+The Research Unit is the administrative entity for managing faculty
 research at the University. All full-time faculty members including
 Assistant Professors will be independent heads of Research Units. The
 non-hierarchical organization of the faculty and the absence of
@@ -1419,10 +1443,13 @@ account.
 3.2.3.1 Non-Faculty Research Appointments
 There are five classes of non-Faculty Research Appointments;
 Postdoctoral Scholars [link:], Staff Scientists [link:], Research
-Specialists [link: ], Technicians [link: ] and Science and Technology
+4
+ch03_faculty-handbook_en_20180608_cl
+
+Specialists [link: ], Technicians [link: ] and Science and Technology
 Associates [link: ]. Non-faculty research staff may undertake limited
 teaching duties as described in 3.2.2 item 6. The definition of each
-non-Faculty Research Appointment is stipulated in 4.2 [link: ].
+non-Faculty Research Appointment is stipulated in 4.2.
 3.2.4 Recruitment and New Appointment
 Faculty members of the University are selected based on the highest
 international standards of evaluation of candidates to ensure the
@@ -1445,10 +1472,7 @@ Funding is provided for each Research Unit based on a five-year
 approved budget plan, adjusted annually to conform to the actual
 budget and changes that may have occurred in the Unit. Faculty
 members also will be encouraged to seek external funding. To attract
-4
-ch03_faculty-handbook_en_20180402_cl
-
-world-class researchers, the University will offer salaries, travel
+world-class researchers, the University will offer salaries, travel
 expenses, and other benefits that are competitive with top universities
 in other countries.
 3.2.4.2 Age and Gender Distribution of the Research and
@@ -1469,7 +1493,10 @@ recruitment at appropriate levels to maintain world-best standards of
 faculty teaching and research. This will consist of a tenure-track
 system comprising Assistant Professors, Associate Professors and
 Professors. Appointments may be made at any of these levels. Tenure
-carries with it a commitment of employment until retirement.
+5
+ch03_faculty-handbook_en_20180608_cl
+
+carries with it a commitment of employment until retirement.
 However, it does not guarantee internal research support. Tenured
 faculty will compete along with their fellow tenured and untenured
 faculty colleagues for internal research funding on a 5-year cycle.
@@ -1493,10 +1520,7 @@ scholarship, teaching, and other relevant matters. The Faculty Search
 Committee will comprise three to five members of the Faculty
 Assembly. The Dean of Faculty Affairs will appoint Faculty Search
 Committee members and the Chair. Faculty Search Committees may
-5
-ch03_faculty-handbook_en_20180402_cl
-
-include external members, but the Chair should be from the Faculty
+include external members, but the Chair should be from the Faculty
 Assembly. Members of the Senior Level Executives should not
 normally be members of Faculty Search Committees.
 A member of the Faculty Search Committee will be assigned the
@@ -1516,7 +1540,10 @@ candidates, and suggest external reviewers (letter writers) who will
 write letters for the candidates. Letters from external reviewers (letter
 writers) are essential for an objective process and, in general, carry
 more weight than letters from reviewers of candidate’s choice. The
-Faculty Search Committee aims to collect 4 letters from external
+6
+ch03_faculty-handbook_en_20180608_cl
+
+Faculty Search Committee aims to collect 4 letters from external
 reviewers (letter writers) for appointment at the untenured level and
 8 letters from external reviewers (letter writers) for tenure
 appointments, within 2 months from the initial request for the letters.
@@ -1540,10 +1567,7 @@ yet have had an opportunity to teach extensively, the Faculty Search
 Committee must assess whether the candidate has the potential to be
 a qualified instructor at the University. Teaching is broadly defined to
 include the classroom or laboratory, advising, mentoring, program
-6
-ch03_faculty-handbook_en_20180402_cl
-
-building, and curriculum development. If available, evidence and
+building, and curriculum development. If available, evidence and
 testimonials of the teaching record should be included in the file.
 The outcome of the Faculty Search Committee will be a file containing
 the Appointment Papers and a cover letter from the Chair submitted
@@ -1564,7 +1588,10 @@ the Committee. He/She may convene a separate assessment for own
 use if necessary.
 When a Faculty Search Committee process results in a positive
 recommendation for untenured appointments, there will be the
-following levels of review that are required in order to achieve
+7
+ch03_faculty-handbook_en_20180608_cl
+
+following levels of review that are required in order to achieve
 ratification. Taken in order they are:
 1) Review by the President.
 2) If the President agrees with the recommendation by the Faculty
@@ -1589,10 +1616,7 @@ extensive measures to protect the privacy of the candidates by
 preserving the confidentiality of the information it receives regarding
 the candidates.
 
-7
-ch03_faculty-handbook_en_20180402_cl
-
-3.2.5.1.1 Promotion Review (Applicable to tenured Associate
+3.2.5.1.1 Promotion Review (Applicable to tenured Associate
 Professors)
 Associate Professor appointed with tenure will be reviewed for
 promotion to Professor during Year 4 after tenure appointment. Early
@@ -1612,9 +1636,11 @@ input from external reviewers (letter writers) is required and the
 external reviewer (letter writer) input carries the most weight with
 regard to the final evaluation.
 b) Outline of Promotion Review
-The PREC [link to PREC Handbook] has the responsibility for
-gathering data on scholarship, teaching, service and other relevant
-matters.
+8
+ch03_faculty-handbook_en_20180608_cl
+
+The PREC has the responsibility for gathering data on scholarship,
+teaching, service and other relevant matters.
 Members of the PREC should have no collaborative or mentoring
 relationship with the candidate, although this may sometimes be
 unavoidable or preferable to other alternatives. Any mentoring or
@@ -1635,10 +1661,7 @@ A member of the PREC should be assigned the responsibility of
 insuring that the diversity standards for the promotion review
 evaluation are met.
 c) Criteria for Promotion
-8
-ch03_faculty-handbook_en_20180402_cl
-
-The criteria for promotion concern the performance in scholarship,
+The criteria for promotion concern the performance in scholarship,
 teaching and service while at OIST.
 Scholarship: The first criterion for promotion is that the individual's
 scholarship and research ranks among the top 5 or 10 percent in their
@@ -1660,7 +1683,10 @@ students, postdoctoral scholars and OIST faculty will be important. As
 part of the CV and Academic Service Record, the candidate can
 provide relevant, yet objective, feedback from students attending
 courses presented by the candidate, and/or examples of mentoring
-practice. The Dean of the Graduate School and others may be
+9
+ch03_faculty-handbook_en_20180608_cl
+
+practice. The Dean of the Graduate School and others may be
 consulted for an appraisal.
 Academic Service: Supporting the University in its widest sense
 through committees and other service work, and the international
@@ -1683,20 +1709,13 @@ the Dean of Faculty Affairs.
 A positive recommendation from the PREC will proceed through the
 following levels of review. Taken in order, these are:
 1) Review by the President
-9
-ch03_faculty-handbook_en_20180402_cl
-
-2)
-3)
-
-If the President agrees with the PREC recommendation, the file,
+2) If the President agrees with the PREC recommendation, the file,
 accompanied by a letter from the President, goes to the Board of
 Governors for final approval.
-If the President disagrees with the PREC recommendation, the
+3) If the President disagrees with the PREC recommendation, the
 President will discuss how to resolve the disagreement with the
 PREC. He/She may convene a separate assessment for own use if
 necessary.
-
 A negative PREC recommendation with which the President concurs,
 will be sent to the candidate, and will also be reported to the Board of
 Governors.
@@ -1712,7 +1731,10 @@ failure to follow procedures correctly) that substantially affected the
 outcome. An unsuccessful candidate who believes there was a
 procedural error in the promotion review can file an appeal with the
 Dean of Faculty Affairs within ten (10) business days from receipt of
-the failure notice. Detailed appeal documents, if any, should be
+10
+ch03_faculty-handbook_en_20180608_cl
+
+the failure notice. Detailed appeal documents, if any, should be
 submitted within one month of registering the appeal.
 When an appeal is filed, the matter is automatically referred to the
 Dean of Research and the Dean of the Graduate School to select an
@@ -1736,10 +1758,7 @@ responsibility of the President to implement those actions.
 [Transitional Provision]
 Tenure Review (A) is applicable to Assistant Professors and untenured
 Associate Professors who were negotiated their contracts or appointed
-10
-ch03_faculty-handbook_en_20180402_cl
-
-as faculty members at OIST SC between November 1st 2011 and
+as faculty members at OIST SC between November 1st 2011 and
 December 31st 2016. However, they may choose Tenure Review (B) in
 consultation with the Dean of Faculty Affairs.
 The detailed information of the Tenure Review (A) can be referred to
@@ -1760,8 +1779,10 @@ of teaching and mentoring, and quality and relevance of service.
 The tenure decision is based on the career scholarly, teaching and
 service achievement during the full career, not solely the achievements
 at OIST.
-The Tenure Review Evaluation Committee (TREC) [link to Tenure
-Review Evaluation Committee Handbook Version 2.5] has the
+11
+ch03_faculty-handbook_en_20180608_cl
+
+The Tenure Review Evaluation Committee (TREC) has the
 responsibility for gathering data on scholarship, teaching, service
 and other relevant matters. The Dean of Faculty Affairs will appoint
 the TREC members after discussion of potential membership and
@@ -1782,10 +1803,7 @@ insuring that the diversity standards for the tenure review evaluation
 are met.
 Letters from external reviewers (letter writers) are essential for an
 objective evaluation. The TREC aims to collect 8 letters from external
-11
-ch03_faculty-handbook_en_20180402_cl
-
-reviewers (letter writers) within 2 months from the initial request for
+reviewers (letter writers) within 2 months from the initial request for
 letters. If 25% of those collected at this point recommend against
 tenure, that should be sufficient to refuse tenure.
 The external reviewers (letter writers) should neither be co-authors,
@@ -1807,7 +1825,10 @@ and sustain a first-rate teaching program. Teaching is broadly defined
 to include the classroom or laboratory, advising, mentoring, program
 building, and curriculum development. A letter from the Dean of the
 Graduate School is required to document and evaluate the teaching,
-rotation supervision and mentoring roles.
+12
+ch03_faculty-handbook_en_20180608_cl
+
+rotation supervision and mentoring roles.
 In some cases, service to the University can be relevant to the tenure
 decision. But service, however exemplary, cannot substitute for major
 shortcomings in scholarship or teaching.
@@ -1826,11 +1847,7 @@ Board of Governors for final approval.
 President will discuss how to resolve the disagreement with the
 TREC. He/She may convene a separate assessment for own use
 if necessary.
-
-12
-ch03_faculty-handbook_en_20180402_cl
-
-A negative TREC recommendation with which the President concurs,
+A negative TREC recommendation with which the President concurs,
 will be sent to the candidate, and will also be reported to the Board of
 Governors.
 For an Assistant Professor, the award of tenure automatically involves
@@ -1852,7 +1869,10 @@ terminate as in the contract, or after a year if the remaining time on
 the contract is less than a year. The unsuccessful candidate should
 work with the Dean of Research and the Dean of Faculty Affairs to
 ensure an orderly transition, including making proper provision for
-the timely completion of any theses that are in progress, for
+13
+ch03_faculty-handbook_en_20180608_cl
+
+the timely completion of any theses that are in progress, for
 redeployment of any continuing staff and for the completion of the
 contracts for the fixed-term staff and post-doctoral scholars.
 3.2.5.2.1 Tenure Review (B)
@@ -1872,10 +1892,7 @@ discussion of potential membership with the candidate, and the Chair.
 Members of the TREC should have no collaborative or mentoring
 relationship with the candidate, although this may sometimes be
 unavoidable or preferable to other alternatives. Any mentoring or
-13
-ch03_faculty-handbook_en_20180402_cl
-
-collaborative relationship between the candidate and a TREC member
+collaborative relationship between the candidate and a TREC member
 should be clearly disclosed in the cover letter from the Chair.
 A member of the TREC should be assigned the responsibility of
 insuring that the diversity standards for the tenure review evaluation
@@ -1886,8 +1903,7 @@ input from external reviewer (letter writer) is required and the
 external reviewer (letter writer) input carries the most weight with
 regard to the final evaluation.
 b) Outline of Tenure Review
-The TREC [link to Tenure Review Evaluation Committee Handbook
-Version 3.0] has the responsibility for conducting on-site review,
+The TREC has the responsibility for conducting on-site review,
 analyzing letters from external reviewers (letter writers) and data on
 scholarship, teaching, service and other relevant matters, and
 finalizing a report during the on-site review.
@@ -1898,7 +1914,10 @@ relevance of service.
 The tenure decision is based on the career scholarly, teaching and
 service achievement during the full career, not solely the achievements
 at OIST.
-Scholarship and teaching are the primary factors in evaluation for
+14
+ch03_faculty-handbook_en_20180608_cl
+
+Scholarship and teaching are the primary factors in evaluation for
 tenure because the University is dedicated to excellence in research
 and education. Service to the University and/or the community is
 also a relevant consideration. Scholarly distinction is especially
@@ -1916,10 +1935,7 @@ soliciting the opinion of external reviewers (letter writers), the TREC
 should draft the letter requesting the evaluation based on the template
 in the TREC Handbook.
 c) Criteria for Tenure (same with TREC Review (A))
-14
-ch03_faculty-handbook_en_20180402_cl
-
-The first criterion for a tenure appointment is that the candidate has
+The first criterion for a tenure appointment is that the candidate has
 achieved the highest level of distinction in scholarship and research
 that places them within the top echelon of their international peer
 group. The peer group comprises world-wide scholars that are at the
@@ -1944,7 +1960,10 @@ the 6th month of Year 5 (4 years and 6 months after initial
 appointment). The 1st Tenure Review of an Assistant Professor must
 be completed by the end of Year 6. The TESD is the deadline for
 receiving tenure materials from the candidate. The Tenure Review
-decision will normally be made within 6 months of the TESD. The
+15
+ch03_faculty-handbook_en_20180608_cl
+
+decision will normally be made within 6 months of the TESD. The
 TESD cannot be delayed, except for the circumstances in accordance
 with the “Stop-the-Clock” Policy in PRP3.2.5.2.2. An early review will
 be permitted in exceptional circumstances.
@@ -1962,10 +1981,7 @@ the candidate is notified of the Tenure Review outcome by the
 President). There are three possible outcomes:
 • “Outstanding”: Assistant Professor is awarded tenure and
 appointed as Professor with approval from the Board of Governors.
-15
-ch03_faculty-handbook_en_20180402_cl
-
-• “Satisfactory”: Assistant Professor is promoted to untenured
+• “Satisfactory”: Assistant Professor is promoted to untenured
 Associate Professor with approval from the President.
 • “Unsuccessful”: The contract is terminated at the end of the
 contract period, or one year from notification of the failed review,
@@ -1989,7 +2005,11 @@ tenure materials from the candidate. The tenure review decision will
 normally be made within 6 months of the TESD. The TESD cannot be
 delayed, except for the circumstances in accordance with the “Stopthe-Clock” Policy in PRP3.2.5.2.2. An early review will be permitted
 in exceptional circumstances.
-Year 1: Appointment as Associate Professor (untenured at initial
+
+16
+ch03_faculty-handbook_en_20180608_cl
+
+Year 1: Appointment as Associate Professor (untenured at initial
 appointment) begins. A Mentor is appointed.
 End of Year 3:
 The candidate, his/her mentor, and a tenured Faculty member
@@ -2008,10 +2028,7 @@ appointed as Professor, with approval from the Board of Governors.
 • “Unsuccessful”: The contract is terminated at the end of the
 contract period, or one year from notification of the failed review,
 whichever is later.
-16
-ch03_faculty-handbook_en_20180402_cl
-
-e) Process after Tenure Review
+e) Process after Tenure Review
 The TREC recommendation will be a file containing Tenure Review
 papers and a cover letter from the Chair of the TREC, submitted to the
 President, after review by the Appointment and Promotion Committee
@@ -2036,7 +2053,10 @@ including making proper provision for timely completion of any
 theses in progress, for redeployment of continuing staff, and for
 completion of contracts for fixed-term staff and post-doctoral
 scholars.
-3.2.5.2.2 “Stop-the-Clock” Policy for Tenure-track faculty
+17
+ch03_faculty-handbook_en_20180608_cl
+
+3.2.5.2.2 “Stop-the-Clock” Policy for Tenure-track faculty
 Tenure-track faculty may request a contract extension and
 postponement of tenure review to accommodate parental
 responsibilities relating to childbirth, adoption of a child, or rearing
@@ -2053,10 +2073,7 @@ Affairs and the President, the following actions will be taken.
 year.
 3. The unit funding will be extended one year.
 4. The contracts of unit staff will not automatically be extended.
-17
-ch03_faculty-handbook_en_20180402_cl
-
-In case of extenuating circumstances (e.g., multiple births, difficult
+In case of extenuating circumstances (e.g., multiple births, difficult
 pregnancy, premature birth, or medical conditions associated with
 childbirth), the Dean of Faculty Affairs may grant an additional 3-6month discretionary extension. A request for an additional extension
 must be submitted to the Dean of Faculty Affairs together with
@@ -2079,7 +2096,10 @@ The purpose of the appeal process is to determine whether the tenure
 review procedures were correctly followed. The Appeal Process itself
 is not a reevaluation of the decision. The grounds for an appeal are
 limited to determining whether there were procedural errors (such as
-the failure to bring proper facts and criteria to bear on a decision, or
+18
+ch03_faculty-handbook_en_20180608_cl
+
+the failure to bring proper facts and criteria to bear on a decision, or
 the introduction of improper facts and criteria, or the failure to follow
 procedures correctly) that substantially affected the outcome. An
 unsuccessful candidate who believes there was a procedural error in
@@ -2099,10 +2119,7 @@ changes. If the Appeal Committee finds that there were no
 procedural errors that affected the outcome, the recommendation will
 be to dismiss the appeal. The Appeal Committee, itself has no
 authority to recommend or deny tenure.
-18
-ch03_faculty-handbook_en_20180402_cl
-
-The recommendation of the Appeal Committee is final and is
+The recommendation of the Appeal Committee is final and is
 communicated in writing to the President and to the candidate who
 filed the appeal within 2 months from registering the appeal. The
 candidate may not challenge the outcome of the appeal. If further
@@ -2129,10 +2146,12 @@ evaluated separately.
 
 Research Unit Budget and Evaluation
 Each full-time and adjunct faculty research unit will receive multiyear subsidy support based on a proposal reviewed and approved at
-the time of hiring for new faculty, or for current faculty, reviewed and
+19
+ch03_faculty-handbook_en_20180608_cl
+
+the time of hiring for new faculty, or for current faculty, reviewed and
 approved at a progress review conducted by a committee of experts
 from outside of OIST [link: External Review Committee Handbook].
-
 3.2.8
 
 Conflict of Interest
@@ -2152,10 +2171,7 @@ academic year in which they reach 70 years of age, or on the date they reach
 70, whichever is specified in the contract. Two years prior to retirement,
 faculty members should work with the Dean of Research and the Dean of
 Faculty Affairs to ensure an orderly transition- i.e., making proper provisions
-19
-ch03_faculty-handbook_en_20180402_cl
-
-for staff/postdocs, and other matters. Professors are not permitted to accept
+for staff/postdocs, and other matters. Professors are not permitted to accept
 new PhD students and to serve as their primary supervisors after reaching 65.
 No external Unit review will be conducted after 65 years.
 Faculty members may choose to retire early, after the age of 60, if they have
@@ -2185,7 +2201,10 @@ plan with a term of no more than 5 years to the President for
 agreement, including a strategy for closing the unit within the term,
 and for being substantially financed using external funds. The
 President and faculty members will discuss access to space and
-equipment with the Dean of Research. If faculty members invited by
+20
+ch03_faculty-handbook_en_20180608_cl
+
+equipment with the Dean of Research. If faculty members invited by
 the President wish to continue doing research after retirement, they
 must undergo an external review with their research plan in the
 academic year in which they turn 68 in principle. Faculty members
@@ -2207,23 +2226,21 @@ of their additional service.
 3.3.4
 
 Non-Faculty Research Appointments
-20
-ch03_faculty-handbook_en_20180402_cl
-
-There are five classes of non-Faculty Research Appointments;
+There are five classes of non-Faculty Research Appointments;
 Postdoctoral Scholars [link: ], Staff Scientists [link: ], Research
 Specialists [link: ], Technicians [link: ] and Science and Technology
 Associates [link: ]. Non-faculty research staff may undertake limited
 teaching duties as described in 3.2.2 item 6. The definition of each
-non-Faculty Research Appointment is stipulated in 4.2 [link: ].
+non-Faculty Research Appointment is stipulated in 4.2.
+
 3.4 Management Structure for Academic Issues
-The management structure of the University is described in the Chapter 2
-[link: ]. The administrative organization responsible for faculty governance
-and academic issues will be the Faculty Assembly (the “Assembly”). The
-Assembly will have an executive body, the Faculty Council (the “Council”). The
-Assembly and Council are described in sections 3.4.1 and 3.4.2, respectively.
-The administrative home of the members of the faculty will be the Dean of
-Faculty Affairs.
+The management structure of the University is described in the Chapter 2. The
+administrative organization responsible for faculty governance and academic
+issues will be the Faculty Assembly (the “Assembly”). The Assembly will have
+an executive body, the Faculty Council (the “Council”). The Assembly and
+Council are described in sections 3.4.1 and 3.4.2, respectively. The
+administrative home of the members of the faculty will be the Dean of Faculty
+Affairs.
 The Dean of Research will lead the Research Support Division; administer
 common resources, shared equipment, grants and research computing;
 promote good conduct in research and ensure that the research program
@@ -2232,7 +2249,10 @@ the Research Support Sections as well as represent OIST as needed in the
 areas of safety and other research-related domains; liaise with the Deans for
 Faculty Affairs and of the Graduate School.
 
-The Dean of the Graduate School [link: ] will administer the OIST Graduate
+21
+ch03_faculty-handbook_en_20180608_cl
+
+The Dean of the Graduate School [link: ] will administer the OIST Graduate
 School. The position of Dean of the Graduate School will be a rotating position
 of the faculty with a three-year term, which is renewable at the discretion of
 the President.
@@ -2253,10 +2273,7 @@ the Dean of the Graduate School chairs, the Dean of the Graduate School’s
 committees, which include faculty members to advise on those matters
 requiring academic and educational input. For instance, faculty will staff the
 Admissions Committee. To enable changes to the curriculum in a given area,
-21
-ch03_faculty-handbook_en_20180402_cl
-
-the Dean of the Graduate School will choose specific people to help in
+the Dean of the Graduate School will choose specific people to help in
 approving suggested modifications.
 A Senior Assistant to the Dean of the Graduate School will administer the
 student-related functions including financial aid to students, student housing,
@@ -2278,7 +2295,10 @@ committee of the Assembly. The members of the faculty in
 addition have administrative duties on various committees.
 These functions are services to the University; the President,
 Executive Vice President for Technology Development and
-Innovation, Dean of the Graduate School, Dean of Faculty
+22
+ch03_faculty-handbook_en_20180608_cl
+
+Innovation, Dean of the Graduate School, Dean of Faculty
 Affairs and Dean of Research make appointments to these
 committees.
 3.4.1.2 Membership of the Assembly
@@ -2300,10 +2320,7 @@ ex officio members. The ex-officio members and student and
 research representatives attend the Assembly meetings at the
 invitation of the Chairperson and may be excused when the
 Chairperson deems necessary.
-22
-ch03_faculty-handbook_en_20180402_cl
-
-3.4.1.3 Chairperson of the Assembly
+3.4.1.3 Chairperson of the Assembly
 The Assembly has a Chairperson. The Chairperson of the
 Assembly will be elected by secret ballot of the Assembly.
 Elections to the position of Chairperson will take place every two
@@ -2328,7 +2345,10 @@ as deemed necessary. The Chairperson will communicate the
 results of the deliberations of the Assembly and its subsidiary
 bodies to the appropriate members of the administration (Board
 of Governors, Board of Councilors, President, Executive Vice
-President for Technology Development and Innovation, Dean of
+23
+ch03_faculty-handbook_en_20180608_cl
+
+President for Technology Development and Innovation, Dean of
 the Graduate School, Dean of Faculty Affairs, and Dean of
 Research).
 3.4.1.4 Frequency of Convocation
@@ -2348,10 +2368,7 @@ study, leave of absence
 • Information technology and libraries
 • Formation of subcommittees
 • Reports on academic matters
-23
-ch03_faculty-handbook_en_20180402_cl
-
-• Reports on other committees
+• Reports on other committees
 • Other matters
 The Faculty Assembly shall state its opinion for the admission
 and graduation matters and completion of academic programs.
@@ -2374,7 +2391,10 @@ c) As deemed necessary by the Chairperson members may
 participate in the Faculty Assembly meeting by
 teleconference and exercise voting rights. Absent members
 may not exercise voting rights.
-d) As deemed necessary by the Chairperson people other than
+24
+ch03_faculty-handbook_en_20180608_cl
+
+d) As deemed necessary by the Chairperson people other than
 members of the Faculty Assembly may be invited to attend
 the meeting.
 e) The agenda and minutes of the meetings of the Faculty
@@ -2397,10 +2417,7 @@ Professors), including the Chair of the Faculty Assembly, who is also the
 Chair of the Council. Consistent with the Japanese government gender
 equality goal of 30% women in leadership positions, at least 20% of
 Faculty Council positions will be reserved for female faculty members.
-24
-ch03_faculty-handbook_en_20180402_cl
-
-In order for a quorum of the Faculty Council to conduct business, at least
+In order for a quorum of the Faculty Council to conduct business, at least
 one female faculty member must be present. If the remaining reserved
 position(s) is/are not filled, then the position will remain vacant, to be
 filled via an election, when one or more female candidates become
@@ -2425,7 +2442,10 @@ Dean of Research
 Secretary to the Assembly
 Advisor
 Vice President for Financial Management
-The Council will meet monthly. Council minutes will be available to
+25
+ch03_faculty-handbook_en_20180608_cl
+
+The Council will meet monthly. Council minutes will be available to
 all faculty members.
 3.4.2.1 Election of Council members
 It is important that the Faculty Council reflects the composition of
@@ -2446,10 +2466,7 @@ If the number of candidates does not exceed the number of
 positions to be filled, candidates who receive more than 50% of the
 votes cast will be elected, including reserved positions for Assistant
 Professors and female faculty members.
-25
-ch03_faculty-handbook_en_20180402_cl
-
-2.
+2.
 If the number of candidates exceeds the number of
 positions to be filled, the candidates who receive the greatest
 numbers of votes will be elected until all positions are filled.
@@ -2474,7 +2491,10 @@ agendas, preparing or commissioning documents for meetings,
 serving any sub-Committees created by the Assembly or Council, and
 coordinating with Senior Executives [link: 30.2.2.1.1].
 3.5 Academic Program Evaluations
-3.5.1 Basic Policy
+26
+ch03_faculty-handbook_en_20180608_cl
+
+3.5.1 Basic Policy
 The University will conduct regular assessments of education,
 research and results leading to technological developments. This will
 entail the review of organizational operation, facilities and
@@ -2494,10 +2514,7 @@ The University will summarize the results of the external evaluation
 as a report to the Board of Governors, which has the responsibility
 for disseminating the report appropriately. The Board will deliberate
 on the results and use them to improve the education, research,
-26
-ch03_faculty-handbook_en_20180402_cl
-
-technology impact and management of the University. Such results
+technology impact and management of the University. Such results
 will be made publicly available by means of the University’s web site
 and other publications.
 3.5.5 Major Evaluation Items
@@ -2533,7 +2550,10 @@ Management
 3.6 Strategies to Maintain and Improve the Quality of Teaching
 Staff
 3.6.1 Basic Policy of Educational Development
-The University must maintain and improve the quality of its faculty
+27
+ch03_faculty-handbook_en_20180608_cl
+
+The University must maintain and improve the quality of its faculty
 in order to provide an outstanding education at the University and to
 meet the different educational needs of each student. The office of
 the Dean of the Graduate School will play an active role in the
@@ -2553,10 +2573,7 @@ questionnaire at the end of the course. The student responses
 will be reported to the Dean of the Graduate School’s office and
 will be distributed to the instructors and students. The Dean of
 the Graduate School’s office will assist the instructors to respond
-27
-ch03_faculty-handbook_en_20180402_cl
-
-appropriately to this feedback. This feedback should be treated
+appropriately to this feedback. This feedback should be treated
 as confidentially as possible.
 3.6.2.3 Peer Review of Teaching
 Faculty members will support the development of their
@@ -2578,7 +2595,11 @@ more experienced faculty to receive advice and support. As a part
 of this system the Thesis Committee supervising each student
 will include junior and senior faculty members to facilitate the
 transfer of skills relating to supervision of research.
-The Dean of the Graduate School’s office will implement these
+
+28
+ch03_faculty-handbook_en_20180608_cl
+
+The Dean of the Graduate School’s office will implement these
 methods to ensure the improvement of the education and research of
 the Graduate University.
 3.7 Faculty Leave
@@ -2599,10 +2620,7 @@ the OIST Promotion Corporation period are not counted.
 For every three (3) years of academic service, tenured faculty
 members earn six (6) months of sabbatical credit. The maximum
 sabbatical credit that can be accrued is twelve (12) months.
-28
-ch03_faculty-handbook_en_20180402_cl
-
-Once eligibility is granted, at least nine (9) months before the start of
+Once eligibility is granted, at least nine (9) months before the start of
 the academic year in which sabbatical leave is to commence, the
 applicant must submit a “Request for Sabbatical Leave Application
 Form” online.
@@ -2628,7 +2646,10 @@ President for final approval.
 A leave without salary is a period of leave that is without salary from
 the University or its disability, retirement, or other benefits
 programs.
-3.7.3.1 Requesting a Leave without Salary
+29
+ch03_faculty-handbook_en_20180608_cl
+
+3.7.3.1 Requesting a Leave without Salary
 Leave without salary should be requested on a standard leave
 request form for review and approval by the Dean of the
 Graduate School and the Dean of Faculty Affairs.
@@ -2648,10 +2669,7 @@ School and Dean of Faculty Affairs.
 3.7.3.4 Effect of Leave on Term of Research Support
 With a leave without salary the period of research support may
 be extended by a period up to the duration of the leave. The
-29
-ch03_faculty-handbook_en_20180402_cl
-
-total funds committed are not increased. Extension of the
+total funds committed are not increased. Extension of the
 period of research must be approved by the Dean of Faculty
 Affairs.
 3.7.3.5 Period of Partial Leave without Salary
@@ -2674,16 +2692,18 @@ other contributions to the educational program of the University,
 scholarly productivity, number of doctoral theses completed
 under his or her supervision, previous leave without salary, and
 any other relevant circumstances.
-3.7.4.3 Effect of Leave without Salary or Pure Research Leave on
+30
+ch03_faculty-handbook_en_20180608_cl
+
+3.7.4.3 Effect of Leave without Salary or Pure Research Leave on
 Sabbatical Leave Service Accrual
 Sabbatical eligibility does not accrue during periods of leave
 without salary or pure research leave.
 3.7.5 Family and Medical Leave Policies
 The family, medical, childcare and other leave policies for OIST
-employees are described in PRP Chapter 33 Leave. [link: 33] In
-addition to the standard leave options, faculty can request
-adjustments in time or amount of teaching through the Dean of the
-Graduate School.
+employees are described in PRP Chapter 33 Leave. In addition to the
+standard leave options, faculty can request adjustments in time or
+amount of teaching through the Dean of the Graduate School.
 3.8 External Appointment or Employment
 Full-time faculty members may accept external visiting or adjunct
 appointments or employment in another university, research
@@ -2695,10 +2715,7 @@ external appointment or employment must be obtained from the Dean of
 Faculty Affairs in accordance with OIST Rules for External Professional
 Activities [link: ]. Such appointments or employment may not exceed 20%
 time. There must be disclosure of any financial interests.
-30
-ch03_faculty-handbook_en_20180402_cl
-
-3.9 Resolving Complaints and Disputes
+3.9 Resolving Complaints and Disputes
 Procedures for resolving complaints and disputes are described in PRP
 Chapter 39 Resolving Complaints & Disputes. For complaints and
 disputes reported by faculty, the supervisor is the Dean of Faculty Affairs.
@@ -2721,7 +2738,10 @@ of academic retirement of the appointee.
 3.10.2 Prior Notice of Non-renewal of Appointment
 A faculty member holding a renewable, non-tenured appointment
 shall be notified by one year before the end of the term of the
-appointment if the appointment is not to be renewed. Failure to give
+31
+ch03_faculty-handbook_en_20180608_cl
+
+appointment if the appointment is not to be renewed. Failure to give
 timely notice of non-renewal shall entitle the individual to an
 extension of appointment for a period of one year from the time of
 notification.
@@ -2740,8 +2760,8 @@ covers all OIST employees. For discipline of faculty members the supervisor
 is the Dean of Faculty Affairs, and if this cannot be resolved satisfactorily,
 the President.
 
-31
-ch03_faculty-handbook_en_20180402_cl
+32
+ch03_faculty-handbook_en_20180608_cl
 
 OIST Graduate University Policies, Rules & Procedures
 Authority: Approved by the Dean of Research and the President
