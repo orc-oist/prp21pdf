@@ -794,10 +794,10 @@ ch01_who-we-are_20151028_jp_cl
 OIST Graduate University
 Policies, Rules and Procedures
 Authority:
- Approved by the President
- OIST School Corporation Act
- Private School Act
- School Education Act
+⚫ Approved by the President
+⚫ OIST School Corporation Act
+⚫ Private School Act
+⚫ School Education Act
 
 Chapter 2. Governance and Organization
 2.1 Official University Name
@@ -827,11 +827,11 @@ name from the name of any organizational unit of the University.
 other than that prescribed in administrative policy.
 2.1.2. Gifts, Bequests, Donations or Devises [link: 7].
 1
-ch02_governance-organization_en_20180401_cl
+ch02_governance-organization_en_20180601_cl
 
 All gifts, bequests, contributions, donations and devises made in trust or
 otherwise in the name of the University or any abbreviated name, or in the
-name of any unit of the University, shall be transfers to the Okinawa
+name of any unit of the University, shall be transferred to the Okinawa
 Institute of Science & Technology School Corporation. The Okinawa
 Institute of Science & Technology School Corporation has the authority to
 manage all transfers intended for the corporation.
@@ -848,19 +848,18 @@ the OIST School Corporation lies with the Board of Governors (“BOG”). The
 BOG appoints a President for the OIST Graduate University. The President of
 the University serves as the CEO of the Corporation, pursuant to the SC Bylaws.
 The BOG appoints the Senior Level Executive who serves as the Vice-CEO of
-the Corporation, in accordance with the SC Bylaws. [link:
-https://groups.oist.jp/sites/default/files/imce/u113/oistsc_bylaws.pdf]. The
-SC Bylaws and the Rules for the Operation of the Board of Governors [link: ]
-specify the purpose and activities of, and topics to be decided by the BOG. In
-general, the matters to be decided by the BOG concern management and
-operation of the School Corporation and the University. In particular, the BOG
-is required each fiscal year to review and approve the annual budget and
-business plan for the Corporation, which will have been prepared by the
-CEO/President, Vice-CEO, Executive Vice President for Technology
-Development and Innovation, Provost, Chief Operating Officer (COO), and
-Vice-Presidents in consultation with University faculty and staff. In all of its
-endeavors, the subjects to be deliberated may be accompanied by
-reports/opinions of the Board of Councilors.
+the Corporation, in accordance with the SC Bylaws. The SC Bylaws and the
+Rules for the Operation of the Board of Governors specify the purpose and
+activities of, and topics to be decided by the BOG. In general, the matters to be
+decided by the BOG concern management and operation of the School
+Corporation and the University. In particular, the BOG is required each fiscal
+year to review and approve the annual budget and business plan for the
+Corporation, which will have been prepared by the CEO/President, Vice-CEO,
+Executive Vice President for Technology Development and Innovation, Provost,
+Chief Operating Officer (COO), and Vice-Presidents in consultation with
+University faculty and staff. In all of its endeavors, the subjects to be
+deliberated may be accompanied by reports/opinions of the Board of
+Councilors.
 2.2.1
 The Board of Governors has an Office of the BOG. Secretary to the BOG
 acts as the Secretariat and works for the Chair of the BOG with the
@@ -869,16 +868,17 @@ sub-Committees created by the BOG, managing the affairs of the BOG,
 and coordinating the activities with the Senior Level Executives and
 Faculty Council.
 
-2
-ch02_governance-organization_en_20180401_cl
+2.3
 
-2.3
 Board of Councilors.
-The Board of Councilors (“BOC”) must prepare opinions on specified matters
+2
+ch02_governance-organization_en_20180601_cl
+
+The Board of Councilors (“BOC”) must prepare opinions on specified matters
 (such as budgets, borrowing, disposal of assets, donations, changes to the
-Bylaws) and submit them to the Corporation CEO before meetings of the BOG
-to make decisions on the matters. The BOC also responds to inquiries from
-Governors, provides opinions to Governors, and solicits reports from
+Bylaws) and submit them to the School Corporation CEO before meetings of
+the BOG to make decisions on the matters. The BOC also responds to inquiries
+from Governors, provides opinions to Governors, and solicits reports from
 Governors, regarding the state of the School Corporation’s operations and
 assets.
 
@@ -912,15 +912,17 @@ President may appoint, and prescribe the powers and duties of, other
 officers and employees that the President may deem appropriate to assist
 in the performance of Presidential duties and responsibilities.
 The President is further responsible, directly or by delegation, for
+establishing and maintaining administrative policies and procedures to
 3
-ch02_governance-organization_en_20180401_cl
+ch02_governance-organization_en_20180601_cl
 
-establishing and maintaining administrative policies and procedures to
-assure the carrying out of these responsibilities.
-2.4.1.1 Special Advisor to the President
-The Special Advisor to the President offers opinions and advice in
-regard to the administration of the University upon the President’s
-request.
+assure the carrying out of these responsibilities.
+2.4.1.1 Senior Advisor to the President for Institutional
+Development
+The Senior Advisor for Institutional Development is responsible for
+cultivating and developing connections with relevant U.S.-Japan
+networks both in Japan and the U.S., and establishing a foundation
+for future fundraising activities for the University.
 2.4.1.2 General Counsel
 The General Counsel provides legal opinions and advice in regard to
 the
@@ -932,12 +934,11 @@ conflicts/disputes cases and contracts related matters and
 represents the University in legal matters concerning external
 entities.
 2.4.1.3 Chief Information Officer (CIO)
-The Chief Information Officer (CIO) is responsible for [link: 17.4.7]
-promoting coherence and efficiency through university wide
-information technology (IT) strategy, and information security
-programs. The CIO is also responsible for conducing special
-programs or information related initiatives at the discretion of the
-President.
+The Chief Information Officer (CIO) is responsible for promoting
+coherence and efficiency through university wide information
+technology (IT) strategy, and information security programs. The
+CIO is also responsible for conducing special programs or
+information related initiatives at the discretion of the President.
 2.4.1.4 Chief Compliance Officer (CCO)
 The Chief Compliance Officer (CCO) conducts the audit based on the
 annual audit plan or on a temporary basis. The CCO reports those
@@ -957,7 +958,7 @@ The Executive Vice President for Technology Development and
 Innovation administers the functions that support the University mission
 to further the self sustaining development of Okinawa. Key elements of
 4
-ch02_governance-organization_en_20180401_cl
+ch02_governance-organization_en_20180601_cl
 
 this mission are management of intellectual property, technology transfer
 and business development.
@@ -998,7 +999,7 @@ including the assignment of faculty to teach the graduate courses.
 The DGS may delegate duties to Vice Dean.
 2.4.5.2 Dean of Faculty Affairs
 5
-ch02_governance-organization_en_20180401_cl
+ch02_governance-organization_en_20180601_cl
 
 The Dean of Faculty Affairs (DFA) is responsible for administration
 of general matters concerning the faculty as described in detail in
@@ -1020,8 +1021,7 @@ Career development of non-faculty researchers
 Appointments and administrative support for Dean’s
 Research Group
 The Dean of Faculty Affairs is also responsible for the operation of
-the University Library and Institutional Repository, the
-appointments and development of postdoctoral careers, and the
+the University Library and Institutional Repository, and the
 appointments and administrative support for the Science and
 Technology Group(STG).
 2.4.5.2.1 Vice Dean of Faculty Affairs
@@ -1039,11 +1039,11 @@ The Vice President for Buildings and Facilities Management
 (VPBFM) is responsible for all aspects of new construction, from the
 planning through procurement, to contract management, to physical
 constructions and completion of the facility. The VPBFM is
+responsible for all aspects of building, facility and site maintenance,
 6
-ch02_governance-organization_en_20180401_cl
+ch02_governance-organization_en_20180601_cl
 
-responsible for all aspects of building, facility and site maintenance,
-including modifications made to University buildings.
+including modifications made to University buildings.
 2.4.5.6 Vice President for Communication and Public
 Relations
 The Vice President for Communication and Public Relations
@@ -1061,11 +1061,10 @@ duties in part.
 The Dean of Research is responsible for the direct research funding
 (subsidy, grant, donor and other) that is administered by the
 individual research units and other research entities, Research
-Support Services with Core facilities, Research Safety, Grant
-applications and management (excluding the grants managed by
-the Executive Vice President) and overall research support
-functions required for research activities. The Dean of Research is
-also responsible for OIST Clinic and Health Center.
+Support Services with Core facilities, Grant applications and
+management (excluding the grants managed by the Executive Vice
+President) and overall research support functions required for
+research activities.
 2.4.5.7.1 Assistant Dean for Administration
 The Dean of Research may have the Assistant Dean for
 Administration conduct the duties in part.
@@ -1073,24 +1072,28 @@ Administration conduct the duties in part.
 Resource Development
 The Vice President for Gender Equality and Human Resource
 Development (VPGEHR) is responsible for overall management of
-Employee Relations, Diversity and Welfare, Training and
-Education, HR Management and HR Recruiting Support, to
-enhance productivity of the diverse workforce and to improve
-work-life balance at OIST.
+Employee Relations, Diversity, Training and Education, HR
+Management and HR Recruiting Support, to enhance productivity
+of the diverse workforce and to improve work-life balance at OIST.
 2.4.5.8.1 Associate Vice President for Human Resources
 The VPGEHR may have The Associate Vice President for Human
 Resources (AVPHR) conduct the duties in part.
-
-7
-ch02_governance-organization_en_20180401_cl
-
-2.4.5.9 Vice President for Information Technology
+2.4.5.9 Vice President for Information Technology
 The Vice President for Information Technology (VPIT) is
 responsible for ensuring that IT services are appropriately
-architected, implemented and maintained. The VPIT is responsible
+7
+ch02_governance-organization_en_20180601_cl
+
+architected, implemented and maintained. The VPIT is responsible
 for ensuring IT remains engaged with all areas of the University,
 and that IT services are developed to support the programs and
 policies set by the CIO.
+2.4.5.10 Vice President for University Community Services
+The Vice President for University Community Services (VPUCS) is
+responsible for providing campus-wide community services that
+will enhance the lives of all faculty, staff, students and their families
+at the University.
+
 2.4.6 Provost and Chief Operating Officer (COO)
 2.4.6.1 Provost
 The Provost is in charge of interdepartmental coordination between
@@ -1098,36 +1101,287 @@ the Dean of Graduate School, the Dean of Faculty Affairs and the
 Dean of Research in terms of academic affairs.
 The Provost shall represent the University for academic and research
 matters and develop a network with other universities and research
-institutions.
+institutions. The Provost is also responsible for occupational health
+and safety for researchers, lab workers, and students.
 2.4.6.2 Chief Operating Officer (COO)
 The Chief Operating Officer (COO) shall assist the President and
 serve as the final authority on all administrative matters. COO
 oversees all administrative functions, including financial
 management, human resources, facility management, information
-technology. COO is also responsible for health & safety, and risk
-management.
+technology. COO is also responsible for risk management.
 2.4.6.2.1 Associate Vice President for Administrative
 Compliance
 The COO may have the Associate Vice President for
 Administrative Compliance (AVPAC) conduct the duties in part of
-governmental relations, rules and procedures, compliance, and
-risk management.
+governmental relations, rules and procedures, and compliance.
+2.4.6.2.2 Emergency Response Coordinator
+The COO may have the Emergency Response Coordinator conduct
+the duties in part of the Safety Management on the whole
+university level.
+
 2.4.7 Committees
 The University may rely upon committees, standing and ad hoc, internal
-and external, whenever needed to assist in the carrying out of various
-functions or to provide advice regarding selected topics. Whatever their
-purpose, such committees must conform to the University’s “Terms of
-Reference” [link: “Terms of Reference” at end of Chapter] regarding
-formation, composition and organization of committees.
-Details
-concerning the payment of honoraria and other expenses for external
-committee members may be found in Chapter 26, Finance & Accounting,
-Appendices [link: 26.9].
-
 8
-ch02_governance-organization_en_20180401_cl
+ch02_governance-organization_en_20180601_cl
 
-2.5 Organization Chart
+and external, whenever needed to assist in carrying out various functions
+or to provide advice regarding selected topics. Whatever their purpose,
+such committees must conform to the University’s “Terms of Reference”
+[link: “Terms of Reference” at end of Chapter] regarding formation,
+composition and organization of committees. Details concerning the
+payment of honoraria and other expenses for external committee
+members may be found in Chapter 26, Finance & Accounting, Appendices.
+2.5 Organization Chart
+As of June 1, 2018
+
+OIST School Corporation Organization
+学校法人沖縄科学技術大学院大学学園組織図
+
+Board of Councilors
+評議員会
+
+Board of Governors
+理事会
+
+Auditors
+監事
+
+Senior Advisor to the President for
+Institutional Development
+
+Executive Vice President for Technology
+Development and Innovation
+首席副学長（技術開発イノベーション担当)
+
+President/CEO
+学長兼理事長
+
+Assoc. VP
+准副学長
+
+General Counsel
+統括弁護士
+
+Business
+Development
+
+Vice President for Communication and
+Public Relations
+副学長 （広報担当）
+Assoc. VP
+准副学長
+
+Chief Information Officer (CIO)
+
+最高情報責任者
+
+Chief Operating Officer (COO)
+チーフオペレーティングオフィサー
+
+Chief Compliance Officer (CCO)
+
+Emergency Response Coordinator
+
+Provost
+プロボスト
+
+Assoc. VP 准副学長
+
+Vice President for University Community
+Services
+副学長 （大学コミュニティ支援担当）
+
+緊急対応コーディネーター
+
+最高コンプライアンス責任者
+
+R&D Cluster
+Programs
+
+Technology
+Licensing
+
+Digital Services
+
+Media
+
+副学長
+
+Vice President for
+Buildings and
+Facilities
+Management
+副学長
+
+Vice President for
+Gender Equality
+and Human
+Resource
+Development
+副学長
+
+（財務担当）
+
+（施設管理担当）
+
+(男女共同参画・人事担当）
+
+Vice President for
+
+Financial
+Management
+
+Community
+Relations
+Vice President for
+Information
+Technology
+
+Dean of the
+Graduate School
+研究科長
+
+副学長
+
+V ice Dean
+副研究科長
+
+（情報技術担当）
+
+Dean of
+Faculty Affairs
+教員担当学監
+
+Dean of Research
+研究担当ディーン
+
+Conference and
+Workshop
+
+A ssistant D ean
+ｱｼｽﾀﾝﾄﾃﾞｨｰﾝ
+
+Language
+Education
+
+V ice Dean
+教員担当副学監
+
+Assoc. VP
+准副学長
+
+Budget
+
+Accounting
+
+Procurement
+and Supplies
+
+Campus
+Building
+Facilities
+Operation and
+Use
+
+Facility
+Management
+
+Ganjuu Wellbeing
+Service
+
+Service and
+Support
+
+Governmental
+Relations
+
+Academic
+Services
+
+Faculty
+
+Animal
+Resource
+
+Okinawa Marine
+Science Support
+
+Networks and
+Connectivity
+
+Rules and
+Procedures
+
+Student
+Support
+
+Research Units
+
+DNA
+Sequencing
+
+Scientific Computing
+and Data Analysis
+
+HR
+Management
+
+Infrastructure
+
+Compliance
+
+Admissions
+and Career
+Development
+
+Academic
+Development
+
+Imaging
+
+Occupational
+Health and Safety
+
+Child
+Development
+Center
+
+HR Recruiting
+Support
+
+Enterprise
+Applications
+
+Instrumental
+Analysis
+
+Grants and Research
+Coollaborations
+
+Resource
+Center
+
+Diversity
+
+Training and
+Education
+
+S cience and
+Technology
+
+Recreation
+Services
+
+G roup
+
+Library
+
+Mechanical
+Engineering and
+Microfabrication
+Support
+
+Health Center
 
 2.5.1 Detailed Charts
 The CEO/President, the Vice-CEO, Executive Vice President for
@@ -1142,7 +1396,10 @@ When the organization of OIST is to be restructured, the proposal of the
 new structure shall be approved with kessai by the CEO/President 14 days
 prior to the effective date.
 
-2.6 CEO/President’s Delegation of Authority
+9
+ch02_governance-organization_en_20180601_cl
+
+2.6 CEO/President’s Delegation of Authority
 As authorized by the Board of Governors, the President/CEO may delegate
 executive management and administrative authority to the University's Senior
 Level Executives. The CEO/President's delegations of authority authorize the
@@ -1150,10 +1407,7 @@ Senior Level Executives to act on behalf of the Corporation/University in the
 name of the CEO/President and to bind the Corporation/University within the
 scope of the delegated authority to a legally enforceable obligation. The
 CEO/President may condition, limit, or revoke any authorities so delegated at
-9
-ch02_governance-organization_en_20180401_cl
-
-any time. Authority reserved by the CEO/President may not be exercised by
+any time. Authority reserved by the CEO/President may not be exercised by
 any other person.
 Delegation of authority does not permit those so privileged to violate spending
 or signature thresholds established by the CEO/President for fiscal and
@@ -1182,17 +1436,16 @@ institutional conflict of interest related to that authority, as
 defined by University policy [link: 22].
 2.6.2.4 Employees with delegated authority must act only within
 the scope of that delegation. Employees who act outside the scope
-of their authority and do not have documented authority to do so
+10
+ch02_governance-organization_en_20180601_cl
+
+of their authority and do not have documented authority to do so
 may be subject to disciplinary action, up to and including
 termination.
 2.6.2.5 Delegates remain responsible and accountable at all times
 for the exercise of any authority they choose to sub-delegate to
 others.
-
-10
-ch02_governance-organization_en_20180401_cl
-
-2.6.3 Requirements for Delegation
+2.6.3 Requirements for Delegation
 2.6.3.1 Delegated authority must be granted and exercised
 consistent with the terms and conditions of the original
 delegation and with all applicable laws and University policies.
@@ -1220,25 +1473,25 @@ has the ultimate authority.
 2.7 Use & Management of Seals
 2.7.1 Official Seals – The Official Seals are the seals to signify
 authenticity of contracts, agreements, and other official documents of the
-Corporation or the University by affixing their seal impressions, and their
+11
+ch02_governance-organization_en_20180601_cl
+
+Corporation or the University by affixing their seal impressions, and their
 use is limited to that purpose. Typical examples include the official seals
 of;
- OIST School Corporation
- CEO of OIST School Corporation
- OIST Graduate University
- President of OIST Graduate University
+⚫ OIST School Corporation
+⚫ CEO of OIST School Corporation
+⚫ OIST Graduate University
+⚫ President of OIST Graduate University
 In addition, official seals for internal organizations or their heads may be
-11
-ch02_governance-organization_en_20180401_cl
-
-developed as necessary.
+developed as necessary.
 2.7.2 Production and Custody – Any of University/Corporation’s
-official seal shall be produced by the COO and registered in a registry
+official seals shall be produced by the COO and registered in a registry
 (Official Seal Registry) developed and maintained by the COO. The seals
 are in the custody of the COO or the officials that are registered in the
 Official Seal Registry with an approval of the COO. Any official seals shall
-be kept with utmost care in accordance with the guidelines [link] developed
-by the COO.
+be kept with utmost care in accordance with the guidelines developed by
+the COO.
 2.7.3 Use of Seals – Official seals shall be affixed by an employee
 registered in the registry only after carefully confirming the documents are
 authorized by the President/CEO or the authorized delegate.
@@ -1254,7 +1507,7 @@ used to verify the authenticity of the document in substitution for
 official seals.
 
 12
-ch02_governance-organization_en_20180401_cl
+ch02_governance-organization_en_20180601_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
