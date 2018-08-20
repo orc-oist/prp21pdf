@@ -17647,7 +17647,7 @@ allowance [link: 34.3.5.2] with regard to the amounts of housing allowance
 provided by OIST to residents.
 In cases of use of campus housing based on a sub-lease with OIST, OIST will
 collect as a usage charge. (The calculation method conforms to the provisions of
-35.3.3.3.2 Off-Campus Rental housing [link: 35.3.3.3.2].)
+35.3.3.3.1 Off-Campus Rental housing [link: 35.3.3.3.1].)
 The amounts of usage charges in cases of use of Seaside Faculty Housing are
 stipulated in 35.3.3.3 Usage charges [link: 35.3.3.3].
 Rent, etc., in cases where students reside in campus housing is stipulated in
@@ -17781,17 +17781,17 @@ Definitions
 25.8.1
 Campus housing
 The campus housing provided at OIST is as follows.
- Village Center
- West Court
- East Court
- South Hill
- Hillside Faculty House
- Seaside Faculty House
- President’s House
+⚫ Village Center
+⚫ West Court
+⚫ East Court
+⚫ South Hill
+⚫ Hillside Faculty House
+⚫ Seaside Faculty House
+⚫ President’s House
 25.9
 
 Appendices
-
+⚫
 
 Campus Housing Information (room types / sizes, rents, etc.) [link:]
 

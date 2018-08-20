@@ -23,7 +23,7 @@ ch21_use-of-university-resources_20170901_en_cl.pdf
 ch22_avoiding_conflicts_of_interest_&_commitment_en_20180401_cl_1.pdf
 ch23_misconduct-and-whistleblower-protection_en_20180605_cl.pdf
 ch24_Childcare-Services_20150401_en_cl.pdf
-ch25_Housing_20150601_en_cl.pdf
+ch25_Campus-Housing_en_20150601_cl.pdf
 ch26_finance-and-accounting_en_20180401_cl.pdf
 ch27_budget-planning-execution-and-monitoring_en_20180401_cl_0.pdf
 ch28_procurement_en_20180201_cl.pdf
