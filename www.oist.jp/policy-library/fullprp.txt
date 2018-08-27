@@ -15543,114 +15543,111 @@ Authority: Approved by the President
 Chapter 22 Avoiding Conflicts of Interest and
 Commitment
 22.1 Policy.
-In addition to their duties as faculty, academic and administrative staff, and
-the University Officers and other Senior Level Executives (collectively referred
-to as “employees” in this chapter) of OIST Graduate University (hereinafter
-“the University”) often serve on external committees, commissions, panels,
-and boards of directors. The more entrepreneurial among them engage in
-private consulting or other business activity. University employees also
-support a variety of social, community, and political causes. Moreover, in the
-course of their official duties, employees develop relationships with vendors,
-research sponsors, donors, and others who contribute to or support the
-University.
+In addition to their duties as faculty, academic and administrative staff, and the
+University Officers and other Senior Level Executives (collectively referred to
+as “employees” in this chapter) of OIST Graduate University (hereinafter “the
+University”) often serve on external committees, commissions, panels, and
+boards of directors. The more entrepreneurial among them engage in private
+consulting or other business activity. University employees also support a
+variety of social, community, and political causes. Moreover, in the course of
+their official duties, employees develop relationships with vendors, research
+sponsors, donors, and others who contribute to or support the University.
 It is the policy of the University to encourage all of these endeavors and
 relationships. However, care must be taken to ensure that none gives rise to
 conflicts of commitment or interest. The matters covered in this policy are of
-great importance to the University. Each member of the University
-community has a responsibility to avoid and prevent conflicts of interest and
-to take steps to avoid even the appearance of impropriety.
+great importance to the University. Each member of the University community
+has a responsibility to avoid and prevent conflicts of interest and to take steps
+to avoid even the appearance of impropriety.
 Responsibility for review and ultimate resolution of conflict of interest matters
-is vested in the Chief Compliance Officer (hereinafter “CCO); a four-person
-panel, comprised of University General Counsel, CCO, and two faculty
-members appointed by the Dean of Faculty Affairs.(known as the “Conflict of
-Interest Review Panel”) will assess the facts and report their findings and
-recommendation to the Chief Operating Officer (hereinafter “COO”) for
-decision. As a general rule, conflicts of interest determinations are based on
-what potential outcomes are made possible by the situation, rather than on
-the character, intent, or actions of the employee. However, a finding that an
-employee willfully ignored or intentionally violated the policies and rules of
-Chapter 22 requires that the employee be subjected to disciplinary action
-including significant sanction or possible termination of employment. See
-also Misconduct & Whistleblower Protection [link: 23].
-The following policies (and related rules [link: 22.3] and procedures [link:
-22.5]) should guide all University employees as they carry out their work at
-the University.
+is vested in the Chief Operating Officer (hereinafter “COO); a four-person
+panel, comprised of University General Counsel, Chief Compliance Officer
+(hereinafter “CCO”), and two faculty members appointed by the Dean of Faculty
+Affairs.(known as the “Conflict of Interest Review Panel”) will assess the facts
+and report their findings and recommendation to the COO for decision. As a
+general rule, conflicts of interest determinations are based on what potential
+outcomes are made possible by the situation, rather than on the character,
+intent, or actions of the employee. However, a finding that an employee
+willfully ignored or intentionally violated the policies and rules of Chapter 22
+requires that the employee be subjected to disciplinary action including
+significant sanction or possible termination of employment. See also
+Misconduct & Whistleblower Protection.
+The following policies (and related rules and procedures) should guide all
+University employees as they carry out their work at the University.
+22.1.1 Conflict of Commitment
 1
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
 
-22.1.1 Conflict of Commitment
-Because faculty and other University employees owe a duty of primary
+Because faculty and other University employees owe a duty of primary
 commitment to the University and its missions, it is the policy of the
 University that the external activities and engagements of employees
 may not demand so much of their time, effort, or attention that their
 ability to satisfy their obligations to the University is adversely affected.
-(Chapter 22.8.1[link: 22.8.1])
+(Chapter 22.8.1)
 22.1.2 Institutional Conflict of Interest
-University research, teaching, outreach, and other activities must not
-be compromised or be perceived as biased by institutional relationships
+University research, teaching, outreach, and other activities must not be
+compromised or be perceived as biased by institutional relationships
 with external entities. The existence (or appearance) of such conflicts
-can lead to actual bias, or suspicion about possible bias, in the review
-or conduct of the University’s business activities. It is the policy of the
-University that situations that may give rise to such conflicts be
-disclosed, evaluated, and discontinued if a conflict interest or
-commitment is present. This is necessary to prevent decisions, choices
-or actions that are incongruent with the missions, obligations, or values
-of the University. (Chapter 22.8.5[link: 22.8.5])
+can lead to actual bias, or suspicion about possible bias, in the review or
+conduct of the University’s business activities. It is the policy of the
+University that situations that may give rise to such conflicts be disclosed,
+evaluated, and discontinued if a conflict interest or commitment is
+present. This is necessary to prevent decisions, choices or actions that
+are incongruent with the missions, obligations, or values of the
+University. (Chapter 22.8.5)
 22.1.3 Individual Conflict of Interest
-When there is a divergence between an individual's private interests
-and his or her professional obligations to the University, such that an
+When there is a divergence between an individual's private interests and
+his or her professional obligations to the University, such that an
 independent observer might reasonably question whether the
 individual's professional actions or decisions are determined by
 considerations of personal gain, financial or otherwise, an Individual
-Conflict of Interest arises. It is the policy of the University that
-situations that might create conflicts be disclosed to and evaluated by
-the appropriate office as soon as they are known. If an actual or
-perceived conflict of interest or commitment is found, the relationship
-or activity must be discontinued. (Chapter 22.8.4[link: 22.8.4])
+Conflict of Interest arises. It is the policy of the University that situations
+that might create conflicts be disclosed to and evaluated by the
+appropriate office as soon as they are known. If an actual or perceived
+conflict of interest or commitment is found, the relationship or activity
+must be discontinued. (Chapter 22.8.4)
 22.1.3.1 Employing Related Parties
 It is the policy of the University to seek for its faculty the best
 possible teachers and scholars who are judged to be so in an
-international search preceding each appointment (Chapter 3
-[link: 3]). Similarly, it is the policy of the University for its
-academic and administrative staff the best qualified persons for
-the position through competitive selection process (Chapter
-31.3.2 [link: 31.3.2]). There are no bars to the appointment of
-“related parties” [link: 22.8.6], such as immediate family
-members, business partners, and close personal friends, to any
-University position, so long as each meets the relevant standard
+international search preceding each appointment (Chapter 3).
+Similarly, it is the policy of the University for its academic and
+administrative staff the best qualified persons for the position
+through competitive selection process (Chapter 31.3.2). There are
+no bars to the appointment of “related parties”, such as
+immediate family members, business partners, and close
+personal friends, to any University position, so long as each meets
+the relevant standard for appointment. However, no faculty
+member, or any other University employee shall vote, make
+recommendations, or in any other way participate in the decision
 2
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
 
-for appointment. However, no faculty member, or any other
-University employee shall vote, make recommendations, or in
-any other way participate in the decision of any matter which
-may directly affect the appointment, reappointment, tenure (for
-a faculty member), promotion, salary, or other status or interest
-of a related party, nor shall he or she supervise a related party.
+of any matter which may directly affect the appointment,
+reappointment, tenure (for a faculty member), promotion, salary,
+or other status or interest of a related party, nor shall he or she
+supervise a related party.
 22.1.3.2 Doing Business with Related Parties
 University employees must not conduct University business with
-related parties [link: 22.8.6] such as immediate family members,
-business partners, and close personal friends. University
-employees must not conduct University business with an entity
-in which a related party has a significant interest. University
-employees must not lease or purchase, on behalf of the
-University, real property in which a related party holds an
-ownership interest.
+related parties such as immediate family members, business
+partners, and close personal friends. University employees must
+not conduct University business with an entity in which a related
+party has a significant interest. University employees must not
+lease or purchase, on behalf of the University, real property in
+which a related party holds an ownership interest.
 22.1.3.3
 Individual Conflict of Interest Concerning Student
 Admission
 Faculty members who involve in student admission may have a
 conflict of interest. The policy, rules and procedures for such
 cases are provided by the Chapter 5, Graduate School Handbook
-(Chapter 5.13.1.6 [link: 5.13.1] ).
+(Chapter 5.13.1.6).
 22.1.4 Consulting and Other Business, Commercial or
 Financial Relationships
 The University believes that it is good and useful for faculty and other
 professional employees to deploy their expertise through
 entrepreneurial activity, such as providing consulting or other services
 to individuals, business entities, other universities, and the community.
-However, employees must be alert to the fact that implicit in activities
-of a commercial nature are conflicts of interest arising from access to
+However, employees must be alert to the fact that implicit in activities of
+a commercial nature are conflicts of interest arising from access to
 confidential information (the University’s and the commercial entity’s)
 and the possible ability to influence pertinent decisions of either entity.
 It is the policy of the University that such situations be disclosed to and
@@ -15658,37 +15655,35 @@ evaluated by the appropriate office as soon as they are known. If an
 actual or perceived conflict of interest or commitment is found, the
 relationship or activity must be discontinued.
 22.1.4.1 Employees may not engage in any outside business if it
-interferes with their responsibilities to the University. Faculty
-are generally granted leave to pursue such outside work
-(Chapter 3 [link: 3] ). Other employees are required to pursue
-such work outside their normal working hours or by using
-3
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
-
-accrued leave/vacation (Chapter 33 [link: 33]) with prior
-approval in accordance with OIST Rules for External
-Professional Activities [link: ].
+interferes with their responsibilities to the University. Faculty are
+generally granted leave to pursue such outside work (Chapter 3).
+Other employees are required to pursue such work outside their
+normal working hours or by using accrued leave/vacation
+(Chapter 33) with prior approval in accordance with OIST Rules
+for External Professional Activities.
 22.1.5 External Professional Activities
-It is the policy of the University to encourage its employees to
-contribute to society at large by serving on committees, commissions,
-advisory boards, boards of directors, task forces and other similar
-associations. It is also the policy of the University to require disclosure
-of, and to review, all such external engagements in order to detect and
-avoid potential conflicts of commitment or interest and other similar
-concerns, including the involvement of University resources[link: 21] in
-otherwise personal activities.
+3
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
+
+It is the policy of the University to encourage its employees to contribute
+to society at large by serving on committees, commissions, advisory
+boards, boards of directors, task forces and other similar associations. It
+is also the policy of the University to require disclosure of, and to review,
+all such external engagements in order to detect and avoid potential
+conflicts of commitment or interest and other similar concerns,
+including the involvement of University resources in otherwise personal
+activities.
 22.1.6 Political Activity
 Although the University encourages its employees at all levels to
 participate in the full spectrum of permissible political activities, both
 locally and nationally, it is University policy that no University
-endorsement may be implied or asserted by its employees when so
-doing (Chapter 15 [link: 15] ). Similarly, it is the policy of the
-University to forbid use of University resources, including their paid
-work time or the paid work time of other University employees, to
-support personal political activity (Chapter 21 [link: 21] ). Attention
-must be given also to the Policy on Conflict of Commitment [link:
-22.1.1] to ensure that outside political activity does not demand so
-much of an employee’s time, effort, or attention that their ability to
+endorsement may be implied or asserted by its employees when so doing
+(Chapter 15). Similarly, it is the policy of the University to forbid use of
+University resources, including their paid work time or the paid work
+time of other University employees, to support personal political activity
+(Chapter 21). Attention must be given also to the Policy on Conflict of
+Commitment to ensure that outside political activity does not demand
+so much of an employee’s time, effort, or attention that their ability to
 satisfy their obligations to the University is adversely affected.
 22.1.6.1 Permissible Political Activities
 Campaigning for Public Office. Although prior approval is not
@@ -15698,27 +15693,25 @@ appointment to public office should contact their responsible
 administrator/supervisor to discuss potential conflicts and work
 impact.
 22.1.6.2 Prohibited & Restricted Political Activities
-It is the policy of the University that its University Officers,
-Senior Level Executives and other employees do not influence
+It is the policy of the University that its employees do not
+influence inappropriately any decisions by national and local
+government officials, and that its employees refrain from conduct
+creating even an appearance of trying to influence
 inappropriately any decisions by national and local government
-officials, and that its University Officers, Senior Level Executives
-and other employees refrain from conduct creating even an
-appearance of trying to influence inappropriately any decisions
-by national and local government officials.
-4
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
-
-22.2 Examples of Conflicts of Interest
+officials.
+22.2 Examples of Conflicts of Interest
 It is essential that all University employees recognize, disclose, and avoid all
-conflicts of interest and commitment. Although the variations are endless,
-here are examples of how conflicts of interest may arise:
+conflicts of interest and commitment. Although the variations are endless, here
+are examples of how conflicts of interest may arise:
 22.2.1 Major Gifts from Commercial Sponsors.
-Significant gifts [link: 22.8.3] to the University from a commercial
-sponsor of research may raise questions about the influence of the
-company on the University’s research programs and how they are
-managed. Other similar concerns arise when individual companies
-sponsor research or provide significant consulting income to a
-significant number of faculty members.
+4
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
+
+Significant gifts to the University from a commercial sponsor of research
+may raise questions about the influence of the company on the
+University’s research programs and how they are managed. Other similar
+concerns arise when individual companies sponsor research or provide
+significant consulting income to a significant number of faculty members.
 22.2.1.1 Gifts, or promise of gifts, in exchange for favorable terms
 on a technology license, or first look at IP create a conflict of
 interest.
@@ -15737,44 +15730,44 @@ carefully scrutinized and evaluated; if it is determined to proceed, a
 written justification should be obtained.
 22.2.3 Acceptance of Gifts & Favors from Others
 Those doing business with the University, or wishing to do business with
-the University, may offer gifts [link: 22.8.3] (any item of personal benefit
-to the recipient) to University employees. These may range from the
-offer of a box of candy to paying for the employee’s dinner to an allexpenses-paid trip to a resort (to give a “talk”). Exorbitant honoraria,
-extremely generous speaker’s fees, luxury travel and accommodations,
-gifts of expensive equipment, or other lavish treatment may be offered by
+the University, may offer gifts (any item of personal benefit to the
+recipient) to University employees. These may range from the offer of a
+box of candy to paying for the employee’s dinner to an all-expenses-paid
+trip to a resort (to give a “talk”). Exorbitant honoraria, extremely
+generous speaker’s fees, luxury travel and accommodations, gifts of
+expensive equipment, or other lavish treatment may be offered by
 research sponsors and by vendors, and the items offered are often
 characterized as “in support of” the employee’s University activities. All
 such favors create impermissible conflicts of interest.
 However, we may accept “promotional goods or commemoratives to be
 widely distributed” such as pocket tissues, calendar, memo-booklet,
-5
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
-
-ballpoint pen free sample of research materials which are deemed
+ballpoint pen free sample of research materials which are deemed
 reasonable under normal social conventions.
-22.2.3.1 You may accept gifts & favors of not more than 5,000
-yen from universities or institutions which you do not have any
+22.2.3.1 You may accept gifts & favors of not more than 5,000 yen
+from universities or institutions which you do not have any
 conflict of interests with, without filing a report; however, if you
 accept gifts & favors from universities or institutions that exceed
-5,000 yen, you must submit a Report of Gifts & Favors [link:] to
-CCO.
+5
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
+
+5,000 yen, you must submit a Report of Gifts & Favors to CCO.
 22.2.4 Financial Interests Related to Licensing of University
 Technology.
 The University has an active program to license its inventions to
-commercial entities (Chapter 14 [link: 14] ). Under these licenses the
-University typically acquires a Financial Interest in successfully
-developed products and, sometimes, in the developing entity itself. These
-Financial Interests can be of concern when they may appear to influence
-decisions about the conduct of research, teaching or other activities. For
-example, even where individual investigators do not have a personal
-stake, knowledge that the University stands to gain financially from
-successful development of a licensed technology can influence the
-direction of related research, the objectivity of research, the
-dissemination of results and the allocation of University resources
-among competing projects. The potential for conflict increases where the
-licensee sponsors research at the University. In such situations, the
-University’s Financial Interests under the license may appear to affect
-decisions concerning the terms or conduct of the sponsored research.
+commercial entities (Chapter 14). Under these licenses the University
+typically acquires a Financial Interest in successfully developed products
+and, sometimes, in the developing entity itself. These Financial Interests
+can be of concern when they may appear to influence decisions about the
+conduct of research, teaching or other activities. For example, even where
+individual investigators do not have a personal stake, knowledge that the
+University stands to gain financially from successful development of a
+licensed technology can influence the direction of related research, the
+objectivity of research, the dissemination of results and the allocation of
+University resources among competing projects. The potential for conflict
+increases where the licensee sponsors research at the University. In such
+situations, the University’s Financial Interests under the license may
+appear to affect decisions concerning the terms or conduct of the
+sponsored research.
 22.2.4.1 Equity Interests in Start-up Companies. In licenses to
 start-up companies the University may accept equity in lieu of
 licensing fees or in exchange for reduced royalties. From a
@@ -15783,28 +15776,27 @@ far exceed the potential return from a royalty-only license. The
 potential for significant gain, and the possibility that it may be
 realized long before any product comes to market, increases the
 possibility that such an equity interest may influence or may
-appear to influence University decisions about research that
-could affect the value of the University’s equity position. Such
+appear to influence University decisions about research that could
+affect the value of the University’s equity position. Such
 arrangements must be fully disclosed and must be carefully
-scrutinized to ensure that research decisions are not influenced
-by the University’s potential for realizing financial gain.
+scrutinized to ensure that research decisions are not influenced by
+the University’s potential for realizing financial gain.
 22.2.4.2 University employees hired specifically to encourage
 faculty start-ups (for example, to seek broker financial
-6
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
-
-relationships with fledgling enterprises) create special exposure
+relationships with fledgling enterprises) create special exposure
 for universities and the perception of Institutional Conflicts of
 Interest. It is critical that these activities be reported and
 assiduously monitored to prevent conflicts of interest.
 22.2.5 Master Agreements with a Commercial Sponsor.
-Based on known research strengths, private sector entities may offer
-long-term funding support for research conducted within specific
-disciplines. This type of support, often governed by a master agreement,
-may attempt to give special preferences to the sponsoring entity. Such
-agreements must be carefully reviewed by those not involved in the
-carrying out of the agreement in order to prevent any inappropriate
-preference or other conflict of interest.
+Based on known research strengths, private sector entities may offer longterm funding support for research conducted within specific disciplines.
+6
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
+
+This type of support, often governed by a master agreement, may attempt
+to give special preferences to the sponsoring entity. Such agreements must
+be carefully reviewed by those not involved in the carrying out of the
+agreement in order to prevent any inappropriate preference or other
+conflict of interest.
 22.2.6 Advisory Committees and Collaborative Arrangements
 with Commercial Entities.
 Participation in collaborative agreements, advisory committees, research
@@ -15815,44 +15807,40 @@ provisions that will give rise to, or create the appearance of, conflicts.
 22.2.7 Research Involving the Use of Human Subjects.
 The University has special responsibilities to participants in human
 subjects research and must ensure that its financial relationships do not
-compromise its primary obligations to them. For this reason, the
-research must be subjected to close scrutiny to prevent even the
-appearance of a conflict of interest. Please refer to Chapter 13 [link:
-13.3.12] for other matters concerning research involving the use of
-human subjects.
+compromise its primary obligations to them. For this reason, the research
+must be subjected to close scrutiny to prevent even the appearance of a
+conflict of interest. Please refer to Chapter 13 for other matters concerning
+research involving the use of human subjects.
 22.2.8 Access to Closely-Held Information.
-University Senior Level Executives and University Officers, members of
-the Boards of Councilors and Governors, and other University employees,
-in the course of meeting their obligations and duties to the University,
-may get early knowledge of new technologies and other significant
-developments. Some of these same members may hold a management
-role or board seat on companies’ Board of Directors that are looking to
-contribute to major developments, to license technology, or to sponsor
-research at the University. Use of such information for private
-inurement gives rise to ethical questions and a conflict of interest. Use
-for personal purposes of information received as an employee of the
-University is forbidden.
-7
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
-
-22.3 Rules
+Councilors and Governors and other employees, in the course of meeting
+their obligations and duties to the University, may get early knowledge of
+new technologies and other significant developments. Some of these same
+members may hold a management role or board seat on companies’ Board
+of Directors that are looking to contribute to major developments, to
+license technology, or to sponsor research at the University. Use of such
+information for private inurement gives rise to ethical questions and a
+conflict of interest. Use for personal purposes of information received as
+an employee of the University is forbidden.
+22.3 Rules
 All those working for, or on behalf of, the University must conduct their affairs
 so as to avoid conflicts of commitment and interest, or even the appearance of
 such conflicts.
 22.3.1 Annual Disclosure
 To facilitate evaluation of situations that may give rise to conflicts of
-interest, formal written disclosure [link: 22.5.1] of external activities
-and commitments is required of all full-time University employees each
-year. All full-time University employees must timely complete and
-submit an annual “Conflicts of Interest Disclosure Form for External
-Activities” [link: 22.6] to the CCO.
-22.3.2 Immediate Disclosure Requirement. If a situation raising
+interest, formal written disclosure of external activities and
+commitments is required of all employees each year. All University
+employees must timely complete and submit an annual “Conflicts of
+Interest Disclosure Form for External Activities” to the COO.
+7
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
+
+22.3.2 Immediate Disclosure Requirement. If a situation raising
 questions of conflict of commitment or interest arises after submission
 of the annual disclosure, those involved must immediately bring the
 situation to the attention of designated personnel in the Compliance
 Section (University Officers and Senior Level Executives), the Faculty
-Affairs Office (faculty and academic staff), or Compliance Section
-(other employees).
+Affairs Office (faculty and academic staff), or Compliance Section (other
+employees).
 22.3.3 Additional Special Disclosures Required of Faculty and
 Academic Staff
 22.3.3.1 Faculty and Academic Staff must foster the open and
@@ -15864,73 +15852,70 @@ basis the creation or discovery of all potentially patentable
 inventions created or discovered in the course of their University
 activities or with more than incidental use of University
 resources. Ownership of such inventions must be assigned to the
-University regardless of the source of funding. The inventor
-must share in royalties earned.
+University regardless of the source of funding. The inventor must
+share in royalties earned.
 22.3.3.3 In addition to disclosure to the Faculty Affairs Office,
 Faculty and Academic Staff must disclose in writing to their
 supervisor, or to the principal investigator on their research,
-whether they (or Related Parties [link: 22.8.6]) have consulting
-arrangements, significant Financial Interests, or employment in
-an outside entity which provides funding to the University or is
-8
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
-
-involved in procurement or technology licensing relationships
-with the University.
-22.3.3.4 In any situations in which the objectivity of an
-Academic Staff or faculty member could reasonably be
-questioned as subject to a Conflict of Interest, the affected
-employee must contact the Faculty Affairs Office for review and
-determination of appropriate actions.
+whether they (or Related Parties) have consulting arrangements,
+significant Financial Interests, or employment in an outside
+entity which provides funding to the University or is involved in
+procurement or technology licensing relationships with the
+University.
+22.3.3.4 In any situations in which the objectivity of a faculty
+member or Academic Staff could reasonably be questioned as
+subject to a Conflict of Interest, the affected employee must
+contact the Faculty Affairs Office for review and determination of
+appropriate actions.
 22.3.4 Political Activity
 University employees may not use the University’s names or marks
-(Chapter 15 [link: 15]), must not imply University endorsement, and
-may not use any University resources in political activity or in
-individual campaigns for office or in political literature. Employees
-campaigning or fundraising for or holding public office must comply
-with University policies regarding use of University resources [link:
-21.1] (equipment, services, facilities, property, and their or other
-employees’ paid work time).
+(Chapter 15), must not imply University endorsement, and may not use
+any University resources in political activity or in individual campaigns
+8
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
+
+for office or in political literature. Employees campaigning or
+fundraising for or holding public office must comply with University
+policies regarding use of University resources (equipment, services,
+facilities, property, and their or other employees’ paid work time).
 22.3.4.1 Campaigning for Public Office. Discussion with a
 supervisor is required if the duties of a campaign or the holding
 of an office would seriously interfere or conflict with the
 fulfillment of the employee’s University responsibilities,
 including hours of work. The discussion should focus on (1) the
-degree to which the individual would be absent from work
-and/or the activities related to the employee’s candidacy would
-interfere with the performance of his or their regular duties; (2)
-whether temporary suspension of some portion of the
-employee's responsibilities can be reasonably accommodated
-without imposing a significant resource burden on the
-employee's division/office or research unit; and (3) how the
-absence might be most effectively accommodated.
+degree to which the individual would be absent from work and/or
+the activities related to the employee’s candidacy would interfere
+with the performance of his or their regular duties; (2) whether
+temporary suspension of some portion of the employee's
+responsibilities can be reasonably accommodated without
+imposing a significant resource burden on the employee's
+division/office or research unit; and (3) how the absence might be
+most effectively accommodated.
 22.3.5 Related Parties
 22.3.5.1
 University employees may not vote, make
-recommendations, or in any other way participate in the
-decision of any matter which may directly affect the
-appointment, reappointment, tenure (for a faculty member),
-promotion, salary, or other status or interest of related parties
-[link: 22.8.6] and may not supervise related parties.
-
-9
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
-
-22.3.5.2 University employees may not conduct University
-business with vendors owned or operated by a related party
-[link: 22.8.6] .
+recommendations, or in any other way participate in the decision
+of any matter which may directly affect the appointment,
+reappointment, tenure (for a faculty member), promotion, salary,
+or other status or interest of related parties and may not supervise
+related parties.
+22.3.5.2 University employees may not conduct University
+business with vendors owned or operated by a related party.
 22.3.5.3 University employees may not conduct University
 business with an entity in which a significant interest is held or
-owned by a related party [link: 22.8.6] .
+owned by a related party.
 22.3.5.4 The University may not lease or purchase real property
 owned by a University employee or by a member of that
-employee’s related party [link: 22.8.6] .
+employee’s related party.
 22.3.6 Gratuities and Favors
 University employees may not accept gifts, trips, meals, or other similar
 blandishments and inducements from those doing business, or wishing
 to do business, with the University at any level and to any degree. This
 prohibition affects sponsors of research as well as vendors.
-22.3.7 Purchases from Entities in which the University has a
+9
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
+
+22.3.7 Purchases from Entities in which the University has a
 Financial Interest
 Review by and advance approval from the Vice President for Financial
 Management is required for procurement of goods and services from
@@ -15939,65 +15924,62 @@ University technology, or who are major contributors to University
 activities.
 22.3.8 I.P. Licensing, Master Agreements for Sponsored
 Research, Research Collaboration with Commercial Entities
-Review for conflicts of interest by University General Counsel is
-required before entering into I.P. licensing agreements, master
-agreements with commercial sponsors, or any other agreements
-providing special access to research (advisory panels, collaboration
-agreements, review by external committees, and similar researchrelated arrangements).
+Review for conflicts of interest by University General Counsel is required
+before entering into I.P. licensing agreements, master agreements with
+commercial sponsors, or any other agreements providing special access
+to research (advisory panels, collaboration agreements, review by
+external committees, and similar research-related arrangements).
 22.3.9 Confidential, Business-Confidential & Closely-held
 (Inside) Information
-It is forbidden to use confidential, business-confidential and closelyheld or similar inside information received as an employee of the
-University for personal purposes.
+It is forbidden to use confidential, business-confidential and closely-held
+or similar inside information received as an employee of the University
+for personal purposes.
 22.4 Responsibilities
 22.4.1 All employees
-10
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
-
-All employees must observe the policies set out at 22.1[link: 22.1] and
-comply with all the rules set out at 22.3[link: 22.3];
-22.4.1.1 All full-time University employees must complete and
-submit a Conflict of Interest Disclosure Form for External
-Activities annually; and
-22.4.1.2 All full-time University employees with a new conflict
-must immediately disclose and discuss with a supervisor as well
-as contacting the Compliance Section (University Officers and
-Senior Level Executives), the Faculty Affairs Office (faculty and
-academic staff), or Compliance Section (other employees).
+All employees must observe the policies set out at 22.1 and comply with
+all the rules set out at 22.3;
+22.4.1.1 All University employees must complete and submit a
+Conflict of Interest Disclosure Form for External Activities
+annually; and
+22.4.1.2 All University employees with a new conflict must
+immediately disclose and discuss with a supervisor as well as
+contacting the Faculty Affairs Office (faculty and academic staff),
+or the Compliance Section (other employees).
 22.4.2 All supervisors
 All supervisors must instruct employees regarding the content of this
 chapter.
 22.4.2.1 All supervisors must monitor employee activities with
 regard to receipt of gifts/favors from vendors and sponsors,
-employment of and transactions involving related parties, use of
+10
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
+
+employment of and transactions involving related parties, use of
 inside information, purchases of goods and services from
 research sponsors, and employment of and purchases from
-“related parties [link: 22.8.6] ”.
-22.4.3 Employees at any level campaigning for public office
-Employees at any level campaigning for public office must advise his or
-her supervisor.
+“related parties”.
+22.4.3 All Employees campaigning for public office
+All employees campaigning for public office must advise his or her
+supervisor.
 22.4.4 Academic Staff and Faculty
 Academic Staff and Faculty must make additional disclosures set out at
-22.3.3[link: 22.3.3].
-22.4.5 The Dean of Faculty Affairs and the CCO
-The Dean of Faculty Affairs, for faculty and academic staff, and the
-CCO, for all other employees, must establish procedures to assure
-compliance with annual disclosure and other Conflict of Interest
-reporting requirements, provide initial review of disclosed situation,
-and report to the COO for its final review when it finds the situation
-that might create conflict of interests or commitments.
+22.3.3.
+22.4.5 The Dean of Faculty Affairs and the COO
+The Dean of Faculty Affairs, for faculty and academic staff, and the COO,
+for all other employees, must establish procedures to assure compliance
+with annual disclosure and other Conflict of Interest reporting
+requirements, provide initial review of disclosed situation, and request
+the Conflict of Interest Review Panel to assess the fact when it finds the
+situation that might create conflict of interests or commitments.
 22.4.6 The COO
 The COO must establish and staff a “Conflict of Interest Review Panel”
 comprised of the General Counsel, the COO, and two faculty members.
-The COO is responsible for making determination of appropriate
-11
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
-
-actions regarding conflict of interests or commitments, hearing report
-and recommendation by the panel. In addition, the COO, for University
-Officers and executives, must establish procedures to assure
-compliance with annual disclosure and other Conflict of Interest
+The COO is responsible for making determination of appropriate actions
+regarding conflict of interests or commitments, hearing report and
+recommendation by the panel. In addition, the COO, for University
+Officers and Senior Level Executives, must establish procedures to
+assure compliance with annual disclosure and other Conflict of Interest
 reporting requirements, provide review of disclosed situation, and
-report to the Board of Governors when it deems necessary.
+report to the President and Board of Governors when it deems necessary.
 22.4.7 The Conflict of Interest Review Panel
 The “Conflict of Interest Review Panel” (the General Counsel, the CCO,
 and two faculty members appointed by the Dean of Faculty Affairs) in
@@ -16008,7 +15990,10 @@ In addition to serving on the COO’s “Conflict of Interest Review Panel,”
 the General Counsel must review research-related agreements and
 arrangements for impermissible special provisions and other potential
 conflicts of interest.
-22.5 Procedures
+11
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
+
+22.5 Procedures
 22.5.1 annual disclosure process
 22.5.1.1 faculty, administrative staff, other employees
 22.5.1.2 University Officers, other Senior Level Executives
@@ -16024,15 +16009,12 @@ The COO, the CCO and the Dean of Faculty Affairs
 22.7.2 Other Contacts
 The Faculty Affairs Office:
 Compliance Section:
-12
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
-
-22.8 Definitions
+22.8 Definitions
 22.8.1 Conflict of Commitment
 If the external activities and engagements of employees demand or
 consume so much of their time, effort, or attention that their ability to
-satisfy their obligations to the University is adversely affected, a
-Conflict of Commitment exists.
+satisfy their obligations to the University is adversely affected, a Conflict
+of Commitment exists.
 22.8.2 Financial Interest
 Financial Interest is an actual or foreseeable nontrivial financial benefit
 resulting from a decision.
@@ -16040,90 +16022,84 @@ resulting from a decision.
 For purposes of this chapter, a “gift” is any gratuity, favor, discount,
 entertainment, hospitality, loan, forbearance, service, training,
 transportation, lodging, meals, or other item that constitutes a personal
-benefit to the recipient, which is offered/given by anyone doing
-business with the University or desiring to do business with the
-University, including sponsors of research. A gift to a family member of
-a University official or a gift to any other individual based on that
-individual's relationship with a University official, may be considered a
-“gift” for purposes of this chapter if it is given with the knowledge and
+benefit to the recipient, which is offered/given by anyone doing business
+with the University or desiring to do business with the University,
+12
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
+
+including sponsors of research. A gift to a family member of a University
+official or a gift to any other individual based on that individual's
+relationship with a University official, may be considered a “gift” for
+purposes of this chapter if it is given with the knowledge and
 acquiescence of the University employee and if the University employee
 has reason to believe the gift was given because of the recipient's
 University status. The word “gift” as used in this Chapter does not
-include any gift (contribution, donation, bequest) made to the
-University as described in Chapter 7, Fundraising [link: 7.8].
+include any gift (contribution, donation, bequest) made to the University
+as described in Chapter 7, Fundraising.
 22.8.4 Individual Conflict of Interest
-When there is a divergence between an individual's private interests
-and his or her professional obligations to the University, such that an
+When there is a divergence between an individual's private interests and
+his or her professional obligations to the University, such that an
 independent observer might reasonably question whether the
 individual's professional actions or decisions are determined by
 considerations of personal gain, financial or otherwise, there is an
-Individual Conflict of Interest. An individual conflict of interest
-depends on the situation, and not on the character or actions of the
-individual.
+Individual Conflict of Interest. An individual conflict of interest depends
+on the situation, and not on the character or actions of the individual.
 22.8.5 Institutional Conflicts of Interest
-An Institutional Conflict of Interest may occur when the University,
-any of its University Officers, Senior Level Executives, members of the
-Board of Governors, or a graduate school, division, or other sub-unit,
-or an affiliated foundation or organization, has an external relationship
-13
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
-
-with or Financial Interest in an entity that itself has a Financial Interest
-in University projects, research, or business transactions. University
-Officers, Senior Level Executives or members of the Boards of
-Governors may also have conflicts when they serve on the boards of (or
-otherwise have an official relationship with) organizations that have
-significant commercial transactions with the University. The existence
-(or appearance) of such conflicts can lead to actual bias, or suspicion
-about possible bias, in the review or conduct of research at the
-University. If they are not evaluated or managed, they may result in
-choices or actions that are incongruent with the missions, obligations,
-or the values of the University.
+An Institutional Conflict of Interest may occur when the University, any
+of its University Officers, Senior Level Executives, members of the Board
+of Governors, or a graduate school, division, or other sub-unit, or an
+affiliated foundation or organization, has an external relationship with
+or Financial Interest in an entity that itself has a Financial Interest in
+University projects, research, or business transactions. University
+Officers, Senior Level Executives or members of the Boards of Governors
+may also have conflicts when they serve on the boards of (or otherwise
+have an official relationship with) organizations that have significant
+commercial transactions with the University. The existence (or
+appearance) of such conflicts can lead to actual bias, or suspicion about
+possible bias, in the review or conduct of research at the University. If
+they are not evaluated or managed, they may result in choices or actions
+that are incongruent with the missions, obligations, or the values of the
+University.
 22.8.6 Related Parties
-For the purpose of this policy and chapter, “related parties” include,
-but are not limited to, an employee’s immediate family members
-(parents, siblings, spouses, children, other relatives within third degree
-of kinship), persons living in the same the home/residence as the
-employee, persons with whom the employee has a close personal
-friendship, and persons with whom the employee has a business
-partnership or association.
-22.8.7 University Officers
+For the purpose of this policy and chapter, “related parties” include, but
+are not limited to, an employee’s immediate family members (parents,
+siblings, spouses, children, other relatives within third degree of
+kinship), persons living in the same the home/residence as the employee,
+persons with whom the employee has a close personal friendship, and
+persons with whom the employee has a business partnership or
+association.
+13
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
+
+22.8.7 University Officers
 University Officers for purposes of this chapter are persons performing
 in the following capacities:
- President/CEO,
- Vice CEO, and
- Auditors.
+⚫ President/CEO,
+⚫ Vice CEO, and
+⚫ Auditors.
 22.8.8 Senior Level Executives
 University Senior Level Executives are defined in Chapter 30.2.2.1.1 of
 the PRP.
- Executive Vice President for Technology Development and
+⚫ Executive Vice President for Technology Development and
 Innovation,
- Provost,
- COO,
- Vice President,
- Dean (including Dean of Faculty Affairs and Dean of the
-Graduate School),
- General Counsel, and
- Any other person designated by the President/CEO
+⚫ Provost,
+⚫ COO,
+⚫ Vice President,
+⚫ Dean (including Dean of Faculty Affairs and Dean of the Graduate
+School),
+⚫ General Counsel, and
+⚫ Any other person designated by the President/CEO
 22.8.9 Academic Staff
 Academic Staff for purposes of this chapter are persons performing in
 the following capacities:
-14
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
-
-
-
-
-
-
-Postdoctoral Scholars,
-Research Scientists,
-Technical Staff working in a research unit, and
-Any other position for academic and/or scientific activities of the
+⚫ Postdoctoral Scholars,
+⚫ Research Scientists,
+⚫ Technical Staff working in a research unit, and
+⚫ Any other position for academic and/or scientific activities of the
 University.
 
-15
-ch22_avoiding-conflict-of-interests-&-commitment_en_20180401_cl
+14
+ch22_avoiding-conflict-of-interests-&-commitment_en_20180817_cl
 
 Policies, Rules and Procedures
 Authority:

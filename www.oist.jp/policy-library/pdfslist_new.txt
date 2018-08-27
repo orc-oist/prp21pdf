@@ -19,7 +19,7 @@ https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch18_Telecommu
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch19_university-events_en_20171110_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch20_health%20and%20welness%20program_20170901_en_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch21_use-of-university-resources_20170901_en_cl.pdf
-https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch22_avoiding_conflicts_of_interest_%26_commitment_en_20180401_cl_1.pdf
+https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch22_avoiding_conflicts_of_interest_%26_commitment_en_20180817_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch23_misconduct-and-whistleblower-protection_en_20180605_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch24_Childcare-Services_20150401_en_cl.pdf
 https://oist-prod-www.s3-ap-northeast-1.amazonaws.com/s3fs-public/ch25_Campus-Housing_en_20150601_cl.pdf
