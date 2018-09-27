@@ -26,7 +26,6 @@ complying with School Corporation requirements.
 Because many of the policies, rules, and procedures in the Library have
 general applicability, this online PRP Library is accessible to the community
 outside School Corporation. Visitors, guests, vendors, and others who may be
-
 1
 ch00_about-the-prp-library_en_20180401_cl
 
@@ -45,9 +44,9 @@ The COO is responsible for maintaining the Library of Policies, Rules and
 Procedures.
 Officers and employees follow procedures specified in 0.4.1 when they
 establish new or revise some chapters of PRP.
-However, the COO shall convene the PRP Review Committee [link:] for review
-as necessary before his/her approval in case of significant matters such as
-major change of Policies or draft of new Chapters.
+However, the COO shall convene the PRP Review Committee for review as
+necessary before his/her approval in case of significant matters such as major
+change of Policies or draft of new Chapters.
 In principal, date of enforcement of the proposal for establishment or revision
 is set in the Document for Approval Process (kessai). In the case that the date
 is not set in the Document for Approval Process (kessai), the proposal come
@@ -406,10 +405,7 @@ Documented Approval Process (kessai).
 
 0.3.3 Any employee who are proposing to establish new or revise
 Regulations prepares a draft and the Document for the Approval
-Process (kessai) by following the procedures in 0.4.2, and
-
-shall
-
+Process (kessai) by following the procedures in 0.4.2, and shall
 obtain approvals from relevant Designated University Officer(s) and
 COO.
 0.3.4 Rules and Procedures Section reviews drafts of PRP and
@@ -442,22 +438,21 @@ established new or revised PRP chapters submitted as a Document
 for Approval Process (Kessai).
 0.4 Procedures
 0.4.1 Procedures to establish new or revised PRP Chapter
-0.4.1.1 Read “How to Write a PRP Chapter” [link:] for guidance on
-drafting to establish new chapter or to revise any PRP chapter.
+0.4.1.1 Read “How to Write a PRP Chapter” for guidance on drafting
+to establish new chapter or to revise any PRP chapter.
 0.4.1.2 Any employee who is proposing to establish a new or revise
 PRP chapter, prepares a draft and submits that to relevant
-Designated University Officer[Link.0.3.1], and obtains
-agreement from him/her. The Designated University Officer
-consults and discusses with other department(s) and obtains
-consent on the draft, in the case that the establishment or
-revision contains other Designated University Officer’s
-assignment.
+Designated University Officer, and obtains agreement from
+him/her. The Designated University Officer consults and
+discusses with other department(s) and obtains consent on the
+draft, in the case that the establishment or revision contains
+other Designated University Officer’s assignment.
+0.4.1.3 Any employee who is proposing to establish a new or revise
 
 7
 ch00_about-the-prp-library_en_20180401_cl
 
-0.4.1.3 Any employee who is proposing to establish a new or revise
-PRP chapter, submits the draft, which is admitted by the
+PRP chapter, submits the draft, which is admitted by the
 Designated University Officer(s), to the Rules and Procedures
 Section, and modifies the draft as necessary responding to the
 review.
@@ -486,6 +481,7 @@ new or revise the Regulation, submits the draft, which is
 admitted by the Designated University Officer(s), to the Rules
 and Procedures Section, and modifies the draft as necessary
 responding to the review.
+
 8
 ch00_about-the-prp-library_en_20180401_cl
 
@@ -505,7 +501,7 @@ and approve PRP changes ,and ensure the consistency as a
 whole, and maintain the mission and policies of School
 Corporation.
 0.4.3.2 Details of PRP Review Committee is specified separately by
-the COO [link;].
+the COO [link].
 0.5 Contacts
 0.5.1 Owner:
 COO
@@ -513,12 +509,12 @@ COO
 Rules and Procedures Section rules@oist.jp
 
 ***
+The University reserves the right to augment, revise, add and delete Policies,
 
 9
 ch00_about-the-prp-library_en_20180401_cl
 
-The University reserves the right to augment, revise, add and delete Policies,
-Rules and Procedures Chapters at any time.
+Rules and Procedures Chapters at any time.
 ***
 
 10
