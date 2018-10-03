@@ -423,14 +423,7 @@ or other relevant tools.
 6
 ch00_about-the-prp-library_en_20180401_cl
 
-0.3.4.3 Rules and Procedures Section maintains files of Unit-Specific
-Internal Procedures and Processes [link: 0.4.2] that have been
-approved and will make them available on an internal website
-restricted to University employees.
-0.3.4.4 Rules and Procedures Section sends an email notification of
-the change(s) to the OIST Graduate University Community on or
-several days in advance of the effective date.
-0.3.5 The COO provides a review for content/substance for each draft of
+0.3.5 The COO provides a review for content/substance for each draft of
 established new or revised PRP chapter or Regulation submitted as a
 Document for Approval Process (Kessai).
 0.3.6 The CEO/President reviews and gives final approval to a draft of
@@ -448,11 +441,7 @@ discusses with other department(s) and obtains consent on the
 draft, in the case that the establishment or revision contains
 other Designated University Officer’s assignment.
 0.4.1.3 Any employee who is proposing to establish a new or revise
-
-7
-ch00_about-the-prp-library_en_20180401_cl
-
-PRP chapter, submits the draft, which is admitted by the
+PRP chapter, submits the draft, which is admitted by the
 Designated University Officer(s), to the Rules and Procedures
 Section, and modifies the draft as necessary responding to the
 review.
@@ -460,7 +449,10 @@ review.
 PRP chapter, creates the Document for Approval Process
 (kessai) attached the draft admitted by the Designated
 University Officer(s) and Rules and Procedures Section, and
-obtains approvals from the COO, and any other relevant
+7
+ch00_about-the-prp-library_en_20180401_cl
+
+obtains approvals from the COO, and any other relevant
 department’s heads.
 0.4.1.5 Any employee who is proposing to establish a new or revise
 PRP chapter, informs establishment and revisions of PRP
@@ -481,11 +473,7 @@ new or revise the Regulation, submits the draft, which is
 admitted by the Designated University Officer(s), to the Rules
 and Procedures Section, and modifies the draft as necessary
 responding to the review.
-
-8
-ch00_about-the-prp-library_en_20180401_cl
-
-0.4.2.3 Any officers and employees who is proposing to establish a
+0.4.2.3 Any officers and employees who is proposing to establish a
 new or revise the Regulation, creates the Document for Approval
 Process (kessai) attached the draft admitted by the Designated
 University Officer(s) and the Rules and Procedures Section, and
@@ -493,7 +481,10 @@ obtains approvals from the Designated University Officer, COO,
 and any other relevant department’s heads.
 0.4.2.4 Any officers and employees who are proposing to establish a
 new or revise the Regulation, informs establishment and
-revisions under the instruction of the Designated University
+8
+ch00_about-the-prp-library_en_20180401_cl
+
+revisions under the instruction of the Designated University
 Officer.
 0.4.3 PRP Review Committee
 0.4.3.1 School Corporation set the PRP Review Committee to review
@@ -510,14 +501,10 @@ Rules and Procedures Section rules@oist.jp
 
 ***
 The University reserves the right to augment, revise, add and delete Policies,
-
-9
-ch00_about-the-prp-library_en_20180401_cl
-
-Rules and Procedures Chapters at any time.
+Rules and Procedures Chapters at any time.
 ***
 
-10
+9
 ch00_about-the-prp-library_en_20180401_cl
 
 OIST Graduate University
