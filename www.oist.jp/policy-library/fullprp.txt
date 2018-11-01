@@ -3007,16 +3007,16 @@ Chapter 4. Research Activities
 Policy
 The OIST Graduate University (hereinafter, “University”) promotes research activities that
 embody the five central concepts stated in 1.1.1 OBJECTIVES OF THE OIST GRADUATE
-UNIVERSITY [link: 1.1.1]: Best in the World, International, Flexible, Global Networking, and
+UNIVERSITY: Best in the World, International, Flexible, Global Networking, and
 Collaboration with Industry. The University encourages interdisciplinary research through
-effective collaboration between University faculty [link: 4.2.1], research staff (which means
-those who engage in research activities at the University (people with research appointment
-[link: 4.2] other than University Faculty, Research Fellows [link: 4.3] and Science and
-Technology Associates [link: 4.5.1]; the same applies hereinafter), and students. The
-University respects Academic Freedom, and all researchers (University faculty and research
-staff; the same applies hereinafter) at the University should observe Openness in Research
-[link: 1.3.1]. The Office of the Dean of Research [link: 2.4.5.7] is responsible for providing
-technical and administrative support for the Research Units.
+effective collaboration between University faculty, research staff (which means those who
+engage in research activities at the University (people with research appointment other than
+University Faculty, Research Fellows and Science and Technology Associates; the same
+applies hereinafter), and students. The University respects Academic Freedom, and all
+researchers (University faculty and research staff; the same applies hereinafter) at the
+University should observe Openness in Research. The Office of the Dean of Research [link:
+2.4.5.7] is responsible for providing technical and administrative support for the Research
+Units.
 A unique feature of research at the University is its internal funding that enables challenging
 critical problems with cutting-edge technologies. The President, through the Dean of
 Research, has the authority to allocate internal research funding for common resources and
@@ -3042,7 +3042,7 @@ public dissemination.
 
 1
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
 Research at the University may not be conducted for the economic benefit of any particular
 company or other commercial entity. Commercially sponsored research has the potential to
@@ -3058,26 +3058,25 @@ Research Appointments
 
 4.2.1 Faculty
 Necessary matters regarding faculty research appointments are stipulated in Chapter 3
-“Faculty Handbook” [link: 03].
+“Faculty Handbook”.
 4.2.2 Group Leaders
-Definitions for Group Leaders are described in “Guidelines for Title and Job
-Class”[link:].The appointment to Group Leader is “Fixed-term”. Group Leader
-appointments, unless by exception such as childbirth or illness, or unless appointed as
-“Continuing” described below, are limited to 3 years. Extension of appointment beyond 3
-years is only possible under extraordinary circumstances and requires approval by the Dean
-of Faculty Affairs. In rare cases, Group Leaders with evidence of wide external and internal
-recognition of achievements in research may be appointed as “Continuing”. Continuing
-appointment must be approved by the Continuing Staff Appointment Committee. In
-addition, Group Leaders with Continuing appointments will be reviewed by the Continuing
-Staff Appointment Committee, no less than every five years for promotion and salary
-adjustments.
+Definitions for Group Leaders are described in “Guidelines for Title and Job Class”. The
+appointment to Group Leader is “Fixed-term”. Group Leader appointments, unless by
+exception such as childbirth or illness, or unless appointed as “Continuing” described
+below, are limited to 3 years. Extension of appointment beyond 3 years is only possible
+under extraordinary circumstances and requires approval by the Dean of Faculty Affairs. In
+rare cases, Group Leaders with evidence of wide external and internal recognition of
+achievements in research may be appointed as “Continuing”. Continuing appointment must
+be approved by the Continuing Staff Appointment Committee. In addition, Group Leaders
+with Continuing appointments will be reviewed by the Continuing Staff Appointment
+Committee, no less than every five years for promotion and salary adjustments.
 4.2.3 Research Specialists
-Definitions for research Specialists are described in “Guidelines for Title ans Job
-Class”[link:]. Appointment at the Research Specialist level will require convincing
-evidence of significant scientific or technical achievements beyond those expected at the
-Staff Scientist level and/or qualifications not usually found in a University setting.
-Research Specialist appointments, unless by exception such as childbirth or illness, or
-unless appointed as “Continuing” described below, are limited to 3 years. Extension of
+Definitions for research Specialists are described in “Guidelines for Title ans Job Class”.
+Appointment at the Research Specialist level will require convincing evidence of
+significant scientific or technical achievements beyond those expected at the Staff
+Scientist level and/or qualifications not usually found in a University setting. Research
+Specialist appointments, unless by exception such as childbirth or illness, or unless
+appointed as “Continuing” described below, are limited to 3 years. Extension of
 appointment beyond 3 years is only possible under extraordinary circumstances and
 requires approval by the Dean of Faculty Affairs. In rare cases, Research Specialists with
 evidence of wide external and internal recognition of achievements in research may be
@@ -3086,12 +3085,12 @@ Continuing Staff Appointment Committee. In addition, Research Specialists with
 Continuing appointments will be reviewed by the Continuing Staff Appointment
 Committee, no less than every five years for promotion and salary adjustments.
 4.2.4 Staff Scientists
+Definitions for Staff Scientists are described in “Guidelines for Title ans Job Class”. Staff
 2
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-Definitions for Staff Scientists are described in “Guidelines for Title ans Job Class”[link:]. Staff
-Scientists appointments, unless by exception such as childbirth or illness, are restricted to
+Scientists appointments, unless by exception such as childbirth or illness, are restricted to
 a maximum of three years. At the discretion of the faculty member, the initial appointment
 may be for 1 or 2 years, with an extension up to a total of 3 years. Extension of appointment
 beyond 3 years is only possible under extraordinary circumstances and requires approval
@@ -3109,17 +3108,16 @@ awards, presented lectures, and participation in professional organizations. Sta
 with Continuing appointments will be reviewed by the Continuing Staff Appointment
 Committee no less than every five years for promotion and salary adjustments.
 4.2.5 Postdoctoral Scholars
-Definitions for Postdoctral Scholars are described in “Guidelines for Title and Job
-Class”[link:]. Initial appointments may be up to three years, with extensions to a fourth year
-being possible and to a fifth year only under extreme circumstances. The appointment is
-“Fixed-term” without renewal, which means that it is a temporary appointment normally
-for 3 years and cannot exceed 5 years.
+Definitions for Postdoctral Scholars are described in “Guidelines for Title and Job Class”.
+Initial appointments may be up to three years, with extensions to a fourth year being
+possible and to a fifth year only under extreme circumstances. The appointment is “Fixedterm” without renewal, which means that it is a temporary appointment normally for 3
+years and cannot exceed 5 years.
 4.2.6 Research Unit Technicians
 Definitions for Research Unit Technicians are described in “Guidelines for Title and Job
-Class”[link:]. Research Unit Technicians appointments are generally Fixed-term, but may
-be continued by re-appointment as a “Fixed-term” or converted to a Continuing
-appointment. Continuing appointments must be approved by the Continuing Staff
-Appointment Committee.
+Class”. Research Unit Technicians appointments are generally Fixed-term, but may be
+continued by re-appointment as a “Fixed-term” or converted to a Continuing appointment.
+Continuing appointments must be approved by the Continuing Staff Appointment
+Committee.
 4.2.7 Dean’s Research Group
 The Dean’s Research Group carries out research under the guidance of the Dean of
 Faculty Affairs, and is used in exceptional circumstances when, for example, there are
@@ -3132,19 +3130,19 @@ Dean of Research and the approval of the President.
 
 Research Support Appointments
 
+4.3.1 Research Support Leaders
 3
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-4.3.1 Research Support Leaders
-Definitions for Research Support Leaders are described in “Guidelines for Title and Job
-Class”[link:].
+Definitions for Research Support Leaders are described in “Guidelines for Title and Job
+Class”.
 4.3.2 Research Support Specialists
 Definitions for Research Support Specialists are described in “Guidelines for Title and
-Job Class”[link:].
+Job Class”.
 4.3.3 Research Support Technicians
 Definitions for Research Support Technicians are described in “Guidelines for Title and
-Job Class”[link:].
+Job Class”.
 4.4 Research Fellows
 4.4.1
 Research Fellows
@@ -3178,12 +3176,12 @@ Research Fellows perform or are expected to perform following activities at the
 University:
 a) Research Fellows work under the supervision of a faculty member.
 b) Research Fellows are expected to publish, and may be supported
+towards the publication of the results of their research during the
 4
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-towards the publication of the results of their research during the
-training period.
+training period.
 c) Research Fellows may be involved with the pre-thesis and thesis
 work of students working in the Research Unit of their supervising
 Faculty member.
@@ -3218,13 +3216,12 @@ at the University
 j) Utilization of welfare facilities of the University (Those which are provided
 by Promotion of Mutual Aid Corporation for Private Schools of Japan are
 exclusive.)
-
+k) Other treatment which the Dean of Research deems appropriate.
 5
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-k) Other treatment which the Dean of Research deems appropriate.
-4.4.6 Management of Grants-in Aid of Research Fellows
+4.4.6 Management of Grants-in Aid of Research Fellows
 If Research Fellows receive Grants-in-Aid for Scientific Research from research funding
 agencies, the fund shall be managed by the University in accordance with the provisions
 of the rules of the University. When they intend to purchase goods or pursue
@@ -3232,8 +3229,8 @@ domestic/foreign travels by the fund, it must be requested in accordance with th
 procedures stipulated in Chapter 28 and 29 of OIST Policies, Rules and Procedures
 (PRP).
 4.4.7 Handling of intellectual property created by Research Fellows
-Regulations of Chapter 14 of the PRP [link:14.1] shall be applied for the handling of
-intellectual property created by the researches in which Research Fellows engage.
+Regulations of Chapter 14 of the PRP shall be applied for the handling of intellectual
+property created by the researches in which Research Fellows engage.
 4.4.8 Insurance coverage of Research Fellows
 The University takes out an insurance to provide certain support in the case of the
 accidents and other incidents occurred during regular research activities. However, it is
@@ -3243,7 +3240,7 @@ insurance by their own expense in case of accident and for their health care.
 In the same manner as employees of the University, Research Fellows must comply with
 Japanese laws and regulations as well as OIST’s policies, rules and procedures. If
 Research Fellows perform the acts indicated as the Reasons for Discipline for Employees
-of the University [link: 38.2], President may cancel the acceptance of the relevant
+of the University [link: 38.1], President may cancel the acceptance of the relevant
 Research Fellows.
 4.4.10
 Miscellaneous
@@ -3253,22 +3250,27 @@ Other details shall be separately determined by the Dean of Research.
 OIST Researcher Community (ORC)
 4.5.1
 Role of the ORC
-The ORC represents all Postdoctoral Scholars, Staff Scientists, Research Specialists
-and Research Fellows at OIST. It provides them with information about university
-matters, collects their opinions and suggestions, and provides feedback to the University.
+The ORC represents all Postdoctoral Scholars, Staff Scientists, Research Specialists,
+Research Unit Technicians, and Research Fellows at OIST. It provides them with
+information about university matters, collects their opinions and suggestions, and
+provides feedback to the University. The ORC champions diversity and
+welcomes/encourages participation in its Office, Advisory Groups, and various
+Committees of members representing different gender identities, cultures, religions,
+employee statuses, scientific disciplines, etc.
 4.5.2
 Membership and Officers
 The membership of the ORC includes all Postdoctoral Scholars, Staff Scientists,
-Research Specialists and Research Fellows who have OIST as their primary affiliation.
-The ORC elects two Researcher Representatives and one alternate, a Chairperson, and
-a Secretary. Elections will be held at least every two years by secret ballot, as often
-as the Chairperson deems necessary. Officers can be removed from their position
-by a written petition signed by a majority of the members of the ORC.
+Research Specialists, Research Unit Technicians, and Research Fellows who have OIST
+as their primary affiliation. The ORC elects two Researcher Representatives and one
+alternate, a Chairperson, and a Secretary. Elections will be held at least every two
 6
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-4.5.3
+years by secret ballot, as often as the Chairperson deems necessary. Officers can be
+removed from their position by a written petition signed by a majority of the members
+of the ORC.
+4.5.3
 Meetings
 The ORC will hold meetings as necessary and at least quarterly. Each unit is encouraged
 to have at least one member attend the meetings to encourage interaction,
@@ -3310,14 +3312,14 @@ STA work in the STG on projects that extend and complement the University’s re
 portfolio and that support the wider development of Okinawa. These positions cover a
 wide range of skills and are used flexibly to enhance the capabilities of the University.
 STAs require special research skills and subject knowledge in a relevant scientific,
-technical, industrial, educational, or cultural discipline. There are three STA levels,
-dependent upon qualifications and experience, with each level requiring increasing
-professional achievement. Definitions for STAs are described in “Guidelines for Title and
 7
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-Job Class”[link:].
+technical, industrial, educational, or cultural discipline. There are three STA levels,
+dependent upon qualifications and experience, with each level requiring increasing
+professional achievement. Definitions for STAs are described in “Guidelines for Title and
+Job Class”.
 STAs may conduct their own research or may be affiliated with a research unit and
 allocated resources. With the agreement of the Dean of Faculty Affairs, STAs may apply
 for external grants as a Principal Investigators.
@@ -3351,16 +3353,15 @@ cannot be multiplied for multiple births (e.g., twins).
 This policy is independent of maternity, parental, or childcare leave. Taking such
 leave does not automatically lead to application of Stop-the-Clock Policy. An
 extension of the review start date does not alter the STA’s normal duties.
-The Stop-the-Clock application form [Link] must be submitted to the Dean of
-Faculty Affairs before the review process begins (i.e., by the due date for
-submission of materials for review evaluation). Upon approval of the application
 
 8
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-form by the Dean of Faculty Affairs and the President, the following actions will
-be taken.
+The Stop-the-Clock application form must be submitted to the Dean of Faculty
+Affairs before the review process begins (i.e., by the due date for submission of
+materials for review evaluation). Upon approval of the application form by the
+Dean of Faculty Affairs and the President, the following actions will be taken.
 1.
 
 The review date will be postponed by up to one year.
@@ -3398,14 +3399,15 @@ The President will render a decision based on the recommendations above and
 will inform the STA of the result.
 4.6.1.4 Process after the 2nd review (Change to continuing
 appointment)
-The Dean of Faculty Affairs will decide whether to propose a change from noncontinuing to continuing appointment to the CSAC by considering the outcome
-of the 2nd external expert peer review described in 4.6.1.1 and anticipated future
+The Dean of Faculty Affairs will decide whether to propose a change from non-
 
 9
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-contributions to the University.
+continuing to continuing appointment to the CSAC by considering the outcome
+of the 2nd external expert peer review described in 4.6.1.1 and anticipated future
+contributions to the University.
 a) If the Dean of Faculty Affairs decides not to propose a continuing
 appointment, the Dean of Faculty Affairs recommends that the President
 terminate non-continuing appointment of the STA at the end of their current
@@ -3440,13 +3442,13 @@ the issue of termination of the employment contract in accordance with the
 applicable Rules of Employment.
 If the CSAC does not recommend a continuing appointment, the STA’s
 appointment will terminate at the end of their current contract period, or one
-year from notification of the decision, whichever is later, subject to the limitation
-in 4.6.1.5.
 10
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-4.6.1.5 Total period of non-continuing appointment
+year from notification of the decision, whichever is later, subject to the limitation
+in 4.6.1.5.
+4.6.1.5 Total period of non-continuing appointment
 Under no circumstances, should the total period of non-continuing appointment
 exceed 10 years counting from the fixed term (non-continuing) contract start
 date or a contract extension executed on or after April 1, 2013.
@@ -3483,14 +3485,14 @@ The Forum will meet at least twice in each academic year. Forum meetings are
 attended by the Dean of Faculty Affairs, the Dean of Research, the STG Research
 Unit Administrator (who acts as the forum secretary), the Executive Assistant to
 the Dean of Faculty Affairs, and the HR Assistant to the Dean of Faculty Affairs
-as necessary. The President has a standing invitations to attend.
-The Dean of Faculty Affairs reports on the STG Forum to the Faculty Council,
-and presents the STG Annual Report to the Faculty Assembly.
 11
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-4.7
+as necessary. The President has a standing invitations to attend.
+The Dean of Faculty Affairs reports on the STG Forum to the Faculty Council,
+and presents the STG Annual Report to the Faculty Assembly.
+4.7
 External Researchers
 In enhancing OIST research through collaboration and ezchange, OIST invites researchers
 from other Universities or research entities to conduct research with OIST researchers. This
@@ -3506,7 +3508,7 @@ This research takes place under the terms of an external researcher agreement, w
 sponsorship of an OIST faculty member. Agreements are valid for up to one calendar
 year, extensions beyond the initial agreement term require a repeat of the approval
 process prior to the expiry of the original agreement. Definitions for Visiting
-Researchers are described in “Guidelines for Title and Job Class”[link: ].
+Researchers are described in “Guidelines for Title and Job Class”.
 4.7.2 Visiting Fellows
 This research takes place under the terms of an external researcher agreement, with the
 sponsorship of an OIST faculty member. Agreements are valid for up to one calendar
@@ -3514,31 +3516,30 @@ year, extensions beyond the initial agreement term require a repeat of the appro
 process prior to the expiry of the original agreement. Note that fellows employed under
 formal awards from foundations made with OIST (i.e. where OIST is the host
 institution), are classified as “Fellows” and are managed separately. Definitions for
-Visiting Fellows are described in “Guidelines for Title and Job Class”[link: ].
+Visiting Fellows are described in “Guidelines for Title and Job Class”.
 4.7.3 Collaborating Researchers
 This research takes place under the terms of both an external researcher agreement and
 an over-arching inter-institutional agreement, along with the sponsorship of an OIST
 faculty member. Invitations are valid for up to one calendar year, extensions beyond the
 initial agreement term require a repeat of the approval process prior to the expiry of the
 original agreement. Definitions for Collaborating Researchers are described in
-“Guidelines for Title and Job Class”[link: ].
+“Guidelines for Title and Job Class”.
 4.7.4
 Research Consultants
 This research takes place under the umbrella of an external researcher agreement, with
 the sponsorship of an OIST faculty member. Agreements are valid for up to one
 calendar year, extensions beyond the initial agreement term require a repeat of the
 approval process prior to the expiry of the original agreement. Definitions for Research
-Consultants are described in “Guidelines for Title and Job Class”[link: ].
-4.7.5
+Consultants are described in “Guidelines for Title and Job Class”.
+12
+
+ch04_research-activities_en_20181025_cl
+
+4.7.5
 Guest Researcher
 Guest Researchers must sign a simple guest researcher agreement, binding them to
 conform to OIST policy and other legal and contractual requirements. Definitions for
-
-12
-
-ch04_research-activities_en_20180401_cl
-
-Guest Researcher are described in “Guidelines for Title and Job Class”[link: ].
+Guest Researcher are described in “Guidelines for Title and Job Class”.
 4.8
 Mentor
 The University provides mentors who give appropriate assistance and advice to junior
@@ -3551,11 +3552,11 @@ Faculty Affairs. Students are mentored by academic mentors [link: 5.3.10].
 4.9
 Responsibilities for Research Staff and Student
 Faculty members are not only scientific mentors for research staff and students but are also
-leaders in the workplace. They should make sure that the Policy on a Respectful Workplace
-[link: 1.3.2] is observed within their units. Each faculty member should provide an
-opportunity for their unit members to clearly understand this Policy. Assessing the
-knowledge of these policies and inviting constructive input regarding these policies should
-be part of each unit members’ annual performance appraisal.
+leaders in the workplace. They should make sure that the Policy on a Respectful Workplace is
+observed within their units. Each faculty member should provide an opportunity for their
+unit members to clearly understand this Policy. Assessing the knowledge of these policies
+and inviting constructive input regarding these policies should be part of each unit members’
+annual performance appraisal.
 4.10
 
 Organizations for Supporting Research
@@ -3567,22 +3568,23 @@ research related matters.
 4.10.1.1 Safety and Health Committee
 See Rules for Safety and Health Committee [link: 13.2.1]
 4.10.1.2 Radiation Safety Committee
-See Rules for Radiation Safety Committee [link: 13.3.11]
+See Rules for Radiation Safety Committee [link: 13.3.10]
 4.10.1.3 Biosafety Committee
-See Rules for Biosafety & Recombinant DNA Committee [link: 13.3.8/9]
+See Rules for Biosafety & Recombinant DNA Committee [link: 13.3.7/8]
 4.10.1.4 Animal Care and Use Committee
-See Rules for Animal Care and Use Committee [link: 13.3.10]
+See Rules for Animal Care and Use Committee [link: 13.3.9]
 4.10.1.5 Human Subject Research Review Committee
-See Rules for Human Subject Research Review Committee [link: 13.3.12]
+See Rules for Human Subject Research Review Committee [link: 13.3.11]
 4.10.1.6 Laser Safety Advisory Committee
-See Rules for Laser Safety [link: TBP]
-4.10.2 Research Support Division
-The Research Support Division provides support for common research
+
 13
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-resources as well as for research conducted by research units. The Division
+See Rules for Laser Safety [link: 13.3.3]
+4.10.2 Research Support Division
+The Research Support Division provides support for common research
+resources as well as for research conducted by research units. The Division
 has the following Sections:
 4.10.2.1
 
@@ -3625,21 +3627,20 @@ with the Code of Conduct for Scientists (2013, Science Council of Japan) and the
 for Providing an Appropriate Response to Misconduct in Research Activities (2014, Decision
 by the Minister of Education, Culture, Sports, Science, and Technology).
 Experiments in certain categories are required to be reviewed by the relevant Advisory
-Committee [link: 4.5.1] and then approved by the Dean of Research before commencement.
-Further, some materials and equipment are subject to regulatory controls (including
-administrative guidelines) for acquisition, handling, storage, record-keeping, disposal, and
-installation. Activities involving controlled items must comply with relevant statutes,
-regulations and guidelines. Researchers have the right to engage in consulting and other
-activities with external partners, subject to the University’s policy on Conflicts of Interest and
-Commitment as defined in Chapter 22 [link: 22].
-4.11.1 Mechanisms for the Responsible Conduct of Research
-4.11.1.1 Research Ethics Chief Administrative Officer
-
+Committee and then approved by the Dean of Research before commencement. Further,
+some materials and equipment are subject to regulatory controls (including administrative
+guidelines) for acquisition, handling, storage, record-keeping, disposal, and installation.
+Activities involving controlled items must comply with relevant statutes, regulations and
+guidelines. Researchers have the right to engage in consulting and other activities with
+external partners, subject to the University’s policy on Conflicts of Interest and Commitment
+as defined in Chapter 22.
 14
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-The President has the ultimate responsibility for ensuring responsible research
+4.11.1 Mechanisms for the Responsible Conduct of Research
+4.11.1.1 Research Ethics Chief Administrative Officer
+The President has the ultimate responsibility for ensuring responsible research
 conduct at the University as the Research Ethics Chief Administrative Officer.
 The Research Ethics Chief Administrative Officer eliminates those factors that
 may foster wrongful research conduct, and establishes an environment and
@@ -3677,14 +3678,15 @@ research unit, an agreement should be made with the faculty regarding what data 
 moved. When a faculty member or research staff leaves the University, while the ownership
 of the research data remains with the University, the Dean of Research can authorize a
 proper data transfer arrangement to ensure that the on-going research is not hindered.
-4.11.4 Management of Research Materials
-Research materials used in research, such as genetic samples and living modified
-organisms (LMOs), are valuable resources for the science community at large. Many
+
 15
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-journals and funding agencies require such materials to be made publicly available
+4.11.4 Management of Research Materials
+Research materials used in research, such as genetic samples and living modified
+organisms (LMOs), are valuable resources for the science community at large. Many
+journals and funding agencies require such materials to be made publicly available
 after publication. Appropriate conditions, such as extremely low temperatures, must
 be maintained for the preservation of research samples/materials and one must take
 proper procedures when transferring them so that she/he can respond to such request
@@ -3699,15 +3701,15 @@ the research involving radioisotopes, recombinant DNA, pathogens, toxins, animal
 human subjects) are approved by the relevant Advisory Committee before
 commencement of the research and that approved protocols are followed by all
 research unit members. For specific research protocols that require approval, see
-Chapter 13 “Safety, Health & Environmental Protection” [link: 13].
+Chapter 13 “Safety, Health & Environmental Protection”.
 4.11.6 Publication of Research Results
 The results of research conducted at the University are required to be made public as
 soon as possible in the form of journal articles, presentation at a conference or
-similarly appropriate venues (Chapter 1.3.1, Openness in Research [link: 1.3.1]). While
-publishing research results, faculty members and researchers must ensure that there
-are no violations, such as fabrications, falsifications, plagiarism, duplicate
-submissions, inappropriate authorship, or the use of copyrighted materials without
-gaining permission or giving credit.
+similarly appropriate venues (PRP 1.3.1, Openness in Research). While publishing
+research results, faculty members and researchers must ensure that there are no
+violations, such as fabrications, falsifications, plagiarism, duplicate submissions,
+inappropriate authorship, or the use of copyrighted materials without gaining
+permission or giving credit.
 The Okinawa Institute of Science and Technology Graduate University Institutional
 Repository (hereinafter referred to as “OISTIR”) serves as the platform for public
 access to the intellectual output of the University. Publications and other research
@@ -3721,28 +3723,28 @@ central budget.
 Japan, like most nations, imposes controls and duties on the import and export of
 many goods, including materials and equipment used in basic research of the type
 conducted at the University. Intellectual property such as software, production knowhow, and even User Manuals are also regulated and controlled by the import/export
-regulations. Goods approved for import may also be subject to fees/taxes (sometimes
-referred to as “duties”) and periodical report to the authority, although items used in
-university-based research may be eligible for an exemption from duties. Great care
 
 16
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-must be exercised and the Security Export Control Officer should be consulted to
+regulations. Goods approved for import may also be subject to fees/taxes (sometimes
+referred to as “duties”) and periodical report to the authority, although items used in
+university-based research may be eligible for an exemption from duties. Great care
+must be exercised and the Security Export Control Officer should be consulted to
 assure export/import control compliance. Refer to the government’s Security Trade
 Control website [link: http://www.meti.go.jp/policy/anpo/englishpage.html] and the
 Foreign Exchange and Foreign Trade Control Law [link:
 http://www.japaneselawtranslation.go.jp/law/detail/?id=21&vm=04&re=01]
 4.11.8 Conflicts of Interest and Commitment
 Faculty members must disclose any situation that could lead to any real or apparent
-conflicts of interest as detailed in Chapter 22 “Conflicts of Interest and Commitment”
-[link:22].
+conflicts of interest as detailed in Chapter 22 “Avoiding Conflicts of Interest and
+Commitment”.
 4.12 Health, Safety, and Environmental Protection
 All researchers conducting research activities must do so under the relevant health, safety,
 and environmental protection regulations. For health, safety and environmental protection
 information, researchers are required to fully understand and observe Chapter 13 “Safety,
-Health & Environmental Protection” [link: 13].
+Health & Environmental Protection”.
 Each faculty member is responsible for training the members of their team in the
 appropriate health and safety procedures for that particular research area and for the
 management of those procedures in their laboratory or other workplace. Faculty members
@@ -3753,27 +3755,28 @@ external agencies.
 Intellectual property may be a source of revenue to support the education and research
 mission of the University [link: 14]. In recognition of this, the University requires disclosure
 to the University when information and developments derived from research may be of
-broader benefit or/and have commercial value. The Technology Licensing Section [link:
-14.4.2] provides support in identifying and evaluating potential intellectual property,
-manages the preparation of patent applications, and monitors the effective use of such
-properties. Nondisclosure and Confidentiality Agreements raise significant concerns as the
-terms of such agreements may conflict with the University’s Openness in Research Policy
-[link:1.3.1]. A contractual commitment to keep information secret can severely restrict the
-ability of University faculty to pursue research in the manner they choose and can make it
-difficult for the University to protect the ideas and inventions derived from the work of the
-faculty and researchers.
+broader benefit or/and have commercial value. The Technology Licensing Section provides
+support in identifying and evaluating potential intellectual property, manages the
+preparation of patent applications, and monitors the effective use of such properties.
+Nondisclosure and Confidentiality Agreements raise significant concerns as the terms of
+such agreements may conflict with the University’s Openness in Research Policy. A
+contractual commitment to keep information secret can severely restrict the ability of
+University faculty to pursue research in the manner they choose and can make it difficult for
+the University to protect the ideas and inventions derived from the work of the faculty and
+researchers.
 It is forbidden to sign or otherwise bind the University to a confidentiality obligation
 without first having obtained written approval from the General Counsel. Those seeking an
 in-depth review of this subject relating to the University’s activities, please see Chapter 14,
-“Intellectual Property & Technology Transfer”[link:14].
-4.14 Fiscal Obligations
-Faculty members and recipients of external grants are responsible for managing their
-funding properly and efficiently. (See Chapter 26 “Finance & Accounting” [link: 26])
+“Intellectual Property and Technology Transfer”.
+
 17
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-4.15 Operation and Management of Public Research Grants
+4.14 Fiscal Obligations
+Faculty members and recipients of external grants are responsible for managing their
+funding properly and efficiently. (See Chapter 26 “Finance and Accounting”)
+4.15 Operation and Management of Public Research Grants
 4.15.1 Mechanisms for the Operation and Management of Public Research
 Grants
 4.15.1.1 Public Research Grant Chief Administrative Officer
@@ -3809,15 +3812,14 @@ accomplishments
 (3) Monitors the use and management of public research grants by the
 persons engaged in such works relating to the use or management of
 public research grants and provides instructions for improvements
-as necessary
-4.15.2 Internal Research Funding
-The University’s internal funding for a research unit is allocated each fiscal year based on
-
 18
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-a five-year research program confirmed by the President at the time of the initial
+as necessary
+4.15.2 Internal Research Funding
+The University’s internal funding for a research unit is allocated each fiscal year based on
+a five-year research program confirmed by the President at the time of the initial
 appointment and recommended by a review committee at the time of renewal. Any
 research equipment approved for a five-year research program should be considered
 common or shared equipment. The Dean of Research along with the Research Support
@@ -3854,18 +3856,17 @@ approved by the Dean of Research before submission.
 4.15.3.2 Private Funding and Joint Research
 When an opportunity for private research funding or joint research with an
 industrial partner emerges, the faculty is required to consult the Business
-Development Section for the appropriate contract or agreement. Privately funded
-research at the University must be of an academic nature and needs to be
-disseminated as a publication or conference presentation (see Chapter 1.3.1
-
 19
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-Openness in Research [link: 1.3.1]). When conducting privately funded or joint
-industrial research, the policies and requirements regarding Intellectual Property
-and Technology Transfer [link: 14] and Conflicts of Interest and Commitment
-[link: 22] must be observed.
+Development Section for the appropriate contract or agreement. Privately funded
+research at the University must be of an academic nature and needs to be
+disseminated as a publication or conference presentation (see PRP 1.3.1
+Openness in Research). When conducting privately funded or joint industrial
+research, the policies and requirements regarding Intellectual Property and
+Technology Transfer and Avoiding Conflicts of Interest and Commitment must
+be observed.
 4.15.3.3 Management of External Funds
 The use of external grants in general needs to conform to the requirements
 described in the University Policies, Rules & Procedures, in the same manner as
@@ -3899,24 +3900,24 @@ the scheduling of the facility use so that the University researchers’ program
 compromised.
 4.16.3 Cost Charging
 The Office of the Dean of Research, under the oversight of the Dean of Research, is
-required to establish appropriate charges for facility use and services for internal users,
-external academic users, and industrial users. The basic principle is to charge internal
-users for the incremental cost per use and to charge external academic users for a share
 20
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
-of the annual maintenance costs and to charge industrial users for the installation and
+required to establish appropriate charges for facility use and services for internal users,
+external academic users, and industrial users. The basic principle is to charge internal
+users for the incremental cost per use and to charge external academic users for a share
+of the annual maintenance costs and to charge industrial users for the installation and
 depreciation of the facility.
 4.17 Reporting and Investigation procedures
 For reporting and investigation procedures in the case of any misconduct or suspicion
-thereof in research activities and use of research grants, see Chapter 23 [link: 23].
+thereof in research activities and use of research grants, see Chapter 23.
 4.18 Contacts
 Policy Owner: Dean of Research
 
 21
 
-ch04_research-activities_en_20180401_cl
+ch04_research-activities_en_20181025_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
