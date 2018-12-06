@@ -16126,7 +16126,7 @@ indirect use (or attempted use) of official authority or official influence for
 the purpose of interfering with the rights of an employee or a student to
 make a Protected Disclosure.
 1
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 23.2 Rules
 23.2.1
@@ -16170,7 +16170,7 @@ Research Misconduct are set forth in 23.4.4. For investigation of
 misconduct in research activities other than Specified Research
 Misconduct [link: 23.7.6.2.1] such as duplicate submissions and
 2
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 inappropriate authorship, 23.4.4 will apply mutatis mutandis to the
 procedures as necessary.
@@ -16210,7 +16210,7 @@ retaliation complaint filed by whistleblowers, attempted
 whistleblowers or employees or members who have refused to obey
 an Illegal Order.
 3
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 23.2.3.3 The University will take whatever action is necessary to
 prevent and correct violations of this Whistleblower Protection
@@ -16251,7 +16251,7 @@ response and investigation of the public research fund misuse, and is a
 contact point for reporting the public research fund misuse. The Dean of
 Faculty Affairs is the General Administrative Officer over the response and
 4
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 investigation of the misconduct in research activities, and is a contact
 point for reporting the misconduct in research activities. Also, under the
@@ -16289,7 +16289,7 @@ academic supervisor or the Dean of the Graduate School; and
 Dean of Faculty Affairs.
 
 5
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 Table 1: Contact points of report of misconduct
 Contact Points
@@ -16351,7 +16351,7 @@ whistleblowers, taking account of the contents of the case.
 concerning significant misconduct, it shall promptly notify
 thereof to the COO, the Dean of Research or the Dean of Faculty
 6
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 Affairs.
 23.4.1.1.5 When the contact point finds that the University is
@@ -16391,7 +16391,7 @@ Preliminary Investigation, the COO will investigate the
 credibility, rationality and the purpose of the report, in addition
 to the credibility and rationality of conducting the Substantial
 7
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 Investigation, etc.
 23.4.2.1.2 The COO shall review the details of the report from
@@ -16433,7 +16433,7 @@ before making a determination, notify the respondent of the
 contents of the investigation to ask for the respondent's
 comments. The respondent may submit his/her comments to
 8
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 the Compliance Investigatory Committee within 30 days from
 the date of notification of the contents of investigation under the
@@ -16477,7 +16477,7 @@ adverse disposition, submit reports with additional descriptions
 including dispositions on the concerned persons, factors facilitated
 the misconduct and recurrence prevention measures to the Board of
 9
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 Governors, Auditors, the Funding Agency, Cabinet Office and the
 relevant ministries and agencies, within, unless otherwise specified,
@@ -16517,7 +16517,7 @@ Dean of Research is instructed by the President/CEO to conduct
 the Preliminary Investigation, the Dean of Research will
 investigate the credibility and so on of the report, and will submit
 10
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 the results thereof to the President/CEO within 14 days from the
 date of receipt of the instruction.
@@ -16549,8 +16549,8 @@ Committee is handled by the Office of the Dean of Research.
 (3) COO
 (4) Vice President, Financial Management
 (5) Dean of Faculty Affairs
-(6) Research Finance Manager
-(7) HR Management Section Leader
+(6) Associate Vice President for Human Resources
+(7) Research Finance Manager
 (8) Compliance Section Leader
 (9) Accounting Section Leader
 (10) Grants and Research Collaborations Section Leader
@@ -16559,7 +16559,7 @@ Committee is handled by the Office of the Dean of Research.
 necessary
 23.4.3.2.2 The Public Research Fund Investigatory Committee
 11
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 will investigate whether there was public research fund misuse,
 what kind of misuse took place, who were involved in the alleged
@@ -16602,7 +16602,7 @@ submit reports with additional descriptions including
 dispositions on the concerned persons, factors facilitated the
 misuse, information on mechanisms for managing and
 12
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 supervising public research funds which are other than those
 subject to the investigation and said concerned persons are
@@ -16646,7 +16646,7 @@ Research Fund Investigatory Committee of the decision. When the
 President/CEO has decided not to conduct a re-investigation, he/she
 will notify the respondent and the Public Research Fund
 13
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 Investigatory Committee of the decision with a reason why the reinvestigation will not be conducted. The respondent may not further
 appeal against said decision on the appeal.
@@ -16686,7 +16686,7 @@ deemed necessary.
 determined to be bad faith, the President/CEO will take an
 appropriate disciplinary action against the whistleblower in
 14
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 accordance with Chapter 38 “Discipline”.
 23.4.4 Procedures for Investigation of Specified Research
@@ -16736,7 +16736,7 @@ of funding which funds the research subject to the reporting.
 Budget Section, and Grants and Research Collaborations Section
 will provide a report on the source of funding to the Dean of
 15
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 Faculty Affairs.
 23.4.4.1.4 The Dean of Faculty Affairs will decide whether to
@@ -16786,7 +16786,7 @@ been made, the President/CEO will notify in writing the
 whistleblower and the respondent that the Substantial
 Investigation will be carried out and ask them to cooperate with
 16
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 the investigation. When the respondent belongs to an entity
 other than the University, the notice will also be given to said
@@ -16831,7 +16831,7 @@ reproduction of the same experiment will be carried out within
 the extent that the CPR finds it reasonably necessary taking
 account of a necessary period and opportunity (including
 17
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 equipment, costs, and other relevant matters). In doing so,
 guidance and supervision provided by the CPR will be followed.
@@ -16877,7 +16877,7 @@ or
 Technical
 
 18
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 In carrying out investigation, a special care shall be used so that
 research or technical information subject to investigation such
@@ -16920,7 +16920,7 @@ responsibility, that the research activities have been carried out
 in accordance with scientifically appropriate methods and
 procedures, and the papers have been written based thereon
 19
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 using appropriate expressions, presenting scientific evidence
 that supports his/her explanation.
@@ -16965,7 +16965,7 @@ Notebooks [link: TBP] or the research institution that the
 respondent belonged to when he/she was carrying out the
 alleged research activities.
 20
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 iii) Specific standard of proof regarding the preceding two
 paragraphs and basic elements which should normally exist in
@@ -17009,7 +17009,7 @@ proceedings initiated by the respondent; the provision of
 Misconduct Took Place” above will apply mutatis mutandis to
 the determination in this case) whose reporting has been
 21
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 determined to be bad faith may file an appeal, by applying
 mutatis mutandis the preceding paragraph.
@@ -17054,7 +17054,7 @@ Agency, the Cabinet Office, the relevant ministries and agencies
 thereof and Auditors. The same applies to the case where it has
 decided to dismiss the appeal or to carry out re-investigation.
 22
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 vi) When the CPR has started re-investigation, it will decide,
 within a period of 50 days, whether or not it will overturn the
@@ -17098,7 +17098,7 @@ investigation if information of the case under investigation has
 been divulged outside the University or if an unintentional
 mistake was found in a research paper. When it has been
 23
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 determined that the reporting was bad faith, the results of the
 investigation will be made public.
@@ -17145,7 +17145,7 @@ all of the granted competitive research funding, the determined
 person and the University will respond to the request in good
 faith.
 24
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 ii)
 The determined person may be subject to restrictions on
@@ -17187,7 +17187,7 @@ Dean of Faculty Affairs
 23.6.2 Other Contacts
 The Office of Dean of Research
 25
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 The Office of Dean of Faculty Affairs
 Compliance Section
@@ -17227,7 +17227,7 @@ students, vendors, that violates any applicable Japanese legal or
 regulatory provisions, or violates Bylaws, University Rules, Policies, Rules,
 and Procedures (PRPs), (collectively, “non-compliance”), and misconduct
 26
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 in research activities by these people. The scope of non-compliance
 includes public research fund misuse.
@@ -17269,7 +17269,7 @@ equipment or processes, or changing data or results being
 obtained from research activities such that the research is not
 accurately represented.
 27
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 (iii) Plagiarism: It is the appropriation of another
 researcher's ideas, analysis processes, data, results, manuscripts
@@ -17297,7 +17297,7 @@ that the contents of the complaint are true or a statement that the
 complainant believes that the contents of the complaint are true.
 
 28
-ch23_misconduct-and-whistleblower-protection_en_20180605_cl
+ch23_misconduct-and-whistleblower-protection_en_20181120_cl
 
 OIST Graduate University
 Policies, Rules and Procedures
@@ -21589,34 +21589,34 @@ ch29_travel –and-meetings_en_20180401_cl
 University Graduate University
 Policies, Rules & Procedures
 Authority:
- Approved by the President
- Labor Standard Act
- Labor Contract Act
- Act on Securing, Etc. of Equal Opportunity and Treatment between Men and Women
+⚫ Approved by the President
+⚫ Labor Standard Act
+⚫ Labor Contract Act
+⚫ Act on Securing, Etc. of Equal Opportunity and Treatment between Men and Women
 in Employment
- Act on the Welfare of Workers Who Take Care of Children or Other Family
+⚫ Act on the Welfare of Workers Who Take Care of Children or Other Family
 Members Including Child Care and Family Care Leave
- Act for Securing the Proper Operation of Worker Dispatching Undertakings and
+⚫ Act for Securing the Proper Operation of Worker Dispatching Undertakings and
 Improved Working Conditions for Dispatched Workers
- Act on Improvement, etc. of Employment Management for Part-Time Workers
- Act for Employment Promotion etc. of Persons with disabilities
- Act on Employment Security, etc. of the Elderly, etc.
- Act on Special Measures Concerning the Improvement of Establishing Working
+⚫ Act on Improvement, etc. of Employment Management for Part-Time Workers
+⚫ Act for Employment Promotion etc. of Persons with disabilities
+⚫ Act on Employment Security, etc. of the Elderly, etc.
+⚫ Act on Special Measures Concerning the Improvement of Establishing Working
 Hours, etc.
- Act on Securing the Payment of Wages
- Minimum Wages Act
- Act on the Collection, etc. of Insurance Premiums of Labor Insurance
- Industrial Accident Compensation Insurance Act
- Employment Insurance Act
- National Pension Act
- Health Insurance Act
- Long-Term Care Insurance Act
- Income Tax Act
- Local Tax Act
- Whistleblower Protection Act
- Industrial Safety and Health Act
- School Education Act
- Private School Act
+⚫ Act on Securing the Payment of Wages
+⚫ Minimum Wages Act
+⚫ Act on the Collection, etc. of Insurance Premiums of Labor Insurance
+⚫ Industrial Accident Compensation Insurance Act
+⚫ Employment Insurance Act
+⚫ National Pension Act
+⚫ Health Insurance Act
+⚫ Long-Term Care Insurance Act
+⚫ Income Tax Act
+⚫ Local Tax Act
+⚫ Whistleblower Protection Act
+⚫ Industrial Safety and Health Act
+⚫ School Education Act
+⚫ Private School Act
 
 Chapter 30. Human Resources
 30.1 Policy
@@ -21627,38 +21627,33 @@ employees and members of the University community.
 Officers, supervisors and managers are responsible for recruiting and retaining high caliber
 employees to conduct the University’s business competently, efficiently and effectively.
 1
-ch30_human-resources_en_20180401_cl
+ch30_human-resources_en_20181120_cl
 
 Human Resources (HR) matters must be handled consistently and equitably throughout the
 University.
 The University complies with the Labor Standard Act (Act No. 49 of 1947) and other
-Japanese laws and regulations. HR matters are described in the Rules of Employment
-[Link:], Rules of Employment for Part-time Employees [Link:], Compensation Rules for
-Fixed-Term Employees [link:], and Compensation Rules for Permanent Employees
-[link:] (hereinafter referred to as “the Rules of Employment etc.”) HR matters not
-described in “the Rules of Employment etc.”, are governed by Japanese laws and
-regulations. This Chapter and the related following chapters (Chapter 31-41) are
-complemented by “the Rules of Employment etc.” Unless stated otherwise, Chapters
-from 30 to 41, Japanese laws and regulations, “the Rules of Employment etc.” and HR
-rules and procedures decided separately by the Vice President for Gender Equality and
-Human Resource Development apply to all types of Job and Job Classes of employees,
-academic and no-academic, regardless of funding source.
+Japanese laws and regulations. HR matters are described in the Rules of Employment,
+Rules of Employment for Part-time Employees, Compensation Rules for Fixed-Term
+Employees, and Compensation Rules for Permanent Employees (hereinafter referred to
+as “the Rules of Employment etc.”) HR matters not described in “the Rules of
+Employment etc.”, are governed by Japanese laws and regulations. This Chapter and the
+related following chapters (Chapter 31-41) are complemented by “the Rules of
+Employment etc.” Unless stated otherwise, Chapters from 30 to 41, Japanese laws and
+regulations, “the Rules of Employment etc.” and HR rules and procedures decided
+separately by the Vice President for Gender Equality and Human Resource Development
+apply to all types of Job and Job Classes of employees, academic and no-academic,
+regardless of funding source.
 30.2 General Considerations
 30.2.1 Equal Opportunity and Diversity
 The University is committed to provide equal opportunities in all aspects of
 employment, for all persons, regardless of race, color, religion, national origin,
 physical or mental disability, medical condition, marital status, gender, sexual
-orientation, or age. (Chapter 1.3)[Link :]
+orientation, or age. (Chapter 1.3)
 The University actively promotes diversity, (including gender diversity) at the
 workplace, and will, whenever possible, actively recruit under-represented
 populations. The University will hire, transfer, and promote based on the
 qualifications of the individual to ensure equal consideration and fair treatment of
 all.
-Under the supervision of the Vice President for Gender Equality and Human
-Resource Development, the Diversity and Welfare Section is responsible for
-overseeing the implementation of this equal opportunity policy and monitoring
-practices and procedures to ensure compliance with related laws and regulations as
-well as this policy.
 30.2.2 Employee Categories
 The University establishes categories of employee classification based on various
 characteristics and elements of each person’s employment. This classification is not
@@ -21666,13 +21661,13 @@ to create barriers among employees, but to provide appropriate and fair treatmen
 based on the nature of their work, individual employment terms, and work
 schedules. It also helps determine employee and management responsibilities and
 employee eligibility for employee benefits.
-2
-ch30_human-resources_en_20180401_cl
-
-30.2.2.1 Type of Job and Job Class
+30.2.2.1 Type of Job and Job Class
 30.2.2.1.1 Senior Level Executive
 Executive Vice President, Provost, Chief Operating Officer, Deans
-(including Dean of the Faculty Affairs and Dean of the Graduate
+2
+ch30_human-resources_en_20181120_cl
+
+(including Dean of the Faculty Affairs and Dean of the Graduate
 School), Vice Presidents, General Counsel, and other positions
 specified by the CEO/President.
 30.2.2.1.2 Faculty
@@ -21681,16 +21676,14 @@ Professors, Visiting Professors, and Distinguished Professors.
 30.2.2.1.3 Researchers
 Group Leaders, Research Specialists, Science and Technology
 Associates, Staff Scientists, Postdoctoral Scholars. Definitions for
-Researchers are described in “Guidelines for Title and Job Class”
-[link: ].
+Researchers are described in “Guidelines for Title and Job Class”.
 30.2.2.1.4 Technicians
 Research Unit Technicians. Definitions for Technicians are
-described in “Guidelines for Title and Job Class”[Link: ].
+described in “Guidelines for Title and Job Class”.
 30.2.2.1.5 Research Support Employees
 Research Support Leaders, Research Support Specialists, and
 Research Support Technicians. Definitions for Research Support
-Employees are described in “Guidelines for Title and Job Class”
-[link: ].
+Employees are described in “Guidelines for Title and Job Class”.
 30.2.2.1.6 Administrative Employees
 Associate Vice Presidents (Assistant Deans), Senior Managers,
 Managers, Assistant Managers, Specialists, Administrative Staffs,
@@ -21698,18 +21691,18 @@ Research Unit Administrators, Information Technology Leaders,
 Information Technology Engineers, Laboratory Assistants,
 Research Assistants, Research Unit Assistants and Administrative
 Staff Assistants. Definitions for Administrative Employees are
-described in“Guidelines for Title and Job Class” [link: ].
+described in“Guidelines for Title and Job Class”.
 30.2.2.1.7 Constituent (External) Staff
 External Administrative Staff and Agency Temp Staff. Definitions
-3
-ch30_human-resources_en_20180401_cl
-
-for Constituent (External) Staff are described in “Guidelines for
-Title and Job Class” [link: ].
+for Constituent (External) Staff are described in “Guidelines for
+Title and Job Class”.
 30.2.2.2 Type of Employment
 30.2.2.2.1 Permanent
 Details are described in Article 3.1.a, Rules of Employment.
-30.2.2.2.2 Fixed-Term
+3
+ch30_human-resources_en_20181120_cl
+
+30.2.2.2.2 Fixed-Term
 Details are described in Article 3.1.b, Rules of Employment.
 30.2.2.2.3 Part-Time
 Details are described in Article 3.1.a, Rules of Employment for Parttime Employees.
@@ -21721,10 +21714,10 @@ Details are described in Article 3.1.b, Rules of Employment for Parttime Employe
 Employment Agreement.
 30.2.2.3 Managerial Employees and Discretionary Employees
 30.2.2.3.1 Managerial Positions
-Details are described in Article 28, Rules of Employment and 4.11,
-Rules of Employment for Part-time Employees. A
+Details are described in Article 28, Rules of Employment and 26,
+Rules of Employment for Part-time Employees.
 30.2.2.3.2 Discretionary Employee
-Details are described in Article 31, Rules of Employment and 4.12,
+Details are described in Article 31, Rules of Employment and 27,
 Rules of Employment for Part-time Employees.
 30.2.3 Corporate Officers
 The HR policies do not apply to the Officers of the OIST School Corporation,
@@ -21732,33 +21725,32 @@ unless stated otherwise. The Officers are the following positions prescribed by
 Article 35 of the Private School Act (Act No. 270 of 1949); the Governors,
 including the Chief Executive Officer (CEO)/President of the University and the
 Vice CEO of the University, and the Auditors.
-4
-ch30_human-resources_en_20180401_cl
-
-30.3 Rules
+30.3 Rules
 30.3.1 Professional Conduct
-Details are described in Chapter 4, Rules of Employment and Article 3, Rules of
-Employment for Part-Time Employees.
+Details are described in Chapter 16, Rules of Employment and Article 16, Rules
+of Employment for Part-Time Employees.
 30.3.2 HR Policies, Rules and Procedures
-HR matters are described in “the Rules of Employment etc.”, and following
+4
+ch30_human-resources_en_20181120_cl
+
+HR matters are described in “the Rules of Employment etc.”, and following
 Chapters complement the Rules of Employment:
-Chapter 31. Hiring Process [Link: 31]
-Chapter 32. Work Schedules and Breaks [Link: 32]
-Chapter 33. Leave [Link: 33]
-Chapter 34. Compensation [Link: 34]
-Chapter 35. Benefits [Link: 35]
-Chapter 36. Performance Evaluation [Link: 36]
-Chapter 37. Leaving the University [Link: 37]
-Chapter 38. Discipline [Link: 38]
-Chapter 39. Resolving Complaints & Disputes [Link: 39]
-Chapter 40. Staff Development and Awards [Link: 40]
-Chapter 41. Workplace and Safety [Link: 41]
+Chapter 31. Hiring Process
+Chapter 32. Work Schedules and Breaks
+Chapter 33. Leave
+Chapter 34. Compensation
+Chapter 35. Benefits
+Chapter 36. Performance Evaluation
+Chapter 37. Leaving the University
+Chapter 38. Discipline
+Chapter 39. Resolving Complaints & Disputes
+Chapter 40. Staff Development and Awards
+Chapter 41. Workplace and Safety
 30.3.3 Employee Representative
 The Employee Representative, is an employee who is representing at least half of
 all University employees, and is selected by the employees through an election or
 other democratic process. The Employment Representative may not be selected
 from amongst employees in the managerial positions specified in 30.2.2.3.1.
-[Link: 30.2.2]
 30.4 Responsibilities
 30.4.1 Employees
 Regardless of their employment categories, all University employees must comply
@@ -21769,16 +21761,16 @@ Supervisors are responsible for administering and applying Japanese laws and
 regulations, “the Rules of Employment etc.” and OIST’s policies, rules and
 procedures of HR (Chapters 30 – 41) equitably and fairly. The supervisor is also a
 person accountable for the supervision of his/her members.
-5
-ch30_human-resources_en_20180401_cl
-
-30.4.3 Employee Representative
+30.4.3 Employee Representative
 The Employee Representative deals with the matters which are necessary to
 conclude agreements between OIST and the representative at least half of all
 University employees according to Labor Standard Act.
 30.4.4 Vice President for Gender Equality and Human Resource Development
 (VPGEHR)
-The VPGEHR is responsible for overseeing implementation of “the Rules of
+5
+ch30_human-resources_en_20181120_cl
+
+The VPGEHR is responsible for overseeing implementation of “the Rules of
 Employment etc.” and policies, rules and procedures of HR, based on Japanese
 laws and regulations. The VPGEHR shall maintain the Rules of Employment and
 administrative policies, rules and procedures of HR and set necessary guidelines
@@ -21794,25 +21786,24 @@ Vice President for Gender Equality and Human Resource Development
 30.5.2 Other Contacts
 HR Management Section
 HR Recruiting Support Section
-Diversity and Welfare Section
 30.8 Definitions
 
 6
-ch30_human-resources_en_20180401_cl
+ch30_human-resources_en_20181120_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
 Authority:
- Approved by the President
- Labor Standard Act
- Labor Contract Act
- Act on Securing, Etc. of Equal Opportunity and Treatment between Men and Women
+⚫ Approved by the President
+⚫ Labor Standard Act
+⚫ Labor Contract Act
+⚫ Act on Securing, Etc. of Equal Opportunity and Treatment between Men and Women
 in Employment
- Act for Securing the Proper Operation of Worker Dispatching Undertakings and
+⚫ Act for Securing the Proper Operation of Worker Dispatching Undertakings and
 Improved Working Conditions for Dispatched Workers
- Act on Improvement, etc. of Employment Management for Part-Time Workers
- Act for Employment Promotion etc. of Persons with disabilities
- Act on Employment Security, etc. of the Elderly, etc.
+⚫ Act on Improvement, etc. of Employment Management for Part-Time Workers
+⚫ Act for Employment Promotion etc. of Persons with disabilities
+⚫ Act on Employment Security, etc. of the Elderly, etc.
 
 Chapter 31. Hiring Process
 31.1 Policy
@@ -21825,20 +21816,19 @@ The University is also committed to equal opportunity employment policies and pr
 and will ensure that all forms of recruitment provide equal opportunity for
 underrepresented populations, such as women and minorities.
 31.2 General Considerations
-Selection process rules (31.3.2) do not apply to faculty members, except for 31.3.2.5 [link:
-31.3.2]. Please refer to the Faculty Handbook [link: 3.1] for guidance with regard to faculty.
+Selection process rules (31.3.2) do not apply to faculty members, except for 31.3.2.5 .
+Please refer to the Faculty Handbook for guidance with regard to faculty.
 31.3 Rules
 31.3.1 Advertisement
 31.3.1.1 In general, all job opportunities at the University must be posted
-internally and externally on the University website [link:
-http://www.oist.jp/].
+internally and externally on the University website.
 31.3.1.1.1 In order to assure career development within the
 University, some vacant or new positions may be posted on the
+internal website only, as determined by the Hiring Executive in
 1
-ch31_recruitment-and-hiring_20170302_en_cl
+ch31_recruitment-and-hiring_en_20181120_cl
 
-internal website only, as determined by the Hiring Executive [link:
-31.8.1] in consultation with the Hiring Approver.
+consultation with the Hiring Approver.
 31.3.1.2 To ensure that all potential internal and external qualified
 candidates have adequate opportunity to view and apply for jobs at the
 University, any notice of a vacant or new position must be posted for at least
@@ -21855,43 +21845,42 @@ and fair competitive process. This process normally includes reviewing
 application documents and conducting employment interviews by the
 Hiring Executive. Additional steps, such as checking references, may be
 conducted when the Hiring Executive, in consultation with the HR
-Management Section, determines it to be necessary.
+Recruiting Support Section, determines it to be necessary.
 31.3.2.3 Selection Committee. An advisory selection committee is formed
-when hiring a Permanent Employee or when the Hiring Approver [link:
-31.8.2] considers it necessary. The committee may include external experts
-in addition to University employees. The committee will conduct collective
-reviews of candidates and offer advice and recommendations concerning
-the candidates.
+when hiring a Permanent Employee or when the Hiring Approver considers
+it necessary. The committee may include external experts in addition to
+University employees. The committee will conduct collective reviews of
+candidates and offer advice and recommendations concerning the
+candidates.
 31.3.2.4 To hire the Senior Level Executive provided in item 7, paragraph
 2, Article 6 of the Bylaws, the CEO/President must obtain an approval from
-the Board of Governors. [link: 2.2]
+the Board of Governors.
 31.3.2.5 All applicants for employment must be processed through the HR
-Management Section.
+Recruiting Support Section.
 31.3.3 Travel Reimbursement for Candidates
 The University reimburses employment candidates for reasonable expenses
-
+incurred when traveling to the University or any other convenient place for an
 2
-ch31_recruitment-and-hiring_20170302_en_cl
+ch31_recruitment-and-hiring_en_20181120_cl
 
-incurred when traveling to the University or any other convenient place for an
-employment interview. To be eligible for reimbursement, candidates must be
-invited to the interview by the HR Management Section and must follow the Travel
-Policy regarding recruitment, [link: 29.2.6]
+employment interview. To be eligible for reimbursement, candidates must be
+invited to the interview by the HR Recruiting Support Section and must follow the
+Travel Policy regarding recruitment.
 31.3.4 Documents to be Submitted
-Details are described in Article 12, Rules of Employment and Article 2.2,
+Details are described in Article 12, Rules of Employment and Article 12,
 Rules of Employment for Part-time Employees.
 
 31.3.5 Probationary Period
-Details are described in Article 13, Rules of Employment and Article 2.4,
+Details are described in Article 13, Rules of Employment and Article13,
 Rules of Employment for Part-time Employees.
 A newly hired employee, must serve a probationary period, to allow him/her time
 to become proficient in the basic responsibilities of a new position, and permit the
 Hiring Executive to evaluate the individual’s performance and suitability for the
 position.
-31.3.5.1 Any decision about an extension of the Probationary Period
-(31.3.5.2) or about dismissal of the employee (31.3.5.3) must be approved
-by the Approver (in consultation with the selection committee, if one was
-formed for selecting the new hire for the position).
+31.3.5.1 Any decision about an extension of the Probationary Period or
+about dismissal of the employee must be approved by the Approver (in
+consultation with the selection committee, if one was formed for selecting
+the new hire for the position).
 31.3.6 Reassignment (Transfer) and Temporary Transfers
 31.3.6.1 Eligibility:
 University employees are eligible to apply for a different position after 6
@@ -21899,30 +21888,29 @@ months in their current position. The 6 month requirement may be waived
 for special circumstances with approval by the Vice President for Gender
 Equality and Human Resource Development (VPGEHR).
 31.6.2
-Other details are described in Article 58, Rules of Employment and Article
-2.4, Rules of Employment for Part-time Employees.
+Other details are described in Article 58 and 59, Rules of Employment and
+Article 52 and 53, Rules of Employment for Part-time Employees.
 31.4 Responsibilities
 31.4.1 Hiring Executive
 The Hiring Executive must follow the established rules and procedures to ensure
 that equitable and efficient hiring practices are used throughout the University.
-
+Delegation of the hiring process role, for below Manager-level employees, may be
 3
-ch31_recruitment-and-hiring_20170302_en_cl
+ch31_recruitment-and-hiring_en_20181120_cl
 
-Delegation of the hiring process role, for below Manager-level employees, may be
-allowed at the discretion of the Hiring Executive, to the Supervisor of Section or
-Unit. Even in this case, however, the Hiring executive remains responsible for the
+allowed at the discretion of the Hiring Executive, to the Supervisor of Section or
+Unit. Even in this case, however, the Hiring Executive remains responsible for the
 hiring process including the final decision and is accountable for the supervision of
 relevant employee.
-31.4.2 HR Management Section
-The HR Management Section is responsible for posting jobs, processing
+31.4.2 HR Recruiting Support Section
+The HR Recruiting Support Section is responsible for posting jobs, processing
 applications, and providing necessary support to the Hiring Executive,. The HR
-Management Section serves as the secretariat of the selection committees.
+Recruiting Support Section serves as the secretariat of the selection committees.
 31.4.3 Newly hired employees
-Newly hired employees must submit documents specified in Article 12[link: ],
-Rules of Employment and Article 2.2[link:], Rules of Employment for Part-time
-Employees. Employees must inform HR Management Section without delay, when
-any changes occur to details stated in the documents,
+Newly hired employees must submit documents specified in Article 12, Rules of
+Employment and Article 12, Rules of Employment for Part-time Employees.
+Employees must inform HR Management Section without delay, when any changes
+occur to details stated in the documents.
 
 31.5 Procedures
 31.5.1 How to Request a New Position.
@@ -21931,27 +21919,30 @@ must apply with a Personnel Requisition through the Talent Mobility Form
 (hereinafter referred to as ““TMF”). The Hiring Executive must be
 accountable for identifying hiring needs, developing the job description, for
 the position before requesting.
-31.5.1.2 The HR Management Section initiates job posting upon receiving
-the Personnel Requisition through TMF. [link: 31.3.1]
+31.5.1.2 The HR Recruiting Support Section initiates job posting upon
+receiving the Personnel Requisition through TMF. [link: 31.3.1]
 31.5.2 Hiring Process after Selecting Candidates.
 31.5.2.1 The Hiring Executive complete a Personnel Action through TMF
 to proceed with the hiring process Other related documents [link: 31.6]
-should also be submitted to HR Management Section.
+should also be submitted to HR Recruiting Support Section.
 31.5.2.2 With approval of the Hiring Executive and the Approver, the HR
-Management Section, sends out the offer letterto the selected candidate.
-31.5.3 OIST ID Card
-
+Recruiting Support Section, sends out the offer letter to the selected
+candidate.
+31.5.3 Relocation
 4
-ch31_recruitment-and-hiring_20170302_en_cl
+ch31_recruitment-and-hiring_en_20181120_cl
 
-To issue OIST ID Card, please refer to "Regulations for OIST ID Cards"[link: ].
+To obtain more information, consult the “Relocation Allowance Guidelines”.
+31.5.4 OIST ID Card
+To issue OIST ID Card, please refer to "Regulations for OIST ID Cards".
 31.6 Forms
-See HR website [link: http://hr.oist.jp/recruit/index.html]
+See HR website
 31.7 Contacts
 31.7.1 Policy Owner
 Vice President for Gender Equality and Human Resource Development
 (VPGEHR)
 31.7.2 Other Contacts
+HR Recruiting Support Section
 HR Management Section
 31.8 Definitions
 31.8.1 Hiring Executive
@@ -21965,19 +21956,19 @@ may be the President with regard to Senior Level Executives [link: 30.2.2] and
 other positions specified by the President.
 
 5
-ch31_recruitment-and-hiring_20170302_en_cl
+ch31_recruitment-and-hiring_en_20181120_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
 Authority:
- Approved by the President
- Labor Standard Act
- Labor Contract Act
- Act on Securing, Etc. of Equal Opportunity and Treatment between Men and Women
+⚫ Approved by the President
+⚫ Labor Standard Act
+⚫ Labor Contract Act
+⚫ Act on Securing, Etc. of Equal Opportunity and Treatment between Men and Women
 in Employment
- Act on the Welfare of Workers Who Take Care of Children or Other Family
+⚫ Act on the Welfare of Workers Who Take Care of Children or Other Family
 Members Including Child Care and Family Care Leave
- Act on Special Measures Concerning the Improvement of Establishing Working
+⚫ Act on Special Measures Concerning the Improvement of Establishing Working
 Hours, etc.
 
 Chapter 32. Work Schedules and Breaks
@@ -21994,73 +21985,68 @@ Executive, Divisional, Sectional and Committee meetings) and mandatory research
 meetings be scheduled, and concluded, within regular business hours (9:00 – 17:30).
 However, emergencies and/or exceptional circumstances may be dealt with outside of
 usual business hours.
-
-
-
-
-
-
+⚫
+⚫
+⚫
+⚫
+⚫
+⚫
 
-Time for Childcare (32.3.1.2) [link: 32.3.1]
-Shortened Working Hours for Childcare and Nursing Care (32.3.1.3) [link:
-32.3.1]
-Working Hours for Pregnant and Nursing Employees (32.3.3.1) [link: 32.3.3]
-Limitations on Unscheduled Work for Childcare (32.3.3.2) [link: 32.3.3]
-Limitations on Overtime Work for Childcare and Family Care (32.3.3.3) [link:
-32.3.3]
-Limitations on Late-Night Work for Childcare and Family Care (32.3.3.4) [link:
+Time for Childcare (32.3.1.2)
+Shortened Working Hours for Childcare and Nursing Care (32.3.1.3)
+Working Hours for Pregnant and Nursing Employees (32.3.3.1)
+Limitations on Unscheduled Work for Childcare (32.3.3.2)
+Limitations on Overtime Work for Childcare and Family Care (32.3.3.3)
+Limitations on Late-Night Work for Childcare and Family Care (32.3.3.4)
+
 1
-ch32_work-schedules-and-breaks_20170316_en_cl
+ch32_work-schedules-and-breaks_en_20181120_cl
 
-32.3.3]
-32.3 Rules
+32.3 Rules
 32.3.1 Work Schedules and Rest Period
 32.3.1.1 Working Hours, Rest Period and Scheduled starting and finishing
 times.
-Details are described in Article 21 [Link: ], Rules of Employment and
-Article 4.1 [Link: ], Rules of Employment for Part-time Employees.
+Details are described in Article 21, Rules of Employment and Article 20,
+Rules of Employment for Part-time Employees.
 32.3.1.2 Time for Childcare
-Details are described in Article 40 [Link: ], Rules of Employment and
-Article 4.3 [Link: ], Rules of Employment for Part-time Employees.
+Details are described in Article 40, Rules of Employment and Article 34,
+Rules of Employment for Part-time Employees.
 32.3.1.3 Shortened Working Hours for Childcare and Family Care
-Details are described in Article 45 and Article 53 [Link: ], Rules of
-Employment and Article 4.4 [Link: ], Rules of Employment for Part-time
-Employees.
+Details are described in Article 45 and Article 53, Rules of Employment
+and Article 39 and 47, Rules of Employment for Part-time Employees.
 32.3.1.4 Flextime System
-Details are described in Article 29 [Link: ], Rules of Employment.
+Details are described in Article 29, Rules of Employment.
 32.3.2 Holidays
-Details are described in Articles 22, 23 and 24 [Link: ], Rules of Employment and
-Article 4.5 [Link: ], Rules of Employment for Part-time Employees.
+Details are described in Articles 22, 23 and 24, Rules of Employment and Article
+21 and 22, Rules of Employment for Part-time Employees.
 32.3.3 Overtime and Holiday Work
-Details are described in Article 26 [Link: ], Rules of Employment and Article 4.6
-[Link: ], Rules of Employment for Part-time Employees.
+Details are described in Article 26, Rules of Employment and Article 24, Rules of
+Employment for Part-time Employees.
 32.3.3.1 Working Hours for Pregnant and Nursing Employees
-Details are described in Article 39 [Link: ], the Rules of Employment and
-Article 4.7 [Link: ], the Rules of Employment for Part-time Employees.
-32.3.3.2 Limitations on Unscheduled Work for Childcare
-Details are described in Article 46 [Link: ], Rules of Employment and
-Article 4.8 [Link: ], Rules of Employment for Part-time Employees
-32.3.3.3 Limitations on Overtime Work for Childcare and Family Care
+Details are described in Article 39, the Rules of Employment and Article
+33, the Rules of Employment for Part-time Employees.
+32.3.3.2 Limitations on Unscheduled Work for Childcare and Nursing Care
+Details are described in Article 46 and 54, Rules of Employment and Article
+40 and 48, Rules of Employment for Part-time Employees.
 
+32.3.3.3 Limitations on Overtime Work for Childcare and Nursing Care
+Details are described in Article 47 and Article 54, Rules of Employment
+and Article 41 and 49, Rules of Employment for Part-time Employees.
 2
-ch32_work-schedules-and-breaks_20170316_en_cl
+ch32_work-schedules-and-breaks_en_20181120_cl
 
-Details are described in Article 47 and Article 54 [Link: ], Rules of
-Employment and Article 4.9 [Link: ], Rules of Employment for Part-time
-Employees.
-32.3.3.4 Limitations on Late-Night Work for Childcare and Nursing Care
-Details are described in Article 48 and Article 55 [Link: ], Rules of
-Employment and Article 4.10 [Link: ], Rules of Employment for Part-time
-Employees.
+32.3.3.4 Limitations on Late-Night Work for Childcare and Nursing Care
+Details are described in Article 48 and Article 55, Rules of Employment
+and Article 42 and 50, Rules of Employment for Part-time Employees.
 32.3.4 Reporting for Work, Absence and Punctuality
-Details are described in Article 25 [Link: ], Rules of Employment and Chapter 5
-[Link: ], Rules of Employment for Part-time Employees.
+Details are described in Article 25, Rules of Employment and Article 23, Rules of
+Employment for Part-time Employees.
 32.3.5 Business Trips and Working Outside the Workplace
-Details are described in Article 30 [Link: ], Rules of Employment and Article 5.5
-[Link: ], Rules of Employment for Part-time Employees
+Details are described in Article 30, Rules of Employment and Article 26, Rules of
+Employment for Part-time Employees.
 32.3.6 External Professional Activities
-Details are described in PRP Chapter 22 [Link:22.1.4] and in the Rules for External
-Professional Activities.
+Details are described in PRP Chapter 22 and in the Rules for External Professional
+Activities.
 32.4 Responsibilities
 32.4.1 Employees
 All employees must report information regarding attendance, absence, lateness,
@@ -22076,15 +22062,15 @@ ascertaining their eligibility.
 32.4.4 The Diversity Section
 The Diversity Section is responsible for monitoring implementation of the special
 work schedule accommodations specified in this Chapter and for ensuring that
+applicants and recipients of such accommodation do not experience discrimination
+or harassment.
 
 3
-ch32_work-schedules-and-breaks_20170316_en_cl
+ch32_work-schedules-and-breaks_en_20181120_cl
 
-applicants and recipients of such accommodation do not experience discrimination
-or harassment.
-32.5 Procedures
+32.5 Procedures
 32.6 Forms
-See HR website [link: http://hr.oist.jp/english/download/index.html]
+See HR website
 32.7
 
 Contacts
@@ -22098,25 +22084,25 @@ Diversity Section
 32.8.1 Holidays
 Holidays are the days when employees have no work obligations.
 32.8.2 Child (Japanese laws and regulations shall be applied.)
- Natural child
- Legally adopted child
+⚫ Natural child
+⚫ Legally adopted child
 32.8.3 Condition Requiring Care and the Applicable Family Member
-Details are described in Article 49.1 [Link: ], Rules of Employment.
-
+Details are described in Article 49.1, Rules of Employment and Article 43.1, Rules
+of Employment for Part-time Employees.
 
 4
-ch32_work-schedules-and-breaks_20170316_en_cl
+ch32_work-schedules-and-breaks_en_20181120_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
 Authority:
- Approved by the President
- Labor Standard Act
- Act on Securing, Etc. of Equal Opportunity and Treatment between Men and Women
+⚫ Approved by the President
+⚫ Labor Standard Act
+⚫ Act on Securing, Etc. of Equal Opportunity and Treatment between Men and Women
 in Employment
- Act on the Welfare of Workers Who Take Care of Children or Other Family
+⚫ Act on the Welfare of Workers Who Take Care of Children or Other Family
 Members Including Child Care and Family Care Leave
- Act on Special Measures Concerning the Improvement of Establishing Working
+⚫ Act on Special Measures Concerning the Improvement of Establishing Working
 Hours, etc.
 
 Chapter 33. Leave
@@ -22136,32 +22122,31 @@ work life. Any harassment or discriminatory treatment for using these programs i
 prohibited.
 33.3 Rules
 33.3.1 Annual Paid Leave
-Details are described in Article 32 to Article 34 [Link: ], Rules of Employment
-and Article 6.1 [Link: ], Rules of Employment for Part-time Employees.
+Details are described in Article 32 to Article 34, Rules of Employment and Article
+28, Rules of Employment for Part-time Employees.
 33.3.2 Summer Leave
-Details are described in Article 37 [Link: ], Rules of Employment.
+Details are described in Article 37, Rules of Employment.
 
 1
-ch33_leave_20161102_en_cl
+ch33_leave_en_20181120_cl
 
 33.3.3 Maternity Leave
-Details are described in Article 38 [Link: ], Rules of Employment and Article 6.2
-[Link: ], Rules of Employment for Part-time Employees.
+Details are described in Article 38, Rules of Employment and Article 32, Rules of
+Employment for Part-time Employees.
 33.3.4 Sick Leave
-Details are described in Article 35 [Link: ], Rules of Employment.
+Details are described in Article 35, Rules of Employment.
 33.3.5 Special Leave
-Details are described in Article 36 [Link: ], Rules of Employment and Article 6.3
-[Link: ], Rules of Employment for Part-time Employees.
+Details are described in Article 36, Rules of Employment and Article 31, Rules of
+Employment for Part-time Employees.
 33.3.6 Childcare Leave and Nursing Care Leave
-Details are described in Article 41 to Article 44 [Link: ] and Article 49 to Article
-52 [Link: ], Rules of Employment and Article 6.4 [Link: ], Rules of Employment
-for Part-time Employees.
-
+Details are described in Article 41 to Article 44 and Article 49 to Article 52,
+Rules of Employment and Article 35 to 38 and Article 43 to 46, Rules of
+Employment for Part-time Employees.
 33.3.7 Measure Relating to Health Care During Pregnancy and Childbirth
-Details are described in Article 72 [Link: ], Rules of Employment and Article 6.5
-[Link: ], Rules of Employment for Part-time Employees.
+Details are described in Article 73, Rules of Employment and Article 60, Rules of
+Employment for Part-time Employees.
 33.3.8 Administrative Leave
-Details are described in Article 60 to Article 64 [Link: ], Rules of Employment.
+Details are described in Article 61 to 65, Rules of Employment.
 33.4 Responsibilities
 33.4.1 Persons planning to take Leave
 Persons planning to take Leave must give notice of the dates and duration of the
@@ -22175,19 +22160,18 @@ workload of coworkers and effective business operation under their control.
 33.4.3 The HR Management Section
 The HR Management Section is responsible for administering the leave policies
 fairly, and providing necessary guidance regarding the leave policies to
-
+employees and supervisors.
 2
-ch33_leave_20161102_en_cl
+ch33_leave_en_20181120_cl
 
-employees and supervisors.
-33.4.4 The Diversity Section
+33.4.4 The Diversity Section
 The Diversity Section is responsible for monitoring the implementation of
 pertinent leave, as specified in this Chapter, and for ensuring that applicants and
 users of such leave, will not experience discrimination or harassment, as a result
 of taking leave.
 33.5 Procedures
 33.6 Forms
-See HR website [link: http://hr.oist.jp/english/download/index.html]
+See HR website
 33.7 Contacts
 33.7.1 Policy Owner
 Vice President for Gender Equality and Human Resource Development
@@ -22197,12 +22181,12 @@ HR Management Section
 Diversity Section
 33.8 Definitions
 33.8.1 Child
-Please refer to 32.8.1[Link].
+Please refer to 32.8.2.
 33.8.2 Condition Requiring Care and the Applicable Family Member
-Please refer to 32.8.2[Link].
+Please refer to 32.8.3.
 
 3
-ch33_leave_20161102_en_cl
+ch33_leave_en_20181120_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
@@ -22648,27 +22632,22 @@ For a smooth transition from the OIST Promotion Corporation to the OIST School
 Corporation, eligibility for the ERAP is limited to Permanent Employees employed
 as of the day before the transition (for the time being). During the period until the
 implementation of a new plan(s), the ERAP will be administered pursuant to the
-Rules
-of
-Retirement
-Allowance
-[link:
-http://hr.oist.jp/english/guideline/pdf/Employee_Retirement_Allowance_Payment
-_Regulations_e.pdf] whose provisions are basically the same as the rules before the
-transition.
+Rules of Employee Retirement Allowance Payment whose provisions are basically
+the same as the rules before the transition.
 35.3.2 Retirement Plan for Officers
 The Officer Retirement Allowance Plan (ORAP) provides full-time Officers with
 a retirement benefit (lump-sum payment) based on their years of service with the
 University as officers.
 35.3.2.1 Calculation. Amount of the retirement allowance under the ORAP
 is determined by the following formula;
-[Monthly Base Salary (34.3.10.2) as of the date of retirement] multiplied
-by [months of service] multiplied by 0.125 multiplied by 83.7/100
-1
-Ch35_benefits_en_20171215_cl
+[Monthly Base Salary as of the date of retirement] multiplied by [months
+of service] multiplied by 0.125 multiplied by 83.7/100 multiplied by
+[Performance Evaluation Rate]
 
-multiplied by [Performance Evaluation Rate]
-35.3.2.1.1 The number of months of service is calculated from the
+1
+Ch35_benefits_en_20181120_cl
+
+35.3.2.1.1 The number of months of service is calculated from the
 date of appointment. Fractions of less than 1 month are counted as
 1 month.
 35.3.2.1.2 The Performance Evaluation Rate (PER) is determined
@@ -22677,66 +22656,38 @@ Governors.
 35.3.2.2 Payment. Retirement Allowance is paid to Officers when they reti
 re or they are dismissed, or to their bereaved family should they die. Howe
 ver, the allowance is not paid to Officers who are dismissed under the Item
-1, Article 11 of the Bylaws of the OIST School Corporation. [link: https://
-groups.oist.jp/sites/default/files/imce/u113/oistsc_bylaws.pdf]
+1, Article 11 of the Bylaws of the OIST School Corporation.
 Retirement Allowance is paid within 1 month after the date of the retirement
 or the dismissal unless there are special circumstances. The allowance is
 paid after deducting all amounts to be deducted pursuant to the relevant laws.
 35.3.2.3 Implementation. The payment procedures, exceptional cases, and
 other necessary items for the implementation of the ORAP are defined in t
-he guidelines [link: https://groups.oist.jp/sites/default/files/imce/u113/35.3.
-2.3_ImplementationoftheOfficersRetirementAllowancePlans.pdf] establish
-ed by the Vice President for Gender Equality and Human Resource Develo
-pment.
+he guidelines established by the Vice President for Gender Equality and H
+uman Resource Development.
 35.3.2.3.1 Transitional measure: In applying the provision of
 35.3.2.1, the term “83.7/100” in the provision shall be “98/100” from
 April 1, 2013 to September 30, 2013, shall be “92/100” from October
 1, 2013 to June 30, 2014, and shall be “87/100” from July 1, 2014 to
 December 31, 2017.
 35.3.3 University Housing Program
-The University owns several houses (Seaside Faculty Housing) at the Seaside
-Campus, some of which is available for residential use of eligible members of the
-University community. In addition, the University may rent houses (Rental
-Housing) in the area surrounding the campus for the same purpose. The Division
-of Buildings and Facilities Management is in charge of the management and
-standards regarding the administration of Rental Housing are laid out in the OffCampus Rental Housing Regulations [link;]
-2
-Ch35_benefits_en_20171215_cl
+The Division of Buildings and Facilities Management is in charge of the
+management and standards regarding the administration of Rental Housing are laid
+out in the Off-Campus Rental Housing Regulations.
 
-Rules regarding short-term stays at Seaside Faculty Housing[link: 21.3.1.2] are
-provided separately.
-35.3.3.1 Eligibility: Full-time Officers, Vice Presidents and equivalents
-, Faculty Members and other employees under special circumstances
-approved by the President.
-Rental Housing is not available for those who already have residence within
-60 km from the working place.
-35.3.3.2 Usage Agreement. A usage agreement must be signed between an
-eligible user and the University before starting use. User obligations are
-detailed in such agreements.
-35.3.3.3 Usage Fees
-35.3.3.3.1 On/Off-Campus Rental Housing. Residents of Rental
-Housing are charged by the University usage fees of 20 percent (50
-percent for Officers) of the rent (the maximum rent is specified in
-the attached table [link:].)
-35.3.3.3.2 When the house is occupied or vacated during the course
-of a month, the fees are calculated on a per diem basis.
-35.3.3.3.3 Usage and other fees charged by the University are
-deducted from the renter’s compensation each month.
 35.3.4 Special Assistance
 The University provides special assistance to eligible University members when it
 is considered particularly necessary to achieve the University’s mission of
 recruiting and retaining highly talented individuals.
 35.3.4.1 Eligibility. Full-time Officers and other individuals as determined
 by the CEO/President.
-35.3.4.2 Special assistance includes: lending of cars, furniture, and other
+2
+Ch35_benefits_en_20181120_cl
+
+35.3.4.2 Special assistance includes: lending of cars, furniture, and other
 similar items, as well as providing childcare and other services, deemed
 necessary by the CEO/President. Such assistance must be within socially
 acceptable limits.
-
-3
-Ch35_benefits_en_20171215_cl
-
-35.3.4.3 Details of special assistance must be clearly defined in the
+35.3.4.3 Details of special assistance must be clearly defined in the
 employment contract.
 35.4 Responsibilities
 35.4.1 HR Management Section
@@ -22746,25 +22697,17 @@ necessary information with employees.
 The HR Management Section is responsible for administering the benefits
 programs described in this chapter.
 35.5 Procedures
-To apply for the University Housing Program, complete and submit a Form [link:
-35.6] to the Division of Buildings and Facilities Management.
 35.6 Forms
-35.6.1 Application for Seaside Faculty Housing
-Please contact the Division of Buildings and Facilities Management.
-35.6.2 Application for Rental Housing
-Please contact the Division of Buildings and Facilities Management.
 35.7 Contacts
 35.7.1 Policy Owner:
 Vice President for Gender Equality and Human Resource Development
 (VPGEHR)
 35.7.2 Other Contacts:
-HR Management Section [link: 2.5]
-Division of Buildings and Facilities Management (Seaside Faculty Housing
-and Off-Campus Rental Housing) [link: 2.5]
+HR Management Section
 35.8 Definitions
 
-4
-Ch35_benefits_en_20171215_cl
+3
+Ch35_benefits_en_20181120_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
@@ -22772,19 +22715,19 @@ Authority: Approved by the President
 
 Chapter 36. Performance Evaluation
 36.1 Policy
-The OIST Graduate University’s Annual Performance Evaluation (APE) program
-encourages ongoing communication between supervisors and staff in order to foster
-performance improvement and career development. Supervisors are required to hold
-performance evaluation discussions with all employees whom they directly supervise. The
-APE program is also used in determining salary merit increase.
+The OIST Graduate University’s Performance Evaluation (PE) program encourages
+ongoing communication between supervisors and staff in order to foster performance
+improvement and career development. Supervisors are required to hold performance
+evaluation discussions with all employees whom they directly supervise. The APE program
+is also used in determining salary merit increase.
 Excluded from this chapter are the following:
- Faculty Members;
- Researchers;
- Part-time Employees.
+⚫ Faculty Members;
+⚫ Researchers;
+⚫ Part-time Employees.
 36.1.1 Review by the Salary Review Committee: SRC
-SRC will review the related guidelines, parameters and scope for the APE.
-36.3 Rules
-36.3.1 Evaluation Period and Schedules
+SRC will review the related guidelines, parameters and scope for the PE.
+36.2 Rules
+36.2.1 Evaluation Period and Schedules
 Performance evaluation is conducted annually to evaluate the employee’s
 performance during the previous fiscal year and to set goals for the upcoming year.
 The supervisor may conduct a performance evaluation more frequently if it is
@@ -22794,7 +22737,7 @@ President for Gender Equality and Human Resource Development (VPGEHR) and
 announced to employees. Generally, supervisors are expected to complete their
 evaluation discussions by the middle of March, and the results are reflected in the
 salary merit increases in April of the following fiscal year.
-36.3.2 Goal Setting and Coaching
+36.2.2 Goal Setting and Coaching
 At the beginning of evaluation period (normally April every year), employees are
 expected to work with their supervisors to develop a set of measurable and
 achievable goals that can be worked on during the performance period. Supervisors
@@ -22802,135 +22745,168 @@ are expected to actively engage in providing feedback and coaching based on the
 employee’s level of achievement toward each goal.
 
 1
-ch36_performance-evaluation_20161102en_cl
+ch36_performance-evaluation_en_20181120_cl
 
-36.3.3 Evaluation Elements
+36.2.3 Evaluation Elements
 Employee Evaluation is conducted by Performance Evaluation (Evaluation of the
 performance delivered by the employee against pre-set annual goals), and Value
 Competency relevant to the employee’s job grade will also be taken into
 consideration.
 Employees are rated for each element and given an overall rating by their
-immediate supervisors on the on-line system [link:] based on the Employee
-Evaluation Implementation Regulations [link: 36.5.1] developed separately by the
-Vice President for Gender Equality and Human Resource Development (VPGEHR).
-36.3.4 Confirmation and Adjustment
+immediate supervisors on the on-line system based on the Employee Evaluation
+Implementation Regulations developed separately by the Vice President for Gender
+Equality and Human Resource Development (VPGEHR).
+36.2.4 Confirmation and Adjustment
 Evaluation results are submitted to and confirmed (and adjusted if necessary) by
 the Supervisor’s Supervisor (hereinafter as “Certifier”) to ensure fair and consistent
 evaluations throughout the organization. The Certifier is usually the supervisor’s
 supervisor, designated separately by Vice President for Gender Equality and
 Human Resource Development (VPGEHR).
-36.3.5 Disclosure of Evaluation Results
+36.2.5 Disclosure of Evaluation Results
 Confirmed evaluation results are disclosed to the evaluated employees. Employees
 have access to evaluation documents upon request and may make copies.
-36.3.6 Complaints Procedures
+36.2.6 Merit Increase
+Merit increase is a salary increase program designed for permanent increases to
+Annual Salaries adjusted by the result of annual review of the employee’s
+performance. The performance of employees other than Faculty members and
+researchers is annually assessed and rated by the Performance Evaluation (PE)
+results.
+A “Merit Increase Guideline” that specifies an increase percent for each
+performance rating, is proposed annually by the Vice President for Gender Equality
+and Human Resource Development (VPGEHR) and reviewed by the SRC.
+The Guideline is set in view of trends in the cost of living, competitiveness of the
+job market, University budgets, and other relevant factors.
+Eligibility. Employees are not eligible for salary increase if:
+・ Their salaries are equal to their job level Maximum salary;
+・ They have been continuously employed by the University for less than 3
+months;
+・ They are on Administrative Leave;
+・ They have been on leave without pay for a period longer than 9 months during
+2
+ch36_performance-evaluation_en_20181120_cl
+
+the current fiscal year;
+・ They are not subject to the Performance Evaluation, as is the case typically for
+Postdoctoral Scholars; or
+・ The length of their employment contracts is 1 year or less.
+・ Faculty members and PE eligible employees whose age reaches beyond the
+following at the beginning of the new fiscal year (as of April 1)
+- Faculty Members: 70
+- Permanent Employee: 65
+- Fixed Term Employee (including Continuing Appointments): 65
+A Merit Increase does not guarantee an annual salary increase every year. The
+salary may fluctuate depending on the change in the rate ranges, the result of each
+employee’s performance review, and other relevant factors.
+36.2.7 Year-End Bonus
+Year-End Bonus may be given to a relatively small number of individuals who
+made a significant achievement or contribution to the University, based on their PE.
+A “Year-End Bonus Guideline,” proposed by Vice President for Gender Equality
+and Human Resource Development (VPGEHR) and approved by the SRC, will
+specify the percentage of the bonus relative to annual salary, criteria for the bonus,
+and other relevant matters. Employees who are not eligible for a Merit Increase are
+similarly not eligible for Year-End Bonus.
+36.2.8 Complaints Procedures
 Employees may complain in confidence about the evaluation results through the
 Compliant Procedures developed by Vice President for Gender Equality and
 Human Resource Development (VPGEHR). Every complaint is taken seriously by
-the HR Management Section.
+the Gender Equality and Human Resource Development Division.
 Any harassment and discriminatory treatment that is in response to the filing of a
 complaint is prohibited.
-36.3.7 Retention of Evaluation Documents
+36.2.9 Retention of Evaluation Documents
 All evaluation documents are deemed confidential and are electronically sent to the
-HR Management Section to keep in confidential files for a minimum of 5 years, or
-longer if there is a good business reason.
-36.3.8 Implementation
-The Employee Evaluation Implementation Regulations [link: 36.5.1] prepared by
-the Vice President for Gender Equality and Human Resource Development
-(VPGEHR) provides details necessary to implement this policy, such as treatment
-of employees who are hired or transferred or who took a leave during the course of
-a fiscal year.
+Gender Equality and Human Resource Development Division to keep in
+confidential files for a minimum of 5 years, or longer if there is a good business
+reason.
+36.2.10 Implementation
+The Employee Evaluation Implementation Regulations prepared by the Vice
+President for Gender Equality and Human Resource Development (VPGEHR)
+3
+ch36_performance-evaluation_en_20181120_cl
 
-2
-ch36_performance-evaluation_20161102en_cl
-
-36.4 Responsibilities
-36.4.1 All employees to whom the APE program applies
-All employees to whom the APE program applies must develop a set of goals, in
+provides details necessary to implement this policy, such as treatment of employees
+who are hired or transferred or who took a leave during the course of a fiscal year.
+36.3 Responsibilities
+36.3.1 All employees to whom the PE program applies
+All employees to whom the PE program applies must develop a set of goals, in
 collaboration with their supervisors, at the beginning of each evaluation period in
-accordance with the Employee Evaluation Implementation Regulations [link:
-36.5.1].
-36.4.2 Supervisors
+accordance with the Employee Evaluation Implementation Regulations.
+36.3.2 Supervisors
 Supervisors are responsible for evaluating their staff in accordance with the
-Employee Evaluation Implementation Regulations [link: 36.5.1] . Supervisors are
-expected to engage in on-going communication with their staff and to provide
-feedback and coaching throughout the evaluation period.
-36.4.3 Certifiers
+Employee Evaluation Implementation Regulations. Supervisors are expected to
+engage in on-going communication with their staff and to provide feedback and
+coaching throughout the evaluation period.
+36.3.3 Certifiers
 Certifiers are responsible for ensuring that evaluations are conducted fairly and in
 a consistent manner. Certifiers must make adjustments in evaluation results if
 necessary for that purpose.
-36.4.4 Vice President for Gender Equality and Human Resource Development
+36.3.4 Vice President for Gender Equality and Human Resource Development
 (VPGEHR)
 Vice President for Gender Equality and Human Resource Development (VPGEHR)
-provides the Employee Evaluation Implementation Regulations [Link: 36.5.1] to
-implement the APE program, and is responsible for the management of the program.
-VPGEHR also prepares the Complaint Handling Guidelines [Link: 36.5.2].
-36.4.5 HR Management Section
-The HR Management Section is responsible for implementing the Annual
-Performance Evaluation program. The HR Management Section must provide
-employees, supervisors, and Certifiers with necessary training and guidance for the
-Performance Evaluation. The HR Management Section is also responsible for
-developing and managing the complaint procedures and for handling complaints in
-accordance with those procedures.
-36.5 Procedures
-36.5.1 Employee Evaluation Implementation Regulations
-Employee Evaluation Implementation Regulations [link:]
+provides the Employee Evaluation Implementation Regulations to implement the
+PE program, and is responsible for the management of the program. VPGEHR also
+prepares the Complaint Handling Guidelines.
+36.3.5 Gender Equality and Human Resource Development Division
+The Gender Equality and Human Resource Development Division is responsible
+for implementing the Performance Evaluation program. The Gender Equality and
+Human Resource Development Division must provide employees, supervisors, and
+Certifiers with necessary training and guidance for the Performance Evaluation.
+The Gender Equality and Human Resource Development Division is also
+responsible for developing and managing the complaint procedures and for
+handling complaints in accordance with those procedures.
+36.4 Procedures
+36.4.1 Employee Evaluation Implementation Regulations
+4
+ch36_performance-evaluation_en_20181120_cl
 
-3
-ch36_performance-evaluation_20161102en_cl
-
-36.5.2 Complaint Handling Guidelines
-Complaint Handling Guidelines[link:]
-36.6 Forms
-36.7 Contacts
-36.7.1 Policy Owner
+Employee Evaluation Implementation Regulations
+36.4.2 Complaint Handling Guidelines
+Complaint Handling Guidelines
+36.5 Forms
+36.6 Contacts
+36.6.1 Policy Owner
 Vice President for Gender Equality and Human Resource Development
 (VPGEHR)
-36.7.2 Other Contacts
-HR Management Section
-36.8 Definitions
+36.6.2 Other Contacts
+Gender Equality and Human Resource Development Division
+36.7 Definitions
 
-4
-ch36_performance-evaluation_20161102en_cl
+5
+ch36_performance-evaluation_en_20181120_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
 Authority:
- Approved by the President
- Labor Standard Act
- Labor Contract Act
- Act on Employment Security, etc. of the Elderly, etc.
+⚫ Approved by the President
+⚫ Labor Standard Act
+⚫ Labor Contract Act
+⚫ Act on Employment Security, etc. of the Elderly, etc.
 
 Chapter 37. Leaving the University
 37.1 Policy
 Termination decisions must comply with internal and applicable legal requirements.
 37.3 Rules
 37.3.1 Termination
-Details are described in Article 73 to Article 74 [Link: ], Rules of Employment and
-Article 8.1[Link], Rules of Employment for Part-time Employees.
-37.3.2 Retirement
-Details are described in Article 75 [Link: ], Rules of Employment. Rules for reemployment after retirement are determined in Article 76 [Link: ], Rules of
-Employment.
+Details are described in Article 74, 75 and 82, Rules of Employment and Article
+61, 62 and 68, Rules of Employment for Part-time Employees.
+37.3.2 Retirement (Restriction in Term of Agreement)
+Details are described in Article 76, Rules of Employment and Article 63, Rules of
+Employment for Part-time Employees. Rules for re-employment after retirement
+are determined in Article 77, Rules of Employment.
 37.3.3 Dismissal
-Details are described in Article 77 to Article 79 [Link: ], Rules of Employment and
-Article 8.2 [Link: ], Rules of Employment for Part-time Employees.
+Details are described in Article 78, 79 and 80, Rules of Employment and Article
+64, 65 and 66, Rules of Employment for Part-time Employees.
 37.3.4 Former Employees’ Duty of Confidentiality
-Details are described in Article 80 [Link: ], Rules of Employment.
+Details are described in Article 81, Rules of Employment and Article 67, Rules of
+Employment for Part-time Employees.
 
 37.4 Responsibilities
 37.4.1 Individuals terminating from the University
-Employees
-must
-submit
-the
-necessary
-documents
-[link:
-http://hr.oist.jp/english/download/index.html] to the HR Management Section at
-least 1 month prior to the day they intend to resign. Individuals terminating from
+Employees must submit the necessary documents to the HR Management Section
+at least 1 month prior to the day they intend to resign. Individuals terminating from
 the University are responsible for returning all of University property including
 keys, identification cards, computers, software, phones to the responsible sections
 1
-ch37_leaving-the-university_en_20161102_cl
+ch37_leaving-the-university_en_20181120_cl
 
 or their immediate supervisors.
 37.4.2 Supervisors
@@ -22951,13 +22927,14 @@ HR Management Section
 37.8 Definitions
 
 2
-ch37_leaving-the-university_en_20161102_cl
+ch37_leaving-the-university_en_20181120_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
 Authority
- Approved by the President
- Labor Standard Act
+⚫
+Approved by the President
+⚫ Labor Standard Act
 
 Chapter 38. Discipline
 38.1 Policy
@@ -22972,49 +22949,43 @@ Employees who fail to correct a deficiency after progressive discipline may be d
 Certain violations and infractions may be ruled sufficiently serious to suspend the normal
 progressive disciplinary process. Under these circumstances, any step in the disciplinary
 procedure may be used, including dismissal.
-38.3 Rules
-38.3.1 Issuing Disciplinary Action
-When an employee fails to follow University standards, the University will take
-steps to correct the situation and prevent further occurrences. The appropriate
-discipline may vary depending on the seriousness of the offense, the circumstances
-under which it occurred, prior problems, duties of the employee, and overall work
-record with the University.
-Details are described in Article 85 and 86 [Link: ], Rules of Employment and
-Chapter 11 [Link: ], Rules of Employment for Part-time Employees.
-38.3.2 Dismissal after Progressive Discipline
+38.2 Rules
+38.2.1 Issuing Disciplinary Action
+Details are described in Article 86 and 87, Rules of Employment and Article 71 and
+72, Rules of Employment for Part-time Employees.
+38.2.2 Dismissal after Progressive Discipline
 If a problem occurs and the employee has already received 2 active formal
 disciplines, the employee may be dismissed.
-Formal disciplinary action will cease to be active if no subsequent formal discipline
-is issued within 12-months of the date of issuance.
-38.3.3 Dismissal without Prior Discipline
-An employee may be dismissed without prior discipline and without notice or pay
-1
-ch38_discipline_20161102_en_cl
 
-in lieu of notice, when the reason for discipline is sufficiently serious and no
+38.2.3 Dismissal without Prior Discipline
+An employee may be dismissed without prior discipline and without notice or pay
+in lieu of notice, when the reason for discipline is sufficiently serious and no
 extenuating circumstances exist.
-38.4 Responsibilities
-38.4.1 Supervisors
-Supervisors must consult with the HR Management Section when they identify a
+38.3 Responsibilities
+38.3.1 Supervisors
+1
+ch38_discipline_en_20181120_cl
+
+Supervisors must consult with the HR Management Section when they identify a
 discipline problem before taking actions. Normally, when the supervisor first
 identifies a discipline problem, the supervisor must privately counsel the employee,
 and outline the steps necessary to correct the problem. The supervisor will advise
 the employee that any further problem may result in further discipline.
-38.4.2 HR Management Section
+38.3.2 HR Management Section
 The HR Management Section is responsible for administering the disciplinary
 procedures.
-38.5 Procedures
-38.6 Forms
-38.7 Contacts
-38.7.1 Policy Owner
+38.4 Procedures
+38.5 Forms
+38.6 Contacts
+38.6.1 Policy Owner
 Vice President for Gender Equality and Human Resource Development
 (VPGEHR)
-38.7.2 Other Contacts
+38.6.2 Other Contacts
 HR Management Section
-38.8 Definitions
+38.7 Definitions
 
 2
-ch38_discipline_20161102_en_cl
+ch38_discipline_en_20181120_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
@@ -23451,12 +23422,12 @@ ch39_resolving-complaints-&-disputes_en_20180601_cl
 OIST Graduate University
 Policies, Rules & Procedures
 Authority:
- Approved by the President
- Act on Securing, Etc. of Equal Opportunity and Treatment between Men and Women
+⚫ Approved by the President
+⚫ Act on Securing, Etc. of Equal Opportunity and Treatment between Men and Women
 in Employment
- Act on Improvement, etc. of Employment Management for Part-Time Workers
- Industrial Safety and Health Act
- Public Document Management Act
+⚫ Act on Improvement, etc. of Employment Management for Part-Time Workers
+⚫ Industrial Safety and Health Act
+⚫ Public Document Management Act
 
 Chapter 40. Staff Development and Awards
 40.1 Policy
@@ -23484,49 +23455,42 @@ There are areas where the University has a legal responsibility to conduct train
 for all or related employees, such as research safety and document and record
 management. The University will fully comply with the related laws and
 1
-ch40_staff-development-and-awards_20161102en_cl
+ch40_staff-development-and-awards_en_20181120_cl
 
 regulations and ensure that appropriate training is provided.
 40.3 Rules
 40.3.1 Types of Training
 40.3.1.1 New Employee Orientation
 Primary responsibility for successful onboarding lies with the new
-employee’s unit or division/section. Human Resources or other part of the
-University that provide orientation activities do so in support of the
-individual unit’s or division/section’s onboarding process.
+employee’s unit or division/section. Training and Education Section or
+other part of the University that provide orientation activities do so in
+support of the individual unit’s or division/section’s onboarding process.
 40.3.1.1.1 Each newly hired employee is expected to attend an
-orientation session organized by the Human Resource training
-function.
-New employee orientation is a joint effort between the Human
-Resource training function and the receiving Unit or Division/Section.
+orientation session organized by the Training and Education Section
+training function.
+New employee orientation is a joint effort between the Training and
+Education Section training function and the receiving Unit or
+Division/Section.
 40.3.1.1.2 Orientations for newly hired employees will include
 general information about the University, an explanation of its Core
-Values [link: 1.3], Code of Conduct [link: 1.4], and Respectful
-Workplace Policy [link: 1.3.2], an introduction to the work area, to
-fellow employees and job duties, and instruction regarding the
-University’s
-policies,
-rules,
-and
-procedures
-[link:
-http://www.oist.jp/ja/policy-library].
+Values, Code of Conduct, and Respectful Workplace Policy, an
+introduction to the work area, to fellow employees and job duties, and
+instruction regarding the University’s policies, rules, and procedures.
 The immediate supervisor should provide continuing instruction and
 guidance to help the new employee adjust to his/her new work
 environment.
-40.3.1.1.2.1 The Human Resource training function will provide
-guidelines to supervisors on steps and actions to take in order to
-facilitate new employee onboarding.
+40.3.1.1.2.1 The Training and Education Section training
+function will provide guidelines to supervisors on steps and
+actions to take in order to facilitate new employee onboarding.
 40.3.1.2 Training
 40.3.1.2.1 All employees are eligible, with their immediate
 supervisor’s approval, to attend the training workshops offered by the
-University and applicable to their personal [link: 40.8.5] or
-
+University and applicable to their personal [link:40.8.5] or
+professional [link:40.8.4] training and development.
 2
-ch40_staff-development-and-awards_20161102en_cl
+ch40_staff-development-and-awards_en_20181120_cl
 
-professional [link: 40.8.4] training and development.
-40.3.1.2.2 Frequently, educational training and development
+40.3.1.2.2 Frequently, educational training and development
 programs are offered during an employee’s regularly scheduled
 working hours. To the extent that it is possible and practical,
 supervisors are encouraged to allow their staff to participate in
@@ -23534,34 +23498,33 @@ relevant programs during those hours. The hours spent for attending
 such programs with the supervisor’s approval are counted as working
 hours.
 40.3.1.2.3 The University may instruct an employee to take specific
-or mandatory training [link: 40.8.3]. When such a requirement is
-imposed, the employee must take the training unless otherwise
-justified and the absence has been approved by leaders in his or her
-Unit or Division.
+or mandatory training. When such a requirement is imposed, the
+employee must take the training unless otherwise justified and the
+absence has been approved by leaders in his or her Unit or Division.
 40.3.1.2.4 Analysis of ongoing training needs must be conducted for
-each employee by their Section, as well as by the Human Resource
-training function to validate existing training programs and identify
-any new requirements.
+each employee by their Section, as well as by the Training and
+Education Section training function to validate existing training
+programs and identify any new requirements.
 40.3.1.3 Training provided by other parts of the University
 40.3.1.3.1 Due to the specificity of content of certain training
 programs, other parts of the University may provide training
-independent to that provided by the Human Resource training
-function. In other instances, the specific training is provided in concert
-with or implemented as part of a larger HR program.
-40.3.1.3.2 In such cases, as much as possible, the Human Resource
-training function will provide advice, support, and assistance to that
-part of the University providing the training.
+independent to that provided by the Training and Education Section
+training function. In other instances, the specific training is provided
+in concert with or implemented as part of a larger Training and
+Education Section program.
+40.3.1.3.2 In such cases, as much as possible, the Training and
+Education Section training function will provide advice, support, and
+assistance to that part of the University providing the training.
 40.3.2 Awards
-Details are described in Article 84 [Link: ], Rules of Employment and Article 10.2
-[Link: ], Rules of Employment for Part-time Employees.
+Details are described in Article 85, Rules of Employment and Article 70, Rules of
+Employment for Part-time Employees.
 40.4 Responsibilities
 40.4.1 Employees
-
+Employees have primary responsibility for their own personal and professional
 3
-ch40_staff-development-and-awards_20161102en_cl
+ch40_staff-development-and-awards_en_20181120_cl
 
-Employees have primary responsibility for their own personal and professional
-development. Employees must develop their skills to enhance performance in their
+development. Employees must develop their skills to enhance performance in their
 current position and to prepare them to assume further responsibilities. Employees
 are encouraged to use constructively the performance appraisal process and to
 engage in daily communication with their supervisor to advance staff development
@@ -23575,36 +23538,33 @@ order to enable them to respond effectively to internal and external changes.
 Whenever appropriate, supervisors should approve attendance at relevant staff
 development programs and release employees from their usual duties for such
 programs.
-Supervisors should also inform the Human Resource training function if they
-identify training/development needs that may have organization-wide applicability
-and therefore should be added to the staff development programs. The Human
-Resource training function will work with Unit or Division/Section leaders as
-necessary to develop or access training specific to the needs of the requesting Unit
-or Division/Section.
-40.4.3 Human Resources
-Human Resources is responsible for general University training. That responsibility
-resides in the Human Resource training function. The Human Resources will be
-responsible for planning and implementing staff development programs to meet the
-shared needs of University employees, conducting training needs analysis and
-coordinating training and development programs among related Sections and
-Divisions.
-40.4.3.1 To meet this requirement, the Human Resource training function
-will
- periodically conduct training needs and demand surveys.
- plan and implement general / specific training and development
+Supervisors should also inform the Training and Education Section training
+function if they identify training/development needs that may have organizationwide applicability and therefore should be added to the staff development programs.
+The Training and Education Section training function will work with Unit or
+Division/Section leaders as necessary to develop or access training specific to the
+needs of the requesting Unit or Division/Section.
+40.4.3 Training and Education Section
+Training and Education Section is responsible for general University training. The
+Training and Education Section will be responsible for planning and implementing
+staff development programs to meet the shared needs of University employees,
+conducting training needs analysis and coordinating training and development
+programs among related Sections and Divisions.
+40.4.3.1 To meet this requirement, the Training and Education Section
+training function will
+⚫ periodically conduct training needs and demand surveys.
+⚫ plan and implement general / specific training and development
 activities.
- coordinate training and development activities with and among
+⚫ coordinate training and development activities with and among
 Units or Divisions/Sections.
+40.5 Procedures
 
 4
-ch40_staff-development-and-awards_20161102en_cl
+ch40_staff-development-and-awards_en_20181120_cl
 
-40.5 Procedures
-40.5.1 Application
-Employees can apply to a Human Resources provided University training or
-development course, workshop or seminar via the HR Training Web site [link: ] or
-through the eFRONT Learning Management System [link: ] if the course, workshop,
-or seminar is provided through that portal.
+40.5.1 Application
+Employees can apply to a Training and Education Section provided University
+training or development course, workshop or seminar via the Training and
+Education Section Training Web site.
 40.5.2 Approval
 Participation in any training and development program either outside or internal to
 the University requires the prior approval of the employee’s supervisor. This
@@ -23616,7 +23576,7 @@ or not. Personal training taken outside of work time does not require this appro
 Vice President for Gender Equality and Human Resource Development
 (VPGEHR)
 40.7.2 Other Contacts:
-HR Development Section
+Training and Education Section
 40.8 Definitions
 40.8.1 Employee
 Employee is defined as someone who has been directly hired by the University.
@@ -23629,12 +23589,13 @@ mandated training programs as designated by the University.
 40.8.2 Supervisor
 For this chapter, a supervisor is an employee with managerial or supervisorial
 responsibilities and duties over an organization or part of an organization with
-5
-ch40_staff-development-and-awards_20161102en_cl
-
-employees who report to them. This definition includes faculty and officers of the
+employees who report to them. This definition includes faculty and officers of the
 University, and it covers supervisors who are permanent or on fixed-term contracts.
-40.8.3 Mandatory Training
+
+5
+ch40_staff-development-and-awards_en_20181120_cl
+
+40.8.3 Mandatory Training
 Mandatory Training is any training course, workshop, lecture, online training, video
 or audio training that is required by management for an employee to attend.
 Mandatory training can be training required of all employees or training focused
@@ -23656,15 +23617,15 @@ employees to expand or develop themselves more fully as a person or member of
 society.
 
 6
-ch40_staff-development-and-awards_20161102en_cl
+ch40_staff-development-and-awards_en_20181120_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
 Authority:
- Approved by the President
- Labor Standard Act
- Industrial Accident Compensation Insurance Act
- Industrial Safety and Health Act
+⚫ Approved by the President
+⚫ Labor Standard Act
+⚫ Industrial Accident Compensation Insurance Act
+⚫ Industrial Safety and Health Act
 
 Chapter 41. Workplace Health and Safety
 41.1 Policy
@@ -23678,37 +23639,30 @@ to be mindful of the need for a nutritious diet, for a good night’s sleep, for
 and for periods of relaxation and recreation. The University’s over-arching policies, rules,
 and procedures regarding general and job-specific safety training, employee health,
 research safety training, disaster preparedness and emergency response are set out in PRP
-Chapter 13 [link: 13].
+Chapter 13.
 The discussion in this Chapter is limited to health examination and compensation for
 employees who have a work-related injury or occupational illness covered by the Industrial
 Accident Compensation Insurance Act (Act No. 50 of 1947).
 41.2 General Considerations
-The
-University’s
-Safety
-and
-Health
-Management
-Policy
-[link:
-http://rs.oist.jp/rules/docs/industrial-health-andsafety/safety_and_health_management_rules.pdf] complies with the Industrial Safety and
-Health Act (Act No. 57 of 1972). In addition, the University has developed its own
-requirements regarding employee safety and health; see Chapter 13 [link: 13]
+The University’s Safety and Health Management rules complies with the Industrial Safety
+and Health Act (Act No. 57 of 1972). In addition, the University has developed its own
+requirements regarding employee safety and health; see Chapter 13.
 In the event of a work-related injury or occupational illness, employees may be eligible for
 coverage of medical and other expenses by the Industrial Accident Compensation
 Insurance [link:41.3.2].
 41.3 Rules
 41.3.1 Health Examination
-Details are described in Article 68 [Link: ], Rules of Employment and Article 9.2
-1
-ch41_workplace-health-and-safety_20161102_en_cl
+Details are described in Article 69, Rules of Employment and Article 56, Rules of
+Employment for Part-time Employees.
 
-[Link: ], Rules of Employment for Part-time Employees.
-41.3.2 Worker’s Accident Compensation
-Details are described in Article 88 [Link: ], Rules of Employment and Article 9.3
-[Link: ], Rules of Employment for Part-time Employees.
+1
+ch41_workplace-health-and-safety_en_20181120_cl
+
+41.3.2 Worker’s Accident Compensation
+Details are described in Article 68, Rules of Employment and Article 55, Rules of
+Employment for Part-time Employees.
 41.3.2.1 Notwithstanding the rules governing compensation during absence
-[link: 34.3.6.7], an employee who is absent from work due to injury or
+[link:34.3.6.7], an employee who is absent from work due to injury or
 illness from an accident while at work or commuting as stipulated under the
 Industrial Accident Compensation Act will be paid 100 percent of their
 daily salary by the University for the first 3 days of the period that the
@@ -23717,15 +23671,15 @@ After the first 3 days, when compensation under the Industrial Accident
 Compensation Insurance (Insurance) is less than the amount calculated by
 the formula below, the University will pay the difference after the amount
 of the Insurance payment has been confirmed.
-Formula: Daily Salary [link: 34.3.6.5] multiplied by [the number of
+Formula: Daily Salary [link:34.3.6.5] multiplied by [the number of
 subsequent days the employee is not able to work]
 41.3.2.2 Full-time officers are covered by the accident compensation
 insurance that the University has arranged. The compensation comprises:
- Survivor’s compensation benefits,
- Residual disabilities benefits,
- Hospitalization benefits,
- Surgery benefits, and
- Outpatient benefits.
+⚫ Survivor’s compensation benefits,
+⚫ Residual disabilities benefits,
+⚫ Hospitalization benefits,
+⚫ Surgery benefits, and
+⚫ Outpatient benefits.
 41.4 Responsibilities
 41.4.1 Employees
 Employees are responsible for complying with all laws, regulations, and University
@@ -23736,16 +23690,16 @@ The HR Management Section is responsible for administering the accident
 compensation policy for employees and officers accurately.
 41.4.3 The Health Center
 The Health Center is responsible for implementing health examination for
+employees.
 
 2
-ch41_workplace-health-and-safety_20161102_en_cl
+ch41_workplace-health-and-safety_en_20181120_cl
 
-employees.
-41.4.4. The University
+41.4.4. The University
 The University, as an employer, is responsible for taking necessary measures to
 create a safe and healthy workplace environment and to improve the safety and
 health of its employees, pursuant to all related laws and regulations (See Chapter
-13 [link: 13]).
+13 ).
 41.5 Procedures
 41.6 Forms
 41.7 Contacts
@@ -23758,6 +23712,6 @@ Health Center
 41.8 Definitions
 
 3
-ch41_workplace-health-and-safety_20161102_en_cl
+ch41_workplace-health-and-safety_en_20181120_cl
 
 
