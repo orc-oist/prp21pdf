@@ -3959,7 +3959,7 @@ conduct top class academic instruction. The academic program will aim to develop
 potential of each student toward scientific excellence and independence. In accordance
 with this aim, every student will be treated as a unique individual and have their program
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 of studies tailored to their scientific aspirations, prior education, and current interests. The
 basic principles of the curriculum design are to facilitate independent scientific thinking,
@@ -4001,7 +4001,7 @@ submission of the thesis. The Final Examination includes examination of the writ
 by two external examiners of international standing in the field of the thesis research, who
 also conduct an on-site oral examination.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 The Graduate School is a division of the OIST Graduate University. The Dean is the head of
 the Graduate School. The Graduate School’s major role is to provide academic services,
@@ -4069,12 +4069,12 @@ Student academic records
 Course schedules
 g. Alumni
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 xviii
 
 Provide secretariat for academic committees including:
-a. Admissions committee;
+a. Admissions Committee;
 b. Curriculum and Examination committees;
 c. Thesis committees
 
@@ -4135,7 +4135,7 @@ sectors. Accordingly, recruitment focuses on attracting outstanding students. He
 “outstanding” means students who are highly motivated by the excitement and potential of the
 cutting edge research that is possible at OIST, who have the curiosity and academic ability
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 needed to excel in their chosen areas of study, and who have the capacity for independent
 research and original thinking.
@@ -4148,7 +4148,7 @@ Eligibility for admission to the graduate program
 Students will be eligible to apply for the OIST Graduate Program if they have
 completed a BSc, MSc or equivalent degree or expect to do so prior to the admission
 date. They must also meet admission requirements stipulated in Article 20 of the
-University Rules [link:].
+University Rules.
 Successful candidates for the OIST Graduate Program will only be enrolled into a
 doctoral program and only as full-time students. Students must indicate an
 intention to complete the program leading to a PhD. There is currently no provision
@@ -4183,7 +4183,7 @@ examination is not English is required to provide standard language
 test scores (TOEFL or IELTS) obtained within last 2 years. There is
 no minimum score required but the information is necessary in
 determining preparatory course requirements.
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 iv.
 
@@ -4205,8 +4205,7 @@ The OIST Graduate School reserves the right to request an external evaluation of
 academic qualifications from any applicant.
 5.2.3. Selection for admission
 The Admissions Committee makes the selection of students for admission, in
-accordance with the policies, rules and procedures of the Admissions Committee
-[link: 5.13.1].
+accordance with the policies, rules and procedures of the Admissions Committee.
 This Committee reviews all material submitted by each student and makes a shortlist of about 80 applicants. The short-listed applicants are invited to an Admissions
 Workshop.
 5.2.3.1.
@@ -4232,12 +4231,11 @@ For those invited to attend the workshop the travel costs will be paid by
 OIST. The workshop will comprise a minimum of two full days in
 Okinawa, with flexibility regarding additional time.
 Meals and accommodation
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-OIST will cover the cost of accommodation and meals for candidates
+OIST will cover the cost of accommodation and meals for candidates
 attending the Admissions Workshop at the OIST Graduate University.
-Breakfast, lunch & dinner will be provided from the evening before
+ch05_graduate-school-handbook_en_20181221_cl
+
+Breakfast, lunch & dinner will be provided from the evening before
 through the morning after the workshop.
 Travel support
 1: OIST will support a round trip in economy class between Okinawa
@@ -4275,12 +4273,11 @@ offers if places become available.
 5.2.4. Number of Students Admitted
 In accordance with best-practice graduate teaching methods where low numbers of
 students for each faculty member are essential, and in line with overseas prestigious
-ch05_graduate-school-handbook_en_20181120_cl
+universities, the admission capacity of PhD full-time graduate students accepted by
+the Graduate School shall be as stipulated in Article 15 of the OIST University Rules.
+ch05_graduate-school-handbook_en_20181221_cl
 
-universities, the admission capacity of PhD full-time graduate students accepted by
-the Graduate School shall be as stipulated in Article 15 of the OIST University Rules
-[link:].
-5.2.5. Transfer students
+5.2.5. Transfer students
 Students who have commenced studies at another university and wish to continue
 their students at OIST and obtain the OIST PhD degree may, under special
 circumstances, be admitted subject to meeting admission standards. Such cases may
@@ -4298,8 +4295,8 @@ An applicant who has been admitted to the graduate program as a full-time
 candidate for a PhD will become a student of the OIST Graduate School on the date
 of first registration. Registration is a synonym for matriculation in this context.
 Every student is required to register on admission to the Graduate School (Article
-25 of the University Rules [link:]), and thereafter at the beginning of each academic
-year of the graduate program.
+25 of the University Rules), and thereafter at the beginning of each academic year of
+the graduate program.
 
 Flexibility in time of admission or registration may be of advantage. For example,
 there may be advantages to the Graduate School in recruitment of excellent
@@ -4321,7 +4318,8 @@ employment.
 The full-time status of the student must be confirmed in a written
 declaration signed by the student and the Dean of the Graduate
 School.
-ch05_graduate-school-handbook_en_20181120_cl
+
+ch05_graduate-school-handbook_en_20181221_cl
 
 In order to register, the student, must submit all forms in complete form to the
 Student Support section.
@@ -4351,25 +4349,23 @@ student at OIST.
 Access
 Entry to general laboratory areas is only permitted after the student has
 successfully completed the induction program during Enrollment Week,
-or similar (see PRP 5.2.8[link: 5.2.8]). Additional access to specific more
-restricted areas will only be made available after the appropriate safety
-and equipment training has been provided. Such access will only be
-provided while the student has a need to enter those particular restricted
-areas.
+or similar (see PRP 5.2.8). Additional access to specific more restricted
+areas will only be made available after the appropriate safety and
+equipment training has been provided. Such access will only be provided
+while the student has a need to enter those particular restricted areas.
 5.2.7.3.
 Loss and Replacement of Cards
 In the event that a Student ID Card is lost or misplaced, the student must
 immediately inform the Graduate School Office. A replacement Student
 ID Card will be issued.
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-5.2.7.4.
+5.2.7.4.
 Permissions
 Student ID Cards may not under any circumstances be loaned out or used
 by other persons, whether or not those persons are themselves authorized
 to have access to OIST facilities. Cards may not be copied, reverseengineered, distributed without permission, or cryptanalyzed. Cards
-remain the property of OIST even when invalidated. The Dean of the
+ch05_graduate-school-handbook_en_20181221_cl
+
+remain the property of OIST even when invalidated. The Dean of the
 Graduate School may take disciplinary action in the event that these
 provisions are not followed.
 5.2.8. Induction program
@@ -4386,7 +4382,7 @@ to their arrival time. However, no laboratory access can be provided to students
 have not completed this or a similar induction program.
 5.2.9. Application Fees, Admission Fees and Tuition Fees
 The Application Fee, Admission Fee and Tuition Fee (Article 42 of the University
-Rules [link:]) are set as follows.
+Rules) are set as follows.
 Application Fee
 0 Yen
 Admission Fee
@@ -4403,22 +4399,22 @@ i
 
 ii
 
+iii
+
 meets admission requirements and receives and accepts an offer of
 admission, and is registered as a full-time PhD student for a
 minimum of three years and not more than ten years; and
 satisfactorily completes prescribed coursework amounting to at
 least 30 points (20 from courses, 10 from research work) or
-ch05_graduate-school-handbook_en_20181120_cl
-
-iii
-
-iv
-
 alternatively, has obtained the equivalent number of credits based
 on prior study; and
 presents a successful thesis representing the result of the
 candidate’s research which should constitute an original
 contribution to knowledge and contain material worthy of
+ch05_graduate-school-handbook_en_20181221_cl
+
+iv
+
 publication; and
 satisfies the examiners in an oral examination in matters relevant
 to the subject of the thesis.
@@ -4440,8 +4436,8 @@ third years of the program. Such a student will be required to complete
 an approved course of studies.
 5.3.1.3.
 Minimum period of study
-The minimum period of study is stipulated in Article 35 of the university
-rules [link:].
+The minimum period of study is stipulated in Article 35 of the University
+Rules.
 5.3.1.4.
 Extension to the standard period of study
 In exceptional circumstances the period of study may be extended
@@ -4457,26 +4453,24 @@ Leave and Annual Leave [link: 5.3.17].
 The academic year begins in September each year. The school year is composed of
 three terms, with nominally 15 weeks of scheduled teaching in each term. This
 schedule was chosen in order to give enough time for completion of a meaningful
-project in each Research Rotation (See Article 17 of the OIST University Rule).
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-5.3.3. Course work requirements
+project in each Research Rotation (See Article 17 of the OIST University Rules).
+5.3.3. Course work requirements
 The first two years of the integrated 5-year doctoral program comprise a
 combination of Research Rotations and courses, designed to prepare the student for
 his or her doctoral thesis work in a flexible way. In the first two years of the program
 students will undertake an individualized study program constructed from a
 combination of courses.
-5.3.4. Course credits
+ch05_graduate-school-handbook_en_20181221_cl
+
+5.3.4. Course credits
 The number of credits assigned to each course is stipulated in the Schedule of
-Courses [link: http://groups.oist.jp/ja/grad/course-info]. Students will be required
-to accrue at least 30 points before graduation. Courses include Professional
-Development, Basic, Advanced, and Research Courses. The subtotal of Professional
-Development, Basic, and Advanced courses amounts to a value of 20 points.
-Research courses include Rotations and a Thesis Proposal amounting to a total value
-of 10 points. International Workshop Participation may provide additional points.
-Credits may be awarded for graduate courses completed at other universities or at
-OIST prior to admission (Chapter 5.6.2 [link: 5.6.2]).
+Courses. Students will be required to accrue at least 30 points before graduation.
+Courses include Professional Development, Basic, Advanced, and Research Courses.
+The subtotal of Professional Development, Basic, and Advanced courses amounts to
+a value of 20 points. Research courses include Rotations and a Thesis Proposal
+amounting to a total value of 10 points. International Workshop Participation may
+provide additional points. Credits may be awarded for graduate courses completed
+at other universities or at OIST prior to admission (Chapter 5.6.2).
 5.3.5. Mandatory Courses
 To maintain flexibility in the curriculum the number of mandatory courses (apart
 from the required research courses: Rotation and Thesis Proposal) is limited to two,
@@ -4504,24 +4498,24 @@ theoretical work or modeling as well as laboratory benchwork. They are
 intended to help the student select the most appropriate research unit
 and research question for their thesis research. Students will typically
 complete three Rotations before deciding on a thesis topic.
-ch05_graduate-school-handbook_en_20181120_cl
-
-Three Research Rotations are always required, with a total point value of
+Three Research Rotations are always required, with a total point value of
 9 points. There may be exceptions to this requirement in the case of
 equivalent prior research experience, in which case credit may be
 awarded in increments of 3 points as a cross-credit [link: 5.6.2.]. In
 general, not more than 6 points can be cross-credited for rotations, so
 that all students must complete at least one rotation.
-The choice of Rotations is part of the approved course taken by the
+ch05_graduate-school-handbook_en_20181221_cl
+
+The choice of Rotations is part of the approved course taken by the
 student, and requires discussion with the Academic Mentor [link: 5.3.10].
 The number of students who may take a rotation in a given research unit
 is limited to 2 and not all choices will necessarily be available at a given
 time. Students should list in order of preference 5 rotations on the
-application form [link: ] submitted with their proposed course for
-approval by the Dean of the Graduate School. Their top 3 will be
-accommodated whenever possible. If not possible, the committee will
-look further along their list to ensure they can complete their rotations
-during the first year.
+application form submitted with their proposed course for approval by
+the Dean of the Graduate School. Their top 3 will be accommodated
+whenever possible. If not possible, the committee will look further
+along their list to ensure they can complete their rotations during the first
+year.
 Each Rotation entails completion of a meaningful project. The Professor
 in charge of the host research unit will assign the project topic, taking into
 account the interests of the student and the capabilities of the research
@@ -4546,9 +4540,7 @@ The maximum the number of courses that can be taken in any one term is four.
 However, students will not normally take more than two Basic or Advanced Courses
 per term, in order to leave time for independent studies, reading, and research work
 during Rotations.
-ch05_graduate-school-handbook_en_20181120_cl
-
-5.3.9.
+5.3.9.
 
 Overview of order of study
 Year 1
@@ -4559,11 +4551,15 @@ Course plan for Year 1 and Year 2 prepared (including
 rotations)
 iii
 Professional Development I.
-iv
+ch05_graduate-school-handbook_en_20181221_cl
+
+iv
+v
+
 Complete approved Basic Courses and Advanced Courses if
 appropriate.
-v
 Three Rotations.
+
 (See separate note regarding additional professional development courses.)
 Year 2
 i
@@ -4604,10 +4600,7 @@ Development courses, there are no compulsory course requirements.
 In such a flexible program, in which each student has an individualized program,
 excellent advice in course selection from an experienced advisor is essential. To
 provide this advice each student will have an independent Academic Mentor.
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-5.3.10.1.
+5.3.10.1.
 Appointment of Academic Mentor
 An Academic Mentor (also called General Advisor) is assigned to each
 student from the time of admission. The Academic Mentor is required to
@@ -4616,7 +4609,10 @@ that reinforce the foundations of the field of study and also provide the
 breadth of study necessary to develop the ability to collaborate effectively
 across traditional boundaries. The Academic Mentor for each student will
 be appointed by the Dean of the Graduate School, with advice from the
-Academic Services Section. The Academic Mentor should have the
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+Academic Services Section. The Academic Mentor should have the
 following characteristics:
 i Significant prior experience in course advising and
 supervision of graduate thesis research. New Faculty may
@@ -4643,26 +4639,25 @@ and theoretical approaches, and an interdisciplinary experience.
 5.3.10.3.
 Approval of Course Plan
 The course plan will be submitted to the Dean of the Graduate School on
-the required form [link: ]. Each individual’s course plan will be finally
-approved by the Dean of the Graduate School.
+the required form. Each individual’s course plan will be finally approved
+by the Dean of the Graduate School.
 5.3.10.4.
 Approval of Research Rotations
 Research Rotations are approved by the Dean of the Graduate School
 taking into account the student preferences, and availability of rotations.
 5.3.10.5.
 Course assessment
-Each course will be assessed as specified in the course schedules [link:
-ch05_graduate-school-handbook_en_20181120_cl
-
-http://groups.oist.jp/ja/grad/course-info]. Examiners may examine by
-means of written, practical, or oral test, or by continuous assessment, or
-by any combination of these. Examination scripts and reports must be
-written in English.
+Each course will be assessed as specified in the course. Examiners may
+examine by means of written, practical, or oral test, or by continuous
+assessment, or by any combination of these. Examination scripts and
+reports must be written in English.
 A student who is unable to complete an assessment because of genuine
 impairment may be permitted by the Dean of the Graduate School to
 complete a supplementary assessment. In such cases an application for
 special consideration must be submitted within 48 hours of the
-assessment on the appropriate form [link: ].
+ch05_graduate-school-handbook_en_20181221_cl
+
+assessment on the appropriate form.
 There shall be no appeal against examination results. However,
 complaints about examination results will be considered by the Dean of
 the Graduate School and scripts will be checked for errors in marking. If
@@ -4689,18 +4684,18 @@ of difficulty the Academic Mentor will organize help and support for the
 individual student as needed. If difficulties continue the Academic
 Mentor has the responsibility of alerting the Dean of the Graduate School,
 who may initiate proceedings related to poor progress or performance.
-(Chapter 5.11.2 [link: 5.11.2])
 5.3.11. Qualifying for Progression to PhD Thesis Research
 Before commencing PhD thesis research all OIST graduate students will be
 evaluated by the Curriculum and Examinations Committee to determine if they are
 qualified for PhD thesis work. To initiate this process the student prepares the PhD
 thesis proposal, as described in Section [link: 5.3.11.3] after selecting a Thesis
-ch05_graduate-school-handbook_en_20181120_cl
-
-Supervisor(s) and Research Unit, and nominates a Thesis Committee. The thesis
+Supervisor(s) and Research Unit, and nominates a Thesis Committee. The thesis
 proposal, Thesis Supervisor, and Thesis Committee must be formally approved by
 the Dean of the Graduate School before the student commences thesis research
-5.3.11.1.
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+5.3.11.1.
 members
 
 Nomination of Thesis Supervisor, and Thesis Committee
@@ -4737,16 +4732,16 @@ Thesis Committee, the student completes and submits the form for
 nominating Thesis Committee members [link: Thesis Proposal
 Submission Cover Sheet] along with the thesis proposal to the Graduate
 School. The Thesis Supervisor and Thesis Committee members for each
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-student will be appointed by the Dean of the Graduate School, with advice
+student will be appointed by the Dean of the Graduate School, with advice
 from the Academic Services Section. If the proposed Thesis Supervisor is
 the same person as the Academic Mentor, a new Academic Mentor will
-be appointed by the Dean of the Graduate School to avoid any conflict
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+be appointed by the Dean of the Graduate School to avoid any conflict
 of interest.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 5.3.11.3.
 
@@ -4778,7 +4773,7 @@ and committee members indicate formal agreement by signing the cover
 page. The proposal is then submitted for examination. The student must
 defend the proposal in an oral examination.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 5.3.11.3.1. Format and Content of the Thesis Proposal
 It is part of the student's training in research to prepare a concise,
@@ -4821,7 +4816,7 @@ research. The review should provide the context for the aims
 of the proposed research in relation to existing work on the
 topic.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 v.
 
@@ -4868,7 +4863,7 @@ excessively long, or poorly constructed, thesis proposals, without
 forwarding them to examiners. The student cannot assume that the
 examiners will read the optional appendices.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 The complete doctoral thesis proposal document must be submitted to
 the Graduate School by the due date as nominated by the Dean, normally
@@ -4912,7 +4907,7 @@ give a concise summary of the research proposal, which should
 normally take less than 15 minutes. The use of slides or other
 material for the presentation is not permitted. However, the
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 student may refer to a hard copy of the thesis proposal during the
 examination. A white board and pens are also provided.
@@ -4953,7 +4948,7 @@ Examinations Committee. The report shall remain
 confidential and shall not be released to the student until
 after the Curriculum and Examinations Committee has
 formally decided on the outcome of the examination.
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 The examiners’ report is required to include one of the following
 possible recommendations listed below:
@@ -5003,7 +4998,7 @@ i.
 
 The student’s PhD thesis proposal.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 ii.
 
@@ -5021,7 +5016,7 @@ Write-ups of Rotations.
 An Endorsement of the thesis proposal from the proposed
 thesis supervisor, the student’s academic mentor, and other
 members of the intended thesis committee, on the prescribed
-Thesis Proposal Submission Cover Sheet (link).
+Thesis Proposal Submission Cover Sheet.
 Further material deemed relevant to the evaluation.
 
 vi.
@@ -5060,7 +5055,7 @@ Once revisions have been accepted, the student is notified after ratification
 at the next available meeting of the Curriculum and Examinations
 Committee.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 Procedures for appeal against the outcome of the evaluation are separately
 described (5.3.11.8).
@@ -5076,8 +5071,7 @@ submit a thesis for consideration for award of the MSc degree in
 accordance with Article 37, paragraph 3 of the University Rules. An MSc
 may be awarded if the candidate has successfully completed the following
 minimum requirements:
-i. at least 30 points (20 from cou
-rses, 10 from research work),
+i. at least 30 points (20 from courses, 10 from research work),
 ii. submission of a thesis describing their own research work at a level
 judged to be suitable for the award of MSc by a panel of examiners
 including at least one external examiner.
@@ -5105,7 +5099,7 @@ allowed to submit a thesis for award of the MSc degree in accordance with
 Article 37, paragraph 3 of the University Rules. Early exit must be
 requested within two years of enrolment and approved by the Dean of the
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 Graduate School. An MSc may be awarded if the candidate successfully
 completes the following minimum requirements:
@@ -5149,7 +5143,7 @@ outcome of the examination, and the appeal is unsuccessful.
 iii.The procedures for the qualifying examination were not applied
 correctly, and the variation in procedures did influence the outcome of
 the examination, and the appeal is successful. In this case, the Dean of
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 Faculty Affairs will determine further action to be taken, which may
 include re-examination.
@@ -5178,7 +5172,7 @@ Discontinuation
 A candidature may be discontinued:
 i if academic progress is not satisfactory; or
 ii if the student has failed to meet the requirements as stipulated
-elsewhere [link: 5.4. ].
+elsewhere [link: 5.4 ].
 5.3.13. Ph.D Degree Completion
 The Ph.D. degree is conferred by the University in recognition of completion by the
 candidate of original research that makes a significant contribution to scientific
@@ -5192,7 +5186,7 @@ candidate must present their work in a thesis and defend it in an oral examinati
 A candidate may not submit for examination work that has been included in a thesis
 or dissertation that has been previously submitted towards a degree qualification.
 Course credit requirements are listed in PRP 5.3.13.7.
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 5.3.13.1.
 Thesis Requirements
@@ -5239,7 +5233,7 @@ must be completed before the final examination.
 Appointment of the Thesis Examination Panel
 After receiving the Notice of Intent to Submit a Thesis, the Curriculum
 and Examinations Committee (CEC) will appoint thesis examiners from
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 within and outside the University, to form a Thesis Examination Panel,
 as follows:
@@ -5289,7 +5283,7 @@ department as the candidate, having supervised the candidate in
 academic or project work, or having joint publications or grants
 with the candidate at any time.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 5.3.13.4.
 
@@ -5325,7 +5319,7 @@ of action from among the listed options (above).
 In the case of Defer, the thesis must be re-examined after the revisions
 have been completed. Examiners then choose a recommendation of:
 i. Proceed to oral examination
-ii. Consider for an MSc degree (see PRP 5.3.13.4.1)
+ii. Consider for an MSc degree (see 5.3.13.4.1)
 iii. Fail
 In all cases the examiners' reports will be retained by the Chair until after
 the oral examination, at which time they will be transmitted to the
@@ -5333,7 +5327,7 @@ student as outlined in PRP 5.3.13.5.
 5.3.13.4.1 Exit with MSc (“Award lesser degree” outcome of PhD
 thesis examination)
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 A student who fails to meet requirements for the award of a PhD
 may be awarded the degree of MSc on the recommendation of the
@@ -5376,7 +5370,7 @@ In the case of “Pass subject to satisfactory revision” outcome the report
 specifies the revisions to be made, which may be by reference to
 individual examiner’s reports. The Dean of the Graduate School informs
 the student of the required revisions.
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 After the student has made the revisions the Chair of the Thesis
 Examination Panel approves the final version of the thesis or, if the
@@ -5413,8 +5407,8 @@ form part of the examination.
 5.3.13.7 Summary of Completion Requirements
 In order to graduate with the PhD degree, a student must have been
 registered as a full-time student for a minimum enrolment period
-stipulated in Article 35 of the university rules[link] and successfully met
-the following minimum requirements:
+stipulated in Article 35 of the University Rules and successfully met the
+following minimum requirements:
 i.
 
 completed and passed at least 30 course credits (20
@@ -5428,7 +5422,7 @@ iii.
 
 obtained a PASS outcome of the Thesis Examination
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 The academic record for the student will record the name of the Thesis
 Supervisor and list separately the names of the members of the Thesis
@@ -5442,7 +5436,6 @@ judged to be suitable for the award of MSc by a panel of external and
 internal examiners.
 5.3.13.8 Appeals procedure
 Appeals will be managed by the process stipulated in 5.3.11.8.
-[link: http://www.oist.jp/policy-library/5.3.11]
 5.3.14. Prizes
 The graduate university may establish prizes.
 5.3.15. Graduation
@@ -5465,11 +5458,11 @@ the nature of the objection.
 Once the Faculty Assembly has approved the recommendation, the
 minutes of the Faculty Assembly hold a record of the names of the
 students, the date of conferment, and title of the thesis. The Individual
+Student Record shall be updated with an entry by the end of the month
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
-Student Record shall be updated with an entry by the end of the month
-in which the Faculty Assembly approved, stating that all requirements for
+in which the Faculty Assembly approved, stating that all requirements for
 the degree have been satisfied and the degree has been conferred. The
 record includes the date, the title of the thesis, the name of the Thesis
 Supervisor, and the names of the other members of the Thesis Committee.
@@ -5480,7 +5473,8 @@ ceremony or “in absentia”. The degree certificate is presented by the
 President at the graduation ceremony (see PRP 5.3.15.2). A student who
 chooses to graduate in absentia is provided with the degree certificate
 after the graduation ceremony. The format of the certificate is as per
-Form 1 (for PhD Degree) and Form 2 (for MSc Degree) ［link］.
+Form 1 (for PhD Degree) and Form 2 (for MSc Degree) .
+
 When a Doctoral degree is conferred, it shall be reported to the Minister
 of Education, Culture, Sports, Science and Technology, and the abstract
 of the thesis and the result of the examination shall be publicized on the
@@ -5494,15 +5488,15 @@ degree.
 The student may request that the full text not be published, and instead
 only publish a summary of the contents of the thesis in lieu of the entire
 text of thesis when there is significant reason and with approval of the
-Sipervisor. In this case, the University will make available for inspection
+Supervisor. In this case, the University will make available for inspection
 the entire text of the thesis in response to a request, in hard copy and on
 University library premises. When necessary for intellectual property
 protection or other reasons, this inspection will be subject to a nondisclosure agreement. When the Dean of the Graduate School judges that
+the significant reason no longer exists, the entire text of thesis related to
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
-the significant reason no longer exists, the entire text of thesis related to
-the conferment of the Doctoral degree shall be published through the
+the conferment of the Doctoral degree shall be published through the
 medium specified by the university.
 
 5.3.15.2.
@@ -5553,7 +5547,7 @@ Confidentiality
 It is important from the beginning of the process of nomination
 through to the point at which a decision is reached and the
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 successful candidates have been invited by the President, that a
 high level of confidentiality be maintained.
@@ -5574,7 +5568,7 @@ attention of the Committee. If relevant, nominations should be
 accompanied by details of the nominees’ published works in an
 Appendix.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 5.3.15.3.
 
@@ -5616,7 +5610,7 @@ The OIST Graduate School offers OIST PhD students and Special
 Research Students opportunities to gain experience and develop skills as
 Teaching Assistants. Teaching Assistants may contribute to various
 educational activities such as:
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 1.
 Assisting an OIST faculty member in the delivery of an official OIST
@@ -5661,7 +5655,7 @@ Teaching Assistant activity of each student. The form should detail the
 contact hours and be signed by the proposed supervisor. A CV should be
 attached.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 Service as a Teaching Assistant is normally unpaid because students
 receive financial support by other mechanisms. Exceptional cases and
@@ -5706,7 +5700,7 @@ she is best advised for personal, health, or other reasons to have time
 completely away from his / her academic responsibilities. Under no
 circumstances shall leave of absence under this category be granted on
 each occasion or cumulatively for a period of more than two years for the
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 entire period of study. Any period of Non-study Leave granted shall result
 in the extension of the period of study by the period of absence.
@@ -5817,7 +5811,7 @@ To provide care to a new
 
 Up to 5 days
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 born baby or for another
 child of the same family
@@ -5904,7 +5898,7 @@ i. Saturdays and Sundays; and
 ii. Holidays specified in the Act on National Holidays (Act No. 178 of
 1948).
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 iii. Year-end and New Year Holidays (from December 29 to January 3 of
 the following year)
@@ -5947,7 +5941,7 @@ Prenatal Leave. Research Assistants who expect to give birth within 6 weeks
 (14 weeks for multiple pregnancies) are granted prenatal maternity leave.
 When the actual delivery is after the expected delivery date, the additional
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 days are included in the maternity leave.
 Postpartum Leave. Research Assistants are granted 8-week paid postpartum
@@ -5989,7 +5983,7 @@ enrolment, if a serious medical problem were to arise for mother or newborn, the
 woman student would be eligible for extension of the period of Childbirth
 Accommodation Policy until the medical problem is resolved.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 Residency requirements
 The expectation is that the student will be in residence in Okinawa, and, assuming
@@ -6030,7 +6024,7 @@ Once a student submits an application, the Office of the Dean of the Graduate
 School will ensure that students whose applications have been approved will see no
 change in their financial support as Research Assistants.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 Students who are supported by fellowships external to OIST must adhere to the
 rules of the granting agency with respect to absences from academic and research
@@ -6072,7 +6066,7 @@ circumstances of the student. For example, women whose research involves
 working with toxic chemicals or fieldwork may need some form of accommodation
 during the entire pregnancy and during lactation. Taking care of an infant is timeconsuming and sleep-depriving, so advisors need to have realistic expectations
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 about rates of progress on research. For their part, new parents need to keep the
 lines of communication with their advisors open, and demonstrate to their
@@ -6117,7 +6111,7 @@ Continued financial support for students in the doctoral program
 depends on maintained performance in study and research, and is based
 on the provision of satisfactory annual Progress Reports. Assistantships
 will be discontinued in the event of unexcused absence, failure to
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 maintain adequate academic performance, unethical behavior, or other
 reasons determined by the academic oversight process to be incompatible
@@ -6160,7 +6154,7 @@ availability of budget, and the nature of the activity. When payment
 is possible it is made on an hourly basis for the contact hours and
 preparation time. Paid preparation time, when necessary, is based on
 a maximum of 4 hours preparation for 1 hour of contact time. Details
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 of the conditions of service are separately stipulated.
 5.4.1.2.2. Tuition waiver
@@ -6197,7 +6191,7 @@ using the terms defined in Article 17 of the University Rules) may be
 possible.
 2. Change in thesis research laboratory.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 This may occur because of the departure or incapacity of the
 supervisor, or because of a change of supervisor that has been
@@ -6215,7 +6209,7 @@ term using the terms defined in Article 17 of the University Rules.
 Students who become responsible for the care of a new born or
 newly adopted child in the family may apply for an extension of the
 financial support period that takes into account the provisions of the
-Childbirth Accommodation Policy [link: ].
+Childbirth Accommodation Policy.
 Applications for extension of financial support should be made in writing
 to the Dean of the Graduate School by the end of the 4th year.
 
@@ -6238,7 +6232,7 @@ Graduate School approve the travel. For details concerning visiting an
 educational institution, please refer to the OIST Guidelines for Student
 Travel.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 5.4.1.5.
 Travel grants for students to attend conferences
@@ -6291,7 +6285,7 @@ Reimbursement of relocation expenses can only be provided once.
 If a Student voluntarily terminates the agreement within the first
 three months, OIST S.C. may request return of the total amount
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 provided. If the termination is due to unavoidable circumstances
 (including family health reasons), OIST S.C. may waive the claim
@@ -6304,7 +6298,7 @@ A commuting allowance may be paid to students who live
 outside of campus but cannot use the OIST shuttle bus for
 reasons deemed valid by the Dean of the Graduate School.
 Details on the allowance are stipulated separately by “Rules
-Pertaining to a Commuting Allowance for Students” ［link］.
+Pertaining to a Commuting Allowance for Students”.
 5.4.2. Assistance with visa requirements
 The student support section provides assistance with student visas. Students must
 have completed visa requirements prior to registration. Students needing assistance
@@ -6326,16 +6320,15 @@ Insurance
 5.4.3.2.1
 Health Insurance
 Subscription to National Health Insurance is a mandatory
-requirement and the cost will be covered by students. < ref: link to
-National Health Insurance info >
+requirement and the cost will be covered by students.
 5.4.3.2.2
 Personal Accident Insurance for Students Pursuing
 Education and Research (PAS), and Liability Insurance coupled
 with PAS (Gakkensai and Gakkenbai)
 All students are covered by Gakkensai and Gakkenbai provided by
-Graduate School. <ref: link to Gakkensai and Gakkenbai>.
+Graduate School.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 5.4.3.3.
 Childcare
@@ -6349,8 +6342,7 @@ Subsidized accommodation is provided for students living in the Campus Housing.
 All students are expected to live in the accommodation provided at least 1 year. If a
 student is required to live off-campus due to unavoidable circumstances, such as
 shortage of housing in the Campus Housing, the University may lease off-campus
-housing for residence of the student. (Please refer Student Rental Housing Rules
-[link: ].)
+housing for residence of the student. (Please refer Student Rental Housing Rules.)
 5.4.4.1.
 
 On-Campus Housing
@@ -6406,6 +6398,8 @@ Net R en t
 41 , 00 0 ye n/ mt h
 Mast er B R:
 20 , 00 0 y e n/ mt h*
+Oth er BR :
+1 8 ,0 00 y en / mth *
 
 Net R en t
 (U nfu rn is h ed )
@@ -6415,16 +6409,12 @@ Net R en t
 21 ,0 00 y en /m th
 Mast er B R:
 1 1 , 00 0 y e n/ mt h*
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-Oth er BR :
-1 8 ,0 00 y en / mth *
-
 Oth er BR :
 1 0, 00 0 ye n/ mt h *
 
-* This applies only when both occupants are students.
+ch05_graduate-school-handbook_en_20181221_cl
+
+* This applies only when both occupants are students.
 Minor change in rates on the order of 10% is possible.
 An application for housing should be made on the application form
 available from the Facility Management section.
@@ -6437,24 +6427,22 @@ University may lease off-campus housing for residence of the student.
 Rent, Utilities (if applicable) and other necessary costs will be deducted
 from the emolument of the Research Assistantship. Those who do not
 have Research Assistantship will be billed.
-5.5. Categories of students
+5.5. Categories of Students
 The OIST Graduate University recognizes a student body comprising full-time PhD students
 registered in the OIST graduate program, and also Special Students who are attending OIST
 for educational purposes but not seeking the OIST degree. The Graduate School aims to
 ensure an optimal experience for all students at OIST and provides various kinds of support
-for students in different categories. The main categories of student defined in Article 43 of the
-University Rules [link: ] are (1) Registered OIST PhD Students or (2) Special Students in
+for students in different categories. Students stipulated in Chapter 2 and Chapter 3 of the
+University Rules are classified as (1) Registered OIST PhD Students or (2) Special Students in
 several categories.
 5.5.1
 Registered OIST PhD Students
-All provisions concerning students in the OIST PhD Program including financial
-support as a Research Assistant, are stipulated in the Graduate School Handbook
-Chapter 5 [link: ] and are not elaborated here.
+OIST PhD Students are students who are enrolled in the OIST PhD Program.
 5.5.2
-Special Students
-Special Students are persons other than registered OIST PhD students, who are
-undertaking educational activity in the Graduate School. There are several
-categories of Special Student:
+Special Students and Fellows
+Special Students and Fellows are persons other than registered OIST PhD
+students, who are undertaking educational activities at OIST. There are several
+categories of Special Students and Fellows:
 Category
 
 PRP
@@ -6463,23 +6451,21 @@ Eligibility
 
 Period
 
-ch05_graduate-school-handbook_en_20181120_cl
-
-Students receiving research
+Students receiving research
 Special Research
-Student <Tokubetsu-
+Student <TokubetsuKenkyu-Gakusei>
 
 guidance or co-supervision
 5.5.2.1.
 
-Kenkyu-Gakusei>
-
 toward a degree. (A written 6 months and longer
 agreement with the partner
 institution is required.)
-Students obtaining research
-experience under the
 
+ch05_graduate-school-handbook_en_20181221_cl
+
+Students obtaining research
+experience under the
 Research Intern
 
 5.5.2.2.
@@ -6511,8 +6497,6 @@ Students taking courses at
 Risyuusei>
 Course Auditors
 <Choukousei>
-Junior Research
-Fellows
 
 OIST for credit at another
 
@@ -6520,28 +6504,48 @@ Academic term
 
 university
 5.5.2.5.
-5.5.2.6.
 
 Academic term
-Students whose thesis
+Former OIST PhD
+students whose thesis
+
+Junior Research
+Fellows
+
+supervisor acknowledges
+5.5.2.6.
+
+that they need to conclude
 
 Up to 6 months
 
-supervisor acknowledges
-that they need to conclude
 their research project after
 the degree conferral at
 OIST.
+Those who engage in
+science writing under
+
+Science
+Communication
+Fellows
+
+5.5.2.7
+
+supervision of Media
+Section Leader of the
+
+Up to 6 months
+
+Communication and Public
+Relations Division.
 
 These categories are separately considered in the following sections.
 
-5.5.2.1
+ch05_graduate-school-handbook_en_20181221_cl
 
+5.5.2.1
 Special Research Students <Tokubetsu-Kenkyu-Gakusei>
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-Students of other universities (referred to as the “partner institution”)
+Students of other universities (referred to as the “partner institution”)
 who are permitted by the partner institution to receive research guidance
 at the OIST Graduate University under the terms of an agreement with
 the partner institution, may apply to become Special Research Students
@@ -6578,13 +6582,15 @@ Special Research Students enjoy many of the same privileges of students
 for full-time study in the doctoral program in the University, with the
 exception of Financial Support, which is handled differently.
 5.5.2.1.1.
+
 Students of newly-hired faculty
-Students of newly hired faculty who relocate to OIST before
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+Students of newly hired faculty who relocate to OIST before
 completion of their PhD degree may need special arrangements
 to facilitate the successful completion of their PhD. If the student
-ch05_graduate-school-handbook_en_20181120_cl
-
-is able to complete their research at OIST while continuing to be
+is able to complete their research at OIST while continuing to be
 enrolled at their original home institution, they can be received
 as Special Research Students receiving research guidance from
 the relocating faculty member. Such students would graduate
@@ -6600,12 +6606,12 @@ curriculum, according to the program outlined in Chapter 5.
 Procedures for Special Research Students
 Special Research Students must be formally accepted and
 registered as Special Students at the OIST Graduate University in
-accordance with Article 43 of the University Rules [link: ]. The
-Graduate School must be notified of the intention to host the
-student by the Professor of the Research Unit in a timely manner
-(at least 6months prior to the expected start date). The
-procedure for acceptance and registration requires the student to
-submit the documents listed below:
+accordance with Article 43 of the University Rules. The Graduate
+School must be notified of the intention to host the student by the
+Professor of the Research Unit in a timely manner (at least
+6months prior to the expected start date). The procedure for
+acceptance and registration requires the student to submit the
+documents listed below:
 i)
 ii)
 iii)
@@ -6632,12 +6638,11 @@ agreement of the partner institution. It is important that the
 degree requirements of the partner institution can be met at
 OIST. The Graduate School will complete such an agreement
 with the partner institution. Such an agreement may allow for
-mutual waiver of tuition fees. Where such an agreement does not
+ch05_graduate-school-handbook_en_20181221_cl
+
+mutual waiver of tuition fees. Where such an agreement does not
 exist, tuition fees may be charged to the student.
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-After acceptance of the student, the Graduate School will make a
+After acceptance of the student, the Graduate School will make a
 recommendation to the Research Unit concerning the conditions
 of financial support for the Special Research Student. The
 student must declare any external financial support from the
@@ -6674,13 +6679,14 @@ Students on the advice of the Graduate School with approval of
 the Dean of Research and agreement of the Professor of the host
 Research Unit.
 5.5.2.1.3.1. SRS Research Assistantship
-A SRS Research Assistantship is an appointment provided to
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+A SRS Research Assistantship is an appointment provided to
 a Special Research Student in good standing who performs
 research or who assists others performing research and
 educational activities.
-ch05_graduate-school-handbook_en_20181120_cl
-
-Tenure of a SRS Research Assistantship is for one year, or
+Tenure of a SRS Research Assistantship is for one year, or
 until he thesis is submitted (whichever period is the shorter).
 Continued financial support depends on maintained
 performance in study and research with an official request
@@ -6726,12 +6732,12 @@ household
 per
 
 *350,000 yen if transferring a car from mainland Japan
-Reimbursement of relocation expenses can only be provided
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+Reimbursement of relocation expenses can only be provided
 once.
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-If a Special Research Student voluntarily terminates the
+If a Special Research Student voluntarily terminates the
 agreement within the first three months, OIST S.C. may
 request return of the total amount provided. If the
 termination is due to unavoidable circumstances (including
@@ -6796,11 +6802,11 @@ Net R en t
 
 *This applies only when both parties are registered OIST
 graduate students.
-Minor change in rates on the order of 10% is possible.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
-5.5.2.1.3.6.2. Off-Campus Housing
+Minor change in rates on the order of 10% is possible.
+5.5.2.1.3.6.2. Off-Campus Housing
 If a Special Research Student is required to live off-campus
 due to unavoidable circumstances, such as shortage of
 housing in the Campus Housing, the University may lease
@@ -6839,26 +6845,25 @@ students will receive preference for funding from the Graduate
 School.
 The applications of high ranking applicants who are already in
 PhD programs will be forwarded to the Faculty for consideration
-of placement in research units, supported by research unit funds.
-Applications from currently enrolled students must be supported
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
-by a recommendation letter from the Dean, Head of Department,
+of placement in research units, supported by research unit funds.
+Applications from currently enrolled students must be supported
+by a recommendation letter from the Dean, Head of Department,
 or supervising professor of the program they are enrolled in.
 5.5.2.2.2.
 Application
 Places for Research Interns are awarded four times a year on a
 competitive basis. Application must be made using the online
 application form in accordance with the procedures and
-deadlines that are posted on the OIST website [link]. Sufficient
-time must be allowed for the issue of a visa and other necessary
+deadlines that are posted on the OIST website. Sufficient time
+must be allowed for the issue of a visa and other necessary
 Japanese government documentation.
 Selection is competitive, and depends on suitability of the
 intended research, a student's academic background, and
-available funding and space. Professors accepting students
-under these programs will review the student’s qualifications,
-research capabilities, and academic training in a comprehensive
-manner.
+available funding and space. Professors accepting students under
+these programs will review the student’s qualifications, research
+capabilities, and academic training in a comprehensive manner.
 5.5.2.2.3
 Duration
 The tenure of Research Intern placement is normally less than 6
@@ -6872,8 +6877,8 @@ necessary institutional agreement.
 5.5.2.2.4.
 Working Days and Hours
 The working days are from Monday to Friday, excluding
-University Holidays [link]. The working hours are from 9:00am
-to 5:30pm.
+University Holidays. The working hours are from 9:00am to
+5:30pm.
 5.5.2.2.5
 Financial Support
 OIST expects that such Research Interns are independently
@@ -6882,15 +6887,15 @@ support (where necessary), and accommodation either on
 campus or nearby. Successful applicants will receive a taxable
 Internship Allowance of ￥2,400 per work day, while at
 OIST. No internship allowance will be paid for University
-Holidays [link], or for working days on which Research Interns
-work less than four hours. In addition, where necessary, OIST
-will also provide up to a maximum of ￥45,000 per month as a
-Commuting Allowance and up to a maximum of ￥3,500 per day
+Holidays, or for working days on which Research Interns work
+less than four hours. In addition, where necessary, OIST will also
+provide up to a maximum of ￥45,000 per month as a
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+Commuting Allowance and up to a maximum of ￥3,500 per day
 as Overnight Accommodation Costs (instead of provision of
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-accommodation costs, accommodation is normally provided at
+accommodation costs, accommodation is normally provided at
 no cost to the student). The Internship Allowance will be adjusted
 if the Research Intern has another source of financial support.
 There is an obligation on the Research Intern to report other
@@ -6931,13 +6936,12 @@ insurance coverage for travel and activities is necessary.
 Visiting Research Students are registered students of another institution
 who wish to undertake a period of research at OIST under the
 supervision of an OIST faculty member as part of a recognized
-collaborative research project or some other defined research project.
-5.5.2.3.1.
 
-Eligibility
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
-This category provides for students enrolled for higher degrees at
+collaborative research project or some other defined research project.
+5.5.2.3.1. Eligibility
+This category provides for students enrolled for higher degrees at
 other institutions and engaged in research activity who wish to
 come to OIST to engage in a recognized collaborative research
 project, or some other defined research project.
@@ -6984,13 +6988,14 @@ the host Unit may support the visiting research student with
 travel, accommodation and a daily allowance, in accordance with
 OIST PRP Chapter 29.
 5.5.2.4 Visiting Students <Kamoku-Tou-Risyuusei>
-Visiting Students are registered students of another university who wish
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+Visiting Students are registered students of another university who wish
 to take one or more courses offered by the OIST Graduate School for
 credit at their home university. With the prior permission of the Dean,
 who will take into account such factors as class size, such a student may
-ch05_graduate-school-handbook_en_20181120_cl
-
-enroll as a Visiting Student. Applications for admission as a Visiting
+enroll as a Visiting Student. Applications for admission as a Visiting
 Student must be received one month before the start of the course,
 using the appropriate form (see Forms). Credit cannot be awarded to
 course auditors who are not formally enrolled as Visiting Students.
@@ -7000,7 +7005,7 @@ Courses may enroll in approved courses as Visiting Students. Admission
 of Visiting Students to OIST International Workshops and Courses is
 decided by the course organizers. The process for approval of
 International Workshops and Courses for course credits is stipulated in
-Section 5.3. [link: 5.3.].
+Section 5.3.
 Research Interns who intend to apply for admission to the OIST
 graduate program, or who have been admitted but wish to start early,
 may enroll for courses and receive credit at the OIST graduate
@@ -7023,26 +7028,24 @@ credit or recognition for courses attended. Course Auditors are
 required to attend regularly so as not to disturb class numbers. At the
 discretion of the Professor in charge of a course, they may submit work
 for grading along with regular students. Information concerning current
-classes, times, and locations is available on the Graduate School website
-[link: ].
+classes, times, and locations is available on the Graduate School
+website.
 5.5.2.6. Junior Research Fellows
-Junior Research Fellows are the students whose thesis supervisor
+Junior Research Fellows are former OIST PhD whose thesis supervisor
 requests a continuation of their research project after the degree
-conferral at OIST.
-Students in this category are registered as Special Students. The
-duration is up to a maximum of 6 months. Under no conditions can this
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
-be extended beyond 6 months by the use of subsidy funding or external
-grants, provided that, students who have time remaining more than 6
-months on a JSPS DC Fellowship are permitted to continue until the
-end date of the Fellowship. A concrete research plan approved by their
-thesis supervisor and the Dean of the Graduate School is required.
-Financial support for Junior Research Fellows may be available from
-the host research unit. Financial support for Junior Research Fellows,
-including fellowship and other benefits, should be included in the
-budget of the host research unit. Students seeking such support must
-organize this with their thesis supervisor in advance.
+conferral at OIST.
+The duration is up to a maximum of 6 months. Under no conditions can
+this be extended beyond 6 months by the use of subsidy funding or
+external grants, provided that, fellows who have time remaining more
+than 6 months on a JSPS DC Fellowship are permitted to continue until
+the end date of the Fellowship. A concrete research plan approved by
+their thesis supervisor and the Dean of the Graduate School is required.
+Financial support for Junior Research Fellows, including fellowship and
+other benefits, should be included in the budget of the host research
+unit. Students seeking such support must organize this with their thesis
+supervisor in advance.
 Junior Research Fellows enjoy many of the same privileges students for
 full-time study in the doctoral program in the University, with the
 exception of Financial Support, which is handled differently.
@@ -7050,13 +7053,12 @@ Appointment to a postdoctoral position at OIST is not permitted for
 OIST PhD students within 2 years of the last day of their studentship at
 OIST.
 5.5.2.6.1. Procedures for Junior Research Fellows
-Junior Research Fellows must be formally accepted and registered as
-Special Student at the OIST Graduate University in accordance with
-Article 43 of the University Rules. The Graduate School must be notified
-of the intention to host the student by their thesis supervisor (preferably
-3 months prior to the expected start date and at least 1 month prior to
-the start date). The procedure for acceptance and registration requires
-that the student submits the documents listed below:
+Junior Research Fellows must follow necessary procedures to be
+formally registered at OIST. The Graduate School must be notified of
+the intention to host the student by their thesis supervisor (preferably 3
+months prior to the expected start date and at least 1 month prior to the
+start date). Required documents for acceptance and registration are
+listed below:
 
 i)
 
@@ -7075,39 +7077,38 @@ Clear plan for employment after termination.
 Brief outline of arrangements and plan of research from thesis
 supervisor
 
-After acceptance of the student, the Graduate School will make a
-recommendation to the thesis supervisor concerning the conditions of
-financial support for the Junior Research Fellow. The student must
-declare any external financial support from funding agency and this will
-be taken into account in determining the recommended level of
-financial support and benefits at OIST.
-If a student is admitted by OIST as a Junior Research Fellow, the level
-of financial support and conditions are stipulated in the Junior
+5.5.2.6.2. Financial Support for Junior Research Fellows
+After acceptance, the Graduate School will make a recommendation to
+the thesis supervisor concerning the conditions of financial support for
+the Junior Research Fellow. The fellow must declare any external
+financial support from funding agency and this will be taken into
+account in determining the recommended level of financial support and
+benefits at OIST.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
-Research Fellowship Agreement prepared by the Student Support
+The level of financial support and conditions are stipulated in the Junior
+Research Fellowship Agreement prepared by the Student Support
 Section. If the Junior Research Fellow is not receiving this financial
 support, the conditions of appointment will be stipulated in an offer
 letter that will constitute the agreement between OIST and the Junior
 Research Fellows after it is signed by both parties.
-5.5.2.6.2. Financial Support for Junior Research Fellows
-A Junior Research Fellowship is an appointment provided to a Junior
-Research Fellow whose thesis supervisor acknowledges the necessity to
-continue their time for completion of matters required for conclusion of
-the research project after the degree conferral for up to 6 months.
+With approval of Dean of Research and thesis supervisor, the following
+benefits and allowances are available for Junior Research Fellows in
+accordance with the Graduate School’s guidance.
 5.5.2.6.2.1. Junior Research Fellowship
 A Junior Research Fellowship is an appointment provided to a Junior
 Research Fellow whose thesis supervisor acknowledges the necessity to
 continue their time for completion of matters required for conclusion of
-the research project after the degree conferral for up to 6 months.
+the research project after the degree conferral for up to 6 months
+(excluding aforementioned JSPS DC case).
 5.5.2.6.2.2. Business travel
 Approved business travel for work may be undertaken in accordance
 with OIST PRP Chapter 29. For the purpose of business travel, Junior
 Research Fellows are considered as Category Group 5. Support for such
-travel must come from the Research Unit.
+travel must come from the host Research Unit.
 5.5.2.6.2.3. Commuting Allowance
-A commuting allowance may be paid to students who live outside of
+A commuting allowance may be paid to fellows who live outside of
 campus but cannot use the OIST shuttle bus for reasons deemed valid
 by the Dean of the Graduate School. Details on the allowance are
 stipulated separately by “Rules Pertaining to a Commuting Allowance
@@ -7124,10 +7125,143 @@ their Junior Research Fellow status. Rent, Utilities (if applicable) and
 other necessary costs will be deducted from the emolument of the
 Junior Research Fellowship. Those who do not have Junior Research
 Fellowship will be billed.
+5.5.2.7. Science Communication Fellows
+ch05_graduate-school-handbook_en_20181221_cl
 
-ch05_graduate-school-handbook_en_20181120_cl
+Science Communication Fellows engage in science writing at the Media
+Section of the Communication and Public Relations Division (CPR) at
+OIST. Science Communication Fellows are not OIST PhD degree
+candidates and there is no mechanism to change the status of a Science
+Communication Fellow to become an OIST PhD student except for each
+individual applying to and being accepted into the OIST graduate
+program.
+The Media Section Leader supervises Science Communication Fellows.
+The period for which a Science Communication Fellow can receive
+guidance must be stipulated in an agreement between two parties. This
+term is up to a maximum of 6 months. Upon completion of the
+fellowship, the supervisor is required to submit a written report on a
+Science Communication Fellow to the Dean of the Graduate School.
+Science Communication Fellows must observe OIST Graduate
+University rules as defined in the Graduate School Handbook and the
+OIST Graduate University Policies, Rules and Procedures (hereinafter
+referred to as the “PRP”). Rules concerning Intellectual Property are
+separately stipulated in Chapter 14. Science Communication Fellows
+who violate the rules of the OIST Graduate University may be
+disqualified and have their fellowship terminated immediately. The
+Fellowships will also be discontinued in the event of unexcused absence,
+failure to maintain adequate performance, unethical behavior, or other
+inappropriate reasons.
+Science Communication Fellows are subject to the same living support
+privileges granted to students for full-time study in the doctoral
+program at OIST, with the exception of academic support for OIST
+students, and financial support which is separately stipulated in a
+fellow’s agreement.
+5.5.2.7.1 Recruitment of Science Communication Fellows
+The recruitment to select a Science Communication Fellow must obtain
+a prior approval from the Vice President for Communication and Public
+Relations (VPCPR). The Graduate School must be notified of the
+intention to host a Fellow by the Media Section in a timely manner (at
+least 3 months prior to the expected start date). Logistics of the
+recruitment are managed by the CPR Division including advertisement
+and setting up of interviews, whereas actual review of applications,
+interviews with short-listed applicants, and the ultimate selection of
+Science Communication Fellows are carried out by VPCPR and the
+Media Section leader. An applicant must submit the following
+documents to be considered for the fellowship.
+i)
 
-5.6.
+Cover Letter addressed to VPCPR
+ch05_graduate-school-handbook_en_20181221_cl
+
+ii) Curriculum Vitae
+iii) Two examples of work (articles, videos, etc.), preferably published
+iv) Other information stipulated in the position announcement
+5.5.2.7.2. Acceptance of Science Communication Fellows
+The acceptance of a Science Communication Fellow must obtain a prior
+approval from the Dean of the Graduate School after the recruitment
+and selection of a fellow is made. Science Communication Fellows must
+follow necessary procedures to be formally registered at OIST.
+5.5.2.7.3. Financial Support for Science Communication Fellows
+After acceptance of a Fellow, the Graduate School will make a calculated
+recommendation to the Media Section concerning the amount of
+financial support and other conditions for the Science Communication
+Fellow.
+Financial support for Science Communication Fellows will be covered
+by the Media Section, in which case financial support for Science
+Communication Fellows, including a stipend and other benefits, should
+be included in the annual budget of the Media Section.
+When a Science Communication Fellow is selected by OIST as a Science
+Communication Fellow, the amount of financial support and conditions
+of the appointment will be stipulated in the Science Communication
+Fellowship Agreement prepared by the Student Support Section in the
+Graduate School.
+5.5.2.7.4. Benefits for Science Communication Fellows
+The following benefits may be available to Science Communication
+Fellows at the advice of the Graduate School and under agreement of
+the Media Section.
+5.5.2.7.4.1. Onboarding and Departure
+The Media Section is responsible for making travel arrangements for
+Science Communication Fellows for onboarding and departure. This
+includes a round trip travel (or two one-way tickets) and no relocation
+expenses are involved. The Student Support Section will assist with visa
+processing requirements and other necessary legal arrangements.
+5.5.2.7.4.2. Housing
+Subleased housing for Science Communication Fellows will be arranged
+by the Student Support Section.
+5.5.2.7.4.2.1. On-Campus Housing
+Science Communication Fellows have access to campus housing at the
+student rate.
+ch05_graduate-school-handbook_en_20181221_cl
+
+Apartmen
+Use
+t type
+1-BR
+Single
+2-BR
+2 Share*
+3-BR
+3 Share*
+
+Floor Area
+45m2
+70m2
+100m2
+
+Net Rent
+(Furnished)
+¥21,600/mth
+¥18,000/mth
+¥18,000/mth
+
+Minor changes in rates in the range of 10% could occur.
+5.5.2.7.4.2.2. Off-Campus Housing
+If a Science Communication Fellow is required to live off-campus due to
+unavoidable circumstances, such as shortage of on-campus housing, the
+University may lease off-campus housing for the Fellows. (Please refer
+to Student Rental Housing Rules.)
+5.5.2.7.4.2.3. Payment
+Rent, Utilities, and other necessary costs will be deducted from the
+stipend provided to a Fellow.
+5.5.2.7.4.3. Business travel
+Approved business travel by a Science Communication Fellow for work
+may be undertaken in accordance with PRP Chapter 29. For the purpose
+of business travel, Science Communication Fellows are considered as
+Category Group 5 employees. Decision and financial support for such
+travel will be made by the Media Section.
+5.5.2.7.4.4. Commuting Allowance
+A commuting allowance may be paid to Science Communication
+Fellows who live off-campus but are unable to ride the OIST shuttle bus
+for reasons deemed valid by the Dean of the Graduate School. Details on
+the allowance are stipulated separately by “Rules Pertaining to a
+Commuting Allowance for Students”.
+5.5.2.7.4.5. Insurance
+Science Communication Fellows must join the Japanese National
+Health Insurance scheme. Science Communication Fellows are also
+covered by Accident Insurance for Students Pursuing Education and
+Research (PAS), and Liability Insurance coupled with PAS (Gakkensai
+and Gakkenbai) provided by the Graduate School.
+5.6.
 
 Improvement of education
 5.6.1.
@@ -7135,7 +7269,10 @@ Basic Policy of Faculty Development
 The Graduate University must maintain and improve the quality of its Faculty in
 order to provide an outstanding education at OIST and to meet the different
 educational needs of each student. The Graduate School will play an active role in
-the development of faculty members by implementing programs for faculty
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+the development of faculty members by implementing programs for faculty
 development in teaching and supervision of graduate students.
 5.6.2. Methods
 Specifically, the Graduate University will conduct the following:
@@ -7173,15 +7310,15 @@ A mentoring system will be established so that faculty with less
 experience in teaching and thesis supervision can meet with more
 experienced faculty to receive advice and support. As a part of this system
 the Thesis Committee supervising each student will include junior and
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-senior Faculty members to facilitate the transfer of skills relating to
+senior Faculty members to facilitate the transfer of skills relating to
 supervision of research.
 The Faculty Development section will implement these methods to
 ensure the improvement of the education and research of the Graduate
 University.
-5.7. Library
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+5.7. Library
 Reference to the chapter 6 University Library.
 5.8. Computers
 OIST PhD Students will be provided with a standard laptop computer adequate for their basic
@@ -7212,18 +7349,17 @@ requirements. Students who are not meeting progression requirements
 are alerted by the Dean of the Graduate School and provided assistance
 to address issues affecting progress.
 Satisfactory academic progression requires:
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-1. A level of performance in courses and rotations meeting all of the
+1. A level of performance in courses and rotations meeting all of the
 following criteria:
 i.
 
 Completing an approved program of elective coursework with
 at least a “Pass” evaluation in all courses, at a rate sufficient
-to meet the cumulative credit requirements for progression
-to thesis research and graduation;
 
+ch05_graduate-school-handbook_en_20181221_cl
+
+to meet the cumulative credit requirements for progression
+to thesis research and graduation;
 ii.
 
 Completing all compulsory coursework with at least a “Pass”
@@ -7269,15 +7405,15 @@ the program
 Unsatisfactory academic progress is defined as failure to meet any of the
 criteria listed above, as determined by the Curriculum and Examinations
 Committee.
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-In the case of established unsatisfactory academic progress the
+In the case of established unsatisfactory academic progress the
 Committee may recommend probation or termination of candidacy.
 Probation is an option if satisfactory progress can be achieved by (a)
 repeating and passing a failed unit (course or rotation); or, (b)
 substituting and passing an approved alternative unit. If the Committee
-recommends probation the Dean of the Graduate School alerts the
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+recommends probation the Dean of the Graduate School alerts the
 student and explains the conditions the student must meet for
 satisfactory academic progress.
 Discontinuation is applied if a student fails a repeated or substituted
@@ -7309,16 +7445,16 @@ of research and education at OIST who are charged with providing advice
 on matters requiring academic input. The Dean of the Graduate School
 appoints Committee members. The Dean of Research, Manager,
 Academic Services Section, and Manager, Student Support Section are
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-ex-officio members of the Committee. The Academic Services section
+ex-officio members of the Committee. The Academic Services section
 provides administrative support for the Committee.
 5.10.1.2.
 Chairperson of the Committee
 The Dean of the Graduate School shall preside at meetings of the
 Committee.
-5.10.1.3.
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+5.10.1.3.
 Frequency of convocation
 The Chairperson will call meetings of the Committee at least two times
 per year.
@@ -7369,9 +7505,7 @@ Members of the committee or panels must declare conflicts of
 interest or the appearance of a conflict when these exist. Conflicts
 of interest occur when a candidate has any of the following
 relationships to the Committee member or advisor:
-ch05_graduate-school-handbook_en_20181120_cl
-
-(a)
+(a)
 (b)
 (c)
 (d)
@@ -7383,8 +7517,9 @@ supporting letter;
 Former or current business partner or employer;
 Close friend or partner;
 Family member (spouse, child, sibling, sibling of
-spouse or child of sibling).
+ch05_graduate-school-handbook_en_20181221_cl
 
+spouse or child of sibling).
 The existence of a conflict of interest is not a barrier to the
 selection of a candidate. However, special procedures must be
 followed to ensure the integrity of the process and the fair
@@ -7418,18 +7553,16 @@ declaration shall include the following statement:
 concerning the above candidate, and any other candidate in the
 same round of applications, immediately and until a decision
 about the above candidate has been made.”
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-Other Conflicts of Interest
+Other Conflicts of Interest
 In the case of other conflicts of interest, the conflict shall be declared to
 the Chairperson, who shall ensure that the committee member concerned
 takes no part in the decision of the committee with respect to the
 candidate, by requiring the member to leave the room when the
 candidate is discussed, or stronger measures as considered necessary by
 the Chairperson.
+ch05_graduate-school-handbook_en_20181221_cl
 
-5.10.2. Curriculum and Examinations Committee
+5.10.2. Curriculum and Examinations Committee
 The Curriculum and Examinations Committee is a standing committee of the
 University with delegated authority from the Faculty Assembly to deal with matters
 related to the curriculum and individual student progress in the PhD program, and
@@ -7465,16 +7598,16 @@ members who are scheduled to teach at the time of the meeting.
 Items to be discussed at meetings of the Committee
 The Committee deliberates on matters related to the curriculum and
 individual student progress in the PhD program.
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-The committee deals with:
+The committee deals with:
 •Individual student program (by review of program proposals)
 •Individual student progress (by review of annual progress reports)
 •Approval of thesis proposals and progression to thesis research
 •Appointment of thesis supervisor and thesis committee
 •Appointment of examiners
-•Award of degrees
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+•Award of degrees
 •Changes to the curriculum (by review of course proposals)
 •Other matters related to curriculum and student progress
 5.10.2.6.
@@ -7508,26 +7641,25 @@ or stronger measures as considered necessary by the Chairperson.
 5.11. Teaching Spaces and Resources Management
 Graduate School spaces and resources will be made available for use by the OIST Community
 for the purpose of teaching and learning in line with the OIST Teaching Labs Facility &
-Resource Use Policy. [link to full policy
-“https://groups.oist.jp/sites/default/files/imce/u137/Forms/OIST%20Teaching%20Labs%2
-0Facility%20Use%20Policy%20%282%29.docx”]
+Resource Use Policy.
 Graduate School teaching spaces are intended to support teaching and learning at OIST.
 Priority is given to use in official Graduate School courses and other Graduate School
 sponsored trainings and events. When a space is not in use, it may be booked and used with
 prior approval of the Graduate School.
-ch05_graduate-school-handbook_en_20181120_cl
-
-5.12 Respectful Workplace and Anti-Harassment Policies
+5.12 Respectful Workplace and Anti-Harassment Policies
 The University is committed to creating and maintaining a safe and respectful environment in
 which all officers, employees, students, and visitors are treated with dignity and respect, in
 accordance with the Respectful Workplace Policy. The Respectful Workplace Policy is a core
 value of the University and the University will not tolerate disrespectful communication,
 discrimination, harassment, or bullying, in any form.
-5.12.1.1 The University takes all harassment claims seriously and
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+5.12.1.1 The University takes all harassment claims seriously and
 handles them in confidence. For allegations relating to violations of
 Respectful Workplace and Anti-Harassment policies, the University has
 a process for students. When a violation of the Respectful Workplace
-policy or an act of harassment is reported, the University takes remedial
+Policy or an act of harassment is reported, the University takes remedial
 measures and appropriate corrective actions.
 5.12.1.2 If a student experiences or witnesses a violation of the
 Respectful Workplace Policy, or sexual, power, or other harassment, the
@@ -7555,15 +7687,16 @@ of violations of Respectful Workplace and Anti-Harassment Policies using the
 procedures set out in this Chapter.
 A student who wishes to make a claim of harassment or violation of the Respectful
 Workplace Policy may seek informal resolution by consulting with the designated
-ch05_graduate-school-handbook_en_20181120_cl
-
-contact staff in the Graduate School (Manager of the Student Support Section,
+contact staff in the Graduate School (Manager of the Student Support Section,
 Manager of the Academic Services Section, or Manager of the Admissions and Career
 Development Section) or contacting the confidential external RWAH hotline.
 Alternatively, the student may seek a formal harassment resolution process by
 submitting a written claim of harassment or violation of the Respectful Workplace
 Policy to the Graduate School.
-5.12.2.1 Consulting designated contact staff in the Graduate
+
+ch05_graduate-school-handbook_en_20181221_cl
+
+5.12.2.1 Consulting designated contact staff in the Graduate
 school
 A student (claimant) may consult with one of the designated contact staff
 in the Graduate School for an explanation of the process and for
@@ -7597,15 +7730,15 @@ Resolution
 A student may seek a formal resolution by filing a written claim to the
 Graduate School. A student making a claim (claimant) may initiate a
 formal resolution process as a first option, or be advised to take this
-ch05_graduate-school-handbook_en_20181120_cl
-
-option by RWAH hotline. The designated contact staff in the Graduate
+option by RWAH hotline. The designated contact staff in the Graduate
 School can assist in preparing the written statement; however, the
 document must be based on the claimant’s statement.
 5.12.2.3.1 The DGS must review the written statement, in
 consultation with the claimant, and determine the next steps
 according to the Policy and Rules. If the matters in the claim are
-matters that come under the Respectful Workplace Policy or AntiHarassment and Anti Bullying Policy, the DGS initiates the next
+matters that come under the Respectful Workplace Policy or Antich05_graduate-school-handbook_en_20181221_cl
+
+Harassment and Anti Bullying Policy, the DGS initiates the next
 steps in this chapter. The claimant is consulted before any steps
 are taken, unless the Graduate School has a duty of care to take
 this further. This may happen, for example, if a criminal offense is
@@ -7638,26 +7771,25 @@ response. In some cases, the claimant may only be notified that
 the matter has been closed, without receiving any details of the
 outcome.
 5.12.2.3.3 Executive Committee Level Harassment
-ch05_graduate-school-handbook_en_20181120_cl
-
-Dispute Resolution
+Dispute Resolution
 A problem that has not been resolved at the GSHIC level may be
 brought to a Harassment Dispute Resolution Committee (HRC).
 The request must be submitted, in writing, by the claimant to the
 DGS. For details about HRC, see PRP 39.6.2.4.
 5.12.2.4 Ganjuu Wellbeing Service and Student Peer
 Supporters
-At any point in the process (including before deciding whether to
+ch05_graduate-school-handbook_en_20181221_cl
+
+At any point in the process (including before deciding whether to
 contact the Graduate School) a student can contact the Ganjuu
 Wellbeing Service or the Student Peer Supporters for confidential
 support and advice.
 5.12.2.5 Exclusions
 Appeals related to academic matters such as grading or outcomes
 of examinations are handled separately by an appeals process e.g
-PRP 5.3.11.7 [link: 5.3.11.7]. Cases where the main issue is
-academic, scientific, or research misconduct or non-compliance
-the DGS will refer the matter to the internal contact points
-stipulated in PRP 23.4.1.1.
+PRP 5.3.11.7. Cases where the main issue is academic, scientific,
+or research misconduct or non-compliance the DGS will refer the
+matter to the internal contact points stipulated in PRP 23.4.1.1.
 If the matter involves a non-academic employee the matter will be
 referred to the Vice President for Gender Equality and Human
 Resource Development (VPGEHR) and follow the procedures in
@@ -7679,10 +7811,7 @@ The DGS must inform students about the availability of the RWAH
 hotline mediators and the formal and informal procedures in this
 chapter. The DGS is responsible for performing the tasks and
 duties outlined in this chapter.
-
-ch05_graduate-school-handbook_en_20181120_cl
-
-5.12.3.3 Contact staff in the Graduate School
+5.12.3.3 Contact staff in the Graduate School
 Contact staff in the Graduate School are responsible for
 performing the tasks and duties outlined for them in this chapter.
 5.12.3.4 Mediators of the confidential external Respectful
@@ -7690,7 +7819,9 @@ Workplace and Anti-Harassment hotline
 RWAH hotline mediators are responsible for performing the tasks
 and duties outlined for them in this chapter. The duties of the
 mediators of the confidential external RWAH hotline are detailed
-in PRP 39.6.2.2.
+ch05_graduate-school-handbook_en_20181221_cl
+
+in PRP 39.6.2.2.
 5.12.3.5 The Dean of the Graduate School, the President,
 Graduate School Harassment Investigative Committee
 (GSHIC), Harassment Dispute Resolution Committee
@@ -7701,7 +7832,7 @@ duties outlined for them in this chapter.
 5.12.4 Definitions
 For definitions of sexual, power, or other harassment see PRP 39.9.
 
-ch05_graduate-school-handbook_en_20181120_cl
+ch05_graduate-school-handbook_en_20181221_cl
 
 OIST Graduate University
 Policies, Rules, & Procedures
