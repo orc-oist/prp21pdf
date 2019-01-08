@@ -13331,15 +13331,15 @@ Authority: Approved by the President
 Chapter 17. Information Technology and Security
 17.1 Policy
 This policy is in place to ensure that OIST Information Technology Resources (IT
-resources) [link: 17.8.1] are provisioned and used in an effective, efficient, prudent
-and responsible manner [link: 21.3.2], in line with the missions of the University
-and in compliance with relevant legal and contractual obligations. All users are
+resources) are provisioned and used in an effective, efficient, prudent and
+responsible manner [link: 21.3.2], in line with the missions of the University and
+in compliance with relevant legal and contractual obligations. All users are
 expected to be familiar with these policies, rules and procedures and consequences
 of violation.
-All University information is deemed to comprise University information assets
-[link: 17.8.2]. The University owns and controls its information assets. Appropriate
-handling of information assets is vital to the protection of OIST and its community,
-all users are responsible in this regard.
+All University information is deemed to comprise University information assets.
+The University owns and controls its information assets. Appropriate handling of
+information assets is vital to the protection of OIST and its community, all users
+are responsible in this regard.
 Though the University takes reasonable security measures to protect the security
 of its IT resources, the University does not guarantee absolute security nor privacy.
 The University has the right to monitor any and all IT Resources and their usage,
@@ -13351,10 +13351,9 @@ University to investigate as needed or directed, and take action to protect its
 resources and/or to provide information relevant to an investigation.
 OIST has an obligation to preserve Information Assets for archival and reporting
 purposes. Additionally, upon direction from the President or General Counsel and
-upon consent of Chief Information Officer (CIO) [link: 2.4.1.3, 17.4.5] and Chief
-Information Security Manager (CISM) [link: 17.4.6], Information Assets may
-sometimes be preserved for prescribed periods of time for litigation or other legal
-purposes.
+upon consent of Chief Information Officer (CIO) [link: 2.4.1.3] and Chief
+Information Security Manager (CISM), Information Assets may sometimes be
+preserved for prescribed periods of time for litigation or other legal purposes.
 IT Resources are not to be used for personal or private purposes unrelated to the
 mission of the University. However, incidental personal use is permitted so long as
 such use does not interfere or conflict with the employee’s work responsibilities or
@@ -13364,35 +13363,34 @@ communications. The University accepts no responsibility or liability for
 unauthorized use of its IT resources in a manner which does not comply with policy
 or law.
 17.2 General Considerations
+
 1
-ch17_information-technology-&-security_en_20180401_cl
+ch17_information-technology-&-security_en_20181221_cl
 
 17.2.1 Scope
-These policies, rules and procedures are applicable to all users [link: 17.8.11].
-In particular, all users are subject to the requirements as set out under
-“User’s Rights and Responsibilities” [link: 17.4.2] and the “OIST Graduate
-University IT Acceptable Use Policy” [link: 17.6.1].
+These policies, rules and procedures are applicable to all users. In particular,
+all users are subject to the requirements as set out under “User’s Rights and
+Responsibilities” and the “OIST Graduate University IT Acceptable Use
+Policy”.
 In accessing, storing or transmitting University Information all IT Assets
-become subject to these policies [link: 17.8.3]. This includes personal
-devices, devices wholly or partially owned by the University, and devices
-from external organizations or entities.
+become subject to these policies. This includes personal devices, devices
+wholly or partially owned by the University, and devices from external
+organizations or entities.
 17.2.2 Ownership of Information Assets
-The University owns and controls its information assets [link: 17.8.2]. The
-University assigns responsibility for managing and protecting its
-Information Assets, and ensuring compliance with policy and law, to
-Information Asset Managers [link: 17.4.8] and Information Asset
-Administrators [link: 17.4.9].
-Within research units the Faculty [link: 17.4.3] serves as Information Asset
-Manager, and may assign the Information Asset Administrator role to a unit
-member. Ensuring appropriate management and security schemes for
-unpublished research data is the prerogative of the faculty, whom must also
-take into account any pre-existing official agreements that would require
-additional security or protection of information assets. Note that a primary
-copy of all research data should remain on OIST managed repositories at all
-times.
-Within Divisions the Vice-President [link: 17.4.4] services as Information
-Asset Manager, and may assign the Information Asset Administrator role to
-one or more Section members.
+The University owns and controls its information assets. The University
+assigns responsibility for managing and protecting its Information Assets,
+and ensuring compliance with policy and law, to Information Asset
+Managers and Information Asset Administrators.
+Within research units the Faculty serves as Information Asset Manager, and
+may assign the Information Asset Administrator role to a unit member.
+Ensuring appropriate management and security schemes for unpublished
+research data is the prerogative of the faculty, whom must also take into
+account any pre-existing official agreements that would require additional
+security or protection of information assets. Note that a primary copy of all
+research data should remain on OIST managed repositories at all times.
+Within Divisions the Vice-President services as Information Asset Manager,
+and may assign the Information Asset Administrator role to one or more
+Section members.
 Corporate Documents and Personal Information are a sub-set of
 Information Assets, but have additional legal and policy requirements, such
 as “Public Document Policy Act” and “Law concerning Access to Personal
@@ -13401,27 +13399,25 @@ with their handling. These requirements as well as separate management
 and administration roles are detailed here [link: 12].
 Intellectual property, institutional agreements, or other contractual
 requirements upon the University may modify the ownership and treatment
-of information assets, these are covered under PRP Chapter 4 [link: 4] and
-Chapter 14[link: 14].
+of information assets, these are covered under PRP Chapter 4 and Chapter
+14.
 17.2.3 Principles of Information Technology Management
-2
-ch17_information-technology-&-security_en_20180401_cl
-
-Wherever possible University IT resources are to be provisioned in
+Wherever possible University IT resources are to be provisioned in
 alignment with industry best practice. To this end the ITSM framework is
-employed to provide a structure in which to describe and specify IT services
-[link: 17.8.5].
-Core to the ITSM framework is the concept of a Service Level Agreement
-(SLA) [link: 17.8.6], which acts to provide clear expectations in the scope,
-timeliness and quality of IT services between IT Division and the University.
-This SLA must be drafted in conjunction with stake holders from all areas
-of the University. This SLA must be deliberated upon and approved by stake
-holders from all areas of the University, via the IT Service and Support
-Committee.
+employed to provide a structure in which to describe and specify IT services.
+2
+ch17_information-technology-&-security_en_20181221_cl
+
+Core to the ITSM framework is the concept of a Service Level Agreement
+(SLA), which acts to provide clear expectations in the scope, timeliness and
+quality of IT services between IT Division and the University. This SLA must
+be drafted in conjunction with stake holders from all areas of the University.
+This SLA must be deliberated upon and approved by stake holders from all
+areas of the University, via the IT Service and Support Committee.
 17.2.4 Principles of Information Security
-The purpose of information security [link: 17.8.7] is to protect Information
-Assets from unauthorized access or damage, and ensure accordance with all
-applicable laws, regulations and compliance requirements [link: 17.8.8].
+The purpose of information security is to protect Information Assets from
+unauthorized access or damage, and ensure accordance with all applicable
+laws, regulations and compliance requirements [link: 17.8.8].
 17.2.5 Further Policies Rules and Procedures
 Research units, Divisions or Sections within the University may impose
 additional conditions of use upon IT Resources or facilities under their
@@ -13432,24 +13428,24 @@ not provide lesser restrictions.
 Other standards and rules developed by the Vice President for
 Communication and Public Relations apply to use of University IT with
 regard to e-mail, websites, and social media; compliance with those
-standards and rules is mandatory [link: 16.3].
+standards and rules is mandatory.
 17.2.7 Students
 Students should refer to the Graduate School Handbook in addition to
-familiarizing themselves with this chapter [link: 5].
+familiarizing themselves with this chapter.
 17.2.8 General Conduct
 Beyond the policies and procedures regarding usage of the IT Resources as
 detailed herein, all users are expected to exercise sound judgment, and in
 situations where policy or procedure is unclear are expected to contact IT
 Division or the relevant party to seek clarification.
 17.2.9 Compliance
-3
-ch17_information-technology-&-security_en_20180401_cl
-
-Any breach of information security, or misuse of IT Resources is regarded
+Any breach of information security, or misuse of IT Resources is regarded
 as serious. Breaches may result in disciplinary action, up to and including
 dismissal and legal action.
 17.3 Rules
-17.3.1 Authorization and Access
+3
+ch17_information-technology-&-security_en_20181221_cl
+
+17.3.1 Authorization and Access
 All access to, and usage of IT resources must be appropriately requested,
 approved, registered and audited. A user is defined as any individual or
 entity granted access to OIST information assets to a level above public
@@ -13462,45 +13458,44 @@ and may only be known to, and used by the individual assigned them.
 In using these resources, users agree to abide by all relevant University
 policies, rules, procedures and applicable law. Users must acknowledge this
 understanding by reading and signing the OIST Graduate University
-Acceptable Use Policy, via physical signature or digital equivalent [link:
-17.6.1].
+Acceptable Use Policy, via physical signature or digital equivalent.
 17.3.1.1 Account Creation
 User accounts will be created via the following process:
- Onboarding into the University via the process relevant to the
+⚫ Onboarding into the University via the process relevant to the
 user’s classification, resulting in registration into the OIST
-Identity Management System [link:17.8.17]
- Acknowledgement by signature (or digital equivalent) of the OIST
-Graduate University Acceptable Use Policy [link: 17.6.1]
- Supervisors’ advance authorization to access any IT resources
+Identity Management System
+⚫ Acknowledgement by signature (or digital equivalent) of the OIST
+Graduate University Acceptable Use Policy
+⚫ Supervisors’ advance authorization to access any IT resources
 beyond those allocated by default
- Authorization by the relevant Information Asset Manager [link:
-17.4.8, 17.4.7] or Information Asset Administrator [link: 17.4.9,
-17.8.13] to access any Information Assets managed locally
+⚫ Authorization by the relevant Information Asset Manager [link:
+17.4.8, 17.4.7] or Information Asset Administrator [link: 17.8.13]
+to access any Information Assets managed locally
 17.3.1.2 Account Extension
 Requests for extension of access shall be made with valid justification,
 via the process relevant to the user’s classification. Extension
 processes will include at least a minimum of supervisors’ approval,
 and any further approvals as required.
-4
-ch17_information-technology-&-security_en_20180401_cl
-
-17.3.1.3 Account Expiry, Deactivation and Deletion
+17.3.1.3 Account Expiry, Deactivation and Deletion
 Accounts will be automatically deactivated upon expiry of a user’s
 term at the University unless extended as described above.
 Systems administrators must deactivate invalid accounts when
 found, or as instructed by the CIO, CISM or legal counsel, and report
 the event to CIO and CISM.
-17.3.1.4 Access Rights
+4
+ch17_information-technology-&-security_en_20181221_cl
+
+17.3.1.4 Access Rights
 Should users change roles or responsibilities, supervisors are
 responsible for ensuring updated access rights are communicated to
-IT Division, and any relevant Information Asset Managers [link:
-17.4.8]. Information Asset Managers are responsible for ensuring
-that access rights are updated appropriately.
+IT Division, and any relevant Information Asset Managers.
+Information Asset Managers are responsible for ensuring that access
+rights are updated appropriately.
 17.3.1.5 Privileged Users/Systems Administrators
-Any user granted escalated privileges [link: 17.8.14] must use them
-only when required to do so in order to conduct OIST business.
-System access events of users possessing escalated privileges are to
-be recorded and monitored at all times.
+Any user granted escalated privileges must use them only when
+required to do so in order to conduct OIST business. System access
+events of users possessing escalated privileges are to be recorded and
+monitored at all times.
 17.3.1.6 Shared Accounts
 Shared accounts are not in principal permitted, exceptions may be
 made at the discretion of the system administrators, with
@@ -13522,16 +13517,16 @@ at no time should any user be compelled to do so. The University accepts no
 responsibility or liability for damage to BYOD devices. The faculty and asset
 owner are accountable for any and all issues arising from the usage of such
 personal assets.
-5
-ch17_information-technology-&-security_en_20180401_cl
-
-Note that in connecting a personal IT asset to the OIST network (BYOD), or
+Note that in connecting a personal IT asset to the OIST network (BYOD), or
 using a personal asset to store or transmit University Information, the asset
 is then subject to this policy and must comply with all OIST requirements.
 In the case of BYOD devices, eligibility to store OIST information assets may
 vary. Users are required to ensure that OIST information assets, the devices
-used to access them, and the mode of access conform to OIST information
-classification and device eligibility criteria [link: 17.8.9].
+5
+ch17_information-technology-&-security_en_20181221_cl
+
+used to access them, and the mode of access conform to OIST information
+classification and device eligibility criteria.
 17.3.3 Connecting to the OIST Network
 The OIST network is an essential research resource, maintaining its
 availability and security is vital to the function of the University and is the
@@ -13560,15 +13555,15 @@ University procurement policy, rules and procedures [link: 28], the
 purchase of IT Assets are also subject to the rules herein.
 Regardless of procurement path or budget, all IT assets procured, donated
 to or otherwise received by OIST must be physically inspected by IT Division
-6
-ch17_information-technology-&-security_en_20180401_cl
-
-staff upon receipt. This inspection will include indelible asset marking
+staff upon receipt. This inspection will include indelible asset marking
 (exceptions to which must be approved by CIO), and registration into the
-Configuration Management System (CMDB) [link: 17.8.32] to allow for the
-efficient tracking and auditing of assets.
+Configuration Management Database (CMDB) to allow for the efficient
+tracking and auditing of assets.
 Exemptions may exist where the IT asset is an integral part of a larger
-research device or apparatus, i.e. a control PC bundled with a microscope.
+6
+ch17_information-technology-&-security_en_20181221_cl
+
+research device or apparatus, i.e. a control PC bundled with a microscope.
 In this case the party receiving the asset is to coordinate with IT Division.
 Consultation with IT Division is required before the purchase of any IT asset
 intended to be housed in IT Division facilities (server rooms, network
@@ -13580,7 +13575,7 @@ procurement with a price above a 10,000yen) must be conducted via
 IT Division. This is to ensure standardization where applicable, and
 to ensure the devices are purchased in an efficient fashion. The
 procedure for requesting the purchase or upgrade of an IT device
-within the administration is detailed at PRP 17.5.1[link: 17.5.1].
+within the administration is detailed at PRP 17.5.1.
 All IT assets within the administration fall under control of the IT
 Division, and are subject to this policy regardless of how they were
 acquired or funds used to purchase them.
@@ -13590,23 +13585,23 @@ before purchasing any IT asset. Where the research unit elects to
 purchase without consultation, the level of support IT Division can
 deliver to the IT asset may be limited. Connectivity with OIST
 networks is not guaranteed in this case. The support levels available
-to the various device categories are detailed in the SLA [link: 17.8.6].
-The procurement process for IT assets within research units is
-covered under PRP 17.5.3[link: 17.5.3].
+to the various device categories are detailed in the SLA. The
+procurement process for IT assets within research units is covered
+under PRP 17.5.3.
 IT assets to be procured as part of a larger research equipment
 purchase, or to be attached to research equipment should be
 specified with thought to reliability and performance. The reliability
 of these assets has substantial impact on the productivity of critical
 research equipment. Guidelines for specifying these purchases are
-7
-ch17_information-technology-&-security_en_20180401_cl
-
-part of the process for procurement of IT assets within research units
+part of the process for procurement of IT assets within research units
 [link: 17.5.3].
 17.3.4.3 Procurement of IT Assets via Corporate Credit Card
 The purchase of IT assets using corporate credit card (P-Card) is
-restricted, please see PRP 26.3.7[link: 26.3.7]. The purchase of IT
-assets from online vendors can only be conducted via IT Division.
+restricted, please see PRP 26.3.7. The purchase of IT assets from
+7
+ch17_information-technology-&-security_en_20181221_cl
+
+online vendors can only be conducted via IT Division.
 17.3.4.4 IT Asset Tracking
 All IT assets which are wholly or partially owned by the university are
 to have the OIST asset tracking agent installed. This agent allows for
@@ -13618,10 +13613,10 @@ strongly advised for assets within research units.
 The transfer of usage or ownership of any IT device, including
 between users, sections or research units, must be conducted via IT
 Division. In this way the asset register and CMDB is kept up to date,
-and data in the devices is securely erased [link: 17.8.21] prior to
-transfer to prevent breaches in security or personal information
-protection. The process for transferring an asset between users or
-sections and units is described at PRP 17.5.5 [link: 17.5.5].
+and data in the devices is securely erased prior to transfer to prevent
+breaches in security or personal information protection. The process
+for transferring an asset between users or sections and units is
+described at PRP 17.5.5.
 17.3.4.6 IT Assets Outside of OIST Premises
 Where any IT asset is to be taken off-site, including for the purposes
 of business trips or working from home, prior authorization must be
@@ -13635,34 +13630,33 @@ to purchase them or if they are partially or wholly owned by OIST.
 17.3.4.8 IT Asset Theft, Loss or Damage
 Users must report the loss, theft or damage of any IT Asset to the IT
 Helpdesk promptly [link: 26.3.3].
-
-8
-ch17_information-technology-&-security_en_20180401_cl
-
-17.3.5 Enterprise Applications
+17.3.5 Enterprise Applications
 An enterprise application is defined as any administrative system key in
 conducting University business. The functionality and quality of these
 systems can have substantial impact on University business productivity.
 The design and implementation of such system must be performed with due
 diligence, in consultation with the Enterprise Application Services Team
-(EAS), and via the mandatory process detailed at PRP 17.5.7 [link: 17.5.7].
+8
+ch17_information-technology-&-security_en_20181221_cl
+
+(EAS), and via the mandatory process detailed at PRP 17.5.7.
 17.3.6 Outsourcing of IT Services
 Where contracting with an external party to provide a service or system that
 will store, transmit or receive OIST information assets, additional
 consideration must be given to the factors below. This is atop the
-procurement processes as detailed in PRP Chapter 28[link: 28], and the
-enterprise application review process [link: 17.3.5].
- A service level agreement (SLA) between OIST and the service provider.
- A non-disclosure agreement and other restrictions preventing the
+procurement processes as detailed in PRP Chapter 28, and the enterprise
+application review process.
+⚫ A service level agreement (SLA) between OIST and the service provider.
+⚫ A non-disclosure agreement and other restrictions preventing the
 utilization of OIST Information assets for purposes other than those
 intended.
- The maturity of information security process within the service provider.
+⚫ The maturity of information security process within the service provider.
 Management structures within the service provider and its infrastructure
 which will protect OIST information assets from unintended changes by
 third parties, including subcontractors.
- OIST’s right to audit the service provider’s compliance with the
+⚫ OIST’s right to audit the service provider’s compliance with the
 contractual and security requirements.
- Regular monitoring and reporting to OIST on information security
+⚫ Regular monitoring and reporting to OIST on information security
 performance.
 17.3.7 Outsourcing and Information Security
 Where the operation or maintenance of a system or service is outsourced,
@@ -13675,31 +13669,30 @@ allow this shall be granted to the CISM by the system owner.
 The system owner shall ensure that all information assets handed over to
 the outsourcer during the course of the contract are duly retrieved or
 destroyed at the appropriate point on or before termination of the contract.
-
-9
-ch17_information-technology-&-security_en_20180401_cl
-
-Where the operation or maintenance of a system or service is outsourced,
+Where the operation or maintenance of a system or service is outsourced,
 those matters stipulated in OIST Guidelines for Personal Information
 Protection [link: 12.3.8] must be adhered to.
 17.3.8 Software and licensing
 IT Division provides a wide range of research and business software to OIST
-users. Users are encouraged to use these software, but must respect
+9
+ch17_information-technology-&-security_en_20181221_cl
+
+users. Users are encouraged to use these software, but must respect
 copyright law and licensing restrictions at all times.
 Software titles held by IT Division are in general only eligible for installation
 onto IT assets wholly owned by the University, users must not install
 software onto an IT asset without first confirming the IT asset is eligible.
 Details of available software and licensing restrictions are covered as part
-of the software catalog [link: 17.8.33].
+of the software catalog.
 Within the administration the use of software outside the software catalog
 is not permitted. Where additional software is required, users must contact
 IT Division to request an addition to the catalog.
 Within research units the use of software outside the software catalog is
 permitted, though consideration must be given to security. In using
 software outside the software catalog users should:
- Ensure the software has been downloaded from known reputable sources,
+⚫ Ensure the software has been downloaded from known reputable sources,
 such as the official website
- Ensure security patches are applied
+⚫ Ensure security patches are applied
 17.3.8.1 Licensed or commercial software
 IT Division manages all commercial or licensed software within the
 administration, and many of the research software titles. Research
@@ -13713,18 +13706,18 @@ Within research units users are encouraged to use open source
 software and freeware, but are also encouraged to consult with IT
 Division. Where there is a continuing interest in a software title IT
 Division will package the software, manage updates and monitor
-10
-ch17_information-technology-&-security_en_20180401_cl
-
-security alerts and issues.
+security alerts and issues.
 17.3.9 Information Asset classification
 Information Asset manager shall assign information assets into one of the
 four classifications listed below, based upon determined value,
 confidentiality, integrity and availability. Where information assets with
-different levels of classification are grouped together, the highest
+10
+ch17_information-technology-&-security_en_20181221_cl
+
+different levels of classification are grouped together, the highest
 classification shall be applied.
 Further guidance on the handling of information assets is detailed under
-PRP 17.8.9 “information classification and device eligibility” [link: 17.8.9].
+PRP 17.8.9 “information classification and device eligibility”.
 17.3.9.1 Public
 Information assets assigned the ‘Public’ classification should either
 be by their nature a matter of public record, or have been deemed
@@ -13751,15 +13744,15 @@ My Number, credit card and passport information. These assets are
 to be made accessible only to small restricted groups of users by
 Information Asset Managers, on a need to know basis. Access is to be
 regularly audited.
-11
-ch17_information-technology-&-security_en_20180401_cl
-
-17.3.9.4 Critical
+17.3.9.4 Critical
 Information assets assigned the ‘Critical’ classification are those for
 which disclosure would result in severe negative impact to OIST
 business, reputation or personnel. Access to ’Critical’ information
 assets shall be granted only to small, tightly restricted groups of
-authorized users. The strict system access and data access controls
+11
+ch17_information-technology-&-security_en_20181221_cl
+
+authorized users. The strict system access and data access controls
 must
 be
 applied,
@@ -13775,7 +13768,7 @@ handle Information Assets in a manner appropriate to the information
 classification they have been assigned. The security level of the devices used
 to access information assets and the mode of access must be commensurate
 with the sensitivity of the asset and conform to OIST information
-classification and device eligibility criteria [link: 17.8.9].
+classification and device eligibility criteria.
 OIST information assets are to be used for business purposes only, users
 shall not use OIST information assets for any purpose other than the task
 for which they are intended. Access to Information Assets must be granted
@@ -13794,28 +13787,27 @@ In supporting the CISM to protect the interests of the University, systems
 administrators shall comply with all rules detailed herein, and comply
 promptly with directives from the CISM when given.
 17.3.12 Information Security Incident Response
+Information security incidents are defined as a single or series of unwanted
+events that compromise (or are likely to compromise) the confidentiality,
+integrity or availability of OIST Information assets and/or breach OIST rule
+or Japanese law.
+Security Incident Response differs from Data Forensics in that it is triggered
 12
-ch17_information-technology-&-security_en_20180401_cl
+ch17_information-technology-&-security_en_20181221_cl
 
-Information security incidents [link: 17.8.35] are defined as a single or
-series of unwanted events that compromise (or are likely to compromise)
-the confidentiality, integrity or availability of OIST Information assets
-and/or breach OIST rule or Japanese law.
-Security Incident Response differs from Data Forensics [link: 17.3.13] in
-that it is triggered by notifications or events, and that only the result of the
-investigation is disclosed beyond the IT personnel tasked with investigating
-it, no data is disclosed. The CIO and CISM are responsible for investigating
-security incidents, and to take all necessary actions in order to protect OIST
-and its resources and/or to provide information relevant to an investigation.
-In this regard the Chief Information Officer (CIO) [link: 17.4.5], Chief
-Information Security Manager (CISM) [link: 17.4.6] and Networking and
-Telecommunications Manager (NTM) [link: 17.4.7] have specific rights and
-responsibilities.
+by notifications or events, and that only the result of the investigation is
+disclosed beyond the IT personnel tasked with investigating it, no data is
+disclosed. The CIO and CISM are responsible for investigating security
+incidents, and to take all necessary actions in order to protect OIST and its
+resources and/or to provide information relevant to an investigation. In this
+regard the Chief Information Officer (CIO), Chief Information Security
+Manager (CISM) and Networking and Telecommunications Manager
+(NTM) have specific rights and responsibilities.
 Any user who becomes aware of an information security incident must
 immediately contact CIO and CISM via e-mail cio@oist.jp cism@oist.jp), or
 by phone (see the OIST directory, https://directory.oist.jp).
 Please see the Information Security Incident Response Procedures for more
-details [link: 17.5.8].
+details.
 17.3.13 Data Forensics
 Data forensics is the practice of identifying, extracting and examining data
 in response to incidents. This may include data held in on IT assets, e-mail,
@@ -13832,16 +13824,16 @@ approvals take place, that the privileges of the parties involved are
 segregated, and that access to data is limited to only that relevant to the
 incident.
 Request
-13
-ch17_information-technology-&-security_en_20180401_cl
-
-The data forensics investigation request form is completed by the individual
+The data forensics investigation request form is completed by the individual
 tasked with performing the examination of the data (the investigator), or
 responsible for the transfer of custody of the data in cases involving the
 police. The request for details;
- The reasoning behind the request
- The data to be targeted as part of the request
- The duration for which access to the data will be required
+⚫ The reasoning behind the request
+⚫ The data to be targeted as part of the request
+13
+ch17_information-technology-&-security_en_20181221_cl
+
+⚫ The duration for which access to the data will be required
 Approval
 The form must be approved by one of the Vice-Presidents, Deans or General
 Counsel, and either the data owner or the President.
@@ -13866,29 +13858,27 @@ the data extracted.
 Filing
 The request form will be filed within IT, along with the final report.
 Responses to IT security incidents are not covered here, and are instead
-covered under PRP 17.3.12, Information Security Incident Response [link:
-14
-ch17_information-technology-&-security_en_20180401_cl
-
-17.3.12].
+covered under PRP 17.3.12, Information Security Incident Response.
 17.3.14 IT Asset Removal
 IT Asset Removal is the temporary removal and retention of an IT asset in
 response to an incident. This may include the removal and retention of
 laptops, desktops, mobile drives or any other IT asset. IT assets are often
 critical to business functions, as such their removal is not routine, and must
 be appropriately requested and approved as described below.
-IT assets can be removed and retained upon request by of one of the
+14
+ch17_information-technology-&-security_en_20181221_cl
+
+IT assets can be removed and retained upon request by of one of the
 President, General Counsel, Provost, COO, Dean of Research, or Dean of
-faculty Affairs, with the concurrence of the CIO. The CIO will notify the asset
-owner of the device removal, and delegate a member of IT Division to
+Faculty Affairs, with the concurrence of the CIO. The CIO will notify the
+asset owner of the device removal, and delegate a member of IT Division to
 remove and retain the IT asset within secure IT facilities. The removal of the
 IT asset may precede the notification to the asset owner where legal or other
 requirements prevent advance notification.
 Access to data held on IT assets, including those that have been removed
-and retained, is subject to the Data Forensics Procedure [link: 17.3.13].
+and retained, is subject to the Data Forensics Procedure.
 Responses to IT security incidents are not covered here, and are instead
-covered under PRP 17.3.12, Information Security Incident Response [link:
-17.3.12].
+covered under PRP 17.3.12, Information Security Incident Response.
 17.3.15 Labeling
 Information assets must have their document classification clearly marked
 on the cover page, footer, header or watermark regardless of format.
@@ -13905,10 +13895,7 @@ filing cabinet. Users shall securely dispose of copies when they are no longer
 required.
 Where information is replicated, the original classification is inherited.
 Users must evaluate the requirements of integrity and availability against
-15
-ch17_information-technology-&-security_en_20180401_cl
-
-security when creating or replicating information.
+security when creating or replicating information.
 17.3.17 E-mail
 Users are responsible for ensuring that information exchanged via e-mail is
 protected to a level commensurate with the classification of the information.
@@ -13916,7 +13903,10 @@ When exchanging information with a classification of ‘confidential’ or
 higher, strong data encryption must be applied.
 The transfer via e-mail of payment information (such as credit card
 numbers, bank account details), Individual Numbers (My Number),
-passport information or other personal information is strictly prohibited
+15
+ch17_information-technology-&-security_en_20181221_cl
+
+passport information or other personal information is strictly prohibited
 unless the data is first encrypted.
 Refer to the Information Security site for further guidance on managing the
 risks associated with the use of e-mail. Information Security Site
@@ -13928,25 +13918,21 @@ external providers is not permitted.
 transit
 Users shall apply security controls when transmitting data of ‘confidential’
 or higher classification to external parties.
- Such data must be encrypted prior to transmission
- Encrypted data and password should be transmitted separately, ideally
+⚫ Such data must be encrypted prior to transmission
+⚫ Encrypted data and password should be transmitted separately, ideally
 via different mechanisms.
- The use of multiple entity protection is encouraged.
+⚫ The use of multiple entity protection is encouraged.
 17.3.19 Use of removable media
 The following restrictions apply to removable media devices, including but
 not limited to USB thumb drives, mobile hard drives, SD cards and any
 other transportable or mobile storage technologies:
- Within the administration, the use of removable media is prohibited,
+⚫ Within the administration, the use of removable media is prohibited,
 repositories provided by IT Division are to be used. Contact IT Division
 to seek exception from the CISM or CIO.
- Within research units, the use of removable media to store ‘Confidential’
+⚫ Within research units, the use of removable media to store ‘Confidential’
 and ‘Critical’ information is at the discretion of the faculty.
 Refer Information Security site for further guidance on managing the risks
-associated with the use of removable media [link: 17.8.20] Information
-16
-ch17_information-technology-&-security_en_20180401_cl
-
-Security Site
+associated with the use of removable media. (Information Security Site)
 17.3.20 Remote access
 When accessing OIST IT resources from outside the OIST network, users
 must first obtain advance permission from IT Division, and access resources
@@ -13954,7 +13940,10 @@ only via approved OIST IT remote access services (VPN, SSH, etc.)
 The use of any non-OIST managed remote access software or services, such
 as Team viewer, to provide external access to OIST IT resources is
 prohibited. Exceptions may be granted by the CIO or CISM where network
-security has been enhanced, users must contact IT Division to request an
+16
+ch17_information-technology-&-security_en_20181221_cl
+
+security has been enhanced, users must contact IT Division to request an
 exception.
 17.3.21 Information disposal
 Users must securely erase ‘internal’ or higher classified information
@@ -13966,32 +13955,32 @@ Division as required [link: 17.5.1].
 All users are responsible for preventing the theft of IT assets. Users shall
 ensure following controls in order to prevent theft of, or unauthorized
 access to IT Assets.
- IT Assets except mobile devices shall be locked with security wire in all
+⚫ IT Assets except mobile devices shall be locked with security wire in all
 publically accessible locations, or where the asset has accessed data of
 classification of ’Confidential’ or above
- IT Assets must be securely stored in locked drawers or cabinets when not
+⚫ IT Assets must be securely stored in locked drawers or cabinets when not
 in use
- Screen lock functions must be configured to activate automatically after
+⚫ Screen lock functions must be configured to activate automatically after
 no longer than 5 minutes
 17.3.23 Protection against malicious software
 Users are responsible for ensuring that any IT asset they manage have:
- Latest software patches and updates applied
- Anti-virus or other applicable anti-malicious software installed and up to
+⚫ Latest software patches and updates applied
+⚫ Anti-virus or other applicable anti-malicious software installed and up to
 date
- Real-time inspection of files for malicious software is enable Potentially
+⚫ Real-time inspection of files for malicious software is enable Potentially
 malicious files quarantined when detected
-17
-ch17_information-technology-&-security_en_20180401_cl
-
- A full scan of the files to detect malicious software run periodically
- All data or software received from external parties scanned before
+⚫ A full scan of the files to detect malicious software run periodically
+⚫ All data or software received from external parties scanned before
 opening or importing
 Users must remain abreast of the latest security updates from IT, and make
 efforts to prevent malicious software infection
 17.3.24 Mitigation of threats to IT Services
 OIST is under constant attack from external parties seeking to access and
 exploit its IT Resources. In protecting OIST and its users, IT Division and
-systems administrators shall conform to the following requirements.
+17
+ch17_information-technology-&-security_en_20181221_cl
+
+systems administrators shall conform to the following requirements.
 17.3.24.1 Software vulnerability management
 System administrators shall ensure patches or workarounds are in
 place for any published vulnerabilities prior to production use of any
@@ -14014,21 +14003,21 @@ anti-malware software to scan to the system periodically.
 17.3.25 Intrusion prevention
 The system administrators shall implement the following controls in order
 to prevent intrusion into servers and systems;
- Delete or turn off unnecessary services
- Prevent the execution of unknown or unauthorized programs or code
- Ensure firewall configurations are created and updated such as to allow
-18
-ch17_information-technology-&-security_en_20180401_cl
-
-only the communication channels required for the operation of the
+⚫ Delete or turn off unnecessary services
+⚫ Prevent the execution of unknown or unauthorized programs or code
+⚫ Ensure firewall configurations are created and updated such as to allow
+only the communication channels required for the operation of the
 system or software
 The system administrator shall implement the following controls in order
 to prevent intrusion via removal media (where the use of such devices is
-permitted) [link: 17.8.20];
- Disable all unnecessary USB ports or physical connections to the server
+permitted) ;
+⚫ Disable all unnecessary USB ports or physical connections to the server
 or device
- Scan removable media using anti-malware software upon connection
-17.3.26 Training
+⚫ Scan removable media using anti-malware software upon connection
+18
+ch17_information-technology-&-security_en_20181221_cl
+
+17.3.26 Training
 17.3.26.1 User training
 Supervisors are responsible for ensuring that a user is properly
 trained with regard to information security prior to commencing
@@ -14051,10 +14040,7 @@ domain name and to create the virtual machine to house the site. This
 request shall be approved by the CIO, and the Dean of Research /
 These domains shall normally be restricted to .org or .net (nonprofit) extensions, other domains shall require consultation with and
 approval by the CIO. All units are required to keep their OIST unit
-19
-ch17_information-technology-&-security_en_20180401_cl
-
-(groups) site up to date, the creation of any websites for the
+(groups) site up to date, the creation of any websites for the
 promotion of the unit itself outside of this space is discouraged.
 17.3.28 Operation and Management
 17.3.28.1 Business continuity planning
@@ -14062,7 +14048,10 @@ Information asset managers and IT Division shall develop business
 continuity plans, ensuring the availability of OIST information assets
 and resources. Business continuity plans shall be tested at least
 annually to validate their effectiveness, and to ensure staff are
-appropriately trained in its execution.
+19
+ch17_information-technology-&-security_en_20181221_cl
+
+appropriately trained in its execution.
 17.3.28.2 Backup
 Information Asset Managers
 information assets are backed
@@ -14094,10 +14083,7 @@ procedures. These procedures will be defined in the SLA.
 Access to OIST IT facilities, including server rooms and network and
 communication spaces, is restricted. All access to these facilities is subject
 to authorization and authentication, access must be approved by the CIO or
-20
-ch17_information-technology-&-security_en_20180401_cl
-
-CISM.
+CISM.
 Access for the purposes of site-tours should be coordinated through the CIO
 Office.
 17.3.30 Hosting of hardware in OIST IT facilities
@@ -14105,9 +14091,12 @@ Any party at OIST wishing to purchase and/or house hardware (including
 servers and storage) into OIST IT facilities must consult with IT Division.
 Failure to do so will likely result in the hardware being ineligible to be
 housed; IT Division reserves the right to refuse to house any hardware it
-does not deem appropriate or safe to house in OIST facilities. The hardware
+20
+ch17_information-technology-&-security_en_20181221_cl
+
+does not deem appropriate or safe to house in OIST facilities. The hardware
 must further confirm to OIST server hardware requirements, the basic
-requirements for server hardware are specified at PRP 17.5.6 [link: 17.5.6].
+requirements for server hardware are specified at PRP 17.5.6.
 17.3.31 Logging and monitoring
 IT Division shall as a matter of course collect and analyze logging
 information from IT resources in order to detect intrusion or misuse. IT
@@ -14123,18 +14112,15 @@ rules and procedures upon the use of OIST information assets. Such
 additional rules and procedures must be consistent with this Chapter; but
 they may provide additional detail or greater restrictions; they may not
 reduce restrictions.
-Students should refer to the Chapter 5 “Graduate School Handbook” [link:
-5] in addition to familiarizing themselves with this chapter.
+Students should refer to the Chapter 5 “Graduate School Handbook” in
+addition to familiarizing themselves with this chapter.
 17.4 Right and Responsibilities
 17.4.1 The University
 The University owns and controls all its information assets. Though the
 University takes reasonable security measures to protect the security of its
 IT resources, the University does not guarantee absolute security nor
 privacy. The University has the right to monitor any and all IT Resources
-21
-ch17_information-technology-&-security_en_20180401_cl
-
-and their usage, including e-mail, without limitation. The University is
+and their usage, including e-mail, without limitation. The University is
 responsible for taking any measures necessary to ensure the security and
 integrity of its IT Resources. When it becomes aware of violations of policy
 or Japanese law, either through routine system administration activities or
@@ -14142,24 +14128,25 @@ via incident notification, it is the responsibility of the University to
 investigate as needed or directed, and to take all necessary actions in order
 to protect its resources and/or to provide information relevant to an
 investigation.
-In this regard, the Chief Information Officer (CIO) [link:17.4.5], Chief
-Information Security Manager (CISM) [link:17.4.6] and Networking and
-Telecommunications Manager [link:17.4.7] have specific rights and
-responsibilities.
+In this regard, the Chief Information Officer (CIO), Chief Information
+21
+ch17_information-technology-&-security_en_20181221_cl
+
+Security Manager (CISM) and Networking and Telecommunications
+Manager have specific rights and responsibilities.
 17.4.2 User’s rights and responsibilities
-Users [link: 17.8.11] are granted access to IT resources in order to conduct
-University business. In using these resources, users agree to abide by all
-relevant University policies, rules, procedures and applicable law. Users
-must acknowledge this understanding by reading and signing the OIST
-Graduate University Acceptable Use Policy [link: 17.6.1], via physical
-signature or digital equivalent.
+Users are granted access to IT resources in order to conduct University
+business. In using these resources, users agree to abide by all relevant
+University policies, rules, procedures and applicable law. Users must
+acknowledge this understanding by reading and signing the OIST Graduate
+University Acceptable Use Policy, via physical signature or digital
+equivalent.
 17.4.3 Faculty
-Faculty members serve as Information Asset Manager [link: 17.4.8] for
-information assets within their purview, and may delegate the Information
-Asset Administrator [link: 17.4.9] role to a unit member. In managing
-research Information Assets, Faculty will give due consideration to
-contractual requirements, such as research agreements with other
-Universities or companies.
+Faculty members serve as Information Asset Manager for information
+assets within their purview, and may delegate the Information Asset
+Administrator role to a unit member. In managing research Information
+Assets, Faculty will give due consideration to contractual requirements,
+such as research agreements with other Universities or companies.
 Faculty are responsible for ensuring that users under their supervision are
 trained in all relevant IT policy, rules and procedures as well as applicable
 law prior to commencing work.
@@ -14169,31 +14156,31 @@ Managers to manage information Assets within their remit.
 Vice-Presidents, Senior Managers and Managers are responsible for
 ensuring that users under their supervision are trained in all relevant IT
 policy, rules and procedures as well as applicable law prior to commencing
-22
-ch17_information-technology-&-security_en_20180401_cl
-
-work.
+work.
 17.4.5 Chief Information Officer (CIO)
 The CIO has the following general accountability and responsibilities with
 regard to University IT:
- Establishing a strategic plan for University Information Technology
- Overseeing the development, installation and maintenance of IT systems
- Establishing and disseminate enforceable rules regarding access to and
+⚫ Establishing a strategic plan for University Information Technology
+⚫ Overseeing the development, installation and maintenance of IT systems
+⚫ Establishing and disseminate enforceable rules regarding access to and
 acceptable use of Information Assets
- Establishing reasonable security policies and measures to protect data
+⚫ Establishing reasonable security policies and measures to protect data
 and systems
- Monitoring and managing system resource usage
- Investigating problems and alleged violations of University policy, and
+22
+ch17_information-technology-&-security_en_20181221_cl
+
+⚫ Monitoring and managing system resource usage
+⚫ Investigating problems and alleged violations of University policy, and
 reporting violations to the President
- Designating a Chief Information Security Manager (CISM)
+⚫ Designating a Chief Information Security Manager (CISM)
 17.4.6 Chief Information Security Manger (CISM)
 The CISM has overall responsibility for ensuring the security of the
 University, including:
- Developing security processes and procedures
- Conducting information security incident response, reporting results to
+⚫ Developing security processes and procedures
+⚫ Conducting information security incident response, reporting results to
 the CIO
- Developing an audit plan, conducting it at a minimum of annually
- Developing, installing and operating IT security monitoring systems
+⚫ Developing an audit plan, conducting it at a minimum of annually
+⚫ Developing, installing and operating IT security monitoring systems
 17.4.7 Networking and Telecommunications Manager (NTM)
 The Networking and Telecommunication Manager (NTM) is responsible for
 the function and integrity of the OIST network. The NTC Manager has the
@@ -14207,10 +14194,7 @@ level of, authorizing access to, and ensuring an appropriate permission
 scheme for, the information assets within their remit, in accordance to any
 and all relevant laws, rules and regulations. In most cases, Information
 Asset Manager is the head of a research unit or administrative division
-23
-ch17_information-technology-&-security_en_20180401_cl
-
-handling the information asset.
+handling the information asset.
 The Information Asset Manager may designate an Information Asset
 Administrator to manage information assets, but accountability remains
 with the Information Asset Manager.
@@ -14219,78 +14203,83 @@ Information Asset Administrators are responsible for ensuring appropriate
 handing of OIST information assets.
 17.4.10 Privileged users and System Administrators
 All users granted escalated privileges, including System Administrators, are
-responsible for the application of this and related policies to the IT
+23
+ch17_information-technology-&-security_en_20181221_cl
+
+responsible for the application of this and related policies to the IT
 resources in their care, under the direction of system owners and
-Information Asset Managers. Beyond the OIST Acceptable Use Policy [link:
-17.6.1], these users must also read and sign the System Administrators Code
-of Conduct [link: 17.6.2].
+Information Asset Managers. Beyond the OIST Acceptable Use Policy, these
+users must also read and sign the System Administrators Code of Conduct.
 17.4.11 Third-party users
 OIST expects all partners, consultants and vendors agree to, and abide by
 all relevant University policies, rules and procedures, as well as all
 applicable law. If information assets or resources above a “Public”
 classification are to be accessed or shared with these third parties, they shall
-be bound by contract to abide by OIST’s Acceptable Use Policy [link: 17.6.1]
-as well as a suitably drafted non-disclosure agreement.
+be bound by contract to abide by OIST Acceptable Use Policy as well as a
+suitably drafted non-disclosure agreement.
 17.4.12 System Developers and Integrators
 System Developers and Integrators are responsible for the application of
 this and related policies to all IT resources in their purview. If information
 assets or resources above a public classification are to be accessed or shared
-with these third parties, they shall be bound by contract to abide by OIST’s
-Acceptable Use Policy [link: 17.6.1] as well as a suitably drafted nondisclosure agreement.
+with these third parties, they shall be bound by contract to abide by OIST
+Acceptable Use Policy as well as a suitably drafted non-disclosure
+agreement.
 17.5 Procedures
-For details on the IT procedures and Information Security, please see the IT
-Division website https://groups.oist.jp/it.
+For details on the IT procedures and Information Security, please see the
+Service Portal Website
+https://oist.service-now.com/sp
 17.5.1 General IT request process
 Any user wishing to contact OIST IT can do so via;
-
-24
-ch17_information-technology-&-security_en_20180401_cl
-
- E-mail: it-help@oist.jp
- Web request form: https://groups.oist.jp/it
- In person: Lab 2 Level B (mountain side)
+⚫ E-mail: it-help@oist.jp
+⚫ Web request form: https://oist.service-now.com/sp
+⚫ In person: Lab 2 Level B (mountain side)
 17.5.2 Purchasing or upgrading an IT asset within the
 administration
 The purchase or upgrade of an IT assets within the administration is to be
-performed via IT Division. The catalog of standard devices is as listed on the
-IT Division site https://groups.oist.jp/it/hardware-catalog. Purchasing
-requires the approval of the division leader, once obtained staff should
-contact IT [link: 17.5.1]. Non-standard devices are permitted by exception
-from the CIO or Support Services Manager
+performed via IT Division. The catalog of standard devices is as listed on
+the Service Portal Website
+https://oist.servicenow.com/sp?id=kb_article_view&sysparm_article=KB0011833
+Purchasing requires the approval of the division leader, once obtained staff
+24
+ch17_information-technology-&-security_en_20181221_cl
+
+should contact IT [link: 17.5.1]. Non-standard devices are permitted by
+exception from the CIO or Support Services Manager
 17.5.3 Purchasing or upgrading an IT asset within research units
-The catalog of standard hardware is provided on the IT Division website
-https://groups.oist.jp/it/hardware-catalog. These devices are tested and
-well supported in the OIST environment. If researchers wish to purchase
-any item on the catalog, they can contact IT Division via the process
-described in PRP 17.5.1 [link: 17.5.1] to request a quote.
+The catalog of standard hardware is provided on the Service Portal Website
+https://oist.servicenow.com/sp?id=kb_article_view&sysparm_article=KB0011833
+These devices are tested and well supported in the OIST environment. If
+researchers wish to purchase any item on the catalog, they can contact IT
+Division via the process described in PRP 17.5.1 to request a quote.
 If researchers wish to purchase any devices not on the catalog, they are
 strongly encouraged to contact IT Division first to ensure that the device
 will be compatible with OIST systems. IT Division also has a strong
 knowledge of local vendors and is better placed to negotiate.
 In the case that IT assets are to be part of or attached to research equipment,
 guidelines regarding the specification of these assets are defined here:
-https://groups.oist.jp/it/basic-recommended-specification-researchdevice-connected-pcs
+https://oist.servicenow.com/sp?id=kb_article_view&sysparm_article=KB0012667
 17.5.4 Offsite Usage Authorization
-https://groups.oist.jp/it/post/2012/06/06/formspolicies
+https://oist.servicenow.com/sp?id=sc_cat_item&sys_id=ea1eea70db8aeb004a187b088c961
+9f2&sysparm_category=59d4b9b2db65e380d7c7e5951b961906
 17.5.5 How to re-allocate or relinquish an IT asset
-https://groups.oist.jp/it/post/2012/06/06/formspolicies
+https://oist.servicenow.com/sp?id=sc_cat_item_guide&sys_id=87501059db2ce3406885f00
+ebf961971&sysparm_category=ef2e888edb47df004a187b088c96199a
 17.5.6 Hosting devices in IT facilities
-https://groups.oist.jp/it/hosting-devices-oist-it-facilities
+https://oist.servicenow.com/sp?id=kb_article_view&sysparm_article=KB0011735
 17.5.7 Specification process for enterprise applications
-https://groups.oist.jp/eas/specification-process-enterprise-applications
-25
-ch17_information-technology-&-security_en_20180401_cl
+https://oist.servicenow.com/sp?id=kb_article_view&sysparm_article=KB0013669
+17.5.8 Information Security Incident Response
+https://oist.service25
+ch17_information-technology-&-security_en_20181221_cl
 
-17.5.8 Information Security Incident Response
-https://groups.oist.jp/it/info-sec-incident-response
+now.com/sp?id=kb_article_view&sysparm_article=KB0013330
 17.5.9 Email & Online Communication Code of Practice
-https://groups.oist.jp/it/email-and-online-communication-code-practice
-
+https://oist.servicenow.com/sp?id=kb_article_view&sysparm_article=KB0013662
 17.6 Forms
 17.6.1 OIST Graduate University Acceptable Use Policy
-https://groups.oist.jp/it/it-aup
+https://oist.servicenow.com/sp?id=kb_article_view&sysparm_article=KB0011736
 17.6.2 System Administrators Code of Conduct
-https://groups.oist.jp/it/info-sec-aua
+https://oist.servicenow.com/sp?id=kb_article_view&sysparm_article=KB0013184
 17.7 Contacts
 Policy Owner: Chief Information Officer
 17.8 Definitions
@@ -14312,9 +14301,9 @@ cloud services, computers, devices, telephones and software, whether
 wholly owned by the university or otherwise.
 17.8.4 Devices
 26
-ch17_information-technology-&-security_en_20180401_cl
+ch17_information-technology-&-security_en_20181221_cl
 
-Device is a synonym for Information Technology Assets [link: 17.8.3].
+Device is a synonym for Information Technology Assets.
 17.8.5 Information Technology Service Management (ITSM)
 Information Technology Service Management (ITSM) is a set of practices
 that focuses on aligning IT services with the needs of business.
@@ -14329,15 +14318,15 @@ Information Security Website.
 https://groups.oist.jp/it/information-security
 17.8.8 Legislation Relevant to Information Security
 The following legislation is relevant to Information Security at OIST.
- Act on Prohibition of Unauthorized Computer Access
- Act on the Protection of Personal Information Held by Independent
+⚫ Act on Prohibition of Unauthorized Computer Access
+⚫ Act on the Protection of Personal Information Held by Independent
 Administrative Agencies, etc.
- Act on Access to Information Held by Incorporated Administrative
+⚫ Act on Access to Information Held by Incorporated Administrative
 Agencies, etc.
- Act on Electronic Signatures and Certification Business (Electronic
+⚫ Act on Electronic Signatures and Certification Business (Electronic
 Signatures Act)
- Copyright Act
- Unfair Competition Prevention Act
+⚫ Copyright Act
+⚫ Unfair Competition Prevention Act
 17.8.9 Information classification and device eligibility
 https://groups.oist.jp/it/info-sec-classification
 17.8.10 Information System (System)
@@ -14348,7 +14337,7 @@ This includes but is not limited to systems developed, purchased or
 outsourced.
 17.8.11 Users
 27
-ch17_information-technology-&-security_en_20180401_cl
+ch17_information-technology-&-security_en_20181221_cl
 
 Any individual or entity granted access to OIST IT Resources to a level above
 that available to the general public.
@@ -14382,7 +14371,7 @@ including hard drives, USB memory, DVD’s etc.
 Storage media designed to portable.
 
 28
-ch17_information-technology-&-security_en_20180401_cl
+ch17_information-technology-&-security_en_20181221_cl
 
 17.8.21 Securely erase
 To render all data on a storage media unreadable in an unrecoverable
@@ -14415,7 +14404,7 @@ program.
 17.8.32 CMDB
 The OIST configuration management database (CMDB) is a repository that
 29
-ch17_information-technology-&-security_en_20180401_cl
+ch17_information-technology-&-security_en_20181221_cl
 
 stores information regarding IT assets, as well as descriptive relationships
 between them.
@@ -14436,23 +14425,23 @@ integrity or availability of OIST information assets and/or breach OIST
 policy or Japanese law. A compromise is an incident where the security of a
 system or its information was successfully harmed.
 Examples of information security incidents include:
- Data loss due to any cause including operation error such as personal data
+⚫ Data loss due to any cause including operation error such as personal data
 being e-mailed to the wrong recipient
- Unauthorized use of a system for the processing or storage of data
- Noncompliance with information security and acceptable use policies
- Theft or other loss of a laptop, desktop, PDA, or other device that stores
+⚫ Unauthorized use of a system for the processing or storage of data
+⚫ Noncompliance with information security and acceptable use policies
+⚫ Theft or other loss of a laptop, desktop, PDA, or other device that stores
 the University information, whether or not the device is owned by the
 University
- Attempts (either failed or successful) to gain unauthorized access to a
+⚫ Attempts (either failed or successful) to gain unauthorized access to a
 system or its data
- Unwanted disruption or denial of service
- Malfunctions of software or hardware
+⚫ Unwanted disruption or denial of service
+⚫ Malfunctions of software or hardware
 17.8.36 An advanced persistent threat (APT)
 An advanced persistent threat (APT) is a set of stealthy and continuous
 computer hacking processes, often orchestrated by human(s) targeting a
 specific entity. APT processes require a high degree of covertness over a long
 30
-ch17_information-technology-&-security_en_20180401_cl
+ch17_information-technology-&-security_en_20181221_cl
 
 period of time. The advanced process signifies sophisticated techniques
 using malware to exploit vulnerabilities in systems. The persistent process
@@ -14461,7 +14450,7 @@ monitoring and extracting data from a specific target. The threat process
 indicates human involvement in orchestrating the attack.
 
 31
-ch17_information-technology-&-security_en_20180401_cl
+ch17_information-technology-&-security_en_20181221_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
@@ -20481,7 +20470,7 @@ considered grounds for disciplinary action, and/or for prosecution in the case o
 misrepresentation of travel expenses.
 
 Page 1 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 29.2 General Considerations
 Departments may impose stricter budgetary controls over travel, meeting and related
@@ -20521,7 +20510,7 @@ or two. When such extensions are used for personal purposes, this must be indica
 the travel request. Use of paid leave while on business travel must be clearly indicated
 in travel request, which should be approved by Supervisor in advance.
 Page 2 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 29.2.3.1 If a travel itinerary is created to accommodate personal travel, the
 traveler must pay the incremental cost of personal business compared with the
@@ -20556,7 +20545,7 @@ approver(s) indicated in the table [link:]. Generally, non-employees traveling f
 university are required to comply with this policy.
 
 Page 3 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 29.2.5.1 In case of an independent contractor, travel expenses should be part of
 the overall fee reflected on the vendor’s invoice, which should indicate the cost
@@ -20595,7 +20584,7 @@ conducting business for the sole benefit of the University (official or business
 See Table [link: 26.9] for traveler categories, items of reimbursement, and amounts.
 Expenses deemed as personal by the University are not reimbursed.
 Page 4 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 Air/Hotel Packages should be avoided unless purchased through the University's PTAs.
 Receipt requirements are found here (Chapter 29.3.13)[29.3.13.]
@@ -20635,7 +20624,7 @@ applied for all business travels including guest travels.
 Trip insurance, cancellation insurance: the cost for purchasing this insurance
 can be significant and should not be purchased on a regular basis for most
 Page 5 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 University travel. The cancellation insurance is not an allowable business travel
 expense under this University’s travel policy. If the traveler believes that there
@@ -20676,7 +20665,7 @@ When traveling by rail, bus or boat, the travel fare applicable depends upon the
 travelers’ situation and travel location. (Appendices & Table)[link: 26.9]
 
 Page 6 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 29.3.3.2 Rental Cars
 When usage of rental car is more economical and convenient than other
@@ -20713,7 +20702,7 @@ there is a valid business reason precluding use of a more economical mode of
 transportation.
 
 Page 7 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 29.3.3.3.1 Travelers will be reimbursed for business use of their personal
 vehicles at the University prevailing kilometric allowance (Appendices
@@ -20761,7 +20750,7 @@ paid by direct billing or actual cost reimbursement based on an original receipt
 up to the amount of the fixed allowance. Alternate accommodations should be
 
 Page 8 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 explored before requesting or accepting a higher rate than the daily lodging
 allowance. Please see the table[link: 26.9] for details.
@@ -20806,7 +20795,7 @@ not provided for the currency in which the expense occurred, please contact the
 Travel Expense Team of Accounting Section.
 Example:
 Page 9 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 Date of travel
 
@@ -20853,14 +20842,14 @@ case where the application of the provision of this paragraph is
 unreasonable, etc), the Vice President for Financial Management shall
 decide the appropriate amount on a case-by-case basis.
 Page 10 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 29.3.8.2 Exception to the Per Diem Amount
 If a supervisor provides written justification that compliance with the per-diem
 and lodging allowance is impractical or not preferable for a particular situation,
 and the Vice President for Financial Management approves, actual costs may
 be reimbursed based on actual expense receipts even if the set amount exceeded.
- Such exceptions must be approved before travel.
+⚫ Such exceptions must be approved before travel.
 29.3.8.3 Actual Expenses and Per Diem
 Travelers cannot use both actual expense and per diem methods for meals or
 hotel during the same trip. No exceptions.
@@ -20893,7 +20882,7 @@ Workshop Committee, as a part of the workshop budget.
 All the meetings or ceremonies for which expenses may be reimbursed must
 be justified as necessary for the purpose of achieving the goals of the
 Page 11 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 University. In support of this justification, the agenda and the name of
 participants must be made known through the OIST ERP system in advance.
@@ -20935,7 +20924,7 @@ given to the fact that full names of the external guests may be
 disclosed by information disclosure request.
 
 Page 12 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 29.3.9.2.2 Refreshments for Meetings
 For the reimbursement for refreshments (tea and snack, not meal) for
@@ -20951,24 +20940,24 @@ Under the following exceptional circumstances, meeting expenses may be
 provided for a meeting during lunch time, held in a public space such as
 OIST café and restaurant. Such meetings must also meet the general
 requirements defined in PRP29.3.9.2.
- It is necessary to discuss a specific issue during the lunch time,
+⚫ It is necessary to discuss a specific issue during the lunch time,
 due to time limitations of the guest’s stay. (Requires prior
 approval of Vice President for Financial Management)
- Opinion exchange is required between a guest lecturer delivering
+⚫ Opinion exchange is required between a guest lecturer delivering
 a general speech or a special speech as defined in the Table
 Honorarium [Link: 26.9] and University employees. (Requires
 prior approval of Vice President for Financial Management)
- Opinion exchange is required between a guest and the President.
+⚫ Opinion exchange is required between a guest and the President.
 29.3.9.3 Exceptional Meeting Expenses
 29.3.9.3.1 Alcoholic beverages
 Offering of alcoholic beverages shall be strictly limited to meetings
 and ceremonies, without exception, involving outside guests and the
 University Officers (CEO/President, Vice-CEO, members of the Board
-of Governors, or Auditors) and linked to support for cooperation with
-other institutions, to public relations activities in recognition with
-business and scientific/ educational transactions and achievements, and
-other similar activities approved by the President on an individual
-basis.
+of Governors, Auditors, or Senior Advisor (in charge of fundraising))
+and linked to support for cooperation with other institutions, to public
+relations activities in recognition with business and scientific/
+educational transactions and achievements, and other similar activities
+approved by the President on an individual basis.
 29.3.9.3.2 Spouse and personal guest invitees
 The expenses for spouse and personal guest invitees may be paid only
 under exceptional circumstances justified and approved by the
@@ -20976,7 +20965,7 @@ President.
 29.3.9.3.3 Other Exceptions to the General Rules
 
 Page 13 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 There are certain types of activities for which exceptions may be
 granted to enrich the academic life of the University and improve
@@ -21016,7 +21005,7 @@ When applying for payment, the requestor shall provide the Travel Expense
 Team of Accounting Section with an “Honorarium payment request” via the
 ERP System, along with other necessary documents.
 Page 14 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 29.3.10.5 Travel Expenses
 Travel expenses can be paid in addition to an honorarium, if necessary.
@@ -21057,7 +21046,7 @@ Direct payment of Travel Expenses must be authorized PRIOR to the payment is
 made.
 
 Page 15 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 29.3.13 Receipt Requirements
 In principle, original receipt or paid bill is required. The receipt must show the amount,
@@ -21100,7 +21089,7 @@ reimbursement. The University will reimburse the least expensive airfare.
 29.3.13.2 Car Rental fees may be reimbursed upon presentation of an original
 receipt.
 Page 16 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 The acceptable car rental receipt is an itemized receipt provided by a place that
 is in the business of renting vehicles.
@@ -21136,7 +21125,7 @@ file for reimbursement from any other source for said expense.”
 Responsibilities
 
 Page 17 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 29.4.1
 Traveler
@@ -21173,31 +21162,31 @@ following based on travel request form and attached evidence (which shows
 dates and contents of academic conference, workshop, symposium, seminar,
 summer school etc, and clear specification of name, date and time for meeting
 with faculty or researcher of university or institution.).
- The allowability and reasonableness of the travel
- The availability of funds for the trip
- The trip falls within the intent of the funds being used
- University Travel Policy is followed
+⚫ The allowability and reasonableness of the travel
+⚫ The availability of funds for the trip
+⚫ The trip falls within the intent of the funds being used
+⚫ University Travel Policy is followed
 
 Page 18 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
-
+⚫
 
 The necessity of the travel if traveler travels to the same area and the same
 period with his/her spouse, family member or partner who is an employee
 of the University.
 When authorizing Travel Expense Settlement, it is the responsibility of the
 approver(s) (signatory) to
- review the expenses,
- ensure that the information contained on the report is properly documented
+⚫ review the expenses,
+⚫ ensure that the information contained on the report is properly documented
 and supported by attached receipts, in compliance with University policies,
 and
- ensure that the expenses are for University business purposes.
- ensure that the correct codes (budgetary unit (BU), travel number
+⚫ ensure that the expenses are for University business purposes.
+⚫ ensure that the correct codes (budgetary unit (BU), travel number
 etc.) are used
- confirm concrete content of work for payment of per diem for weekends
+⚫ confirm concrete content of work for payment of per diem for weekends
 and national holidays.
- In the case of CEO/President and Vice CEO, mutual checking should be
+⚫ In the case of CEO/President and Vice CEO, mutual checking should be
 made
 (only for requests)
 29.5 Procedures
@@ -21220,7 +21209,7 @@ Procedures for “outside duty” reimbursement are electronic and managed in OI
 system. See ERP manual/expense reimbursement
 
 Page 19 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 29.5.3 Request for Meeting Expense Reimbursement
 Procedures for Meeting Expense Reimbursement are electronic and managed in OIST
@@ -21263,7 +21252,7 @@ as taxable income to the employee. The
 employee must document business
 purpose, substantiate expenses, and return
 Page 20 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 any amount in excess of substantiated
 expenses to the employer.
@@ -21323,7 +21312,7 @@ Domestic Travel
 Travel within Japan
 
 Page 21 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 Employee
 
@@ -21393,7 +21382,7 @@ employee's move to a new regular place of
 business.
 
 Page 22 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 Official Travel
 
@@ -21451,7 +21440,7 @@ Documentation that reflects date, amount,
 and that a payment was made (cash register
 receipt, credit card receipt, a bank or credit
 Page 23 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 card statement, a copy of a check, or a
 cancelled check).
@@ -21515,7 +21504,7 @@ accountable plan rules. Sufficient
 documentation should include who, what,
 when, where, why, and how much.
 Page 24 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 Supervisor
 
@@ -21553,7 +21542,7 @@ and reasonable expenses of traveling away
 from home to a temporary work site.
 
 Page 25 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 Appendix A Reimbursable Expenses
 General Expenses
@@ -21593,13 +21582,12 @@ Charges for inoculations necessary for foreign travel
 Other Fees
 (1) Many travel agencies charge ticket processing fees in addition to the actual cost
 of travel arrangements. Processing fees will be reimbursed by the University.
-
-Page 26 of 29
-ch29_travel –and-meetings_en_20180401_cl
-
-(2) Many airlines, particularly low cost airlines, charge fees to check luggage, select
+(2) Many airlines, particularly low cost airlines, charge fees to check luggage, select
 an aisle/window seat, early check-in, etc. If the traveler deems these services
-necessary and has the budget to support the fees, these fees will be reimbursed by the
+Page 26 of 29
+ch29_travel –and-meetings_en_20181226_cl
+
+necessary and has the budget to support the fees, these fees will be reimbursed by the
 University.
 (3) Excess Baggage
 • Employees will be reimbursed for excess baggage charges in the following
@@ -21611,7 +21599,7 @@ o Documentation must be included with the Travel Expense Report
 explaining the nature of the excess baggage charge.
 
 Page 27 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 Appendix B Non-Reimbursable Expenses
 The following miscellaneous expenses will not be reimbursed.
@@ -21652,7 +21640,7 @@ value of these upgrades
 (a) Dues for membership in any airport/airline club are not reimbursable.
 
 Page 28 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 Appendix C Cost per Meeting
 Attendee
@@ -21715,7 +21703,7 @@ VPF
 n/a
 
 Page 29 of 29
-ch29_travel –and-meetings_en_20180401_cl
+ch29_travel –and-meetings_en_20181226_cl
 
 University Graduate University
 Policies, Rules & Procedures
