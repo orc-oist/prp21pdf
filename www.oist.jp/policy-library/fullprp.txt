@@ -22310,21 +22310,21 @@ ch33_leave_en_20181120_cl
 OIST Graduate University
 Policies, Rules & Procedures
 Authority:
- Approved by the President
- Labor Standard Act
- Act on Securing, Etc. of Equal Opportunity and Treatment between Men and Women
+⚫ Approved by the President
+⚫ Labor Standard Act
+⚫ Act on Securing, Etc. of Equal Opportunity and Treatment between Men and Women
 in Employment
- Act on Securing the Payment of Wages
- Minimum Wages Act
- Act on the Collection, etc. of Insurance Premiums of Labor Insurance
- Industrial Accident Compensation Insurance Act
- Employment Insurance Act
- National Pension Act
- Health Insurance Act
- Long-Term Care Insurance Act
- Income Tax Act
- Local Tax Act
- Act Concerning Access to Information Held by Independent Administrative
+⚫ Act on Securing the Payment of Wages
+⚫ Minimum Wages Act
+⚫ Act on the Collection, etc. of Insurance Premiums of Labor Insurance
+⚫ Industrial Accident Compensation Insurance Act
+⚫ Employment Insurance Act
+⚫ National Pension Act
+⚫ Health Insurance Act
+⚫ Long-Term Care Insurance Act
+⚫ Income Tax Act
+⚫ Local Tax Act
+⚫ Act Concerning Access to Information Held by Independent Administrative
 Institutions, etc.
 
 Chapter 34. Compensation
@@ -22332,20 +22332,20 @@ Chapter 34. Compensation
 The OIST Graduate University administers compensation policies and programs to reflect
 the value of job duties and responsibilities and to provide competitive and equitable pay.
 The University’s compensation policies are designed to accomplish the following goals:
- Allow the University to attract, retain, and motivate competent employees by
+⚫ Allow the University to attract, retain, and motivate competent employees by
 establishing and maintaining a salary structure that is internationally
 competitive;
- Promote internal equity and consistency across diverse University functions;
- Establish salary ranges that are broad enough to provide flexibility for
+⚫ Promote internal equity and consistency across diverse University functions;
+⚫ Establish salary ranges that are broad enough to provide flexibility for
 management at the same time as respecting budgetary restraints;
- Provide the foundation for a performance-based pay system; and
- Uphold transparency and accountability in administrating personnel costs to
+⚫ Provide the foundation for a performance-based pay system; and
+⚫ Uphold transparency and accountability in administrating personnel costs to
 funding bodies and general public.
 34.2 General Considerations
 34.2.1 Equal Opportunity
 The compensation policies will be consistent with the Equal Opportunity Policy
 1
-ch34_compensation_en_20170101_cl
+ch34_compensation_en_20181120_cl
 
 [link: 1.3.2], and there will be no discriminatory treatment in compensation due to
 race, color, religion, national origin, ancestry, physical and mental disability,
@@ -22361,10 +22361,10 @@ year, based on guidance by the government ministries.
 34.3.1 Categories of Compensation
 Compensation (except for that of Administrative Assistants [link: 34.3.7]) will
 comprise;
- Annual Salary [link: 34.3.2],
- Year-End Bonus [link: 34.3.3],
- Overtime Premium [link: 34.3.4], and
- Allowances [link: 34.3.5];
+⚫ Annual Salary,
+⚫ Year-End Bonus,
+⚫ Overtime Premium, and
+⚫ Allowances;
 - Commuting Allowance (34.3.5.1),
 - Housing Allowance (34.3.5.2), and
 - Away from Home Allowance (for Permanent Employees) (34.3.5.3).
@@ -22377,16 +22377,15 @@ to determine equitable and consistent rate structures, and to maintain a competi
 position in the job market.
 34.3.2.1 Job Classification
 All University employee positions (except for those of wage employees
-which are defined in 34.3.7[link: 34.3.7]) are separated into job categories
-(classification based on similarity of duties and activities) and job levels
-(classification based on relative difficulty of the job measured by factors
-such as 1) responsibility, 2) expected knowledge, skills, abilities and
-experience, and 3) complexity of problems) by evaluating job descriptions.
-
+which are defined in 34.3.7) are separated into job categories (classification
+based on similarity of duties and activities) and job levels (classification
+based on relative difficulty of the job measured by factors such as 1)
+responsibility, 2) expected knowledge, skills, abilities and experience, and
+3) complexity of problems) by evaluating job descriptions. (Chapter
 2
-ch34_compensation_en_20170101_cl
+ch34_compensation_en_20181120_cl
 
-(Chapter 31.5.1.3)[link: 31.5.1]
+31.5.1.3)
 34.3.2.1.1 Promotion
 “Promotion” is to be promoted to a higher job rank given the
 result of the annual performance evaluation and its abilities.
@@ -22395,14 +22394,14 @@ promotion.
 34.3.2.1.2 Demotion・Salary Decrease
 Demotion is a movement to a lower job class from the current
 position. An Employee is subject to demotion when;
- An Employee is rated “Needs Improvement” (3 rating scale,
+⚫ An Employee is rated “Needs Improvement” (3 rating scale,
 Excellent, Good, Needs Improvement) for 2 (two)
 consecutive years at the Annual Performance Evaluation
- The University determines that the employee assigned to
+⚫ The University determines that the employee assigned to
 his/her position clearly lacks the necessary qualifications for
 the position. This demotion must be reviewed by the Salary
 Review Committee.
- An employee fails to meet the University’s performance
+⚫ An employee fails to meet the University’s performance
 standards and the University considers it necessary to
 demote him/her as a disciplinary action （PRP38.3.5）
 Following demotion, salary will be reduced by a maximum of 10%
@@ -22410,9 +22409,9 @@ of the employee’s current salary.
 34.3.2.2 Salary Plan
 34.3.2.2.1 Each job level of each job category has an annual salary
 range with:
- Mid Point: Represents average market income for each level.
- Minimum: a specified percent below Mid Point.
- Maximum: a specified percent above Mid Point.
+⚫ Mid Point: Represents average market income for each level.
+⚫ Minimum: a specified percent below Mid Point.
+⚫ Maximum: a specified percent above Mid Point.
 34.3.2.2.2 The rate range for each level is established and annually
 reviewed considering various factors.
 34.3.2.2.3 Based on the annual review, changes in rate ranges are
@@ -22421,7 +22420,7 @@ Resource Development (VPGEHR) as necessary. With the review
 of the SRC established by the CEO/President, these changes are
 usually made effective April 1.
 3
-ch34_compensation_en_20170101_cl
+ch34_compensation_en_20181120_cl
 
 Changes in rate ranges are applied uniformly to all employees in the
 range on the day the changes become effective in principle.
@@ -22439,84 +22438,30 @@ Officer(CEO)/President set down the criteria separately.
 In that case, preceding Chapter 34.3.2(Annual Salary) should not be
 applied/
 34.3.2.3 Merit Increase
-34.3.2.3.1 Merit increase is a salary increase program designed for
-permanent increases to Annual Salaries adjusted by the result of
-annual review of the employee’s performance. The performance of
-employees other than Faculty members and researchers is annually
-assessed and rated by the Annual Performance Evaluation (APE)
-results. [link: 36]
-34.3.2.3.2 A “Merit Increase Guideline” that specifies an increase
-percent for each performance rating, is proposed annually by the
-Vice President for Gender Equality and Human Resource
-Development (VPGEHR) and reviewed by the SRC. The Guideline
-is set in view of trends in the cost of living, competitiveness of the
-job market, University budgets, and other relevant factors.
-34.3.2.3.3 Eligibility. Employees are not eligible for salary increase
-if:
- Their salaries are equal to their job level Maximum salary;
- They have been continuously employed by the University
-for less than 3 months;
- They are on Administrative Leave [link: 33.3.9];
+Definitions are described in Chapter 36.2.6
 
-4
-ch34_compensation_en_20170101_cl
-
-
-
-
-
-
-They have been on leave without pay for a period longer
-than 9 months during the current fiscal year;
-They are not subject to the Annual Performance Evaluation,
-as is the case typically for Postdoctoral Scholars; or
-The length of their employment contracts is 1 year or less.
-Faculty members and APE eligible employees whose age
-reaches beyond the following at the beginning of the new
-fiscal year (as of April 1)
-- Faculty Members: 70
-- Permanent Employee: 65
-- Fixed Term Employee (including Continuing
-Appointments): 65
-
-34.3.2.4 A Merit Increase does not guarantee an annual salary increase
-every year. The salary may fluctuate depending on the change in the rate
-ranges, the result of each employee’s performance review, and other
-relevant factors.
 34.3.3 Year-End Bonus
-Year-End Bonus may be given to a relatively small number of individuals who
-made a significant achievement or contribution to the University, based on their
-APE. A “Year-End Bonus Guideline,” proposed by Vice President for Gender
-Equality and Human Resource Development (VPGEHR) and approved by the SRC,
-will specify the percentage of the bonus relative to annual salary, criteria for the
-bonus, and other relevant matters.
-Employees who are not eligible for a Merit Increase are similarly not eligible for
-Year-End Bonus.
+Definitions are described in Chapter 36.2.7.
 34.3.4 Overtime Premium
 34.3.4.1 Overtime Premium is paid monthly to employees for each hour
 they are instructed by an authorized supervisor to work in excess of
 scheduled working hours.
 34.3.4.2 The amount of Overtime Premium per hour is calculated by
-multiplying the amount of an employee’s hourly salary (Chapter
-34.3.6.5[link: 34.3.6]) with the overtime premium rate specified below.
- Work exceeding the scheduled working hours on days other than
+multiplying the amount of an employee’s hourly salary (Chapter 34.3.6)
+with the overtime premium rate specified below.
+⚫ Work exceeding the scheduled working hours on days other than
 statutory holidays (Sundays and national holidays)
-
-5
-ch34_compensation_en_20170101_cl
-
-
-
-
 - Up to 60 hours: 25 percent
 - More than 60 hours: 50 percent
-Work on statutory holidays (Sundays and national holidays): 35
+⚫ Work on statutory holidays (Sundays and national holidays): 35
 percent
-Work at late-night (after 10:00 pm and before 5:00 am): additional
-25 percent
+⚫ Work at late-night (after 10:00 pm and before 5:00 am): additional
+4
+ch34_compensation_en_20181120_cl
 
+25 percent
 34.3.4.3 The Amount of Overtime Premium for Part-time Employees are as
-stipulated in the Compensation Rules for Part-time Employees [link: ].
+stipulated in the Compensation Rules for Part-time Employees.
 34.3.5 Allowances
 34.3.5.1 Commuting Allowance
 A Commuting Allowance is paid to employees commuting over a distance
@@ -22524,7 +22469,7 @@ of more than 2 kilometers.
 The amount of each commuting allowance is determined according to
 factors such as measures of commuting and distances in the case that
 employees use automobiles for commuting, as specified in the attached
-table. [link: http://hr.oist.jp/english/income/index.html]
+table. [link: https://groups.oist.jp/hr/4-1-compensation#commute]
 34.3.5.2 Housing Allowance
 A Housing Allowance is paid to full-time employees who rent housing for
 their own residences and pay the rent themselves. However, a Housing
@@ -22532,7 +22477,7 @@ Allowance shall not be paid to full-time employees who own a house within
 Okinawa Main Island or assumes ownership of house within Okinawa Main
 Island in principle.
 The amount is determined based on the attached table. [link:
-http://hr.oist.jp/english/income/index.html]
+https://groups.oist.jp/hr/4-1-compensation#house]
 34.3.5.3 Away from Home Allowance
 An Away from Home Allowance is paid to Permanent Employees who
 change their residence to outside of Okinawa (living separately from their
@@ -22541,18 +22486,16 @@ Permanent Employees under similar circumstances approved by Vice
 President for Gender Equality and Human Resource Development
 (VPGEHR).
 The monthly amount is determined based on the attached table. [link:
-http://hr.oist.jp/guideline/pdf/Compensation_Regulations_for_Permanent_
-Employees_je.pdf#page=14]
-
-6
-ch34_compensation_en_20170101_cl
-
-34.3.6 Rules of Payment
+https://groups.oist.jp/hr/regulations-guidelines]
+34.3.6 Rules of Payment
 34.3.6.1 Pay Date. Compensation is paid monthly (for the first day to the
 last day of the month) on the 17th of the every month (or on the closest
 preceding business day if the 17th falls upon a holiday.)
 When an employee is hired, retires, takes Administrative Leave, or
-experiences any other changes which affect compensation during the course
+5
+ch34_compensation_en_20181120_cl
+
+experiences any other changes which affect compensation during the course
 of the month, his/her monthly compensation, Commuting Allowance and
 Housing Allowance for that month is calculated on a pro-rated basis based
 on the number of scheduled work days.
@@ -22560,9 +22503,9 @@ on the number of scheduled work days.
 compensation for past work may be made at the discretion of the University
 when the employee or individuals dependent on his/her income is in the
 following circumstances;
- Required to return to their hometown for unavoidable reasons for a
+⚫ Required to return to their hometown for unavoidable reasons for a
 period of more than a week; or
- Becomes burdened with costs arising from marriage, funeral, birth,
+⚫ Becomes burdened with costs arising from marriage, funeral, birth,
 illness, calamity or death.
 This also applies to the case where an employee leaves the University for
 retirement or dismissal.
@@ -22575,38 +22518,37 @@ the University is allowed or required to deduct under laws, regulations or a
 written agreement concluded with the Employment Representative.
 34.3.6.5 Monthly, Daily, Hourly Salary. The amount of monthly, daily and
 hourly salaries are calculated by the following formulas:
- Monthly: [Annual Salary] divided by 12 (or the number of months
+⚫ Monthly: [Annual Salary] divided by 12 (or the number of months
 of the employment contract if that is less than 12.)
- Daily: [Monthly Salary] divided by [[the number of days of the
+⚫ Daily: [Monthly Salary] divided by [[the number of days of the
 month] minus [the number of holidays of the month]]
- Hourly: [Monthly Salary] divided by [the average monthly number
+⚫ Hourly: [Monthly Salary] divided by [the average monthly number
 of regularly scheduled working hours]
-
-7
-ch34_compensation_en_20170101_cl
-
-34.3.6.6 Fractions. In the calculation of compensation, fractions of less than
+34.3.6.6 Fractions. In the calculation of compensation, fractions of less than
 0.5 yen will be rounded down and fractions of between 0.5 yen or more and
 less than 1 yen will be counted as 1 yen.
 34.3.6.7 Absence and Leaves. The amount for each day and each hour of
 absence (including lateness and leaving early) or un-paid leaves, calculated
-with daily and hourly salary (34.3.6.5), will be deducted from the monthly
+6
+ch34_compensation_en_20181120_cl
+
+with daily and hourly salary (34.3.6.5), will be deducted from the monthly
 salary.
 During the period of the paid leave (except for Administrative Leave) listed
-in Chapter 33.3.1 [link: 33.3.1], the regular compensation to be paid when
-employees work for scheduled working hours will be paid.
+in Chapter 33.3.1, the regular compensation to be paid when employees
+work for scheduled working hours will be paid.
 Compensation for employees on Administrative Leave is set forth in
-Chapter 33.3.9 [link: 33.3.9].
+Chapter 33.3.9.
 34.3.7 Salary of Administrative Assistants
 34.3.7.1 Categories of Compensation. Compensation of Administrative
-Assistants (part-time employees (Chapter 30.2.2.3.2)[link: 30.2.2] who are
-engaged in routine clerical duties is usually made up of:
- Base Salary;
- Overtime Premium [link: 34.3.4]; and
- Commuting Allowance [link: 34.3.5].
+Assistants (part-time employees (Chapter 30.2.2.3.2) who are engaged in
+routine clerical duties is usually made up of:
+⚫ Base Salary;
+⚫ Overtime Premium; and
+⚫ Commuting Allowance.
 34.3.7.2 Base Salary. Base Salary is determined by the number of scheduled
 work days per month and an hourly wage individually decided by the HR
-Management Section between 700 and 2,500 yen per hour depending on
+Management Section between 800 and 2,500 yen per hour depending on
 their job description and their experiences.
 34.3.7.3 Compensation is paid monthly with the last day of the month as the
 wage cutoff date, on the 17th day of the following month (or on the closest
@@ -22616,35 +22558,30 @@ does not work during his/her scheduled work hours (aside from paid
 holidays), the employee’s compensation is reduced by one hour of wages
 for each hour the employee does not work.
 34.3.7.5 The following provisions are applied to Administrative Assistants.
- Overtime Premium (34.3.4)
-(“Hourly salary” in 34.3.4[link: 34.3.4] is replaced by “hourly
-
-8
-ch34_compensation_en_20170101_cl
-
-
-
-wage.”)
-Rules of Payment (34.3.6) except for 34.3.6.1, 34.3.6.5, and
-34.3.6.7[link: 34.3.6].
-
+⚫ Overtime Premium (34.3.4)
+(“Hourly salary” in 34.3.4 is replaced by “hourly wage.”)
+⚫ Rules of Payment (34.3.6) except for 34.3.6.1, 34.3.6.5, and
+34.3.6.7.
 34.3.8 Temporary Measures for Transition
-Notwithstanding the rules set forth from 34.3.1 through 34.3.8, with regard to any
-matters of employee compensation, the provisions of the following rules basically
-transferred from the OIST Promotion Corporation will be applicable for the time
+Notwithstanding the rules set forth from PRP Chapter 34, with regard to any matters
+of employee compensation, the provisions of the following rules basically
+7
+ch34_compensation_en_20181120_cl
+
+transferred from the OIST Promotion Corporation will be applicable for the time
 being in order to achieve a smooth transition from the OIST Promotion Corporation
 to the OIST School Corporation.
- Compensation Rules for Permanent Employees
- Compensation Rules for Fixed-term Employees
- Compensation Rules for Administrative Assistants
- Compensation Rules for Graduate Students Research Assistants
+⚫ Compensation Rules for Permanent Employees
+⚫ Compensation Rules for Fixed-term Employees
+⚫ Compensation Rules for Administrative Assistants
+
 34.3.9 Compensation for Full-time Officers
 34.3.9.1 Categories of Compensation. Compensation of full-time Officers
 (the CEO/President, the Vice CEO, and Full-time Auditor) comprises:
- Base Salary;
- Special Adjustment Allowance;
- Commuting Allowance; and
- Housing Allowance.
+⚫ Base Salary;
+⚫ Special Adjustment Allowance;
+⚫ Commuting Allowance; and
+⚫ Housing Allowance.
 34.3.9.2 Base Salary. Amount of Base Salary is determined by the Board of
 Governors within the maximum amount specified in the following table:
 Officers
@@ -22661,17 +22598,17 @@ consideration of their experience regarding internationally excellent
 scientific research and education, difficulty of duties, past achievements,
 and anticipated contributions.
 The amount of Special Adjustment Allowance is determined by the Board
-of Governors (BOG) after consultation with the cabinet Office.
+of Governors (BOG) within the amount not exceeding the Base Salary.
 34.3.9.4 Commuting Allowance. Rules on Commuting Allowance for
-9
-ch34_compensation_en_20170101_cl
-
-employees (34.3.5.1[link: 34.3.5]) are applied to Full-time Officers.
+employees (34.3.5.1) are applied to Full-time Officers.
 34.3.9.5 Housing Allowance. Rules on Housing Allowance for employees
-(34.3.5.2[link: 34.3.5]) are applied to Full-time Officers.
+(34.3.5.2) are applied to Full-time Officers.
 34.3.9.6 Pay Dates. Compensation is paid monthly (for the first day to the
 last day of the month) on the 17th of the every month (on the closest
-preceding business day if the 17th falls upon a holiday.)
+8
+ch34_compensation_en_20181120_cl
+
+preceding business day if the 17th falls upon a holiday.)
 When an Officer is newly appointed, or resigns or is dismissed, during the
 course of the month, his/her monthly compensation, Commuting Allowance
 and Housing Allowance of that month is calculated on a pro-rated basis
@@ -22694,24 +22631,28 @@ The compensation of Part-time Officers is paid as determined separately by the
 Board of Governors in accordance with their position, considering their working
 arrangements.
 34.4 Responsibilities
-34.4.1 HR Management Section
-The HR Management Section is responsible for administering the compensation
-policies fairly and accurately.
-
-10
-ch34_compensation_en_20170101_cl
-
-34.4.2 Vice President for Gender Equality and Human Resource Development
+34.4.1 Salary Review Committee: SRC
+The Salary Review Committee: SRC is responsible for administering the
+compensation policies fairly and accurately.
+34.4.2 Vice President for Gender Equality and Human Resource Development
 (VPGEHR)
 Vice President for Gender Equality and Human Resource Development (VPGEHR)
-is responsible for reviewing the salary structure annually and proposing necessary
-changes to the SRC. VPGEHR is also responsible for ensuring that individual salary
-levels properly reflect various elements and maintain internal equity.
-34.4.3 CEO/President
-The CEO/President shall establish the SRC and appoint the committee members
-from OIST Graduate University employees in the relevant positions. The Office
-Manager of the President Office will serve as the secretariat of the SRC.
-34.4.4 Employees
+shall establish the SRC and appoint the committee members from OIST Graduate
+University employees in the relevant positions. Vice President for Gender Equality
+and Human Resource Development (VPGEHR) is responsible for reviewing the
+salary structure annually and proposing necessary changes to the SRC. VPGEHR
+9
+ch34_compensation_en_20181120_cl
+
+is also responsible for ensuring that individual salary levels properly reflect various
+elements and maintain internal equity.
+34.4.3 Gender Equality and Human Resource Development Division
+Gender Equality and Human Resource Development Division will serve as the
+secretariat of the SRC.
+34.4.4 HR Management Section
+The HR Management Section is procedure to process administering the
+compensation.
+34.4.5 Employees
 All University employees and officers must promptly notify the HR Management
 Section of any changes that could affect their allowances, such as commuting
 distance or location of residence.
@@ -22722,11 +22663,11 @@ distance or location of residence.
 Vice President for Gender Equality and Human Resource Development
 (VPGEHR)
 34.7.2 Other Contacts:
-HR Management Section
+Gender Equality and Human Resource Development Division
 34.8 Definitions
 
-11
-ch34_compensation_en_20170101_cl
+10
+ch34_compensation_en_20181120_cl
 
 OIST Graduate University
 Policies, Rules & Procedures
