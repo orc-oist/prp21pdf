@@ -15237,19 +15237,20 @@ Policies, Rules & Procedures
 
 Chapter 21. Use of University Resources
 21.1 Policy
-University resources [link: 21.8.1] must be reserved for University purposes
-and for those activities that further its education, research, and socioeconomic missions. University purposes include contributing to the physical
-and cultural development of University students, faculty, staff and the greater
-Okinawan community as well as stimulating the intellectual lives and personal
+University resources must be reserved for University purposes and for those
+activities that further its education, research, and socio-economic missions.
+University purposes include contributing to the physical and cultural
+development of University students, faculty, staff and the greater Okinawan
+community as well as stimulating the intellectual lives and personal
 development of University students, faculty, staff, and the broader community.
 21.2 General Considerations
 21.2.1 University property and facilities are valuable public assets, such
 that the University’s Common Spaces will be made available to the public
 as well as to University personnel to serve broader community purposes.
 21.2.2 University resources may never be used for personal gain as a
-general rule. However, use of Common Spaces and University Vehicles
-for Non-University Purpose may be permitted pursuant to the PRP
-21.3.1.1 (for Common Spaces) and PRP 21.3.3.1 (for University Vehicles).
+general rule. However, use of Common Spaces for Non-University
+Purpose may be permitted pursuant to the PRP 21 and rules referred to
+by the statements in this chapter.
 21.2.3 University resources may not be used by external persons (either
 individuals or corporations) except for use by visitors whose acceptance
 has been approved by the University. However, the use by external
@@ -15265,22 +15266,21 @@ and staff members or to entrust the work of the University.
 
 21.2.4 University may charge internal and external users for the partial
 use of the University’s buildings or use of the University’s research
-facilities, vehicles or services. The usage charge for a part of the
-University’s buildings, vehicles and services as well as the “appropriate
-price” pursuant to the Article 21.2.3 of the PRP are stipulated separately.
+facilities or services. The usage charge for a part of the University’s
+buildings and services as well as the “appropriate price” pursuant to the
+Article 21.2.3 of the PRP are stipulated separately. The usage fee for
 1
-Draft_revisional_ch21_use-of-university-resources_20170901_en_cl
+ch21_use-of-university-resources_en_20190118_cl
 
-The usage fee for University’s Research Facilities and the Related
-Services are provided by the procedure stipulated in Article 21.3.7 of the
-PRP.
+University’s Research Facilities and the Related Services are provided by
+the procedure stipulated in Article 21.3.7 of the PRP.
 21.3 Rules
 21.3.1 Buildings, Facilities, Land
 The University is required to maximize the efficient and effective use of
 University property and facilities in order to provide appropriate, high
 quality, sustainable and sufficient space and infrastructure for University
 purposes and programs. See also Chapter 10, Land, Buildings and
-Facilities [link: 10].
+Facilities.
 21.3.1.1 Use of Common Spaces for Non-University Purposes.
 The University wishes to be a venue for activities of local
 communities, staff, students, and their friends and family
@@ -15311,11 +15311,11 @@ Meeting room 3
 Meeting room 4
 At Seaside House
 -Chura Hall
+-Meeting and Seminar rooms:
 2
-Draft_revisional_ch21_use-of-university-resources_20170901_en_cl
+ch21_use-of-university-resources_en_20190118_cl
 
--Meeting and Seminar rooms:
-Seminar room
+Seminar room
 Meeting room 1
 Meeting room 2
 21.3.1.1.2 Use of University Common Spaces, and of other
@@ -15323,12 +15323,12 @@ areas as may be determined on a case-by-case basis, for nonUniversity purposes m
 conditions:
 21.3.1.1.2.1
 The Common Space or other area
-(chapter 21.4.1.3 [link: 21.4.1.3]) is available and not
-being used for a University purpose or program; and
+(Chapter 21.4.1.3) is available and not being used for a
+University purpose or program; and
 21.3.1.1.2.2 Reservations have been made and an
 agreement regarding use has been developed
-(Chapter 21.5.1 [link: 21.5.1] ) between the University
-and the individual or non-University entity.
+(Chapter 21.5.1) between the University and the
+individual or non-University entity.
 21.3.1.1.3 Restrictions on Use
 ▪ Smoking is permitted only at a designated smoking area
 near the Central Control Room.
@@ -15344,7 +15344,7 @@ not permitted unless authorized in writing in advance.
 after use.
 ▪ Users will be liable for any damage or loss caused by their
 use.
-• The contact person [link: 21.4.1] will be held
+• The contact person [link:21.4.1] will be held
 responsible for all damage or loss
 21.3.1.1.4 Prohibited uses and activities
 • Commercial use or for-profit activities (this does not
@@ -15352,16 +15352,12 @@ include fundraising such as bake sales and rummage sales
 by voluntary non-profit groups and associations)
 • Political activities
 • Uses that are offensive to public order and morals
-
-3
-Draft_revisional_ch21_use-of-university-resources_20170901_en_cl
-
-•
-
-Uses that may disturb or interfere with University
+• Uses that may disturb or interfere with University
 activities (noise, vibrations, and the like)
+3
+ch21_use-of-university-resources_en_20190118_cl
 
-21.3.1.1.5 Permission to use Common Spaces may be revoked
+21.3.1.1.5 Permission to use Common Spaces may be revoked
 by the University at any time, up to and including the date of
 the reserved use.
 21.3.1.2 Accommodation
@@ -15378,12 +15374,12 @@ benches, and assorted hand tools. In addition to this hardware, the
 University utilizes computers, networks and electronic information
 systems as well as copiers and other peripherals, facsimile machines and
 other office equipment. All of these resources are essential to the
-University's mission [link: 1.2]. All of these resources are reserved for
-University purposes and business, and are to be used and managed
-responsibly to ensure their integrity, security, and availability for
-appropriate educational and business activities. All authorized users of
-these resources are required to use them in an effective, efficient, safe
-[link: 13] and responsible manner.
+University's mission. All of these resources are reserved for University
+purposes and business, and are to be used and managed responsibly to
+ensure their integrity, security, and availability for appropriate
+educational and business activities. All authorized users of these
+resources are required to use them in an effective, efficient, safe [link:
+13] and responsible manner.
 The University grants members of the University community shared
 access to these resources in support of accomplishing the University's
 mission. Incidental personal use is permitted if reasonable in light of the
@@ -15395,36 +15391,30 @@ not permitted.
 Faculty, staff, students and persons who are invited by the University
 and whose use of vehicle is approved by the University may use
 University owned, leased or rented vehicles only for University business
-as a general rule. However, considering the situation such as public
-transportation around the University and the effective use of University
-resources, it may be acceptable for persons above who do not have their
-own vehicle to use University Vehicles for non-University purposes,
-4
-Draft_revisional_ch21_use-of-university-resources_20170901_en_cl
+University Vehicles must be operated and driven in a safe and
+responsible manner, with awareness that the user is acting as a
+representative of the University. Smoking is not allowed in University
+Vehicles. Violation of Laws and Regulations of Japan such as unsafe
+driving may result in withdrawal of the privilege of driving University
 
-provided University Vehicles are available. University Vehicles must be
-operated and driven in a safe and responsible manner, with awareness
-that the user is acting as a representative of the University. Smoking is
-not allowed in University Vehicles. Unsafe driving may result in
-withdrawal of the privilege of driving University Vehicles, in addition to
-other disciplinary action, up to and including termination of
-employment.
-All accidents involving University Vehicles must be formally reported
-(Chapter 21.3.3.3[link: 21.3.3.3]).
+4
+ch21_use-of-university-resources_en_20190118_cl
+
+Vehicles, in addition to other disciplinary action, up to and including
+termination of employment.
+All accidents, faults, and thefts (hereinafter referred as “accidents, etc.”)
+involving University Vehicle, as well as all violation of Laws and
+Regulations of Japan while driving University vehicles, must be formally
+reported in accordance with the rules determined by the Vice President
+for Buildings and Facilities Management.
 21.3.3.1 Criteria for Permitting Use of University Vehicle.
 Authorization to use a University Vehicle may be granted by the
 Facility Management Section only if the applicant has a current,
 valid driver’s license recognized in Japan, and the applicant states a
-University purpose justifying such use as a general rule. However,
-it may be acceptable for persons above who do not have their own
-vehicle to use University Vehicles for non-University purposes,
-provided University Vehicles are available.
-21.3.3.1.1 Visiting Faculty. Visiting faculty members are not
-allowed to use University Vehicles for any use other than
-official University business as a general rule. However, it may
-be acceptable for persons above who do not have their own
-vehicle to use University Vehicles for non-University
-purposes, provided University Vehicles are available.
+University purpose justifying such use. Please refer to the rules
+determined by the Vice President for Buildings and Facilities
+Management.
+21.3.3.1.1 (Deletion)
 21.3.3.2 Use of Personal Vehicle for University Business
 The University may authorize drivers to use a personal or other
 private vehicle for official University business. Employees who are
@@ -15440,60 +15430,19 @@ primary insurance as follows:
 or more/per accident
 3) Passengers' personal accident insurance:
 JPY10M or more/ per person
-
-5
-Draft_revisional_ch21_use-of-university-resources_20170901_en_cl
-
-21.3.3.2.3 The driver is responsible for the personal auto
+21.3.3.2.3 The driver is responsible for the personal auto
 insurance deductible(s).
-21.3.3.2.4 A University accident report (Chapter 21.3.3.3
-[link: 21.3.3.3] ) must be filed if there are personal injuries to
-anyone involved in the accident or if non-University property
-is damaged, other than the driver’s vehicle.
-21.3.3.3 Accident Reports
-Drivers must complete a University Vehicle Accident Report to
-report any instance of vehicle damage, including vandalism.
-University insurance cannot process either liability or physical
-damage claims without a completed Accident Report. The report
-must be completed within ten working days of the occurrence.
-Accident Reports that do not specify the date, time, location and
-driver will be denied.
-▪ Physical damage losses will not be reimbursed if the
-Accident Report is not on file within 10 days of the
-occurrence.
-▪ Physical damage losses will not be reimbursed if the
-damage is not repaired within 60 days of the occurrence.
-▪ Liability and physical damage losses will be charged to
-the driver’s division/unit if no accident report is filed.
-21.3.3.3.1 Accident Resulting in Personal Injury or Death
-Accidents in which there is a personal injury or death are to be
-reported immediately to local law enforcement.
-Drivers of a University Vehicle involved in an accident
-involving bodily injuries must first and foremost see that any
-one injured in the accident gets all necessary medical
-attention.
-• Drivers must remain at the scene of the accident
-until authorized to leave by the police. To leave the
-scene of the accident is a crime.
-• Drivers should notify their supervisor or manager
-(for staff), Dean of the Graduate School or relevant
-Faculty member (for students) of the accident as
-soon as possible.
-• Drivers of a University Vehicle involved in an
-accident must report the accident to the Facility
-Management Section as soon as possible.
-21.3.3.3.2 Reporting Non-Injury Accidents
+21.3.3.2.4 An accident report determined by the Vice
+President for Buildings and Facilities Management must be
+filed if there are personal injuries to anyone involved in the
+accident or if non-University property is damaged, other than
+the driver’s vehicle.
+5
+ch21_use-of-university-resources_en_20190118_cl
 
-6
-Draft_revisional_ch21_use-of-university-resources_20170901_en_cl
-
-Accidents in which there is no injury are also to be reported
-immediately to local law enforcement. Within two working
-days of a non-injury accident, drivers of a University Vehicle
-must complete a University Vehicle Accident Report. Care
-and diligence is to be exercised to obtain accurate information
-on driver, passenger and witness names, facts, and
-circumstances of the accident.
+21.3.3.3 (Deletion)
+21.3.3.3.1 (Deletion)
+21.3.3.3.2 (Deletion)
 21.3.4 Personal Long-Distance Telephone Calls
 University telephones (landlines and cell phones) may not be used for
 personal long distance calls, unless charged to an individual's residential
@@ -15525,12 +15474,12 @@ the Section with jurisdiction over the applicable research facility or
 service.
 21.4 Responsibilities.
 21.4.1 Persons Seeking to Use University Resources
-7
-Draft_revisional_ch21_use-of-university-resources_20170901_en_cl
+
+6
+ch21_use-of-university-resources_en_20190118_cl
 
 Persons seeking to use University buildings and facilities must make
-reservations and obtain any other approvals (Chapter 21.5.1 [link:
-21.5.1] ).
+reservations and obtain any other approvals (Chapter 21.5.1).
 21.4.1.1 The President or delegate shall maintain administrative
 policies and procedures to implement this policy, define
 permissible uses, set contracting guidelines, ensure appropriate
@@ -15563,16 +15512,15 @@ The Facility Management Section must authorize use of University
 Vehicles in writing and must ensure that applicants for use of University
 Vehicles have a current valid driver’s license recognized in Japan.
 21.4.5 Drivers of University Vehicles
-Drivers of University Vehicles must operate those vehicles responsibly,
-8
-Draft_revisional_ch21_use-of-university-resources_20170901_en_cl
+Drivers of University Vehicles and Drivers of personal or other private
+vehicles for University business must operate those vehicles responsibly,
+safely, and in compliance with all Japanese laws, the PRP, and the rules
+7
+ch21_use-of-university-resources_en_20190118_cl
 
-safely, and in compliance of all Japanese laws applicable to the operation
-of motor vehicles.
-21.4.6 Drivers of University Vehicles Involved
-Accidents/Collisions
-Drivers of University Vehicles involved accidents/collisions must timely
-complete an Accident Report (Chapter 21.3.3.3 [link: 21.3.3.3] ).
+determined by the Vice President for Buildings and Facilities
+Management applicable to the operation of motor vehicles.
+21.4.6 (Deletion)
 21.4.7 IT Division
 The IT Division must maintain records of use of telephone and computer
 and report to the user’s supervisors (or the Dean of the Graduate School
@@ -15587,14 +15535,17 @@ only be made by the Conference and Workshop Section. Requests for
 reservations should be made to this Section.
 21.5.2 Authorization to operate a University Vehicle
 To obtain authorization to operate a University Vehicle, complete and
-submit a Form, Terms of Use Agreement [link: 21.6.1] to designated
-person of the Facility Management Section in accordance with the
-following procedures.
-- Procedure for Use of University Vehicle [link: ]
-21.5.3 Report of vehicular accident
-To report a vehicular accident, complete and submit a Form,
-University Accident Report [link: 21.6.2], to designated person of
-the Facility Management Section.
+submit a Form in accordance with the rules determined by the Vice
+President for Buildings and Facilities Management.
+21.5.3 Response to Accidents, etc. while using University
+Vehicles
+21.5.3.1 Procedures for Responding to Accidents, Etc.
+In the case that you are involved with accidents, etc. when using
+University vehicles, please follow the procedures in the PRP and
+the rules determined by the Vice President for Buildings and
+Facilities Management.
+The same shall apply when using personal or other private vehicles
+for University business.
 21.5.4 Reservation for accommodations
 Please refer to the following procedures for reservation
 accommodations.
@@ -15604,17 +15555,14 @@ Housing [link: ]
 of
 
 21.5.5 External Use of Research Facilities and Services
-Please refer to PRP 4.13 “ External Use of Research Facilities and
-Services” [link:] for procedures and other related matters.
-9
-Draft_revisional_ch21_use-of-university-resources_20170901_en_cl
+Please refer to PRP 4.16 “ External Use of Research Facilities and
+8
+ch21_use-of-university-resources_en_20190118_cl
 
-21.6 Forms
-21.6.1 Terms of Use Agreement (to Operate a University
-Vehicle)
-Terms of Use Agreement [link: ]
-21.6.2 University Accident Report
-University Accident Report [link: ]
+Services” for procedures and other related matters.
+21.6 Forms
+21.6.1 (Deletion)
+21.6.2 (Deletion)
 21.7 Contacts
 21.7.1 Policy Owners
 Vice President for Buildings and Facility Management
@@ -15624,7 +15572,6 @@ Dean of Research
 Facility Management Section
 Conference and Workshop Section
 IT Division
-Open Technology Center
 Accounting Section
 21.8 Definitions
 21.8.1 University resources
@@ -15640,8 +15587,35 @@ Additionally, the time and effort of staff, students, and others carrying
 out transactions on behalf of the University are considered “University
 Resources.”
 
+Supplementary Provisions
+This Chapter shall come into effect as from July 1, 2012.
+Supplementary Provisions
+This Chapter shall come into effect as from February 7, 2013.
+
+9
+ch21_use-of-university-resources_en_20190118_cl
+
+Supplementary Provisions
+This Chapter shall come into effect as from March 1, 2013.
+Supplementary Provisions
+This Chapter shall come into effect as from June 1, 2013.
+Supplementary Provisions
+This Chapter shall come into effect as from October 1, 2013.
+Supplementary Provisions
+This Chapter shall come into effect as from August 1, 2014.
+Supplementary Provisions
+This Chapter shall come into effect as from September 1, 2014.
+Supplementary Provisions
+This Chapter shall come into effect as from April 1, 2015.
+Supplementary Provisions
+This Chapter shall come into effect as from August 27, 2015.
+Supplementary Provisions
+This Chapter shall come into effect as from September 1, 2017.
+Supplementary Provisions
+This Chapter shall come into effect as from February 18, 2019.
+
 10
-Draft_revisional_ch21_use-of-university-resources_20170901_en_cl
+ch21_use-of-university-resources_en_20190118_cl
 
 OIST Graduate University
 Policies, Rules, & Procedures
