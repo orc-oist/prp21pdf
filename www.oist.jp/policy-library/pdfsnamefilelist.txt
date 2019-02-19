@@ -32,7 +32,7 @@ ch30_human-resources_en_20181120_cl.pdf
 ch31_recruitment-and-hiring_en_20181120_cl.pdf
 ch32_work-schedules-and-breaks_en_20181120_cl.pdf
 ch33_leave_en_20181120_cl.pdf
-ch34_compensation_en_20181120_cl.pdf
+ch34_compensation_en_20181120_cl_0.pdf
 ch35_benefits_en_20181120_cl.pdf
 ch36_performance-evluation_en_20181120_cl.pdf
 ch37_leaving-the-university_en_20181120_cl.pdf
