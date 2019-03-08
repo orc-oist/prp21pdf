@@ -14924,10 +14924,10 @@ ch19_university-events_en_20171110_cl
 OIST Graduate University
 Policies, Rules and Procedures
 Authority
- Approved by the President
- Industrial Safety and Health Act
- School Health and Safety Act
- Medical Care Act
+⚫ Approved by the President
+⚫ Industrial Safety and Health Act
+⚫ School Health and Safety Act
+⚫ Medical Care Act
 
 Chapter 20. Health and Wellness Program
 20.1 Policy
@@ -14957,7 +14957,6 @@ or treatments. If an illness or condition is chronic and for-instance
 requires continuous prescription, we would typically refer individuals to
 an external medical facility. However, OIST Clinic will provide care
 and treatment if there is a sudden aggravation of a chronic
-
 1
 Ch20_health-and-wellness-program_20170901_en_cl
 
@@ -15029,9 +15028,9 @@ confidentiality. Verbal or written information will not be disclosed
 without permission from the person it relates to (or from their
 parent/guardian if they are not able to provide informed consent), except
 in the following circumstances:
-
+⚫
 
-
+⚫
 
 If clinical staff believe that the individual or a third party is at risk
 of serious harm. In this case, confidentiality is broken in order to
@@ -15043,11 +15042,11 @@ If disclosure is required by Japanese law.
 3
 Ch20_health-and-wellness-program_20170901_en_cl
 
-
+⚫
 
-
+⚫
 
-
+⚫
 
 Information relating to children 12 years and under will be shared
 routinely with parents/guardians, unless there is a child protection
@@ -15179,7 +15178,7 @@ by telephone, email, in person or by posting a request form (available
 from the Ganjuu Wellbeing Service website) into our letter box. Services
 can be provided without appointment within working hours, but this is
 subject to availability of clinical staff.
-20.4.3.2 Location
+20.4.3.3 Location
 Ganjuu Wellbeing Service is located at 128 West Court.
 20.5 Forms
 20.5.1 Ganjuu Wellbeing Service request form

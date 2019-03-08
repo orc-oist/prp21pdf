@@ -18,7 +18,7 @@ ch16_external-and-internal-communications-&-public-relations_en_20180401_cl.pdf
 ch17_information-technology-&-security_en_20181221_cl.pdf
 ch18_Telecommunications-Services-and-Devices_20170816_en_cl.pdf
 ch19_university-events_en_20171110_cl.pdf
-ch20_health_and_welness_program_20170901_en_cl.pdf
+ch20_health_and_welness_program_en_20170901_cl.pdf
 ch21_use-of-university-resources_en_20190118_cl.pdf
 ch22_avoiding_conflicts_of_interest_&_commitment_en_20180817_cl.pdf
 ch23_misconduct-and-whistleblower-protection_en_20181120_cl.pdf
